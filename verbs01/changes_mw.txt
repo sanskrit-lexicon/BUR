@@ -1,0 +1,22 @@
+; Case 001: L=133346, k1=pratisaMskf, #changes=1
+; parse="prati+sam+skf" -> parse="prati+sam+kf"   The verb is 'kf' not 'skf'.
+old: <s>prati-saM-skf</s> ¦ (<s>√ skf</s> = <s>kf</s>; only <ab>Pot.</ab> <s>-kuryAt</s>), to repair, restore, <ls>Mn. ix, 279.</ls><info verb="pre" cp="" parse="prati+sam+skf"/>
+new: <s>prati-saM-skf</s> ¦ (<s>√ skf</s> = <s>kf</s>; only <ab>Pot.</ab> <s>-kuryAt</s>), to repair, restore, <ls>Mn. ix, 279.</ls><info verb="pre" cp="" parse="prati+sam+kf"/>
+; -----------------------------------------------
+; Case 002: L=197741, k1=vipalAy, #changes=1
+; parse="vi+palAy" -> parse="vi+palA+i"   palAy is also prefixed verb ( palA+i)
+old: <s>vi-palA<srs/>y</s> ¦ (<ab>fr.</ab> <s>palA</s> = <s>parA</s> + <s>ay</s> = √ <hom>5.</hom> <s>i</s>; only <ab>impf.</ab> <s>vy-apalA<srs/>yata</s>), to run away in different directions, <ls>R.</ls><info verb="pre" cp="" parse="vi+palAy"/>
+new: <s>vi-palA<srs/>y</s> ¦ (<ab>fr.</ab> <s>palA</s> = <s>parA</s> + <s>ay</s> = √ <hom>5.</hom> <s>i</s>; only <ab>impf.</ab> <s>vy-apalA<srs/>yata</s>), to run away in different directions, <ls>R.</ls><info verb="pre" cp="" parse="vi+palA+i"/>
+; -----------------------------------------------
+; Case 003: L=229189, k1=saMcIvaraya, #changes=1
+; <info verb="nom" cp="Ā"/>  -> <info verb="pre" cp="Ā" parse="sam+cIvaraya"/>
+; saMcIvaraya is a prefixed verb.
+;
+old: <s>saM-cIvaraya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> <s>°yate</s>, to assume the coarse dress or rags of an ascetic, <ls>Anarghar.</ls> (<ab>cf.</ab> <ls>Pāṇ. 3-1, 20</ls>). <info verb="nom" cp="Ā"/>
+new: <s>saM-cIvaraya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> <s>°yate</s>, to assume the coarse dress or rags of an ascetic, <ls>Anarghar.</ls> (<ab>cf.</ab> <ls>Pāṇ. 3-1, 20</ls>). <info verb="pre" cp="Ā" parse="sam+cIvaraya"/>
+; -----------------------------------------------
+; Case 004: L=236125, k1=sampalAy, #changes=1
+; parse="sam+palAy" -> parse="sam+palA+i  (same change as case 0002 above)
+old: <s>sam-palA<srs/>y</s> ¦ (See <s>palA<srs/>y</s>; only <ab>aor.</ab> <s>-palA<srs/>yizwa</s>), to run away together, escape, <ls>Bhaṭṭ.</ls><info verb="pre" cp="" parse="sam+palAy"/>
+new: <s>sam-palA<srs/>y</s> ¦ (See <s>palA<srs/>y</s>; only <ab>aor.</ab> <s>-palA<srs/>yizwa</s>), to run away together, escape, <ls>Bhaṭṭ.</ls><info verb="pre" cp="" parse="sam+palA+i"/>
+; -----------------------------------------------

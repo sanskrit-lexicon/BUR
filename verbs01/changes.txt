@@ -1,0 +1,193 @@
+; Case 001: L=299, k1=atiBravImi, #changes=2
+;
+old: <L>299<pc>014,1<k1>atiBravImi<k2>atiBravImi
+new: <L>299<pc>014,1<k1>atibravImi<k2>atibravImi
+; atiBravImi -> atibravImi  
+; Print change.  There are several other entries for brU and its prefixed
+; forms, such as anubravImi, pratibravImi, etc.  So this one (with
+; 'Bra' (aspirated 'b') is viewed as error.
+old: {#atiBravImi#}¦ {%atibhravīmi, atibhruve%} 2, {%(bhrū)%} parler
+new: {#atibravImi#}¦ {%atibravīmi, atibruve%} 2, {%(brū)%} parler
+; -----------------------------------------------
+; Case 002: L=470, k1=aDyApayAmi, #changes=1
+; adīye -> adhīye  (typo)
+old: {#aDyApayAmi#}¦ {%adhyāpayāmi,%} (<ab>c.</ab> d'{%adīye)%} faire lire,
+new: {#aDyApayAmi#}¦ {%adhyāpayāmi,%} (<ab>c.</ab> d'{%adhīye)%} faire lire,
+; -----------------------------------------------
+; Case 003: L=2208, k1=AnartayAmi, #changes=1
+; nrt -> nṛt  (missing dot under 'r'
+; Print change
+old: {#AnartayAmi#}¦ {%ānartayāmi%} <ab>c.</ab> {%(nrt)%} balancer. <lbinfo n="4"/> || Agiter;
+new: {#AnartayAmi#}¦ {%ānartayāmi%} <ab>c.</ab> {%(nṛt)%} balancer. <lbinfo n="4"/> || Agiter;
+; -----------------------------------------------
+; Case 004: L=3655, k1=EwiWam, #changes=1
+; ethayāmi, eth -> eṭhayāmi, eṭh
+; Print change.  dot missing under 't'
+old: {#EwiWam#}¦ {%aiṭiṭham%} <ab>pqp.</ab> de {%ethayāmi%} <ab>c.</ab> de {%eth.%}
+new: {#EwiWam#}¦ {%aiṭiṭham%} <ab>pqp.</ab> de {%eṭhayāmi%} <ab>c.</ab> de {%eṭh.%}
+; -----------------------------------------------
+; Case 005: L=4557, k1=kAsyAmi, #changes=1
+; f2 -> <ab>f2.</ab> 
+; Print change. missing '.' after f2  (simple future)
+old: {#kAsyAmi#}¦ {%kāsyāmi%} f2 de {%kai.%}
+new: {#kAsyAmi#}¦ {%kāsyāmi%} <ab>f2.</ab> de {%kai.%}
+; -----------------------------------------------
+; Case 006: L=8687, k1=didAse, #changes=1
+; dés -> <ab>dés.</ab>
+; typist missed period.
+old: {#didAse#}¦ {%didāse%} et {%didīṣe%} dés de {%dī.%}
+new: {#didAse#}¦ {%didāse%} et {%didīṣe%} <ab>dés.</ab> de {%dī.%}
+; -----------------------------------------------
+; Case 007: L=10089, k1=niSA, #changes=1
+; <ab>c.</ab> -> c.
+; markup error. In this case c. is an abbreviation for botanical name 'Curcuma',
+; rather than for 'Causatif'.
+old: {#niSA#}¦ {%niśā%} <ab>f.</ab> {%(niś%} f.) la nuit. || Curcuma longa et <ab>c.</ab>
+new: {#niSA#}¦ {%niśā%} <ab>f.</ab> {%(niś%} f.) la nuit. || Curcuma longa et c.
+; -----------------------------------------------
+; Case 008: L=10189, k1=nistOmi, #changes=1
+; slaumi -> staumi.
+; Considered typo, although the cross-bar on the 't' is obscure.
+old: {#nistOmi#}¦ {%nistaumi%} <ab>mms.</ab> que {%slaumi%} {%(stu)%}.
+new: {#nistOmi#}¦ {%nistaumi%} <ab>mms.</ab> que {%staumi%} {%(stu)%}.
+; -----------------------------------------------
+; Case 009: L=11094, k1=piparcizAmi, #changes=1
+; dés -> dés. -> <ab>dés.</ab>
+; print change.  The period after abbreviation dés (désideratif) is missing
+old: {#piparcizAmi#}¦ {%piparciṣāmi%} dés de {%pṛc.%}
+new: {#piparcizAmi#}¦ {%piparciṣāmi%} <ab>dés.</ab> de {%pṛc.%}
+; -----------------------------------------------
+; Case 010: L=11353, k1=popomi, #changes=1
+; aug -> aug. -> <ab>aug.</ab>
+; print change. missing period after abbreviation (augmentatif == intensive) 
+
+old: {#popomi#}¦ {%popomi, popūye%} aug de {%pū%} et de
+new: {#popomi#}¦ {%popomi, popūye%} <ab>aug.</ab> de {%pū%} et de
+; -----------------------------------------------
+; Case 011: L=11846, k1=pradIvyAmi, #changes=1
+; dīv -> div
+; print change. The underlying verb is 'div', with a short 'i'
+old: {#pradIvyAmi#}¦ {%pradīvyāmi%} {%(dīv)%} jouer, mettre au jeu, <ab>g.</ab>
+new: {#pradIvyAmi#}¦ {%pradīvyāmi%} {%(div)%} jouer, mettre au jeu, <ab>g.</ab>
+; -----------------------------------------------
+; Case 012: L=12121, k1=prastApayAmi, #changes=2
+; stA -> sTA
+; print change. Missing aspiration. The underlying verb is sTA, not stA.
+old: <L>12121<pc>449,1<k1>prastApayAmi<k2>prastApayAmi
+new: <L>12121<pc>449,1<k1>prasTApayAmi<k2>prasTApayAmi
+;
+old: {#prastApayAmi#}¦ {%prastāpayāmi%} (<ab>c.</ab> de {%sthā)%} faire partir,
+new: {#prasTApayAmi#}¦ {%prasthāpayāmi%} (<ab>c.</ab> de {%sthā)%} faire partir,
+; -----------------------------------------------
+; Case 013: L=12279, k1=preLe, #changes=1
+; īṭ -> īḷ
+; Typo. 't' and 'l' are quite similar in the printed text. 
+old: {#preLe#}¦ {%preḷe%} {%(pra; īṭ)%} adorer, prier, <ab>Vd.</ab>
+new: {#preLe#}¦ {%preḷe%} {%(pra; īḷ)%} adorer, prier, <ab>Vd.</ab>
+; -----------------------------------------------
+; Case 014: L=12590, k1=boBojmi, #changes=1
+; aug -> aug. -> <ab>aug.</ab>
+; print change. missing period after abbreviation (augmentatif == intensive) 
+old: {#boBojmi#}¦ {%bobhojmi, bobhujye,%} aug de {%bhuj%} 7.
+new: {#boBojmi#}¦ {%bobhojmi, bobhujye,%} <ab>aug.</ab> de {%bhuj%} 7.
+; -----------------------------------------------
+; Case 015: L=13043, k1=mandraye, #changes=1
+; céébrer -> célébrer
+; print change.  In hyphenation of print, the 'l' is missing.
+old: {#mandraye#}¦ {%mandraye%} {%(mand)%}. Louer, céébrer. <lbinfo n="6"/> 
+new: {#mandraye#}¦ {%mandraye%} {%(mand)%}. Louer, célébrer. <lbinfo n="6"/> 
+; -----------------------------------------------
+; Case 016: L=13372, k1=mimIhi, #changes=1
+; 2 <ab>p.</ab> -> <ab>2p.</ab>
+; typo. no space between 2 and p; 2p. is abbreviation for '2nd person',
+; while 'p.' by itself is abbreviation for 'parfait' (perfect tense)
+old: {#mimIhi#}¦ {%mimīhi%} 2 <ab>p.</ab> <ab>imp.</ab> <ab>vd.</ab> de {%mā.%}
+new: {#mimIhi#}¦ {%mimīhi%} <ab>2p.</ab> <ab>imp.</ab> <ab>vd.</ab> de {%mā.%}
+; -----------------------------------------------
+; Case 017: L=13836, k1=yaNg, #changes=2
+; yaNg -> yuNg
+; Print change. In Devanagari of print, the 'u' vowel marker is missing.
+old: <L>13836<pc>526,2<k1>yaNg<k2>*yaNg
+new: <L>13836<pc>526,2<k1>yuNg<k2>*yuNg
+;
+old: {#*yaNg#}¦ {%yuṅg%}. {%yuṅgāmi%} 1; <ab>p.</ab> {%yuyuṅga;%} etc.
+new: {#*yuNg#}¦ {%yuṅg%}. {%yuṅgāmi%} 1; <ab>p.</ab> {%yuyuṅga;%} etc.
+; -----------------------------------------------
+; Case 018: L=14132, k1=riraMse, #changes=1
+;  dés -> dés. -> <ab>dés.</ab>
+; print change; missing period after abbreviation of désidératif
+old: {#riraMse#}¦ {%riraṃse%} dés de {%ram.%}
+new: {#riraMse#}¦ {%riraṃse%} <ab>dés.</ab> de {%ram.%}
+; -----------------------------------------------
+; Case 019: L=14594, k1=lobDAsmi, #changes=1
+; f. -> f1. -> <ab>f1.</ab>
+; print change.  missing 1.  'f1.' is abbreviation for periphrastic future,
+; (futur 1er = first future)  which is the case here.
+old: {#lobDAsmi#}¦ {%lobdhāsmi%} <ab>f.</ab> de {%lubh.%}
+new: {#lobDAsmi#}¦ {%lobdhāsmi%} <ab>f1.</ab> de {%lubh.%}
+; -----------------------------------------------
+; Case 020: L=15785, k1=vivitse, #changes=1
+; Dés. -> <ab>Dés.</ab>
+; markup error -  missed this since capitalized.  
+; No other instances in text.
+old: {#vivitse#}¦ {%vivitse%} <ab>2p.</ab> <ab>sg.</ab> <ab>p.</ab> <ab>vd.</ab> de {%vid%} 6. || Dés. de
+new: {#vivitse#}¦ {%vivitse%} <ab>2p.</ab> <ab>sg.</ab> <ab>p.</ab> <ab>vd.</ab> de {%vid%} 6. || <ab>Dés.</ab> de
+; -----------------------------------------------
+; Case 021: L=16068, k1=vekzyAmi, #changes=1
+; f2 -> f2. -> <ab>f2.</ab>
+; print change: missing period after f2.  Abbreviation for simple future (futur 2d)
+old: {#vekzyAmi#}¦ {%vekṣyāmi%} f2 de {%viś.%}
+new: {#vekzyAmi#}¦ {%vekṣyāmi%} <ab>f2.</ab> de {%viś.%}
+; -----------------------------------------------
+; Case 022: L=16538, k1=Sadru, #changes=1
+; <ab>c.</ab> -> c.
+; Markup change. <ab>c.</ab> means 'c' is abbreviation for 'causatif'.
+; but since 'Sadru' is a nominal, 'causatif' does not seem right.
+; Not sure what 'c.' abbreviates in this case.
+old: {#Sadru#}¦ {%śadru%} <ab>a.</ab> {%(śad)%} qui va, qui tombe. || Au <ab>c.</ab> qui
+new: {#Sadru#}¦ {%śadru%} <ab>a.</ab> {%(śad)%} qui va, qui tombe. || Au c. qui
+; -----------------------------------------------
+; Case 023: L=16769, k1=SASaMsmi, #changes=1
+; aug -> aug. -> <ab>aug.</ab>
+; typo
+old: {#SASaMsmi#}¦ {%śāśaṃsmi,%} aug, de {%śaṃs.%}
+new: {#SASaMsmi#}¦ {%śāśaṃsmi,%} <ab>aug.</ab> de {%śaṃs.%}
+; -----------------------------------------------
+; Case 024: L=16773, k1=SASrAmi, #changes=1
+; aug -> aug. -> <ab>aug.</ab>
+; print change:  missing '.'
+old: {#SASrAmi#}¦ {%śāśrāmi, śāśrāye, śāśremi,%} aug de
+new: {#SASrAmi#}¦ {%śāśrāmi, śāśrāye, śāśremi,%} <ab>aug.</ab> de
+; -----------------------------------------------
+; Case 025: L=16828, k1=SiSayize, #changes=1
+; dés -> dés. -> <ab>dés.</ab>
+; print change.  The period after abbreviation dés (désideratif) is missing
+old: {#SiSayize#}¦ {%śiśayiṣe%} dés de {%śī.%}
+new: {#SiSayize#}¦ {%śiśayiṣe%} <ab>dés.</ab> de {%śī.%}
+; -----------------------------------------------
+; Case 026: L=17184, k1=SvF, #changes=1
+; śvṝ -> svṝ
+; typo
+old: {#*SvF#}¦ {%śvṝ,%} <ab>cf.</ab> {%śvṝ.%}
+new: {#*SvF#}¦ {%śvṝ,%} <ab>cf.</ab> {%svṝ.%}
+; -----------------------------------------------
+; Case 027: L=17279, k1=saNkIrye, #changes=1
+; kṛ -> kṝ
+; typo
+old: {#saNkIrye#}¦ {%saṅkīrye%} {%(kṛ)%} être empli, s'emplir. <lbinfo n="5"/> ||
+new: {#saNkIrye#}¦ {%saṅkīrye%} {%(kṝ)%} être empli, s'emplir. <lbinfo n="5"/> ||
+; -----------------------------------------------
+; Case 028: L=19433, k1=svarye, #changes=1
+; (dén. de {%svara)%} -> (dén. de {%svara%})   (move right paren).
+; note dén. also needs to be marked as abbreviation (<ab>dén.</ab>) for
+;   dénominatif, but this needs to be done globally (currently none of
+;   these 'dén.' cases are marked as abbreviations (100 cases)
+old: {#svarye#}¦ {%svarye%} (dén. de {%svara)%} être accentué, <lbinfo n="4"/>
+new: {#svarye#}¦ {%svarye%} (dén. de {%svara%}) être accentué, <lbinfo n="4"/>
+; -----------------------------------------------
+; Case 029: L=19762, k1=hrepayAmi, #changes=1
+; hri -> hrī
+; print change. The verb has a long 'i'.
+old: {#hrepayAmi#}¦ {%hrepayāmi%} (<ab>c.</ab> de {%hri);%} <ab>pqp.</ab>
+new: {#hrepayAmi#}¦ {%hrepayāmi%} (<ab>c.</ab> de {%hrī);%} <ab>pqp.</ab>
+; -----------------------------------------------
