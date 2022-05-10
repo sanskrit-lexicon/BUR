@@ -1,0 +1,2668 @@
+<L>2
+old 19: <lang n="greek"></lang>;
+new 19: <lang n="greek">α, αν</lang>;
+
+<L>4
+old 31: <lang n="greek"></lang>.
+new 31: <lang n="greek">ἀγἠς, ἀγϰὐλος</lang>.
+
+<L>47
+old 262: <lang n="greek"></lang>;
+new 262: <lang n="greek">ἄξων</lang>;
+
+<L>68
+old 394: <lang n="greek"></lang>;
+new 394: <lang n="greek">ἄϰϰος</lang>; 
+
+<L>101
+old 555: <lang n="greek"></lang>;
+new 555: <lang n="greek">ἀγλαός, αἴγλη</lang>;
+
+<L>102
+old 644: <lang n="greek"></lang>
+new 644: <lang n="greek">ἀϰή, ἄϰρος</lang>,
+
+<L>116
+old 738: <lang n="greek"></lang>,
+new 738: <lang n="greek">ἅγος</lang>,
+
+<L>126
+old 803: <lang n="greek"></lang>.
+new 803: <lang n="greek">ἄγϰυρα</lang>.
+
+<L>135
+old 842: <lang n="greek"></lang>.
+new 842: <lang n="greek">ἄγγαρος, ἄγγελος</lang>.
+
+<L>176
+old 1105: <lang n="greek"></lang>;
+new 1105: <lang n="greek">ἄγω</lang>;
+
+<L>177
+old 1110: <lang n="greek"></lang>;
+new 1110: <lang n="greek">αἴξ</lang>;
+
+<L>265
+old 1577: <lang n="greek"></lang>.
+new 1577: <lang n="greek">ὁδός</lang>.
+
+<L>337
+old 1953: <lang n="greek"></lang>.
+new 1953: <lang n="greek">ἄττα</lang>.
+
+<L>357
+old 2062: <lang n="greek"></lang>.
+new 2062: <lang n="greek">δἐ</lang>.
+
+<L>360
+old 2090: <lang n="greek"></lang>;
+new 2090: <lang n="greek">ἔδω, ἐσθίω</lang>;
+
+<L>375
+old 2157: <lang n="greek"></lang>
+new 2157: <lang n="greek">Αττις</lang>
+
+<L>484
+old 2768: <lang n="greek"></lang>;
+new 2768: <lang n="greek">ἄημι, ἄνεμος</lang>;
+
+<L>759
+old 4321: <lang n="greek"></lang>;
+new 4321: <lang n="greek">ἐντός</lang>;
+
+<L>798
+old 4532: <lang n="greek"></lang>,
+new 4532: <lang n="greek">ἀντί</lang>;
+
+<L>804
+old 4572: <lang n="greek"></lang>.
+new 4572: <lang n="greek">ἔντερον</lang>.
+
+<L>815
+old 4639: <lang n="greek"></lang>;
+new 4639: <lang n="greek">ἔνος, ἔννος</lang>;
+
+<L>816
+old 4653: <lang n="greek"></lang>;
+new 4653: <lang n="greek">ἄλλος</lang>;
+
+<P>{%anyathā%}
+old 4663: <lang n="greek"></lang>;
+new 4663: <lang n="greek">ἄλλοτε</lang>;
+
+<L>825
+old 4711: <lang n="greek"></lang>.
+new 4711: <lang n="greek">ἀλλήλων</lang>.
+
+<L>847
+old 4833: <lang n="greek"></lang>.
+new 4833: <lang n="greek">ἀφρός</lang>.
+
+<L>848
+old 4840: <lang n="greek"></lang>;
+new 4840: <lang n="greek">ἀπὸ</lang>;
+
+<L>869
+; <P>{%apatrapā%}
+old 4972: <lang n="greek"></lang>.
+new 4972: <lang n="greek">ἐντροπή</lang>.
+
+<L>967
+old 5503: <lang n="greek"></lang>.
+new 5503: <lang n="greek">ἐπί</lang>.
+
+<L>1276
+old 7192: <lang n="greek"></lang>.
+new 7192: <lang n="greek">ὄμϐρος</lang>.
+
+<L>1296
+old 7326: <lang n="greek"></lang>
+new 7326: <lang n="greek">ἆμαρ</lang>
+old 7327: <lang n="greek"></lang>
+new 7327: <lang n="greek">ἦμαρ, ἡμέρα</lang>
+old 7328: <lang n="greek"></lang>
+new 7328: <lang n="greek">σημέρα</lang>.
+
+<L>1315
+old 7441: <lang n="greek"></lang>
+new 7441: <lang n="greek">ἄϐροτος, ἀμβροσὶα</lang>,
+
+<L>1329
+old 7610: <lang n="greek"></lang>.
+new 7610: <lang n="greek">ἄφρος, ὄμϐρος</lang>.
+
+<L>1373
+old 7867: <lang n="greek"></lang>.
+new 7867: <lang n="greek">ἔρνος</lang>.
+
+<L>1394
+old 7980: <lang n="greek"></lang>.
+new 7980: <lang n="greek">ἐρἑσσω</lang>.
+
+<L>1422
+old 8187: <lang n="greek"></lang>.
+new 8187: <lang n="greek">ἔργον</lang>.
+
+<L>1434
+old 8255: <lang n="greek"></lang>.
+new 8255: <lang n="greek">αἰτέω</lang>.
+
+<L>1435
+old 8267: <lang n="greek"></lang>.
+new 8267: <lang n="greek">αἰτία</lang>.
+
+<L>1451
+old 8416: <lang n="greek"></lang>.
+new 8416: <lang n="greek">Ὄλυμπος</lang>.
+
+<L>1457
+old 8449: <lang n="greek"></lang>
+new 8449: <lang n="greek">Ἀριάδνη</lang>,
+
+<L>1462
+old 8475: <lang n="greek"></lang> le cheval primitif; A'<lang n="greek"></lang>
+new 8475: <lang n="greek">ἀρίων</lang> le cheval primitif; <lang n="greek">Ἀροάνιος</lang>
+
+<L>1482
+old 8620: <lang n="greek"></lang>.
+new 8620: <lang n="greek">ἄλις</lang>.
+
+<L>1692
+old 9838: <lang n="greek"></lang>;
+new 9838: <lang n="greek">ὄϊς</lang>;
+
+<L>1762
+old 10204: <lang n="greek"></lang>.
+new 10204: <lang n="greek">ἐσθίω</lang>.
+
+<L>1763
+old 10210: <lang n="greek"></lang>.
+new 10210: <lang n="greek">ἄϰιϰυς</lang>.
+
+<L>1779
+old 10295: <lang n="greek"></lang>.
+new 10295: <lang n="greek">ἀϰάρηνος</lang>.
+
+<L>1796
+;<P>{%aśmagarbha%}
+old 10388: <lang n="greek"></lang>;
+new 10388: <lang n="greek">σμαραγδος</lang>;
+
+<L>1797
+old 10398: <lang n="greek"></lang>.
+new 10398: <lang n="greek">ἄϰμων</lang>.
+
+<L>1810
+old 10469: <lang n="greek"></lang>;
+new 10469: <lang n="greek">δάϰρυ</lang>;
+
+<L>1817
+old 10509: <lang n="greek"></lang>]
+new 10509: <lang n="greek">ἰϰνέομαι</lang>]
+old 10510: <lang n="greek"></lang>.
+new 10510: <lang n="greek">ἵππος</lang>.
+
+<L>1851
+old 10700: <lang n="greek"></lang>;
+new 10700: <lang n="greek">ὀϰτώ</lang>;
+
+<L>1855
+old 10759: <lang n="greek"></lang> (<lang n="greek"></lang>);
+new 10759: <lang n="greek">εἰμι (εσμι)</lang>;
+; both strings merged together, as are throughout the text when only a punctuation is in between the strings.
+
+<L>1863
+old 10799: <lang n="greek"></lang>;
+new 10799: <lang n="greek">τὸ μή ὄν</lang>;
+
+<L>1887
+old 10928: <lang n="greek"></lang>.
+new 10928: <lang n="greek">ἀάζω, ἄσθμα</lang>.
+
+<L>1919
+old 11086: 'O<lang n="greek"></lang>
+new 11086: <lang n="greek">Ὀρομάσδης</lang>.
+
+<L>1941
+old 11235: <lang n="greek"></lang>;
+new 11235: <lang n="greek">ὀστέον</lang>;
+
+<L>1947
+old 11276: <lang n="greek"></lang>,
+new 11276: <lang n="greek">ἄμμες, ἄμμας, ἄμμιν</lang>,
+
+<L>1957
+old 11336: <lang n="greek"></lang>.
+new 11336: <lang n="greek">ἄϋπνος</lang>.
+
+<L>1961
+;<P>{%asvasthatā%}
+old 11359: <lang n="greek"></lang>.
+new 11359: <lang n="greek">ἀσθενής</lang>.
+
+<L>1968
+old 11395: <lang n="greek"></lang>;
+new 11395: <lang n="greek">ἐγὼν, ἐγώ</lang>;
+
+<L>1971
+old 11443: <lang n="greek"></lang>;
+new 11443: <lang n="greek">ἥως, ἕως</lang>;
+old 11444: <lang n="greek"></lang>.
+new 11444: <lang n="greek">αὔως</lang>.
+
+<L>1974
+old 11462: <lang n="greek"></lang>;
+new 11462: <lang n="greek">ἔχις, ὄφις</lang>;
+
+<L>1999
+old 11617: <lang n="greek"></lang>.
+new 11617: <lang n="greek">ἄρχω</lang>.
+
+<L>2005
+old 11660: l'<lang n="greek"></lang>
+new 11660: l'<lang n="greek">α</lang>
+old 11661: <lang n="greek"></lang>
+new 11661: <lang n="greek">ἄλοχος, ἀδελφὸς, ἀϰόλουθος</lang>
+old 11662: <lang n="greek"></lang>,
+new 11662: <lang n="greek">λέχος, δελφύς, ϰέλευθος</lang>,
+
+<L>2010
+old 11697: <lang n="greek"></lang>.
+new 11697: <lang n="greek">ὀϰέλλω</lang>.
+
+<L>2049
+old 11970: <lang n="greek"></lang>.
+new 11970: <lang n="greek">ἄλος</lang>.
+
+<L>2139
+old 12477: <lang n="greek"></lang>.
+new 12477: <lang n="greek">αὐτός</lang>.
+
+<L>2292
+old 13463: <lang n="greek"></lang>.
+new 13463: <lang n="greek">ὠμός</lang>.
+
+<L>2347
+old 13779: <lang n="greek"></lang>,
+new 13779: <lang n="greek">αἰών, ἀεὶ</lang>,
+old 13780: <lang n="greek"></lang>;
+new 13780: <lang n="greek">αἰές</lang>;
+
+<L>2398
+old 14049: <lang n="greek"></lang>)
+new 14049: <lang n="greek">ἄρδω</lang>)
+
+<L>2427
+old 14231: <lang n="greek"></lang>.
+new 14231: <lang n="greek">ἀλείφω</lang>.
+
+<L>2503
+old 14693: <lang n="greek"></lang>.
+new 14693: <lang n="greek">ὠϰύς</lang>.
+
+<P>{%āśutva%}
+old 14702: <lang n="greek"></lang>.
+new 14702: <lang n="greek">ὠϰύτης</lang>.
+
+<L>2590
+old 15290: <lang n="greek"></lang>
+new 15290: <lang n="greek">εἶμι (ι) ἴμεν, ἴθι</lang>,
+old 15292: <lang n="greek"></lang>,
+new 15292: NIL
+; merged both the strings together in (15920)
+
+<L>2596
+old 15347: <lang n="greek"></lang>.
+new 15347: <lang n="greek">εἴϰω, οἴχομαι</lang>.
+
+<L>2646
+old 15774: <lang n="greek"></lang>.
+new 15774: <lang n="greek">αἴθω, αἰθήρ</lang>.
+
+<L>2649
+old 15793: <lang n="greek"></lang>,
+new 15793: <lang n="greek">ἐλέας</lang>,
+
+<L>2674
+old 15935: <lang n="greek"></lang>;
+new 15935: <lang n="greek">ἐλάω, ἐλαύνω</lang>;
+
+<L>2709
+old 16144: <lang n="greek"></lang>.
+new 16144: <lang n="greek">ὄσσομαι</lang>.
+
+<L>2719
+old 16225: <lang n="greek"></lang>
+new 16225: <lang n="greek">λιϰ</lang>
+old 16226: <lang n="greek"></lang>,
+new 16226: <lang n="greek">ἡλίϰος, τηλίϰος</lang>,
+
+<L>2805
+old 16837: <lang n="greek"></lang>.
+new 16837: <lang n="greek">ὠθῶ</lang>.
+
+<L>2847
+<P>{%uttarāṣāḍhā%}
+old 17154: <lang n="greek"></lang>
+new 17154: <lang n="greek">β</lang>
+
+<L>2905
+old 17542: <lang n="greek"></lang>.
+new 17542: <lang n="greek">ὕδος, ὕδωρ, ὑάδες</lang>;
+
+<L>3009
+old 18219: <lang n="greek"></lang>.
+new 18219: <lang n="greek">ἔνυδρις</lang>.
+
+<L>3038
+old 18393: <lang n="greek"></lang>;
+new 18393: <lang n="greek">ὕω, ὕδωρ</lang>;
+
+<L>3069
+old 18608: <lang n="greek"></lang>;
+new 18608: <lang n="greek">ὑπό</lang>;
+
+<L>3112
+old 18923: <lang n="greek"></lang>.
+new 18923: <lang n="greek">ὑποτίθημι</lang>.
+
+<L>3152
+old 19161: <lang n="greek"></lang>.
+new 19161: <lang n="greek">ὑπάρχειν</lang>.
+
+<L>3186
+old 19374: <lang n="greek"></lang>;
+new 19374: <lang n="greek">ὺπέρ</lang>;
+
+<L>3190
+old 19402: <lang n="greek"></lang>;
+new 19402: <lang n="greek">ὤπαλος</lang>;
+
+<L>3192
+old 19419: <lang n="greek"></lang>.
+new 19419: <lang n="greek">ὐπολαμαμϐάνω</lang>.
+
+<P>{%upalabdhi%}
+old 19427: <lang n="greek"></lang>.
+new 19427: <lang n="greek">ὑπὸληψις</lang>.
+
+<L>3241
+old 19703: <lang n="greek"></lang>.
+new 19703: <lang n="greek">ὑφέρπω</lang>.
+
+<L>3290
+old 19991: <lang n="greek"></lang>].
+new 19991: <lang n="greek">ὑπόδημα</lang>].
+
+<L>3330
+old 20238: <lang n="greek"></lang>;
+new 20238: <lang n="greek">ἄμφω</lang>;
+
+<L>3343
+old 20368: <lang n="greek"></lang>.
+new 20368: <lang n="greek">εὐρύς</lang>.
+
+<L>3395
+old 20654: <lang n="greek"></lang>
+new 20654: <lang n="greek">αὕω, αὖος</lang>
+
+<L>3428
+old 20878: <lang n="greek"></lang>;
+new 20878: <lang n="greek">οὖθαρ</lang>;
+
+<L>3442
+old 20974: <lang n="greek"></lang>,
+new 20974: <lang n="greek">ἄρος, ἄριον</lang>,
+
+<L>3446
+old 21007: <lang n="greek"></lang>;
+new 21007: <lang n="greek">ὀρθός</lang>;
+
+<L>3471
+; PREVIOUSLY entered
+;old 21226: <lang n="greek">ἄρκτος</lang>;
+;new 21226: <lang n="greek">ἄρκτος</lang>;
+
+<L>3481
+old 21298: <lang n="greek"></lang>;
+new 21298: <lang n="greek">ὀρέγω</lang>;
+
+<L>3502
+old 21472: <lang n="greek"></lang>.
+new 21472: <lang n="greek">Ὀρφεύς</lang>.
+
+<L>3505
+old 21500: <lang n="greek"></lang>.
+new 21500: <lang n="greek">ἄρσην</lang>.
+
+<L>3515
+old 21617: <lang n="greek"></lang>.
+new 21617: <lang n="greek">εἷς</lang>.
+
+<L>3521
+old 21655: <lang n="greek"></lang>.
+new 21655: <lang n="greek">ἕϰαστος</lang>.
+
+<L>3522
+old 21661: <lang n="greek"></lang>.
+new 21661: <lang n="greek">ἑϰάτερος</lang>.
+
+<L>3609
+old 22141: <lang n="greek"></lang>
+new 22141: <lang n="greek">οἶδος, οἰδάω</lang>
+
+<L>3679
+old 22504: <lang n="greek"></lang>.
+new 22504: <lang n="greek">σῆτες, σήμερον</lang>.
+
+<L>3684
+old 22538: <lang n="greek"></lang>;
+new 22538: <lang n="greek">οἷϰος</lang>;
+
+<L>3689
+old 22571: <lang n="greek"></lang>
+new 22571: <lang n="greek">ὠϰεανός; ὄχλος</lang>
+
+<L>3774
+old 23081: <lang n="greek"></lang>.
+new 23081: <lang n="greek">ϰαχάζω, ϰαγχάζω</lang>.
+
+<L>3790
+old 23165: <lang n="greek"></lang>.
+new 23165: <lang n="greek">ϰώϰαλον</lang>.
+
+<L>3866
+old 23695: <lang n="greek"></lang>,
+new 23695: <lang n="greek">ϰέντρον</lang>,
+
+<L>3870
+old 23739: <lang n="greek"></lang>;
+new 23739: <lang n="greek">πένθος, πόθος</lang>;
+
+<L>3879
+old 23829: <lang n="greek"></lang>;
+new 23829: <lang n="greek">Γανυμήδης</lang>;
+
+<L>3885
+old 23858: <lang n="greek"></lang>;
+new 23858: <lang n="greek">πότερος</lang>;
+
+<L>3886
+<P>{%katipaya%}
+old 23868: <lang n="greek"></lang>]
+new 23868: <lang n="greek">ποῖος</lang>]
+
+<L>3892
+old 23905: <lang n="greek"></lang>.
+new 23905: <lang n="greek">ϰωτίλλω</lang>.
+
+<L>3901
+old 23965: <lang n="greek"></lang>;
+new 23965: <lang n="greek">ϰῆδος</lang>;
+
+<L>3912
+old 24034: <lang n="greek"></lang>;
+new 24034: <lang n="greek">πότε [ϰότε]</lang>;
+
+<L>3962
+old 24331: <lang n="greek"></lang>;
+new 24331: <lang n="greek">ϰεφαλή</lang>;
+
+<L>3963
+old 24346: <lang n="greek"></lang>;
+new 24346: <lang n="greek">ϰῆπος, ϰεῖπος</lang>;
+
+<L>4010
+old 24675: <lang n="greek"></lang>;
+new 24675: <lang n="greek">χείρ</lang>;
+
+<L>4027
+old 24792: <lang n="greek"></lang>.
+new 24792: <lang n="greek">ϰάρταλος</lang>.
+
+<L>4031
+old 24830: <lang n="greek"></lang>.
+new 24830: <lang n="greek">ϰάρπος</lang>.
+
+<L>4062
+old 25001: <lang n="greek"></lang>.
+new 25001: <lang n="greek">ϰέρας</lang>.
+
+<L>4069
+old 25053: <lang n="greek"></lang>
+new 25053: <lang n="greek">ϰαρϰῖνος</lang>
+
+<L>4097
+old 25303: <lang n="greek"></lang>.
+new 25303: <lang n="greek">χορδὴ</lang>.
+
+<L>4105
+old 25356: <lang n="greek"></lang>;
+new 25356: <lang n="greek">ϰάρπασος</lang>;
+
+<L>4134
+old 25593: <lang n="greek"></lang>.
+new 25593: <lang n="greek">ϰαλέω</lang>.
+
+<L>4154
+old 25712: <lang n="greek"></lang>;
+new 25712: <lang n="greek">ϰάλαμος</lang>;
+
+<L>4161
+old 25748: <lang n="greek"></lang>,
+new 25748: <lang n="greek">ϰαλυξ</lang>;
+
+<L>4214
+old 26056: <lang n="greek"></lang>;
+new 26056: <lang n="greek">ϰαλός</lang>;
+
+<L>4262
+old 26326: <lang n="greek"></lang>.
+new 26326: <lang n="greek">σμινθεύς</lang>.
+
+<L>4272
+old 26398: <lang n="greek"></lang>.
+new 26398: <lang n="greek">ϰασσίτερος</lang>.
+
+<L>4274
+old 26409: <lang n="greek"></lang>.
+new 26409: <lang n="greek">ϰάστωρ</lang>.
+
+<L>4403
+old 27399: <lang n="greek"></lang>:
+new 27399: <lang n="greek">ϰόραξ</lang>:
+
+<L>4450
+old 27666: <lang n="greek"></lang>;
+new 27666: <lang n="greek">ϰαιρός, ϰήρ</lang>;
+
+<L>4451
+old 27671: <lang n="greek"></lang>;
+new 27671: <lang n="greek">ϰελαινός, ϰηλίς</lang>;
+
+<L>4595
+old 28530: <lang n="greek"></lang>.
+new 28530: <lang n="greek">ϰίμϐιξ</lang>.
+
+<L>4611
+;<P>{%kirmīra%}
+old 28642: <lang n="greek"></lang>.
+new 28642: <lang n="greek">ϰιῤῥός</lang>.
+
+<L>4636
+old 28799: <lang n="greek"></lang>.
+new 28799: <lang n="greek">ϰίς</lang>.
+
+<L>4637
+old 28811: <lang n="greek"></lang>;
+new 28811: <lang n="greek">πηλίϰος</lang>;
+
+<L>4730
+<P>{%kuḍyachedin%}
+old 29408: <lang n="greek"></lang>.
+new 29408: <lang n="greek">τοιχώρυχος</lang>.
+
+<L>4798
+old 29790: <lang n="greek"></lang>;
+new 29790: <lang n="greek">ϰύπτω</lang>;
+
+<L>4801
+old 29804: K<lang n="greek"></lang>
+new 29804: <lang n="greek">Κωφὴν</lang>
+
+<L>4812
+old 29930: <lang n="greek"></lang>;
+new 29930: <lang n="greek">ϰύμϐη</lang>;
+
+<L>4948
+<P>{%kuhūka%}
+old 30837: <lang n="greek"></lang>.
+new 30837: <lang n="greek">ϰόϰϰυ</lang>.
+
+<L>4967
+old 30980: <lang n="greek"></lang>.
+new 30980: <lang n="greek">ϰύπη</lang>.
+
+<L>4977
+old 31064: <lang n="greek"></lang>.
+new 31064: <lang n="greek">ϰωλύω</lang>.
+
+<L>4984
+<P><ab>Lat.</ab>
+old 31193: <lang n="greek"></lang>, etc. <lang n="greek"></lang>
+new 31193: <lang n="greek">ϰραίνω, ϰράτος</lang>, <ab>etc.</ab> <lang n="greek">Κρόνος</lang>
+
+<L>5021
+old 31550: <lang n="greek"></lang>.
+new 31550: <lang n="greek">ἔλμινς</lang>.
+
+<L>5041
+old 31838: <lang n="greek"></lang>.
+new 31838: <lang n="greek">ϰεράννυμι, ϰέρας</lang>.
+
+<L>5042
+old 31844: <lang n="greek"></lang>;
+new 31844: <lang n="greek">ϰρίνω</lang>;
+
+<L>5056
+old 31937: <lang n="greek"></lang>;
+new 31937: <lang n="greek">φοίνιξ εὐώδης</lang>
+
+<L>5144
+old 32500: <lang n="greek"></lang>.
+new 32500: <lang n="greek">χοῖρος</lang>.
+
+<L>5148
+old 32542: <lang n="greek"></lang>.
+new 32542: <lang n="greek">ϰόϰϰος</lang>.
+
+<L>5220
+old 32956: <lang n="greek"></lang>.
+new 32956: <lang n="greek">ϰτείνω, ἔϰτανον</lang>.
+
+<L>5225
+old 32995: <lang n="greek"></lang>.
+new 32995: <lang n="greek">ϰαμάρα</lang>.
+
+<L>5230
+old 33027: <lang n="greek"></lang>.
+new 33027: <lang n="greek">ϰράτος</lang>.
+
+<L>5238
+old 33154: <lang n="greek"></lang>;
+new 33154: <lang n="greek">ϰάμηλος</lang>;
+
+<L>5242
+old 33187: <lang n="greek"></lang>
+new 33187: <lang n="greek">ϰρέας</lang>
+
+<L>5253
+old 33284: <lang n="greek"></lang>.
+new 33284: <lang n="greek">πρίαμαι, πέρνημι</lang>.
+
+<L>5273
+old 33393: <lang n="greek"></lang>;
+new 33393: <lang n="greek">ϰρώζω, ϰραυγή</lang>;
+
+<L>5276
+old 33408: <lang n="greek"></lang>;
+new 33408: <lang n="greek">ϰραῦρος</lang>;
+
+<L>5290
+old 33544: <lang n="greek"></lang>.
+new 33544: <lang n="greek">ϰλάζω</lang>.
+
+<L>5295
+old 33577: <lang n="greek"></lang>.
+new 33577: <lang n="greek">ϰλύζω</lang>.
+
+<L>5328
+old 33777: <lang n="greek"></lang>.
+new 33777: <lang n="greek">ϰαίνω</lang>.
+
+<L>5351
+old 33933: <lang n="greek"></lang>;
+new 33933: <lang n="greek">χαμαί</lang>;
+
+<L>5381
+old 34128: <lang n="greek"></lang>
+new 34128: <lang n="greek">ϰτίννυμι</lang>
+
+<L>5425
+old 34474: <lang n="greek"></lang>.
+new 34474: <lang n="greek">ξέω, ξύω</lang>.
+
+<L>5426
+old 34481: <lang n="greek"></lang>.
+new 34481: <lang n="greek">ξυρός</lang>.
+
+<L>5442
+old 34612: <lang n="greek"></lang>.
+new 34612: <lang n="greek">ϰραιπνός</lang>.
+
+<L>5446
+old 34632: <lang n="greek"></lang>.
+new 34632: <lang n="greek">χθών</lang>.
+
+<L>5513
+old 35132: <lang n="greek"></lang>
+new 35132: <lang n="greek">χαίνω</lang>
+
+<L>5514
+old 35138: <lang n="greek"></lang>.
+new 35138: <lang n="greek">τοιχώρυχος</lang>.
+
+<L>5546
+old 35357: <lang n="greek"></lang>.
+new 35357: <lang n="greek">χαλινός</lang>.
+
+<L>5593
+old 35597: <lang n="greek"></lang>.
+new 35597: <lang n="greek">τοιχώρυχος</lang>.
+
+<L>5601
+<P>Au <ab>moy.</ab>
+old 35648: <lang n="greek"></lang>
+new 35648: <lang n="greek">ϰῆδος</lang>
+
+<L>5634
+old 35821: <lang n="greek"></lang>.
+new 35821: <lang n="greek">ϰῆδος</lang>.
+
+<L>5655
+old 35932: <lang n="greek"></lang>;
+new 35932: <lang n="greek">χωλός</lang>;
+
+<L>5723
+<P>{%gandharba%}
+old 36647: <lang n="greek"></lang>.
+new 36647: <lang n="greek">ϰένταυρος</lang>.
+
+<L>5733
+old 36810: <lang n="greek"></lang>.
+new 36810: <lang n="greek">γῆ</lang>.
+
+<L>5776
+old 37065: <lang n="greek"></lang>.
+new 37065: <lang n="greek">δελφύς</lang>.
+
+<L>5815
+old 37354: <lang n="greek"></lang>,
+new 37354: <lang n="greek">βαίνω, ἔϐην</lang>,
+
+<L>5867
+old 37677: <lang n="greek"></lang>;
+new 37677: <lang n="greek">γῆρυς</lang>;
+
+<L>5934
+old 38131: <lang n="greek"></lang>;
+new 38131: <lang n="greek">ϰεύθω</lang>;
+
+<L>5964
+old 38349: <lang n="greek"></lang>.
+new 38349: <lang n="greek">ϰεύθω</lang>.
+
+<L>6009
+old 38713: <lang n="greek"></lang>.
+new 38713: <lang n="greek">γλώσσα</lang>.
+
+<L>6022
+old 38797: <lang n="greek"></lang>;
+new 38797: <lang n="greek">βοῦς</lang>;
+
+<L>6151
+old 39611: <lang n="greek"></lang>;
+new 39611: <lang n="greek">γραίνω</lang>;
+
+<L>6153
+old 39647: <lang n="greek"></lang>;
+new 39647: <lang n="greek">γριπίζω</lang>;
+
+<L>6175
+<P>{%grāhaka%}
+old 39830: <lang n="greek"></lang>;
+new 39830: <lang n="greek">γρύψ</lang>;
+
+; <L>6200  previously done
+; old 39973: <lang n="greek">θ</lang>
+; new 39973: <lang n="greek">θ</lang>
+
+<L>6232
+old 40231: <lang n="greek"></lang>.
+new 40231: <lang n="greek">θέρος, θερμός</lang>.
+
+<L>6234
+old 40248: <lang n="greek"></lang>;
+new 40248: <lang n="greek">γαστήρ</lang>;
+
+<L>6308
+old 40678: {%k, q, <lang n="greek">ϰ</lang>;%} <ab>qqf.</ab> aussi à {%<lang n="greek">σϰ</lang>,
+new 40678: {%k, q%}, <lang n="greek">ϰ</lang>; <ab>qqf.</ab> aussi à <lang n="greek">σϰ</lang>, {%
+
+<L>6309
+old 40686: <lang n="greek"></lang>.
+new 40686: <lang n="greek">τε, ϰαὶ</lang>.
+
+<L>6320
+old 40744: <lang n="greek"></lang>;
+new 40744: <lang n="greek">ϰύϰνος</lang>;
+
+<L>6321
+old 40757: <lang n="greek"></lang>;
+new 40757: <lang n="greek">ϰύϰλος</lang>;
+
+<L>6377
+old 41164: <lang n="greek"></lang>.
+new 41164: <lang n="greek">τέτταρες</lang>.
+
+<L>6388
+old 41219: <lang n="greek"></lang>.
+new 41219: <lang n="greek">τέτραχα</lang>.
+
+<L>6406
+old 41310: <lang n="greek"></lang>.
+new 41310: <lang n="greek">τετταράϰοντα</lang>.
+
+<L>6419
+<P>{%candragupta%}
+old 41410: <lang n="greek"></lang>.
+new 41410: <lang n="greek">Σανδράϰσττος</lang>.
+
+<L>6440
+old 41621: <lang n="greek"></lang>;
+new 41621: <lang n="greek">ϰίω</lang>;
+
+<L>6442
+old 41650: <lang n="greek"></lang>
+new 41650: <lang n="greek">σϰαίρω</lang>
+
+<L>6468
+old 41831: <lang n="greek"></lang>.
+new 41831: <lang n="greek">σϰῦλον</lang>.
+
+<L>6486
+<P>{%caluka%}
+old 41970: <lang n="greek"></lang>.
+new 41970: <lang n="greek">σϰαλλίον</lang>.
+
+<L>6683
+old 43181: <lang n="greek"></lang>.
+new 43181: <lang n="greek">σϰεῦος</lang>.
+
+<L>6718
+old 43344: <lang n="greek"></lang>
+new 43344: <lang n="greek">χυ</lang>
+old 43345: <lang n="greek"></lang>,
+new 43345: <lang n="greek">χέω</lang>,
+
+<L>6720
+<P>{%codayāmi%}
+old 43361: <lang n="greek"></lang>.
+new 43361: <lang n="greek">σπεύδω, σπουδάζω</lang>.
+
+<L>6729
+old 43408: <lang n="greek"></lang>
+new 43408: <lang n="greek">ϰαυ</lang>
+old 43409: <lang n="greek"></lang>
+new 43409: <lang n="greek">ϰαίω</lang>
+
+<L>6730
+old 43415: <lang n="greek"></lang>;
+new 43415: <lang n="greek">φωράω</lang>;
+
+<L>6756
+old 43564: <lang n="greek"></lang>.
+new 43564: <lang n="greek">σϰόλλυς</lang>.
+
+<L>6816
+old 43892: <lang n="greek"></lang>;
+new 43892: <lang n="greek">φώρ</lang>;
+
+<L>6823
+old 43946: <lang n="greek"></lang>.
+new 43946: <lang n="greek">σϰόλλυς</lang>.
+
+<L>6839
+old 44044: <lang n="greek"></lang>
+new 44044: <lang n="greek">σϰ, σχ</lang>,
+
+<L>6845
+old 44086: <lang n="greek"></lang>.
+new 44086: <lang n="greek">σϰίρον</lang>.
+
+<L>6848
+old 44123: <lang n="greek"></lang>;
+new 44123: <lang n="greek">σϰοτός</lang>;
+
+<L>6853
+old 44156: <lang n="greek"></lang>.
+new 44156: <lang n="greek">σϰάνδιξ, σϰιάς</lang>.
+
+<L>6858
+old 44185: <lang n="greek"></lang>
+new 44185: <lang n="greek">σϰάνδαλον</lang>
+
+<L>6861
+old 44214: <lang n="greek"></lang>
+new 44214: <lang n="greek">σϰηνή</lang>.
+
+<L>6865
+old 44235: <lang n="greek"></lang>
+new 44235: <lang n="greek">σϰώρ</lang>.
+
+<L>6881
+old 44323: <lang n="greek"></lang>
+new 44323: <lang n="greek">σϰηνή</lang>.
+
+<L>6885
+old 44350: <lang n="greek"></lang>
+new 44350: <lang n="greek">σϰιά</lang>.
+
+<L>6891
+old 44404: <lang n="greek"></lang>,<lang n="greek"></lang>;
+new 44404: <lang n="greek">σχίζω, σϰεδάννυμι</lang>;
+; both strings merged together, as are throughout the text when only a punctuation is in between the strings.
+
+<L>6910
+old 44513: <lang n="greek"></lang>
+new 44513: <lang n="greek">σπινθήρ</lang>;
+
+<L>6915
+old 44542: <lang n="greek"></lang>
+new 44542: <lang n="greek">σχὶδη</lang>.
+
+<L>6998
+old 45020: <lang n="greek"></lang>
+new 45020: <lang n="greek">γεννάω, γίγνομαι</lang>;
+
+<L>7000
+old 45049: <lang n="greek"></lang>
+new 45049: <lang n="greek">γναιϰός</lang>
+old 45050: <lang n="greek"></lang>].
+new 45050: <lang n="greek">γυνή</lang>].
+
+<L>7020
+old 45166: <lang n="greek"></lang>
+new 45166: <lang n="greek">γενέτωρ</lang>;
+
+<P>{%janitrī%}
+old 45169: <lang n="greek"></lang>
+new 45169: <lang n="greek">γενέτειρα</lang>;
+
+<L>7022
+old 45180: <lang n="greek"></lang>
+new 45180: <lang n="greek">γυνή</lang>;
+
+<L>7037
+old 45286: <lang n="greek"></lang>,<lang n="greek"></lang>
+new 45286: <lang n="greek">γάμος, γαμέτις</lang>
+; both strings merged together, as are throughout the text when only a punctuation is in between the strings.
+
+<L>7045
+old 45340: <lang n="greek"></lang>
+new 45340: <lang n="greek">γαμφαί</lang>.
+
+<L>7055
+old 45435: <lang n="greek"></lang>
+new 45435: <lang n="greek">γέρων</lang>.
+
+<L>7062
+old 45473: <lang n="greek"></lang>
+new 45473: <lang n="greek">λῆρας</lang>.
+
+<L>7135
+old 46132: <lang n="greek"></lang>
+new 46132: <lang n="greek">ἐγείρω, ἐγρήγορα</lang>.
+
+<L>7173
+old 46355: <lang n="greek"></lang>
+new 46355: <lang n="greek">γόνυ</lang>;
+
+<L>7180
+old 46391: <lang n="greek"></lang>
+new 46391: <lang n="greek">διάμετρον</lang>
+
+<L>7249
+<P>{%jijñāsāmi, jijñāse%}
+old 46765: <lang n="greek"></lang>
+new 46765: <lang n="greek">γιγνώσσϰω</lang>.
+
+<L>7256
+old 46823: <lang n="greek"></lang>
+new 46823: <lang n="greek">δίδυμος</lang>
+
+<L>7264
+old 46870: <lang n="greek"></lang>
+new 46870: <lang n="greek">γῆρας</lang>.
+
+<L>7300
+old 47090: <lang n="greek"></lang>.
+new 47090: <lang n="greek">βίος</lang>.
+
+<L>7366
+old 47454: <lang n="greek"></lang>]
+new 47454: <lang n="greek">ζυγόν</lang>]
+
+<L>7438
+old 47841: <lang n="greek"></lang>
+new 47841: <lang n="greek">γιγνώσϰω, νοέω [γνοέω]</lang>;
+
+<L>7448
+old 47918: <lang n="greek"></lang>
+new 47918: <lang n="greek">βιός</lang>.
+
+<L>7454
+old 47949: <lang n="greek"></lang>
+new 47949: <lang n="greek">α</lang>
+
+<L>7465
+old 48027: <lang n="greek"></lang>]
+new 48027: <lang n="greek">Ζεύς</lang>]
+
+<L>7616
+old 48905: <lang n="greek"></lang>
+new 48905: <lang n="greek">τέϰνον</lang>.
+
+<L>7649
+old 49107: <lang n="greek"></lang>.
+new 49107: <lang n="greek">τότε</lang>.
+
+<L>7660
+<P>{%tathāgata%}
+old 49198: <lang n="greek"></lang>
+new 49198: <lang n="greek">ὁ διάδοχος</lang>].
+
+<L>7676
+old 49300: <lang n="greek"></lang>
+new 49300: <lang n="greek">τείνω, τάνυμαι</lang>;
+
+<L>7681
+old 49325: <lang n="greek"></lang>
+new 49325: <lang n="greek">τανυ</lang>…
+
+<L>7697
+old 49507: <lang n="greek"></lang>
+new 49507: <lang n="greek">τανυτέφρα</lang>
+
+<L>7794
+old 50063: <lang n="greek"></lang>
+new 50063: <lang n="greek">τέρμα</lang>;
+
+<L>7855
+old 50383: <lang n="greek"></lang>
+new 50383: <lang n="greek">τηλίϰος</lang>;
+
+<L>7856
+old 50388: <lang n="greek"></lang>
+new 50388: <lang n="greek">τόνος</lang>.
+
+<L>7873
+old 50580: <lang n="greek"></lang>;
+new 50580: <lang n="greek">ἀστήρ</lang>;
+
+<L>7904
+old 50796: <lang n="greek"></lang>
+new 50796: <lang n="greek">τόσος</lang>.
+
+<L>7981
+old 51271: <lang n="greek"></lang>
+new 51271: <lang n="greek">δ</lang>
+
+<L>8030
+old 51622: <lang n="greek"></lang>
+new 51622: <lang n="greek">τύπτω</lang>;
+
+<L>8053
+old 51756: <lang n="greek"></lang>
+new 51756: <lang n="greek">τλάω, τελάμων, τάλαντον</lang>,
+
+<L>8054
+old 51762: <lang n="greek"></lang>
+new 51762: <lang n="greek">ταλαντάω</lang>.
+
+<L>8099
+old 52046: <lang n="greek"></lang>
+new 52046: <lang n="greek">τρέχω</lang>.
+
+<L>8105
+old 52139: <lang n="greek"></lang>;
+new 52139: <lang n="greek">τρίτος</lang>;
+
+<L>8107
+old 52168: <lang n="greek"></lang>; <lang n="greek"></lang>
+new 52168: <lang n="greek">πέρπω; τρέφω</lang>
+; both strings merged together, as are throughout the text when only a punctuation is in between the strings.
+
+<L>8113
+old 52198: <lang n="greek"></lang>
+new 52198: <lang n="greek">τέρψις</lang>.
+
+<L>8119
+old 52231: <lang n="greek"></lang>,
+new 52231: <lang n="greek">τέρσς</lang>,
+
+<L>8128
+old 52296: <lang n="greek"></lang>
+new 52296: <lang n="greek">τερ</lang>
+old 52297: <lang n="greek"></lang> , <lang n="greek"></lang> , <lang n="greek"></lang>,
+new 52297: <lang n="greek">τέρετρον, τιτραίνω, τρύπα</lang>,
+; all three strings merged together, as are throughout the text when only a punctuation is in between the strings.
+
+<L>8193
+old 52726: <lang n="greek"></lang>
+new 52726: <lang n="greek">ἐντρέπω</lang>.
+
+<L>8194
+old 52733: <lang n="greek"></lang>
+new 52733: <lang n="greek">ἐντροπή</lang>.
+
+<L>8199
+old 52765: <lang n="greek"></lang>
+new 52765: <lang n="greek">τριάς</lang>.
+
+<L>8200
+old 52791: <lang n="greek"></lang>
+new 52791: <lang n="greek">τρέω, τρέμω, τρέστης</lang>
+old 52792: <lang n="greek"></lang>);
+new 52792: <lang n="greek">της</lang>)
+
+<L>8215
+old 52878: <lang n="greek"></lang>
+new 52878: <lang n="greek">τρεῖς</lang>;
+
+<L>8225
+old 52936: <lang n="greek"></lang>
+new 52936: <lang n="greek">τρίγωνον</lang>.
+
+<L>8237
+old 53009: <lang n="greek"></lang>
+new 53009: <lang n="greek">τρίος</lang>;
+
+<L>8245
+old 53071: <lang n="greek"></lang>
+new 53071: <lang n="greek">τρίχα</lang>.
+
+<L>8301
+old 53373: <lang n="greek"></lang>
+new 53373: <lang n="greek">τρίς</lang>;
+
+<L>8347
+old 53656: <lang n="greek"></lang>
+new 53656: <lang n="greek">τύ, σύ</lang>;
+old 53657: <lang n="greek"></lang>;
+new 53657: <lang n="greek">τύνη</lang>;
+
+<L>8368
+old 53808: <lang n="greek"></lang>
+new 53808: <lang n="greek">δέξιος</lang>;
+
+<L>8380
+old 54017: <lang n="greek"></lang>
+new 54017: <lang n="greek">δόσις</lang>;
+
+<L>8423
+old 54247: <lang n="greek"></lang>
+new 54247: <lang n="greek">ὀδούς</lang>;
+
+<L>8435
+old 54352: <lang n="greek"></lang>
+new 54352: <lang n="greek">δονέω</lang>
+
+<L>8438
+old 54369: <lang n="greek"></lang>
+new 54369: <lang n="greek">δάμνημι</lang>;
+
+<L>8439
+old 54375: <lang n="greek"></lang>
+new 54375: <lang n="greek">δάμαρ</lang>;
+
+<L>8440
+old 54382: <lang n="greek"></lang>
+new 54382: <lang n="greek">δαμος</lang>
+old 54383: <lang n="greek"></lang>,
+new 54383: <lang n="greek">ἱππόδαμος</lang>,
+
+<L>8449
+old 54458: <lang n="greek"></lang>
+new 54458: <lang n="greek">δαίομαι</lang>.
+
+<L>8451
+old 54476: <lang n="greek"></lang>
+new 54476: <lang n="greek">δειρά</lang>.
+
+<P>{%darad%}
+old 54483: <lang n="greek"></lang>
+new 54483: <lang n="greek">δειράς</lang>.
+
+<L>8503
+old 54808: <lang n="greek"></lang>
+new 54808: <lang n="greek">δἐϰα</lang>;
+
+<L>8535
+<P>{@II.@} {%dahyāṃi%}
+old 54999: <lang n="greek"></lang>
+new 54999: <lang n="greek">δαίω</lang>;
+
+<L>8539
+old 55029: <lang n="greek"></lang>
+new 55029: <lang n="greek">δάϰυω</lang>
+
+<L>8546
+<P>Donner <ab>qqc.</ab>
+old 55104: <lang n="greek"></lang>
+new 55104: <lang n="greek">δίδωμι</lang>;
+
+<L>8547
+old 55113: <lang n="greek"></lang>
+new 55113: <lang n="greek">δαΐζω</lang>.
+
+<L>8563
+old 55202: <lang n="greek"></lang>
+new 55202: <lang n="greek">δότης</lang>;
+
+<L>8617
+old 55484: <lang n="greek"></lang>
+new 55484: <lang n="greek">δόρυ</lang>.
+
+<L>8696
+old 55885: <lang n="greek"></lang>
+new 55885: <lang n="greek">διδράσϰω</lang>.
+
+<L>8749
+old 56230: <lang n="greek"></lang>.
+new 56230: <lang n="greek">δείϰνυμι, δίϰη, δοϰέω</lang>.
+
+<L>8778
+old 56472: <lang n="greek"></lang>
+new 56472: <lang n="greek">δολιχός</lang>;
+
+<L>8784
+old 56590: <lang n="greek"></lang>
+new 56590: <lang n="greek">δύω, δύσις</lang>.
+
+<L>8785
+old 56599: <lang n="greek"></lang>
+new 56599: <lang n="greek">ὀδύνη</lang>.
+
+<L>8787
+old 56611: <lang n="greek"></lang>
+new 56611: <lang n="greek">γάλαϰτος (γάλα)</lang>
+old 56612: <lang n="greek"></lang>
+new 56612: NIL
+; merged both the strings together in (56611)
+
+<L>8847
+old 56918: <lang n="greek"></lang>
+new 56918: <lang n="greek">δυσμένης</lang>.
+
+<L>8883
+old 57117: <lang n="greek"></lang>
+new 57117: <lang n="greek">δυς</lang>;
+
+<L>8900
+old 57232: <lang n="greek"></lang>
+new 57232: <lang n="greek">θυγάτηρ</lang>;
+
+<L>8938
+<P>{@Ps.@} {%dṛśye%}
+old 57502: <lang n="greek"></lang>
+new 57502: <lang n="greek">δέρϰομαι</lang>.
+
+<L>8948
+old 57580: <lang n="greek"></lang>
+new 57580: <lang n="greek">δριάω</lang>.
+
+<L>8950
+old 57595: <lang n="greek"></lang>
+new 57595: <lang n="greek">δέρω</lang>;
+
+<L>8972
+old 57705: <lang n="greek"></lang>
+new 57705: <lang n="greek">θεός</lang>;
+
+<L>8980
+old 57962: <lang n="greek"></lang>
+new 57962: <lang n="greek">δαήρ</lang>.
+
+<L>9071
+old 58511: <lang n="greek"></lang>
+new 58511: <lang n="greek">Ζεύς</lang>
+old 58512: <lang n="greek"></lang>
+new 58512: <lang n="greek">Διός</lang>;
+
+<L>9085
+old 58584: <lang n="greek"></lang> , <lang n="greek"></lang>.
+new 58584: <lang n="greek">ἔδραμον, δρόμος</lang>.
+; both strings merged together, as are throughout the text when only a punctuation is in between the strings.
+
+<L>9091
+old 58653: <lang n="greek"></lang>.
+new 58653: <lang n="greek">δρᾶναι</lang>.
+
+<L>9109
+old 58762: <lang n="greek"></lang>
+new 58762: <lang n="greek">δρῦς</lang>;
+
+<L>9133
+old 58900: <lang n="greek"></lang>;
+new 58900: <lang n="greek">δραθεῖν, δαρθάνω</lang>;
+
+<L>9142
+<P>{%dvādaśan%}
+old 59005: <lang n="greek"></lang>
+new 59005: <lang n="greek">δώδεϰα</lang>;
+
+<L>9145
+old 59037: <lang n="greek"></lang>
+new 59037: <lang n="greek">θύρα</lang>;
+
+<L>9150
+old 59085: <lang n="greek"></lang>
+new 59085: <lang n="greek">δύο, δι</lang>;
+
+<L>9165
+old 59216: <lang n="greek"></lang>
+new 59216: <lang n="greek">δίχα</lang>.
+
+<L>9171
+old 59246: <lang n="greek"></lang>
+new 59246: <lang n="greek">δίπους</lang>;
+
+<L>9199
+old 59387: <lang n="greek"></lang>
+new 59387: <lang n="greek">δίς</lang>.
+
+;<L>9234 change previously made
+;old 59571: <lang n="greek">θ</lang>,
+;new 59571: <lang n="greek">θ</lang>,
+
+<L>9277
+<P>{%dharmarāj%}
+old 59974: <lang n="greek"></lang>
+new 59974: <lang n="greek">Ῥαδαμανθυς</lang>;
+
+<L>9290
+old 60100: <lang n="greek"></lang>
+new 60100: <lang n="greek">τιθημι</lang>;
+
+<L>9335
+old 60456: <lang n="greek"></lang>
+new 60456: <lang n="greek">δάσος</lang>
+
+<L>9392
+old 60763: <lang n="greek"></lang>
+new 60763: <lang n="greek">θυμιάω, τύφω</lang>.
+
+<L>9394
+old 60773: <lang n="greek"></lang>
+new 60773: <lang n="greek">τῦφος</lang>.
+
+<L>9395
+old 60782: <lang n="greek"></lang>
+new 60782: <lang n="greek">θῦμα</lang>;
+
+<L>9416
+old 60964: <lang n="greek"></lang>,
+new 60964: <lang n="greek">θάρσος, θρασύς</lang>;
+
+<L>9423
+old 61002: <lang n="greek"></lang>
+new 61002: <lang n="greek">θάομαι, θῆλυς, τιθήνη</lang>.
+
+<L>9447
+old 61130: <lang n="greek"></lang>
+new 61130: <lang n="greek">ἄσθμα</lang>
+
+<L>9460
+old 61198: <lang n="greek"></lang>
+new 61198: <lang n="greek">θεάομαι</lang>.
+
+<L>9501
+old 61462: <lang n="greek"></lang>
+new 61462: <lang n="greek">νη</lang>;
+
+<L>9509
+old 61505: <lang n="greek"></lang>
+new 61505: <lang n="greek">νυϰτός (νύξ)</lang>;
+
+<L>9514
+old 61549: <lang n="greek"></lang>
+new 61549: <lang n="greek">ὄνυξ</lang>;
+
+<L>9557
+old 61905: <lang n="greek"></lang>
+new 61905: <lang n="greek">νέφος</lang>;
+
+<L>9626
+old 62324: <lang n="greek"></lang>
+new 62324: <lang n="greek">νέος</lang>;
+
+<L>9630
+old 62380: <lang n="greek"></lang>
+new 62380: <lang n="greek">ἐννέα</lang>;
+
+<L>9634
+old 62420: <lang n="greek"></lang>
+new 62420: <lang n="greek">νέϰυς, νεϰρός</lang>,
+old 62421: <lang n="greek"></lang>
+new 62421: NIL
+; merged both the strings together in (62420)
+
+<L>9639
+old 62442: <lang n="greek"></lang>;
+new 62442: <lang n="greek">νεϰρός</lang>;
+
+<L>9642
+old 62478: <lang n="greek"></lang>
+new 62478: <lang n="greek">νέω, νήθω</lang>;
+
+<L>9683
+old 62898: <lang n="greek"></lang>
+new 62898: <lang n="greek">ὄνομα</lang>;
+
+<L>9688
+old 62940: <lang n="greek"></lang>
+new 62940: <lang n="greek">ναρός</lang>.
+
+<L>9776
+old 63460: <lang n="greek"></lang>
+new 63460: <lang n="greek">νίζω, νίπτω</lang>.
+old 63461: <lang n="greek"></lang>.
+new 63461: NIL
+; merged both the strings together in (63460)
+
+<L>9784
+<P>{%nitambin%}
+old 63505: <lang n="greek"></lang>
+new 63505: <lang n="greek">ϰαλλίπυγος</lang>.
+
+<L>9826
+old 63756: <lang n="greek"></lang>.
+new 63756: <lang n="greek">ὄνειδος</lang>.
+
+<L>10087
+old 65298: <lang n="greek"></lang>;
+new 65298: <lang n="greek">νύξ</lang>;
+
+<L>10334
+old 66815: <lang n="greek"></lang>
+new 66815: <lang n="greek">ναῦς</lang>;
+
+<L>10381
+old 67197: <lang n="greek"></lang>
+new 67197: <lang n="greek">πέσσω, πεπτός</lang>;
+
+<L>10388
+old 67396: <lang n="greek"></lang>
+new 67396: <lang n="greek">πέντε</lang>;
+
+<L>10414
+old 67642: <lang n="greek"></lang>
+new 67642: <lang n="greek">πίπτω, ἵπταμαι, πτερόν</lang>,
+
+<L>10428
+old 67721: <lang n="greek"></lang>
+new 67721: <lang n="greek">πότις, πόσις</lang>;
+
+<L>10435
+old 67772: <lang n="greek"></lang>
+new 67772: <lang n="greek">πότνια</lang>.
+
+<L>10436
+old 67781: <lang n="greek"></lang>
+new 67781: <lang n="greek">πέταλον, πτερόν</lang>.
+
+<L>10439
+old 67873: <lang n="greek"></lang>.
+new 67873: <lang n="greek">πάτος</lang>.
+
+<L>10442
+old 67910: <lang n="greek"></lang>
+new 67910: <lang n="greek">ποῦς, ποδός</lang>;
+
+<P>{%pada%}
+old 67916: <lang n="greek"></lang>
+new 67916: <lang n="greek">πέδον</lang>.
+
+<L>10472
+old 68390: <lang n="greek"></lang>.
+new 68390: <lang n="greek">πέλεϰυς</lang>.
+
+<L>10473
+old 68403: <lang n="greek"></lang>,
+new 68403: <lang n="greek">παρά</lang>;
+
+<L>10525
+old 68664: <lang n="greek"></lang>
+new 68664: <lang n="greek">περί</lang>.
+
+<L>10600
+old 69120: <lang n="greek"></lang>
+new 69120: <lang n="greek">περιτίθημι</lang>.
+
+<L>10810
+old 70299: <lang n="greek"></lang>
+new 70299: <lang n="greek">πέρδω</lang>;
+
+<L>10870
+<P>{%palala%}
+old 70661: <lang n="greek"></lang>
+new 70661: <lang n="greek">πηλός</lang>.
+
+<L>10876
+old 70712: <lang n="greek"></lang>
+new 70712: <lang n="greek">πολιός</lang>.
+
+<L>10892
+old 70828: <lang n="greek"></lang>
+new 70828: <lang n="greek">πήγνυμι</lang>;
+
+<L>10903
+old 70908: <lang n="greek"></lang>
+new 70908: <lang n="greek">πίνω</lang>,
+
+<L>10904
+old 70917: <lang n="greek"></lang>.
+new 70917: <lang n="greek">πάομαι</lang>.
+
+<L>10937
+old 71217: <lang n="greek"></lang>
+new 71217: <lang n="greek">Πανδίων</lang>
+
+<L>10947
+old 71285: <lang n="greek"></lang>
+new 71285: <lang n="greek">ποτἠριον</lang>.
+
+<L>10959
+old 71481: <lang n="greek"></lang>
+new 71481: <lang n="greek">ϰαϰός</lang>.
+
+<L>11045
+old 72054: <lang n="greek"></lang>
+new 72054: <lang n="greek">βάσανος</lang>.
+
+<L>11065
+old 72247: <lang n="greek"></lang>
+new 72247: <lang n="greek">πήγνυμι</lang>;
+
+<L>11079
+old 72412: <lang n="greek"></lang>;
+new 72412: <lang n="greek">πατήρ</lang>;
+
+<L>11098
+old 72566: <lang n="greek"></lang>
+new 72566: <lang n="greek">δίψα</lang>
+
+<L>11106
+old 72604: <lang n="greek"></lang>;
+new 72604: <lang n="greek">πέπερι</lang>;
+
+<L>11146
+<P>{%pīvara%}
+old 72943: <lang n="greek"></lang>.
+new 72943: <lang n="greek">πιαρός</lang>.
+
+<L>11182
+old 73251: <lang n="greek"></lang>
+new 73251: <lang n="greek">πόλις</lang>
+old 73252: <lang n="greek"></lang>;
+new 73252: <lang n="greek">πύργος</lang>;
+
+<L>11206
+old 73390: <lang n="greek"></lang>;
+new 73390: <lang n="greek">πολύς</lang>;
+
+<L>11241
+old 73751: <lang n="greek"></lang>
+new 73751: <lang n="greek">δ</lang>
+
+<L>11257
+old 73923: <lang n="greek"></lang>;
+new 73923: <lang n="greek">πύθω</lang>;
+
+<L>11258
+old 73928: <lang n="greek"></lang>;
+new 73928: <lang n="greek">πῦον</lang>;
+
+<L>11270
+<P>{%pūrvaphalgunī%}
+old 74067: <lang n="greek"></lang>
+new 74067: <lang n="greek">δ</lang>
+
+<P>{%pūrvāṣādhā%}
+old 74096: <lang n="greek"></lang>
+new 74096: <lang n="greek">δ</lang>
+
+<L>11287
+<P>{%pṛthaktva%}
+old 74210: <lang n="greek"></lang>;
+new 74210: <lang n="greek">χωριστὸν</lang>;
+
+<L>11292
+old 74271: <lang n="greek"></lang>.
+new 74271: <lang n="greek">πλατύς</lang>.
+
+<L>11294
+old 74294: <lang n="greek"></lang>.
+new 74294: <lang n="greek">πάρδαλις</lang>.
+
+<L>11305
+old 74411: <lang n="greek"></lang>;
+new 74411: <lang n="greek">πίμπλημι, πλέως</lang>;
+
+<L>11389
+old 74904: <lang n="greek"></lang>;
+new 74904: <lang n="greek">πρό</lang>;
+
+<L>11534
+old 75839: <lang n="greek"></lang>.
+new 75839: <lang n="greek">προτείνω</lang>.
+
+<L>11543
+old 75911: <lang n="greek"></lang>.
+new 75911: <lang n="greek">προτί, πρός</lang>.
+
+<L>11826
+old 77530: <lang n="greek"></lang>;
+new 77530: <lang n="greek">πρῶτος</lang>;
+
+<L>11830
+old 77554: <lang n="greek"></lang>;
+new 77554: <lang n="greek">προδίδωμι</lang>;
+
+<L>11842
+old 77618: <lang n="greek"></lang>.
+new 77618: <lang n="greek">προδείϰνυμι</lang>.
+
+<L>11877
+old 77826: <lang n="greek"></lang>.
+new 77826: <lang n="greek">προπίπτω</lang>.
+
+<L>11989
+old 78537: <lang n="greek"></lang>.
+new 78537: <lang n="greek">προλαμϐάνω</lang>.
+
+<L>12150
+old 79605: <lang n="greek"></lang>.
+new 79605: <lang n="greek">πρωΐ</lang>.
+
+<L>12194
+old 79839: <lang n="greek"></lang>.
+new 79839: <lang n="greek">φρὴν</lang>.
+
+<L>12324
+old 80780: <lang n="greek"></lang>.
+new 80780: <lang n="greek">πλόος, πλοῖον</lang>.
+
+<L>12327
+old 80817: <lang n="greek"></lang>;
+new 80817: <lang n="greek">σπλήν, σπλάγχνον</lang>;
+
+<L>12330
+old 80844: <lang n="greek"></lang>;
+new 80844: <lang n="greek">πλέω, πλεύσομαι; πλύνω; φλύω</lang>;
+
+<L>12338
+old 80887: <lang n="greek"></lang>;
+new 80887: <lang n="greek">ὀψῶμαι</lang>;
+
+<L>12339
+<P>{%psāna%}
+old 80894: <lang n="greek"></lang>;
+new 80894: <lang n="greek">ὄψον</lang>;
+
+<L>12340
+old 80904: <lang n="greek"></lang>,
+new 80904: <lang n="greek">φ</lang>,
+
+<L>12375
+old 81205: <lang n="greek"></lang>;
+new 81205: <lang n="greek">φύλλον</lang>;
+
+<L>12429
+old 81601: <lang n="greek"></lang>.
+new 81601: <lang n="greek">βάρϐαρος</lang>.
+
+<L>12472
+old 81859: <lang n="greek"></lang>.
+new 81859: <lang n="greek">βαθύς</lang>.
+
+<L>12477
+old 82032: <lang n="greek"></lang>.
+new 82032: <lang n="greek">βαλανεῖον</lang>.
+
+<L>12516
+old 82313: <lang n="greek"></lang>;
+new 82313: <lang n="greek">ϐραχίων</lang>;
+
+<L>12555
+old 82560: <lang n="greek"></lang>;
+new 82560: <lang n="greek">πυθ [ἐπυθόμην]</lang>;
+
+<L>12579
+old 82682: B<lang n="greek"></lang>.
+new 82682: <lang n="greek">Βερέϰιντος</lang>.
+
+<L>12603
+old 83035: <lang n="greek"></lang>.
+new 83035: <lang n="greek">φράζω</lang>.
+
+<L>12604
+old 83044: <lang n="greek"></lang>,
+new 83044: <lang n="greek">φ</lang>,
+
+<L>12609
+old 83092: <lang n="greek"></lang>.
+new 83092: <lang n="greek">ἔφαγον</lang>.
+
+<L>12610
+old 83097: <lang n="greek"></lang>.
+new 83097: <lang n="greek">φαγος</lang>.
+
+<L>12624
+old 83241: <lang n="greek"></lang>;
+new 83241: <lang n="greek">ῥήγνυμι</lang>;
+
+<L>12651
+old 83511: <lang n="greek"></lang>.
+new 83511: <lang n="greek">βάρος</lang>.
+
+<L>12669
+old 83637: <lang n="greek"></lang>.
+new 83637: <lang n="greek">βάλλω</lang>.
+
+<L>12696
+old 83849: <lang n="greek"></lang>,
+new 83849: <lang n="greek">φάω, φαίνω</lang>,
+
+<L>12743
+old 84225: <lang n="greek"></lang>.
+new 84225: <lang n="greek">φῶς</lang>.
+
+<L>12747
+<P>{%bhitticaura%}
+old 84302: <lang n="greek"></lang>.
+new 84302: <lang n="greek">τοιχώρυχος</lang>.
+
+<L>12759
+old 84391: <lang n="greek"></lang>.
+new 84391: <lang n="greek">φόϐος</lang>.
+
+<L>12784
+old 84631: <lang n="greek"></lang>;
+new 84631: <lang n="greek">φυω</lang>;
+
+<L>12786
+old 84726: <lang n="greek"></lang>.
+new 84726: <lang n="greek">φυτόν</lang>.
+
+<L>12793
+old 84840: <lang n="greek"></lang>.
+new 84840: <lang n="greek">ϐῶμος</lang>.
+
+<L>12796
+old 84910: <lang n="greek"></lang>.
+new 84910: <lang n="greek">μυρίος</lang>.
+
+<L>12804
+old 84971: <lang n="greek"></lang>;
+new 84971: <lang n="greek">φέρω</lang>;
+
+<L>12858
+old 85388: <lang n="greek"></lang>;
+new 85388: <lang n="greek">φρύγω, φώγω</lang>;
+
+<L>12872
+old 85500: <lang n="greek"></lang>;
+new 85500: <lang n="greek">φλέγω</lang>;
+
+<L>12873
+old 85515: <lang n="greek"></lang>;
+new 85515: <lang n="greek">φράτωρ</lang>;
+
+<L>12885
+old 85599: <lang n="greek"></lang>;
+new 85599: <lang n="greek">ὀφρύς</lang>;
+
+<L>12887
+old 85617: <lang n="greek"></lang>
+new 85617: <lang n="greek">ϐρυ</lang>
+old 85618: <lang n="greek"></lang>.
+new 85618: <lang n="greek">ἔμϐρυον</lang>.
+
+<L>12911
+old 85769: <lang n="greek"></lang>.
+new 85769: <lang n="greek">μυῖα</lang>.
+
+<L>12944
+old 85983: <lang n="greek"></lang>;
+new 85983: <lang n="greek">μάργαρον</lang>;
+
+<L>12957
+old 86076: <lang n="greek"></lang>;
+new 86076: <lang n="greek">μάννος</lang>;
+
+<L>12970
+old 86240: <lang n="greek"></lang>.
+new 86240: <lang n="greek">μῆτις</lang>.
+
+<L>12994
+old 86568: <lang n="greek"></lang>;
+new 86568: <lang n="greek">μέθυ, μέλι</lang>;
+
+<L>12995
+old 86759: <lang n="greek"></lang>;
+new 86759: <lang n="greek">μέσος</lang>;
+
+<L>13003
+old 86863: <lang n="greek"></lang>;
+new 86863: <lang n="greek">μένος</lang>;
+
+<L>13036
+old 87201: <lang n="greek"></lang>.
+new 87201: <lang n="greek">μάνδρα</lang>.
+
+<L>13071
+old 87386: <lang n="greek"></lang>.
+new 87386: <lang n="greek">λάραγδος</lang>.
+
+<L>13103
+old 87600: <lang n="greek"></lang>.
+new 87600: <lang n="greek">μορτὸς, βροτός</lang>.
+
+<L>13107
+old 87644: <lang n="greek"></lang>.
+new 87644: <lang n="greek">μορμύρω</lang>.
+
+<L>13120
+old 87747: <lang n="greek"></lang>;
+new 87747: <lang n="greek">μέλανος</lang>;
+
+<L>13156
+old 88003: <lang n="greek"></lang>;
+new 88003: <lang n="greek">μέγας</lang>;
+
+<L>13198
+old 88735: <lang n="greek"></lang>;
+new 88735: <lang n="greek">μέγιστος</lang>;
+
+<L>13200
+old 88747: <lang n="greek"></lang>.
+new 88747: <lang n="greek">μή</lang>.
+
+<L>13233
+old 88937: <lang n="greek"></lang>;
+new 88937: <lang n="greek">μητήρ</lang>;
+
+<L>13234
+old 88979: <lang n="greek"></lang>;
+new 88979: <lang n="greek">μέτρον</lang>;
+
+<L>13321
+old 89608: <lang n="greek"></lang>;
+new 89608: <lang n="greek">μήν</lang>;
+
+<L>13382
+old 89977: <lang n="greek"></lang>.
+new 89977: <lang n="greek">μίγνυμι</lang>.
+
+<L>13392
+old 90044: <lang n="greek"></lang>.
+new 90044: <lang n="greek">όμιχέω</lang>.
+
+<L>13393
+<P>{%mihikā%}
+old 90051: <lang n="greek"></lang>.
+new 90051: <lang n="greek">ὀμίχλν</lang>.
+
+<L>13455
+old 90557: <lang n="greek"></lang>.
+new 90557: <lang n="greek">μόνος, μόναχος</lang>.
+
+<L>13465
+old 90625: <lang n="greek"></lang>.
+new 90625: <lang n="greek">μύρον</lang>.
+
+<L>13502
+old 90877: <lang n="greek"></lang>.
+new 90877: <lang n="greek">μώρός</lang>.
+
+<L>13517
+old 91031: <lang n="greek"></lang>;
+new 91031: <lang n="greek">μύς</lang>;
+
+<L>13524
+<P>{%mṛgaśiras%}
+old 91141: <lang n="greek"></lang>
+new 91141: <lang n="greek">λ</lang>
+
+<L>13525
+old 91181: <lang n="greek"></lang>;
+new 91181: <lang n="greek">άμέλγω, ὀμόργνυμι</lang>;
+
+<L>13556
+old 91371: <lang n="greek"></lang>.
+new 91371: <lang n="greek">βραδύς</lang>.
+
+<L>13595
+old 91702: <lang n="greek"></lang>.
+new 91702: <lang n="greek">μήδομαι, μανθάνω</lang>.
+
+<L>13597
+old 91713: <lang n="greek"></lang>.
+new 91713: <lang n="greek">μῆδος</lang>.
+
+<L>13602
+old 91750: M<lang n="greek"></lang>
+new 91750: <lang n="greek">Μῆν</lang>
+old 91751: M<lang n="greek"></lang>
+new 91751: <lang n="greek">Μῆνα</lang>
+
+<L>13617
+old 91831: <lang n="greek"></lang>.
+new 91831: <lang n="greek">μέλαν</lang>.
+
+<L>13663
+old 92156: <lang n="greek"></lang>.
+new 92156: <lang n="greek">μνάοραι</lang>.
+
+<L>13671
+<P>{%mradiṣṭha%}
+old 92204: <lang n="greek"></lang>.
+new 92204: <lang n="greek">βράδιστος</lang>.
+
+<P>{%mradīyas%}
+old 92207: <lang n="greek"></lang>.
+new 92207: <lang n="greek">βραδίων</lang>.
+
+<L>13683
+old 92295: <lang n="greek"></lang>;
+new 92295: <lang n="greek">μαραίνω</lang>;
+
+<L>13684
+old 92307: <lang n="greek"></lang>
+new 92307: <lang n="greek">ζ</lang>
+
+<L>13686
+old 92322: <lang n="greek"></lang>;
+new 92322: <lang n="greek">ὅς</lang>;
+
+<L>13694
+old 92406: <lang n="greek"></lang>.
+new 92406: <lang n="greek">ἅζομαι, ἁγίζω, ἅγιος</lang>.
+
+<L>13703
+old 92451: <lang n="greek"></lang>.
+new 92451: <lang n="greek">ἁγνός</lang>.
+
+<L>13706
+old 92530: <lang n="greek"></lang>,
+new 92530: <lang n="greek">ζητέω</lang>,
+old 92531: <lang n="greek"></lang>.
+new 92531: <lang n="greek"> ὄθομαι</lang>.
+
+<L>13711
+old 92557: <lang n="greek"></lang>.
+new 92557: <lang n="greek">ὅθεν</lang>.
+
+<L>13742
+old 92888: <lang n="greek"></lang>;
+new 92888: <lang n="greek">ζέα</lang>;
+
+<L>13785
+old 93205: <lang n="greek"></lang>;
+new 93205: <lang n="greek">ἥλιξ</lang>;
+
+<L>13785
+<P>{%yādṛśa%}
+old 93208: <lang n="greek"></lang>.
+new 93208: <lang n="greek">ἡλίϰος</lang>.
+
+<L>13831
+old 93474: <lang n="greek"></lang>.
+new 93474: <lang n="greek">ζευϰτός</lang>.
+
+<L>13832
+old 93497: <lang n="greek"></lang>.
+new 93497: <lang n="greek">ζεῦξις</lang>.
+
+<L>13833
+old 93504: <lang n="greek"></lang>;
+new 93504: <lang n="greek">ζυγός</lang>;
+
+<L>13834
+old 93534: <lang n="greek"></lang>.
+new 93534: <lang n="greek">ζεῦγμα</lang>.
+
+<L>13839
+old 93586: <lang n="greek"></lang>,
+new 93586: <lang n="greek">ζεύγνυμι</lang>,
+
+<L>13849
+<P>{%yudhma%}
+old 93664: <lang n="greek"></lang>.
+new 93664: <lang n="greek">ὑσμίνη</lang>.
+
+<L>13861
+old 93739: <lang n="greek"></lang>,
+new 93739: <lang n="greek">ὔμμες, ὑμεῖς</lang>,
+
+<L>13946
+old 94489: <lang n="greek"></lang>.
+new 94489: <lang n="greek">ἀργός, ἄργυρος</lang>.
+
+<L>13952
+old 94564: <lang n="greek"></lang>.
+new 94564: <lang n="greek">ῥεγεύς, ῥέγμα</lang>.
+
+<L>14118
+old 96131: <lang n="greek"></lang>.
+new 96131: <lang n="greek">λείπω</lang>.
+
+<L>14168
+old 96391: <lang n="greek"></lang>
+new 96391: <lang n="greek">λευϰός, λύχνος</lang>,
+
+<L>14190
+old 96567: <lang n="greek"></lang>;
+new 96567: <lang n="greek">ἐρυθρός</lang>;
+
+<L>14207
+old 96651: <lang n="greek"></lang>.
+new 96651: <lang n="greek">λυσσάω</lang>.
+
+<L>14208
+old 96657: <lang n="greek"></lang>.
+new 96657: <lang n="greek">μύσσα</lang>.
+
+<L>14256
+old 96950: [<lang n="greek"></lang>
+new 96950: [<lang n="greek">ζ</lang>
+
+<L>14342
+old 97584: <lang n="greek"></lang>;
+new 97584: <lang n="greek">ἐλαχύς, ὀλίγος</lang>;
+
+<L>14382
+old 97882: <lang n="greek"></lang>.
+new 97882: <lang n="greek">λαμϐάνω</lang>.
+
+<L>14479
+old 98490: <lang n="greek"></lang>
+new 98490: <lang n="greek">λιπάζω, ἀλείφω</lang>,
+
+<L>14480
+old 98495: <lang n="greek"></lang>,
+new 98495: <lang n="greek">λίπα, λίπος</lang>,
+
+<L>14499
+old 98594: <lang n="greek"></lang>;
+new 98594: <lang n="greek">λείχω</lang>;
+
+<L>14504
+old 98624: <lang n="greek"></lang>.
+new 98624: <lang n="greek">λιλαίομαι</lang>.
+
+<L>14616
+old 99440: <lang n="greek"></lang>,
+new 99440: <lang n="greek">β, φ</lang>,
+
+<L>14629
+old 99582: <lang n="greek"></lang>;
+new 99582: <lang n="greek">αὔξω</lang>;
+
+<L>14728
+old 100398: <lang n="greek"></lang>.
+new 100398: <lang n="greek">ὑφαίνω</lang>.
+
+<L>14735
+old 100454: <lang n="greek"></lang>;
+new 100454: <lang n="greek">ἐμέω</lang>;
+
+<L>14752
+old 100594: <lang n="greek"></lang>.
+new 100594: <lang n="greek">βούλομαι</lang>.
+
+<L>14778
+old 100744: <lang n="greek"></lang>.
+new 100744: <lang n="greek">ἄριστος</lang>.
+
+<P>{%varīyas%}
+old 100748: <lang n="greek"></lang>.
+new 100748: <lang n="greek">ἀρείων</lang>.
+
+<L>14815
+old 101012: <lang n="greek"></lang>.
+new 101012: <lang n="greek">ὄρτυξ</lang>.
+
+<L>14833
+old 101158: <lang n="greek"></lang>;
+new 101158: <lang n="greek">βάρϐαρος</lang>;
+
+<L>14836
+old 101184: <lang n="greek"></lang>.
+new 101184: <lang n="greek">ἕρση</lang>.
+
+<L>14864
+old 101431: <lang n="greek"></lang>.
+new 101431: <lang n="greek">μύρμηξ</lang>.
+
+<L>14866
+old 101440: <lang n="greek"></lang>.
+new 101440: <lang n="greek">βάλλω</lang>.
+
+<L>14880
+old 101521: <lang n="greek"></lang>
+new 101521: <lang n="greek">ἕϰωυ</lang>
+
+<L>14899
+old 101659: <lang n="greek"></lang>
+new 101659: <lang n="greek">ἕννμι</lang>
+old 101660: <lang n="greek"></lang>]
+new 101660: <lang n="greek">ἕσνμι</lang>]
+old 101661: <lang n="greek"></lang>;
+new 101661: <lang n="greek">ἑσθής</lang>;
+
+<L>14904
+old 101687: <lang n="greek"></lang>.
+new 101687: <lang n="greek">ἔαρ</lang>.
+
+<L>14924
+old 101847: <lang n="greek"></lang>.
+new 101847: <lang n="greek">ἄστυ</lang>.
+
+<L>14926
+old 101860: <lang n="greek"></lang>;
+new 101860: <lang n="greek">ἐσθής</lang>;
+
+<L>14929
+old 101905: <lang n="greek"></lang>;
+new 101905: <lang n="greek">ὀχέω</lang>;
+
+<L>14930
+old 101914: <lang n="greek"></lang>;
+new 101914: <lang n="greek">βαῖγες</lang>;
+old 101915: <lang n="greek"></lang>,
+new 101915: <lang n="greek">αἶγες, αἰγίς, Αἰγαιῶν</lang>,
+old 101916: <lang n="greek"></lang>;
+new 101916: <lang n="greek">ὄχος</lang>;
+
+<L>14941
+old 102073: <lang n="greek"></lang>;
+new 102073: <lang n="greek">ἄω, ἄημι, ἀήρ</lang>;
+
+<P> -- {%vāyāmi%}
+old 102077: <lang n="greek"></lang>;
+new 102077: <lang n="greek">αὔω, αὔρα</lang>;
+
+<L>14975
+old 102252: <lang n="greek"></lang>
+new 102252: <lang n="greek">ὄψ</lang>
+
+<L>15050
+old 102894: <lang n="greek"></lang>;
+new 102894: <lang n="greek">ὥρα</lang>;
+
+<L>15084
+<P>{%vārttika%}
+old 103162: <lang n="greek"></lang>.
+new 103162: <lang n="greek">ὄρτυξ</lang>.
+
+<L>15377
+old 104976: <lang n="greek"></lang>;]
+new 104976: <lang n="greek">οἶδα</lang>;]
+old 104987: <lang n="greek"></lang>;
+new 104987: <lang n="greek">εἴδω, οἶδα</lang>;
+
+<L>15845
+old 107961: <lang n="greek"></lang>
+new 107961: <lang n="greek">δεσπότης</lang>
+
+<L>15961
+<P>{%viṃśati%}
+old 108951: <lang n="greek"></lang>;
+new 108951: <lang n="greek">εἴϰατι, εἴϰοσι</lang>;
+
+<L>16016
+old 109502: <lang n="greek"></lang>
+new 109502: <lang n="greek">Ὄρθρος</lang>
+
+<L>16028
+old 109651: <lang n="greek"></lang>;
+new 109651: <lang n="greek">βρέχω</lang>;
+
+<L>16031
+old 109675: <lang n="greek"></lang>;
+new 109675: <lang n="greek">ἄρσην</lang>;
+
+<L>16032
+old 109685: <lang n="greek"></lang>;
+new 109685: <lang n="greek">ὄρχις</lang>;
+
+<L>16064
+old 109940: <lang n="greek"></lang>.
+new 109940: <lang n="greek">ῥέγχω</lang>.
+
+<L>16089
+old 110124: <lang n="greek"></lang>.
+new 110124: <lang n="greek">οἶδα</lang>.
+
+<L>16137
+old 110456: <lang n="greek"></lang>;
+new 110456: <lang n="greek">οἶϰος</lang>;
+
+;<L>16479 previously changed
+;old 112566: <lang n="greek">χ</lang>
+;new 112566: <lang n="greek">χ</lang>
+
+<L>16490
+<P>{%śakuni%}
+old 112652: <lang n="greek"></lang>;
+new 112652: <lang n="greek">ϰίϰυμος</lang>;
+
+<L>16493
+old 112691: <lang n="greek"></lang>;
+new 112691: <lang n="greek">ϰόπρος</lang>;
+
+<L>16511
+old 112893: <lang n="greek"></lang>;
+new 112893: <lang n="greek">ϰόγχη</lang>;
+
+<L>16524
+old 113000: <lang n="greek"></lang>;
+new 113000: <lang n="greek">ϰάνναϐις</lang>;
+
+<L>16528
+old 113035: <lang n="greek"></lang>;
+new 113035: <lang n="greek">ἑϰατόν</lang>;
+
+<P>{%śatadru%}
+old 113063: <lang n="greek"></lang>
+new 113063: <lang n="greek">Ζάδαδρος</lang>;
+
+<L>16579
+old 113592: <lang n="greek"></lang>.
+new 113592: <lang n="greek">ϰάραϐος</lang>.
+
+<L>16606
+old 113733: <lang n="greek"></lang>.
+new 113733: <lang n="greek">ϰερραυνός</lang>.
+
+<L>16609
+old 113748: <lang n="greek"></lang>
+new 113748: <lang n="greek">σάϰχαρον, ϰάχλιξ</lang>;
+
+<L>16617
+old 113802: <lang n="greek"></lang>.
+new 113802: <lang n="greek">Κέρϐερος</lang>.
+
+<L>16700
+old 114366: <lang n="greek"></lang>;
+new 114366: <lang n="greek">ἀϰόνη</lang>;
+
+<L>16808
+<P>{%śiras%}
+old 115212: <lang n="greek"></lang>;
+new 115212: <lang n="greek">ϰάρη, ϰάρηνον, ϰρανίον, ϰέρας</lang>;
+
+<L>16852
+old 115622: <lang n="greek"></lang>;
+new 115622: <lang n="greek">ϰεῖμαι</lang>;
+
+<L>16871
+old 115831: <lang n="greek"></lang>.
+new 115831: <lang n="greek">ϰόρση</lang>.
+
+<L>16900
+old 116132: <lang n="greek"></lang>
+new 116132: <lang n="greek">Ζάδαδρος</lang>;
+
+<L>16933
+old 116387: <lang n="greek"></lang>.
+new 116387: <lang n="greek">σαυϰρός, σαυλός, σαχνός</lang>.
+
+<L>16944
+old 116491: <lang n="greek"></lang>.
+new 116491: <lang n="greek">ϰενός</lang>.
+
+<L>16947
+old 116513: <lang n="greek"></lang>.
+new 116513: <lang n="greek">ϰῦρος, ϰύριος</lang>.
+
+<L>17059
+old 117296: <lang n="greek"></lang>
+new 117296: <lang n="greek">ϰύανος</lang>;
+old 117297: <lang n="greek"></lang>.
+new 117297: <lang n="greek">ϰύαμος</lang>.
+
+<L>17090
+<P>{%śravaṇa%}
+old 117504: <lang n="greek"></lang>
+new 117504: <lang n="greek">α, β, γ</lang>
+
+<P>{%śravas%}
+old 117508: <lang n="greek"></lang>.
+new 117508: <lang n="greek">ϰλέος</lang>.
+
+<L>17118
+old 117795: <lang n="greek"></lang>;
+new 117795: <lang n="greek">ϰλύω, ϰλυτός</lang>;
+
+<L>17124
+old 117856: <lang n="greek"></lang>.
+new 117856: <lang n="greek">ϰλῦθι</lang>.
+
+<L>17127
+<P>{%śreṇika%}
+old 117873: <lang n="greek"></lang>.
+new 117873: <lang n="greek">σϰήνη</lang>.
+
+<L>17135
+old 117926: <lang n="greek"></lang>;
+new 117926: <lang n="greek">ϰλόνις</lang>;
+
+<L>17166
+old 118123: <lang n="greek"></lang>
+new 118123: <lang n="greek">ϰύων, ϰυνός</lang>;
+
+<L>17172
+old 118199: <lang n="greek"></lang>;
+new 118199: <lang n="greek">ἑϰυρός</lang>;
+
+<P>{%śvaśrū%}
+old 118205: <lang n="greek"></lang>;
+new 118205: <lang n="greek">ἑϰυρά</lang>;
+
+<L>17179
+old 118262: <lang n="greek"></lang>.
+new 118262: <lang n="greek">ϰύω, ϰῦμα</lang>.
+
+<L>17206
+old 118568: <lang n="greek"></lang>;
+new 118568: <lang n="greek">ἕξ</lang>;
+
+<L>17208
+old 118595: <lang n="greek"></lang>;
+new 118595: <lang n="greek">ἕϰτος</lang>;
+
+<L>17257
+old 118860: <lang n="greek"></lang>,
+new 118860: <lang n="greek">σάττω, σάγη</lang>,
+
+<L>17262
+old 118885: <lang n="greek"></lang>.
+new 118885: <lang n="greek">ἀδελφός</lang>.
+
+<L>17309
+<P>{%saṅgama%}
+old 119201: <lang n="greek"></lang>;
+new 119201: <lang n="greek">γάμος</lang>;
+
+<L>17333
+old 119373: <lang n="greek"></lang>;
+new 119373: <lang n="greek">ἕπομαι</lang>;
+
+<L>17421
+old 119888: <lang n="greek"></lang>.
+new 119888: <lang n="greek">ἐτεός</lang>.
+
+<L>17430
+old 119990: <lang n="greek"></lang>.
+new 119990: <lang n="greek">ὁδός</lang>.
+
+<L>17517
+<P>{%sandhicaura%}
+old 120542: <lang n="greek"></lang>.
+new 120542: <lang n="greek">τοιχώρυχος</lang>.
+
+<L>17557
+old 120824: <lang n="greek"></lang>.
+new 120824: <lang n="greek">ἕπομαι</lang>.
+
+<L>17568
+old 120884: <lang n="greek"></lang>;
+new 120884: <lang n="greek">ἑπτά</lang>;
+
+<P>{%saptama%}
+old 120914: <lang n="greek"></lang>;
+new 120914: <lang n="greek">ἕϐδομος</lang>;
+
+<L>17583
+old 121019: <lang n="greek"></lang>;
+new 121019: <lang n="greek">σύν</lang>;
+
+<L>17585
+old 121032: <lang n="greek"></lang>;
+new 121032: <lang n="greek">ὁμός</lang>;
+
+<L>17655
+old 121390: <lang n="greek"></lang>.
+new 121390: <lang n="greek">ἅμα</lang>.
+
+<L>17932
+old 123054: <lang n="greek"></lang>.
+new 123054: <lang n="greek">συμπίνω</lang>.
+
+<L>17934
+old 123066: <lang n="greek"></lang>.
+new 123066: <lang n="greek">συμπόσιον</lang>.
+
+<L>18046
+old 123714: <lang n="greek"></lang>.
+new 123714: <lang n="greek">ὀμόργνυμι</lang>.
+
+<L>18153
+old 124349: <lang n="greek"></lang>.
+new 124349: <lang n="greek">ἓλος</lang>.
+
+<L>18186
+old 124559: <lang n="greek"></lang>;
+new 124559: <lang n="greek">ἑρπετόν</lang>;
+
+<L>18193
+old 124812: <lang n="greek"></lang>;
+new 124812: <lang n="greek">ἅλλομαι</lang>;
+
+<L>18194
+old 124817: <lang n="greek"></lang>;
+new 124817: <lang n="greek">σάλος, ἃλς</lang>;
+
+<L>18208
+old 124921: <lang n="greek"></lang>;
+new 124921: <lang n="greek">σϰαιός</lang>;
+
+<L>18227
+old 125043: <lang n="greek"></lang>.
+new 125043: <lang n="greek">ἔχω, σχῶ, ἴσχω</lang>.
+
+<L>18228
+old 125050: <lang n="greek"></lang>.
+new 125050: <lang n="greek">ὀχός</lang>.
+
+<L>18434
+old 126366: <lang n="greek"></lang>;
+new 126366: <lang n="greek">ἡμι</lang>;
+
+<L>18468
+old 126559: E<lang n="greek"></lang>.
+new 126559: <lang n="greek">Ἑρμείας</lang>.
+
+<L>18607
+old 127524: <lang n="greek"></lang>.
+new 127524: <lang n="greek">σῖτος</lang>.
+
+<L>18619
+old 127610: <lang n="greek"></lang>
+new 127610: <lang n="greek">ὕω</lang>
+
+<L>18622
+old 127624: <lang n="greek"></lang>;
+new 127624: <lang n="greek">εὐ</lang>;
+
+<L>18755
+old 128401: <lang n="greek"></lang>.
+new 128401: <lang n="greek">εὐμενής</lang>.
+
+<L>18762
+old 128445: <lang n="greek"></lang>.
+new 128445: <lang n="greek">ὑμνος</lang>.
+
+<P>{%sumnāyāmi%}
+old 128449: <lang n="greek"></lang>.
+new 128449: <lang n="greek">ὑμνέω</lang>.
+
+<L>18772
+<P>{%suraṅgayuj%}
+old 128509: <lang n="greek"></lang>.
+new 128509: <lang n="greek">τοιχώρυχος</lang>.
+
+<L>18825
+old 128787: <lang n="greek"></lang>.
+new 128787: <lang n="greek">Εὐρώπη</lang>.
+
+<L>18968
+old 129719: <lang n="greek"></lang>;
+new 129719: <lang n="greek">ἕρπω</lang>;
+
+<L>18994
+old 129887: <lang n="greek"></lang>.
+new 129887: <lang n="greek">σέϐομαι</lang>.
+
+<L>19111
+old 130587: <lang n="greek"></lang>.
+new 130587: <lang n="greek">Κάνδαος</lang>.
+
+<L>19124
+old 130722: <lang n="greek"></lang>;
+new 130722: <lang n="greek">στένω</lang>;
+
+<L>19144
+old 130875: <lang n="greek"></lang>.
+new 130875: <lang n="greek">στείχω</lang>.
+
+<L>19151
+old 130912: <lang n="greek"></lang>
+new 130912: <lang n="greek">στόμα</lang>
+
+<L>19161
+old 130965: <lang n="greek"></lang>;
+new 130965: <lang n="greek">τύμϐος</lang>;
+
+<L>19163
+old 130982: <lang n="greek"></lang>.
+new 130982: <lang n="greek">στορέννυμι</lang>.
+
+<L>19200
+old 131232: <lang n="greek"></lang>;
+new 131232: <lang n="greek">ἵστημι</lang>;
+
+<L>19204
+old 131260: <lang n="greek"></lang>,
+new 131260: <lang n="greek">σθένος</lang>,
+
+<L>19220
+old 131393: <lang n="greek"></lang>.
+new 131393: <lang n="greek">στερεός</lang>.
+
+<L>19241
+old 131596: <lang n="greek"></lang>;
+new 131596: <lang n="greek">νάω</lang>;
+
+<L>19252
+old 131668: <lang n="greek"></lang>.
+new 131668: <lang n="greek">νάω, νέω</lang>.
+
+<L>19254
+old 131679: <lang n="greek"></lang>.
+new 131679: <lang n="greek">νυός</lang>.
+
+<L>19291
+old 131930: <lang n="greek"></lang>;
+new 131930: <lang n="greek">σφάλλω</lang>;
+
+<L>19339
+old 132242: <lang n="greek"></lang>;
+new 132242: <lang n="greek">μερίμνα, μάρτυς</lang>;
+
+<L>19376
+old 132475: <lang n="greek"></lang>;
+new 132475: <lang n="greek">ῥέω, ῥεύσω</lang>;
+
+<L>19384
+old 132535: <lang n="greek"></lang>,
+new 132535: <lang n="greek">οὖ, σφέ</lang>,
+
+<L>19406
+old 132646: <lang n="greek"></lang>.
+new 132646: <lang n="greek">ἁνδάνω</lang>.
+
+<L>19416
+old 132712: <lang n="greek"></lang>;
+new 132712: <lang n="greek">ὕπνος</lang>;
+
+<L>19422
+old 132768: <lang n="greek"></lang> ? <lang n="greek"></lang>.
+new 132768: <lang n="greek">σέλας</lang>, ? <lang n="greek">ούρανός</lang>
+
+<L>19449
+old 133039: <lang n="greek"></lang>.
+new 133039: <lang n="greek">ἥδομαι</lang>.
+
+<L>19451
+old 133053: <lang n="greek"></lang>;
+new 133053: <lang n="greek">ἡδύς</lang>;
+
+<L>19469
+old 133192: <lang n="greek"></lang>;
+new 133192: <lang n="greek">ἱδρώς</lang>;
+
+<L>19497
+old 133395: <lang n="greek"></lang>.
+new 133395: <lang n="greek">χέζω</lang>.
+
+<L>19498
+old 133409: <lang n="greek"></lang>;
+new 133409: <lang n="greek">ἔθανον, θάνατος</lang>;
+
+<L>19501
+old 133426: <lang n="greek"></lang>;
+new 133426: <lang n="greek">γένυς</lang>;
+
+<L>19513
+old 133520: <lang n="greek"></lang>.
+new 133520: <lang n="greek">χείρ</lang>.
+
+<L>19549
+old 133898: {%y%}
+new 133898: <lang n="greek">γ</lang>
+old 133899: <lang n="greek"></lang>
+new 133899: <lang n="greek">δ</lang>
+
+<L>19558
+old 133996: <lang n="greek"></lang>;
+new 133996: <lang n="greek">χήν</lang>;
+
+<L>19628
+old 134429: <lang n="greek"></lang>;
+new 134429: <lang n="greek">χεῖμα, χιών</lang>;
+
+<P>{%himavat%}
+old 134449: <lang n="greek"></lang>;
+new 134449: <lang n="greek">Ἴμαος</lang>;
+
+<L>19651
+old 134658: <lang n="greek"></lang>.
+new 134658: <lang n="greek">θύω</lang>.
+
+<L>19675
+old 134790: <lang n="greek"></lang>
+new 134790: <lang n="greek">χείρ; χράομαι</lang>
+
+<L>19679
+old 134817: <lang n="greek"></lang>;
+new 134817: <lang n="greek">ϰέαρ</lang>;
+
+<P>{%hṛdaya%}
+old 134825: <lang n="greek"></lang>.
+new 134825: <lang n="greek">ϰαρδία</lang>.
+
+<L>19680
+old 134886: <lang n="greek"></lang>;
+new 134886: <lang n="greek">χαίρω</lang>;
+
+<L>19709
+old 135091: <lang n="greek"></lang>
+new 135091: <lang n="greek">ἥλιος</lang>
+
+<L>19728
+old 135211: <lang n="greek"></lang>)
+new 135211: <lang n="greek">ὥρα</lang>)
+
+<L>19736
+old 135253: <lang n="greek"></lang>.
+new 135253: <lang n="greek">χθές</lang>.
+
+<L>19763
+old 135407: <lang n="greek"></lang>.
+new 135407: <lang n="greek">χρεμέθω</lang>.
+

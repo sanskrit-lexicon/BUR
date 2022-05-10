@@ -1,0 +1,3257 @@
+; =====================================================
+; <L>2<pc>005,1<k1>a
+19 old <lang n="greek"></lang>; <ab>lat.</ab> {%in;%} <ab>germ.</ab> {%un.%}
+19 new <lang n="greek">α, αν</lang>; <ab>lat.</ab> {%in;%} <ab>germ.</ab> {%un.%}
+;
+; =====================================================
+; <L>4<pc>005,1<k1>ak
+31 old <lang n="greek"></lang>.
+31 new <lang n="greek">ἀγἠς, ἀγϰὐλος</lang>.
+;
+; =====================================================
+; <L>47<pc>006,2<k1>akza
+262 old <lang n="greek"></lang>; <ab>lat.</ab> axis; <ab>germ.</ab> achse. || Osselet, dé oblong, puis cubique;
+262 new <lang n="greek">ἄξων</lang>; <ab>lat.</ab> axis; <ab>germ.</ab> achse. || Osselet, dé oblong, puis cubique;
+;
+; =====================================================
+; <L>68<pc>007,1<k1>akzi
+394 old <lang n="greek"></lang>; <ab>lat.</ab> oculus.
+394 new <lang n="greek">ἄϰϰος</lang>;  <ab>lat.</ab> oculus.
+;
+; =====================================================
+; <L>101<pc>008,1<k1>agni
+555 old <lang n="greek"></lang>; <ab>lat.</ab> ignis.
+555 new <lang n="greek">ἀγλαός, αἴγλη</lang>; <ab>lat.</ab> ignis.
+;
+; =====================================================
+; <L>102<pc>008,2<k1>agra
+644 old <lang n="greek"></lang> etc. <ab>Lat.</ab> acus, acutus.
+644 new <lang n="greek">ἀϰή, ἄϰρος</lang>, etc. <ab>Lat.</ab> acus, acutus.
+;
+; =====================================================
+; <L>116<pc>009,1<k1>aGa
+738 old <lang n="greek"></lang>, [par le déplacement de l'aspiration].
+738 new <lang n="greek">ἅγος</lang>, [par le déplacement de l'aspiration].
+;
+; =====================================================
+; <L>126<pc>009,2<k1>aNkura
+803 old <lang n="greek"></lang>.
+803 new <lang n="greek">ἄγϰυρα</lang>.
+;
+; =====================================================
+; <L>135<pc>009,2<k1>aNg
+842 old <lang n="greek"></lang>.
+842 new <lang n="greek">ἄγγαρος, ἄγγελος</lang>.
+;
+; =====================================================
+; <L>176<pc>011,1<k1>aj
+1105 old <lang n="greek"></lang>; <ab>lat.</ab> ago.
+1105 new <lang n="greek">ἄγω</lang>; <ab>lat.</ab> ago.
+;
+; =====================================================
+; <L>177<pc>011,1<k1>aja
+1110 old <lang n="greek"></lang>; <ab>lat.</ab> axis, agnus. || {%aja%} est probablt. le nom de
+1110 new <lang n="greek">αἴξ</lang>; <ab>lat.</ab> axis, agnus. || {%aja%} est probablt. le nom de
+;
+; =====================================================
+; <L>265<pc>013,1<k1>at
+1577 old <lang n="greek"></lang>.
+1577 new <lang n="greek">ὁδός</lang>.
+;
+; =====================================================
+; <L>337<pc>015,1<k1>attA
+1953 old <lang n="greek"></lang>.
+1953 new <lang n="greek">ἄττα</lang>.
+;
+; =====================================================
+; <L>357<pc>015,2<k1>aTa
+2062 old <lang n="greek"></lang>. II se place avant une citation et, avec {%iti,%} forme une
+2062 new <lang n="greek">δἐ</lang>. II se place avant une citation et, avec {%iti,%} forme une
+;
+; =====================================================
+; <L>360<pc>015,2<k1>ad
+2090 old <lang n="greek"></lang>; <ab>lat.</ab> edo; <ab>lith.</ab> edmi; <ab>angl.</ab> eat.
+2090 new <lang n="greek">ἔδω, ἐσθίω</lang>; <ab>lat.</ab> edo; <ab>lith.</ab> edmi; <ab>angl.</ab> eat.
+;
+; =====================================================
+; <L>375<pc>016,1<k1>aditi
+2157 old <lang n="greek"></lang> des Orphiques.
+2157 new <lang n="greek">Αττις</lang> des Orphiques.
+;
+; =====================================================
+; <L>484<pc>019,1<k1>an
+2768 old <lang n="greek"></lang>; <ab>lat.</ab> animus, <lbinfo n="4"/> etc.
+2768 new <lang n="greek">ἄημι, ἄνεμος</lang>; <ab>lat.</ab> animus, <lbinfo n="4"/> etc.
+;
+; =====================================================
+; <L>759<pc>028,1<k1>antar
+4321 old <lang n="greek"></lang>; <ab>goth.</ab> undar; <ab>germ.</ab> unter.
+4321 new <lang n="greek">ἐντός</lang>; <ab>goth.</ab> undar; <ab>germ.</ab> unter.
+;
+; =====================================================
+; <L>798<pc>029,1<k1>anti
+4532 old <lang n="greek"></lang>, <ab>lat.</ab> antè.
+4532 new <lang n="greek">ἀντί</lang>; <ab>lat.</ab> antè.
+;
+; =====================================================
+; <L>804<pc>029,1<k1>antra
+4572 old <lang n="greek"></lang>.
+4572 new <lang n="greek">ἔντερον</lang>.
+;
+; =====================================================
+; <L>815<pc>029,2<k1>anna
+4639 old <lang n="greek"></lang>; <ab>lat.</ab> annona, et peut-être annus [l'année comptée par les
+4639 new <lang n="greek">ἔνος, ἔννος</lang>; <ab>lat.</ab> annona, et peut-être annus [l'année comptée par les
+;
+; =====================================================
+; <L>816<pc>029,2<k1>anya
+4653 old <lang n="greek"></lang>; <ab>lat.</ab> alius. || Comp. {%anyatara%} l'autre [entre deux] <ab>lat.</ab>
+4653 new <lang n="greek">ἄλλος</lang>; <ab>lat.</ab> alius. || Comp. {%anyatara%} l'autre [entre deux] <ab>lat.</ab>
+;
+4663 old <lang n="greek"></lang>; <ab>lat.</ab> aliuta.
+4663 new <lang n="greek">ἄλλοτε</lang>; <ab>lat.</ab> aliuta.
+;
+; =====================================================
+; <L>825<pc>030,1<k1>anyonya
+4711 old <lang n="greek"></lang>.
+4711 new <lang n="greek">ἀλλήλων</lang>.
+;
+; =====================================================
+; <L>847<pc>030,2<k1>ap
+4833 old <lang n="greek"></lang>. <ab>Cf.</ab> {%apnas.%}
+4833 new <lang n="greek">ἀφρός</lang>. <ab>Cf.</ab> {%apnas.%}
+;
+; =====================================================
+; <L>848<pc>030,2<k1>apa
+4840 old <lang n="greek"></lang>; <ab>lat.</ab> ab; <ab>goth.</ab> af; <ab>angl.</ab> of.
+4840 new <lang n="greek">ἀπὸ</lang>; <ab>lat.</ab> ab; <ab>goth.</ab> af; <ab>angl.</ab> of.
+;
+; =====================================================
+; <L>869<pc>031,1<k1>apatrape
+; ; <P>{%apatrapā%} (COMMENT)
+4972 old <lang n="greek"></lang>.
+4972 new <lang n="greek">ἐντροπή</lang>.
+;
+; =====================================================
+; <L>967<pc>034,1<k1>api
+5503 old <lang n="greek"></lang>.
+5503 new <lang n="greek">ἐπί</lang>.
+;
+; =====================================================
+; <L>1276<pc>042,2<k1>aBra
+7192 old <lang n="greek"></lang>.
+7192 new <lang n="greek">ὄμϐρος</lang>.
+;
+; =====================================================
+; <L>1296<pc>043,2<k1>amasa
+7326 old <lang n="greek"></lang> pour
+7326 new <lang n="greek">ἆμαρ</lang> pour
+;
+7327 old <lang n="greek"></lang> pour
+7327 new <lang n="greek">ἦμαρ, ἡμέρα</lang> pour
+;
+7328 old <lang n="greek"></lang> -- {%(am%} 10) maladie; || idiot; tête dure.
+7328 new <lang n="greek">σημέρα</lang>. -- {%(am%} 10) maladie; || idiot; tête dure.
+;
+; =====================================================
+; <L>1315<pc>044,1<k1>amfta
+7441 old <lang n="greek"></lang> etc.
+7441 new <lang n="greek">ἄϐροτος, ἀμβροσὶα</lang>, etc.
+;
+; =====================================================
+; <L>1329<pc>045,1<k1>amBas
+7610 old <lang n="greek"></lang>. <ab>Cf.</ab> {%ambu%} et {%abhra.%}
+7610 new <lang n="greek">ἄφρος, ὄμϐρος</lang>. <ab>Cf.</ab> {%ambu%} et {%abhra.%}
+;
+; =====================================================
+; <L>1373<pc>046,1<k1>araRi
+7867 old <lang n="greek"></lang>.
+7867 new <lang n="greek">ἔρνος</lang>.
+;
+; =====================================================
+; <L>1394<pc>047,1<k1>arita
+7980 old <lang n="greek"></lang>.
+7980 new <lang n="greek">ἐρἑσσω</lang>.
+;
+; =====================================================
+; <L>1422<pc>048,1<k1>arj
+8187 old <lang n="greek"></lang>.
+8187 new <lang n="greek">ἔργον</lang>.
+;
+; =====================================================
+; <L>1434<pc>048,2<k1>arT
+8255 old <lang n="greek"></lang>.
+8255 new <lang n="greek">αἰτέω</lang>.
+;
+; =====================================================
+; <L>1435<pc>048,2<k1>arTa
+8267 old <lang n="greek"></lang>.
+8267 new <lang n="greek">αἰτία</lang>.
+;
+; =====================================================
+; <L>1451<pc>049,2<k1>arpayAmi
+8416 old <lang n="greek"></lang>.
+8416 new <lang n="greek">Ὄλυμπος</lang>.
+;
+; =====================================================
+; <L>1457<pc>049,2<k1>arya
+8449 old <lang n="greek"></lang> etc.; <ab>goth.</ab> êra; <ab>germ.</ab> ehre, Ehrmann [Arminius]; <ab>angl.</ab>
+8449 new <lang n="greek">Ἀριάδνη</lang>, etc.; <ab>goth.</ab> êra; <ab>germ.</ab> ehre, Ehrmann [Arminius]; <ab>angl.</ab>
+;
+; =====================================================
+; <L>1462<pc>049,2<k1>arvan
+8475 old <lang n="greek"></lang> le cheval primitif; A'<lang n="greek"></lang> le mont du cheval; Arvern, <lbinfo n="5"/> les
+8475 new <lang n="greek">ἀρίων</lang> le cheval primitif; <lang n="greek">Ἀροάνιος</lang> le mont du cheval; Arvern, <lbinfo n="5"/> les
+;
+; =====================================================
+; <L>1482<pc>050,2<k1>alam
+8620 old <lang n="greek"></lang>. || Interjection: assez ! avec l'<ab>i.</ab> ou le <ab>gér.</ab>
+8620 new <lang n="greek">ἄλις</lang>. || Interjection: assez ! avec l'<ab>i.</ab> ou le <ab>gér.</ab>
+;
+; =====================================================
+; <L>1692<pc>057,1<k1>avi
+9838 old <lang n="greek"></lang>; <ab>lith.</ab> awi; <ab>goth.</ab> avistr; <ab>angl.</ab> ewe.
+9838 new <lang n="greek">ὄϊς</lang>; <ab>lith.</ab> awi; <ab>goth.</ab> avistr; <ab>angl.</ab> ewe.
+;
+; =====================================================
+; <L>1762<pc>059,1<k1>aS
+10204 old <lang n="greek"></lang>.
+10204 new <lang n="greek">ἐσθίω</lang>.
+;
+; =====================================================
+; <L>1763<pc>059,1<k1>aSakta
+10210 old <lang n="greek"></lang>.
+10210 new <lang n="greek">ἄϰιϰυς</lang>.
+;
+; =====================================================
+; <L>1779<pc>059,2<k1>aSiraska
+10295 old <lang n="greek"></lang>.
+10295 new <lang n="greek">ἀϰάρηνος</lang>.
+;
+; =====================================================
+; <L>1796<pc>060,1<k1>aSma
+; ;<P>{%aśmagarbha%} (COMMENT)
+10388 old <lang n="greek"></lang>; <ab>cf.</ab> {%marakata.%}
+10388 new <lang n="greek">σμαραγδος</lang>; <ab>cf.</ab> {%marakata.%}
+;
+; =====================================================
+; <L>1797<pc>060,1<k1>aSman
+10398 old <lang n="greek"></lang>.
+10398 new <lang n="greek">ἄϰμων</lang>.
+;
+; =====================================================
+; <L>1810<pc>060,1<k1>aSru
+10469 old <lang n="greek"></lang>; <ab>lat.</ab> lacryma. <lbinfo n="6"/> [{%aśru%} est probablement abrégé de
+10469 new <lang n="greek">δάϰρυ</lang>; <ab>lat.</ab> lacryma. <lbinfo n="6"/> [{%aśru%} est probablement abrégé de
+;
+; =====================================================
+; <L>1817<pc>060,2<k1>aSva
+10509 old <lang n="greek"></lang>] Zd. aspa; <ab>lith.</ab> aszwa; <ab>lat.</ab> equus; <ab>gr.</ab>
+10509 new <lang n="greek">ἰϰνέομαι</lang>] Zd. aspa; <ab>lith.</ab> aszwa; <ab>lat.</ab> equus; <ab>gr.</ab>
+;
+10510 old <lang n="greek"></lang>. || <ab>Cf.</ab> {%arvan.%}
+10510 new <lang n="greek">ἵππος</lang>. || <ab>Cf.</ab> {%arvan.%}
+;
+; =====================================================
+; <L>1851<pc>061,2<k1>azwan
+10700 old <lang n="greek"></lang>; <ab>lat.</ab> octo; <ab>goth.</ab> ohtau; <ab>lith.</ab> asztuni; <ab>germ.</ab> acht; <ab>angl.</ab> eight;
+10700 new <lang n="greek">ὀϰτώ</lang>; <ab>lat.</ab> octo; <ab>goth.</ab> ohtau; <ab>lith.</ab> asztuni; <ab>germ.</ab> acht; <ab>angl.</ab> eight;
+;
+; =====================================================
+; <L>1855<pc>061,2<k1>as
+; ; both strings merged together, as are throughout the text when only a punctuation is in between the strings. (COMMENT)
+10759 old <lang n="greek"></lang> (<lang n="greek"></lang>); <ab>lat.</ab> esse; <ab>lith.</ab> esmi; <ab>germ.</ab> ist.
+10759 new <lang n="greek">εἰμι (εσμι)</lang>; <ab>lat.</ab> esse; <ab>lith.</ab> esmi; <ab>germ.</ab> ist.
+;
+; =====================================================
+; <L>1863<pc>062,1<k1>asat
+10799 old <lang n="greek"></lang>; le mal métaphysique; <lbinfo n="9"/> le mal moral.
+10799 new <lang n="greek">τὸ μή ὄν</lang>; le mal métaphysique; <lbinfo n="9"/> le mal moral.
+;
+; =====================================================
+; <L>1887<pc>062,2<k1>asavas
+10928 old <lang n="greek"></lang>.
+10928 new <lang n="greek">ἀάζω, ἄσθμα</lang>.
+;
+; =====================================================
+; <L>1919<pc>063,2<k1>asura
+11086 old Ahuramazda; <ab>gr.</ab> 'O<lang n="greek"></lang> Ormuzd.
+11086 new Ahuramazda; <ab>gr.</ab> <lang n="greek">Ὀρομάσδης</lang>. Ormuzd.
+;
+; =====================================================
+; <L>1941<pc>064,2<k1>asTi
+11235 old <lang n="greek"></lang>; <ab>lat.</ab> os, ossis. || <ab>M§</ab> 109.
+11235 new <lang n="greek">ὀστέον</lang>; <ab>lat.</ab> os, ossis. || <ab>M§</ab> 109.
+;
+; =====================================================
+; <L>1947<pc>064,2<k1>asmat
+11276 old <lang n="greek"></lang>, etc.
+11276 new <lang n="greek">ἄμμες, ἄμμας, ἄμμιν</lang>, etc.
+;
+; =====================================================
+; <L>1957<pc>065,1<k1>asvapna
+11336 old <lang n="greek"></lang>.
+11336 new <lang n="greek">ἄϋπνος</lang>.
+;
+; =====================================================
+; <L>1961<pc>065,1<k1>asvasTa
+; ;<P>{%asvasthatā%} (COMMENT)
+11359 old <lang n="greek"></lang>.
+11359 new <lang n="greek">ἀσθενής</lang>.
+;
+; =====================================================
+; <L>1968<pc>065,1<k1>aham
+11395 old <lang n="greek"></lang>; <ab>germ.</ab> ich; breton, am.
+11395 new <lang n="greek">ἐγὼν, ἐγώ</lang>; <ab>germ.</ab> ich; breton, am.
+;
+; =====================================================
+; <L>1971<pc>065,2<k1>ahas
+11443 old <ab>Gr.</ab> <lang n="greek"></lang>;
+11443 new <ab>Gr.</ab> <lang n="greek">ἥως, ἕως</lang>;
+;
+11444 old éolien  <lang n="greek"></lang>.
+11444 new éolien  <lang n="greek">αὔως</lang>.
+;
+; =====================================================
+; <L>1974<pc>065,2<k1>ahi
+11462 old <lang n="greek"></lang>; <ab>lat.</ab> anguis.
+11462 new <lang n="greek">ἔχις, ὄφις</lang>; <ab>lat.</ab> anguis.
+;
+; =====================================================
+; <L>1999<pc>066,2<k1>aMh
+11617 old <lang n="greek"></lang>.
+11617 new <lang n="greek">ἄρχω</lang>.
+;
+; =====================================================
+; <L>2005<pc>067,1<k1>A
+11660 old l'<lang n="greek"></lang> grec dans
+11660 new l'<lang n="greek">α</lang> grec dans
+;
+11661 old <lang n="greek"></lang> venant de
+11661 new <lang n="greek">ἄλοχος, ἀδελφὸς, ἀϰόλουθος</lang> venant de
+;
+11662 old <lang n="greek"></lang>, etc.
+11662 new <lang n="greek">λέχος, δελφύς, ϰέλευθος</lang>, etc.
+;
+; =====================================================
+; <L>2010<pc>067,1<k1>AkalayAmi
+11697 old <lang n="greek"></lang>.
+11697 new <lang n="greek">ὀϰέλλω</lang>.
+;
+; =====================================================
+; <L>2049<pc>068,2<k1>Agas
+11970 old <lang n="greek"></lang>.
+11970 new <lang n="greek">ἄλος</lang>.
+;
+; =====================================================
+; <L>2139<pc>071,2<k1>Atman
+12477 old <lang n="greek"></lang>.
+12477 new <lang n="greek">αὐτός</lang>.
+;
+; =====================================================
+; <L>2292<pc>076,2<k1>Ama
+13463 old <lang n="greek"></lang>. 
+13463 new <lang n="greek">ὠμός</lang>. 
+;
+; =====================================================
+; <L>2347<pc>078,2<k1>Ayus
+13779 old <lang n="greek"></lang>, dorien
+13779 new <lang n="greek">αἰών, ἀεὶ</lang>, dorien
+;
+13780 old <lang n="greek"></lang>; <ab>lat.</ab> aevum, aetas.
+13780 new <lang n="greek">αἰές</lang>; <ab>lat.</ab> aevum, aetas.
+;
+; =====================================================
+; <L>2398<pc>080,1<k1>Ardra
+14049 old <lang n="greek"></lang>) humide, moite; mouillé, trempé; pluvieux. || Au <ab>fig.</ab> mou,
+14049 new <lang n="greek">ἄρδω</lang>) humide, moite; mouillé, trempé; pluvieux. || Au <ab>fig.</ab> mou,
+;
+; =====================================================
+; <L>2427<pc>081,1<k1>AlimpAmi
+14231 old <lang n="greek"></lang>.
+14231 new <lang n="greek">ἀλείφω</lang>.
+;
+; =====================================================
+; <L>2503<pc>083,1<k1>ASu
+14693 old <lang n="greek"></lang>.
+14693 new <lang n="greek">ὠϰύς</lang>.
+;
+14702 old <lang n="greek"></lang>.
+14702 new <lang n="greek">ὠϰύτης</lang>.
+;
+; =====================================================
+; <L>2590<pc>086,1<k1>i
+; ; merged both the strings together in (15920) (COMMENT)
+15290 old <lang n="greek"></lang> 
+15290 new <lang n="greek">εἶμι (ι) ἴμεν, ἴθι</lang>, 
+;
+15292 old <lang n="greek"></lang>, etc.; <ab>lat.</ab> ire, eo, iri, etc.; <ab>lith.</ab> eimi; <ab>slav.</ab> iti; <ab>got.</ab>
+15292 new NIL etc.; <ab>lat.</ab> ire, eo, iri, etc.; <ab>lith.</ab> eimi; <ab>slav.</ab> iti; <ab>got.</ab>
+;
+; =====================================================
+; <L>2596<pc>087,1<k1>iK
+15347 old <lang n="greek"></lang>.
+15347 new <lang n="greek">εἴϰω, οἴχομαι</lang>.
+;
+; =====================================================
+; <L>2646<pc>089,2<k1>inD
+15774 old <lang n="greek"></lang>. <ab>Lat.</ab> aestus, aestas; <ab>got.</ab> eit, feu.
+15774 new <lang n="greek">αἴθω, αἰθήρ</lang>. <ab>Lat.</ab> aestus, aestas; <ab>got.</ab> eit, feu.
+;
+; =====================================================
+; <L>2649<pc>089,2<k1>iBa
+15793 old <lang n="greek"></lang>, avec l'article sémitique {%al;%} <ab>lat.</ab> ebur; <ab>fr.</ab> ivoire.
+15793 new <lang n="greek">ἐλέας</lang>, avec l'article sémitique {%al;%} <ab>lat.</ab> ebur; <ab>fr.</ab> ivoire.
+;
+; =====================================================
+; <L>2674<pc>090,1<k1>il
+15935 old <lang n="greek"></lang>; <ab>germ.</ab> eile; <ab>got.</ab> îllu.
+15935 new <lang n="greek">ἐλάω, ἐλαύνω</lang>; <ab>germ.</ab> eile; <ab>got.</ab> îllu.
+;
+; =====================================================
+; <L>2709<pc>091,1<k1>Ikz
+16144 old <lang n="greek"></lang>. <ab>Cf.</ab> {%akṣi, akṣa.%}
+16144 new <lang n="greek">ὄσσομαι</lang>. <ab>Cf.</ab> {%akṣi, akṣa.%}
+;
+; =====================================================
+; <L>2719<pc>092,1<k1>Idfk
+16225 old <lang n="greek"></lang> dans
+16225 new <lang n="greek">λιϰ</lang> dans
+;
+16226 old <lang n="greek"></lang>, etc.; et lis, dans le <ab>lat.</ab> talis, qualis, etc. || <ab>M§</ab> 113.
+16226 new <lang n="greek">ἡλίϰος, τηλίϰος</lang>, etc.; et lis, dans le <ab>lat.</ab> talis, qualis, etc. || <ab>M§</ab> 113.
+;
+; =====================================================
+; <L>2805<pc>095,2<k1>uW
+16837 old <lang n="greek"></lang>.
+16837 new <lang n="greek">ὠθῶ</lang>.
+;
+; =====================================================
+; <L>2847<pc>097,1<k1>uttara
+17154 old <lang n="greek"></lang> du Sagittaire.
+17154 new <lang n="greek">β</lang> du Sagittaire.
+;
+; =====================================================
+; <L>2905<pc>099,1<k1>uda
+17542 old <lang n="greek"></lang>. <ab>Lat.</ab> unda, udus; <ab>cf.</ab> 
+17542 new <lang n="greek">ὕδος, ὕδωρ, ὑάδες</lang>; <ab>Lat.</ab> unda, udus; <ab>cf.</ab> 
+;
+; =====================================================
+; <L>3009<pc>103,1<k1>udra
+18219 old <lang n="greek"></lang>.
+18219 new <lang n="greek">ἔνυδρις</lang>.
+;
+; =====================================================
+; <L>3038<pc>104,1<k1>und
+18393 old <lang n="greek"></lang>; <ab>cf.</ab> {%uda.%}
+18393 new <lang n="greek">ὕω, ὕδωρ</lang>; <ab>cf.</ab> {%uda.%}
+;
+; =====================================================
+; <L>3069<pc>105,1<k1>upa
+18608 old <lang n="greek"></lang>; <ab>lat.</ab> sub; <ab>got.</ab> uf; <ab>lith.</ab> po (pour upo).
+18608 new <lang n="greek">ὑπό</lang>; <ab>lat.</ab> sub; <ab>got.</ab> uf; <ab>lith.</ab> po (pour upo).
+;
+; =====================================================
+; <L>3112<pc>107,1<k1>upadaDAmi
+18923 old <lang n="greek"></lang>.
+18923 new <lang n="greek">ὑποτίθημι</lang>.
+;
+; =====================================================
+; <L>3152<pc>108,2<k1>upapadye
+19161 old <lang n="greek"></lang>. || Etre séant, convenir à, <ab>l.</ab> -- <ab>Pp.</ab> {%upapanna%} doué de,
+19161 new <lang n="greek">ὑπάρχειν</lang>. || Etre séant, convenir à, <ab>l.</ab> -- <ab>Pp.</ab> {%upapanna%} doué de,
+;
+; =====================================================
+; <L>3186<pc>110,1<k1>upari
+19374 old <lang n="greek"></lang>; <ab>lat.</ab> super; <ab>got.</ab> ufar; <ab>germ.</ab> über; <ab>angl.</ab> upon.
+19374 new <lang n="greek">ὺπέρ</lang>; <ab>lat.</ab> super; <ab>got.</ab> ufar; <ab>germ.</ab> über; <ab>angl.</ab> upon.
+;
+; =====================================================
+; <L>3190<pc>110,1<k1>upala
+19402 old <lang n="greek"></lang>; <ab>lat.</ab> opalus.
+19402 new <lang n="greek">ὤπαλος</lang>; <ab>lat.</ab> opalus.
+;
+; =====================================================
+; <L>3192<pc>110,1<k1>upalaBAmi
+19419 old <lang n="greek"></lang>.
+19419 new <lang n="greek">ὐπολαμαμϐάνω</lang>.
+;
+19427 old <lang n="greek"></lang>.
+19427 new <lang n="greek">ὑπὸληψις</lang>.
+;
+; =====================================================
+; <L>3241<pc>111,2<k1>upasarpAmi
+19703 old <lang n="greek"></lang>.
+19703 new <lang n="greek">ὑφέρπω</lang>.
+;
+; =====================================================
+; <L>3290<pc>113,2<k1>upAnah
+19991 old <lang n="greek"></lang>]. <ab>M§</ab> 112, 4°.
+19991 new <lang n="greek">ὑπόδημα</lang>]. <ab>M§</ab> 112, 4°.
+;
+; =====================================================
+; <L>3330<pc>114,2<k1>uBa
+20238 old <lang n="greek"></lang>; <ab>lat.</ab> ambo.
+20238 new <lang n="greek">ἄμφω</lang>; <ab>lat.</ab> ambo.
+;
+; =====================================================
+; <L>3343<pc>115,2<k1>uru
+20368 old <lang n="greek"></lang>. [Ce mot semble être une réduction de {%varu,%} racine
+20368 new <lang n="greek">εὐρύς</lang>. [Ce mot semble être une réduction de {%varu,%} racine
+;
+; =====================================================
+; <L>3395<pc>117,1<k1>uz
+20654 old <lang n="greek"></lang> <ab>(?)</ab>
+20654 new <lang n="greek">αὕω, αὖος</lang> <ab>(?)</ab>
+;
+; =====================================================
+; <L>3428<pc>118,1<k1>UDas
+20878 old <lang n="greek"></lang>; <ab>lat.</ab> uber; <ab>angl.</ab> udder; <ab>germ.</ab> ûtar, euter.
+20878 new <lang n="greek">οὖθαρ</lang>; <ab>lat.</ab> uber; <ab>angl.</ab> udder; <ab>germ.</ab> ûtar, euter.
+;
+; =====================================================
+; <L>3442<pc>119,1<k1>UrRA
+20974 old <lang n="greek"></lang>, etc.
+20974 new <lang n="greek">ἄρος, ἄριον</lang>, etc.
+;
+; =====================================================
+; <L>3446<pc>119,1<k1>UrdDa
+21007 old <lang n="greek"></lang>; gaël. ard.
+21007 new <lang n="greek">ὀρθός</lang>; gaël. ard.
+;
+; =====================================================
+; <L>3471<pc>120,2<k1>fkza
+; ; PREVIOUSLY entered (COMMENT)
+; ;old 21226: <lang n="greek">ἄρκτος</lang>; (COMMENT)
+; ;new 21226: <lang n="greek">ἄρκτος</lang>; (COMMENT)
+; =====================================================
+; <L>3481<pc>121,1<k1>fj
+21298 old <lang n="greek"></lang>; <ab>cf.</ab> {%ṛju.%} -- Frire; <ab>cf.</ab> {%bhṛj.%}
+21298 new <lang n="greek">ὀρέγω</lang>; <ab>cf.</ab> {%ṛju.%} -- Frire; <ab>cf.</ab> {%bhṛj.%}
+;
+; =====================================================
+; <L>3502<pc>122,1<k1>fBu
+21472 old <lang n="greek"></lang>.
+21472 new <lang n="greek">Ὀρφεύς</lang>.
+;
+; =====================================================
+; <L>3505<pc>122,1<k1>fzaBa
+21500 old <lang n="greek"></lang>.
+21500 new <lang n="greek">ἄρσην</lang>.
+;
+; =====================================================
+; <L>3515<pc>123,2<k1>eka
+21617 old <lang n="greek"></lang>.
+21617 new <lang n="greek">εἷς</lang>.
+;
+; =====================================================
+; <L>3521<pc>124,1<k1>ekatama
+21655 old <lang n="greek"></lang>.
+21655 new <lang n="greek">ἕϰαστος</lang>.
+;
+; =====================================================
+; <L>3522<pc>124,1<k1>ekatara
+21661 old <lang n="greek"></lang>.
+21661 new <lang n="greek">ἑϰάτερος</lang>.
+;
+; =====================================================
+; <L>3609<pc>126,2<k1>eD
+22141 old <lang n="greek"></lang> <ab>(?)</ab>
+22141 new <lang n="greek">οἶδος, οἰδάω</lang> <ab>(?)</ab>
+;
+; =====================================================
+; <L>3679<pc>129,2<k1>Ezamas
+22504 old <lang n="greek"></lang>.
+22504 new <lang n="greek">σῆτες, σήμερον</lang>.
+;
+; =====================================================
+; <L>3684<pc>129,1<k1>oka
+22538 old <lang n="greek"></lang>; <ab>lith.</ab> ûkis. <ab>Cf.</ab> {%veśa.%}
+22538 new <lang n="greek">οἷϰος</lang>; <ab>lith.</ab> ûkis. <ab>Cf.</ab> {%veśa.%}
+;
+; =====================================================
+; <L>3689<pc>129,1<k1>oGa
+22571 old <lang n="greek"></lang> <ab>(?)</ab>.
+22571 new <lang n="greek">ὠϰεανός; ὄχλος</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>3774<pc>133,1<k1>kaK
+23081 old <lang n="greek"></lang>.
+23081 new <lang n="greek">ϰαχάζω, ϰαγχάζω</lang>.
+;
+; =====================================================
+; <L>3790<pc>133,2<k1>kaNkAla
+23165 old <lang n="greek"></lang>.
+23165 new <lang n="greek">ϰώϰαλον</lang>.
+;
+; =====================================================
+; <L>3866<pc>136,2<k1>kaRwaka
+23695 old <lang n="greek"></lang>, etc. <ab>Cf.</ab> {%akaṇṭaka.%}
+23695 new <lang n="greek">ϰέντρον</lang>, etc. <ab>Cf.</ab> {%akaṇṭaka.%}
+;
+; =====================================================
+; <L>3870<pc>136,2<k1>kaRW
+23739 old <lang n="greek"></lang>; <ab>lat.</ab> patior.
+23739 new <lang n="greek">πένθος, πόθος</lang>; <ab>lat.</ab> patior.
+;
+; =====================================================
+; <L>3879<pc>137,1<k1>kaRva
+23829 old <lang n="greek"></lang>; || autre <s1 slp1="fzi">Ṛṣi</s1> plus moderne.
+23829 new <lang n="greek">Γανυμήδης</lang>; || autre <s1 slp1="fzi">Ṛṣi</s1> plus moderne.
+;
+; =====================================================
+; <L>3885<pc>137,1<k1>katara
+23858 old <lang n="greek"></lang>; <ab>goth.</ab> hvathar; <ab>ang.</ab> whether; <ab>lat.</ab><ab>(?)</ab> uter. 
+23858 new <lang n="greek">πότερος</lang>; <ab>goth.</ab> hvathar; <ab>ang.</ab> whether; <ab>lat.</ab><ab>(?)</ab> uter. 
+;
+; =====================================================
+; <L>3886<pc>137,2<k1>kati
+23868 old <lang n="greek"></lang>] quelques-uns.
+23868 new <lang n="greek">ποῖος</lang>] quelques-uns.
+;
+; =====================================================
+; <L>3892<pc>137,2<k1>kaT
+23905 old <lang n="greek"></lang>.
+23905 new <lang n="greek">ϰωτίλλω</lang>.
+;
+; =====================================================
+; <L>3901<pc>138,1<k1>kad
+23965 old <lang n="greek"></lang>; <ab>goth.</ab> hatan. -- <ab>Cf.</ab> {%kadayāmi%} et {%kandayāmi.%}
+23965 new <lang n="greek">ϰῆδος</lang>; <ab>goth.</ab> hatan. -- <ab>Cf.</ab> {%kadayāmi%} et {%kandayāmi.%}
+;
+; =====================================================
+; <L>3912<pc>138,1<k1>kadA
+24034 old <lang n="greek"></lang>; <ab>lat.</ab> quando; <ab>lith.</ab> kadà; <ab>slav.</ab> kogda.
+24034 new <lang n="greek">πότε [ϰότε]</lang>; <ab>lat.</ab> quando; <ab>lith.</ab> kadà; <ab>slav.</ab> kogda.
+;
+; =====================================================
+; <L>3962<pc>139,2<k1>kapAla
+24331 old <lang n="greek"></lang>; <ab>lat.</ab> caput; <ab>germ.</ab> haupt.
+24331 new <lang n="greek">ϰεφαλή</lang>; <ab>lat.</ab> caput; <ab>germ.</ab> haupt.
+;
+; =====================================================
+; <L>3963<pc>140,1<k1>kapi
+24346 old <lang n="greek"></lang>; <ab>germ.</ab> ancien affo; <ab>ang.</ab> ape.
+24346 new <lang n="greek">ϰῆπος, ϰεῖπος</lang>; <ab>germ.</ab> ancien affo; <ab>ang.</ab> ape.
+;
+; =====================================================
+; <L>4010<pc>141,2<k1>kara
+24675 old <lang n="greek"></lang>; <ab>lith.</ab> kairè. 
+24675 new <lang n="greek">χείρ</lang>; <ab>lith.</ab> kairè. 
+;
+; =====================================================
+; <L>4027<pc>142,2<k1>karaRqa
+24792 old <lang n="greek"></lang>.
+24792 new <lang n="greek">ϰάρταλος</lang>.
+;
+; =====================================================
+; <L>4031<pc>142,2<k1>karaBa
+24830 old <lang n="greek"></lang>. || Jeune animal.
+24830 new <lang n="greek">ϰάρπος</lang>. || Jeune animal.
+;
+; =====================================================
+; <L>4062<pc>143,2<k1>karIra
+25001 old <lang n="greek"></lang>. || Capparis aphylla [caprier épineux des lieux déserts,
+25001 new <lang n="greek">ϰέρας</lang>. || Capparis aphylla [caprier épineux des lieux déserts,
+;
+; =====================================================
+; <L>4069<pc>144,1<k1>karka
+25053 old <lang n="greek"></lang> <ab>lat.</ab> cancer. -- Feu. || Miroir. || Cheval blanc.
+25053 new <lang n="greek">ϰαρϰῖνος</lang> <ab>lat.</ab> cancer. -- Feu. || Miroir. || Cheval blanc.
+;
+; =====================================================
+; <L>4097<pc>145,2<k1>kard
+25303 old <lang n="greek"></lang>. <ab>Cf.</ab> {%pard.%}
+25303 new <lang n="greek">χορδὴ</lang>. <ab>Cf.</ab> {%pard.%}
+;
+; =====================================================
+; <L>4105<pc>145,2<k1>karpAsa
+25356 old <lang n="greek"></lang>; <ab>lat.</ab> carbasus.
+25356 new <lang n="greek">ϰάρπασος</lang>; <ab>lat.</ab> carbasus.
+;
+; =====================================================
+; <L>4134<pc>147,1<k1>kal
+25593 old <lang n="greek"></lang>. || <ab>(?)</ab> Compter.
+25593 new <lang n="greek">ϰαλέω</lang>. || <ab>(?)</ab> Compter.
+;
+; =====================================================
+; <L>4154<pc>148,1<k1>kalama
+25712 old <lang n="greek"></lang>; <ab>lat.</ab> calamus, culmus.
+25712 new <lang n="greek">ϰάλαμος</lang>; <ab>lat.</ab> calamus, culmus.
+;
+; =====================================================
+; <L>4161<pc>148,1<k1>kalaSa
+25748 old <lang n="greek"></lang>, <ab>lat.</ab> calyx.
+25748 new <lang n="greek">ϰαλυξ</lang>; <ab>lat.</ab> calyx.
+;
+; =====================================================
+; <L>4214<pc>150,1<k1>kalya
+26056 old <lang n="greek"></lang>; <ab>cf.</ab> {%kalyāṇa.%}
+26056 new <lang n="greek">ϰαλός</lang>; <ab>cf.</ab> {%kalyāṇa.%}
+;
+; =====================================================
+; <L>4262<pc>151,2<k1>kazAku
+26326 old <lang n="greek"></lang>.
+26326 new <lang n="greek">σμινθεύς</lang>.
+;
+; =====================================================
+; <L>4272<pc>151,2<k1>kastIra
+26398 old <lang n="greek"></lang>.
+26398 new <lang n="greek">ϰασσίτερος</lang>.
+;
+; =====================================================
+; <L>4274<pc>152,1<k1>kastUrI
+26409 old <lang n="greek"></lang>.
+26409 new <lang n="greek">ϰάστωρ</lang>.
+;
+; =====================================================
+; <L>4403<pc>157,2<k1>kArava
+27399 old <lang n="greek"></lang>: <ab>lat.</ab> corvus; <ab>angl.</ab> crow; <ab>germ.</ab> raben (pour kraben); arab.
+27399 new <lang n="greek">ϰόραξ</lang>: <ab>lat.</ab> corvus; <ab>angl.</ab> crow; <ab>germ.</ab> raben (pour kraben); arab.
+;
+; =====================================================
+; <L>4450<pc>159,1<k1>kAla
+27666 old <lang n="greek"></lang>; <ab>lat.</ab> kalendae <lbinfo n="6"/> {%(kālānta,%} <ab>cf.</ab> {%anta)%}.
+27666 new <lang n="greek">ϰαιρός, ϰήρ</lang>; <ab>lat.</ab> kalendae <lbinfo n="6"/> {%(kālānta,%} <ab>cf.</ab> {%anta)%}.
+;
+; =====================================================
+; <L>4451<pc>159,1<k1>kAla
+27671 old <lang n="greek"></lang>; <ab>lat.</ab> caligo. -- <ab>S.</ab> <ab>m.</ab> couleur noire. -- <ab>S.</ab> <ab>n.</ab> fer. || Aloès
+27671 new <lang n="greek">ϰελαινός, ϰηλίς</lang>; <ab>lat.</ab> caligo. -- <ab>S.</ab> <ab>m.</ab> couleur noire. -- <ab>S.</ab> <ab>n.</ab> fer. || Aloès
+;
+; =====================================================
+; <L>4595<pc>164,1<k1>kimpaca
+28530 old <lang n="greek"></lang>.
+28530 new <lang n="greek">ϰίμϐιξ</lang>.
+;
+; =====================================================
+; <L>4611<pc>164,2<k1>kirmI
+; ;<P>{%kirmīra%} (COMMENT)
+28642 old <lang n="greek"></lang>.
+28642 new <lang n="greek">ϰιῤῥός</lang>.
+;
+; =====================================================
+; <L>4636<pc>165,2<k1>kIwa
+28799 old <lang n="greek"></lang>. || Barde, chantre épique d'une caste issue d'un père
+28799 new <lang n="greek">ϰίς</lang>. || Barde, chantre épique d'une caste issue d'un père
+;
+; =====================================================
+; <L>4637<pc>165,2<k1>kIdfS
+28811 old <lang n="greek"></lang>; <ab>lat.</ab> qualis [prâkrit {%kerisa%}]; <ab>goth.</ab> hwêleiks; <ab>germ.</ab>
+28811 new <lang n="greek">πηλίϰος</lang>; <ab>lat.</ab> qualis [prâkrit {%kerisa%}]; <ab>goth.</ab> hwêleiks; <ab>germ.</ab>
+;
+; =====================================================
+; <L>4730<pc>169,1<k1>kuqya
+29408 old <lang n="greek"></lang>.
+29408 new <lang n="greek">τοιχώρυχος</lang>.
+;
+; =====================================================
+; <L>4798<pc>171,2<k1>kubja
+29790 old <lang n="greek"></lang>; || <ab>lat.</ab> gibbus.
+29790 new <lang n="greek">ϰύπτω</lang>; || <ab>lat.</ab> gibbus.
+;
+; =====================================================
+; <L>4801<pc>171,2<k1>kuBA
+29804 old {#kuBA#}¦ {%kubhā%} <ab>f.</ab> <ab>np.</ab> de rivière, le K<lang n="greek"></lang> des Grecs, dans
+29804 new {#kuBA#}¦ {%kubhā%} <ab>f.</ab> <ab>np.</ab> de rivière, le <lang n="greek">Κωφὴν</lang> des Grecs, dans
+;
+; =====================================================
+; <L>4812<pc>172,1<k1>kumBa
+29930 old <lang n="greek"></lang>; <ab>lat.</ab> cymba.
+29930 new <lang n="greek">ϰύμϐη</lang>; <ab>lat.</ab> cymba.
+;
+; =====================================================
+; <L>4948<pc>177,2<k1>kuhu
+30837 old <lang n="greek"></lang>.
+30837 new <lang n="greek">ϰόϰϰυ</lang>.
+;
+; =====================================================
+; <L>4967<pc>178,2<k1>kUpa
+30980 old <lang n="greek"></lang>. || Mât; arbre ou rocher au milieu d'une rivière.
+30980 new <lang n="greek">ϰύπη</lang>. || Mât; arbre ou rocher au milieu d'une rivière.
+;
+; =====================================================
+; <L>4977<pc>179,1<k1>kUl
+31064 old <lang n="greek"></lang>.
+31064 new <lang n="greek">ϰωλύω</lang>.
+;
+; =====================================================
+; <L>4984<pc>179,1<k1>kf
+31193 old <lang n="greek"></lang>, etc. <lang n="greek"></lang> <ab>(?)</ab>; ancien <ab>germ.</ab> karawam, préparer; <ab>irland.</ab>
+31193 new <lang n="greek">ϰραίνω, ϰράτος</lang>, <ab>etc.</ab> <lang n="greek">Κρόνος</lang> <ab>(?)</ab>; ancien <ab>germ.</ab> karawam, préparer; <ab>irland.</ab>
+;
+; =====================================================
+; <L>5021<pc>182,1<k1>kfmi
+31550 old <lang n="greek"></lang>.
+31550 new <lang n="greek">ἔλμινς</lang>.
+;
+; =====================================================
+; <L>5041<pc>184,1<k1>kF
+31838 old <lang n="greek"></lang>.
+31838 new <lang n="greek">ϰεράννυμι, ϰέρας</lang>.
+;
+; =====================================================
+; <L>5042<pc>184,1<k1>kF
+31844 old <lang n="greek"></lang>; <ab>lat.</ab> cerno.
+31844 new <lang n="greek">ϰρίνω</lang>; <ab>lat.</ab> cerno.
+;
+; =====================================================
+; <L>5056<pc>184,2<k1>ketaka
+31937 old <lang n="greek"></lang>; de Strabon.
+31937 new <lang n="greek">φοίνιξ εὐώδης</lang> de Strabon.
+;
+; =====================================================
+; <L>5144<pc>187,2<k1>kola
+32500 old <lang n="greek"></lang>. || Radeau, train de bois. || Hanche ou flanc. || Embrassement.
+32500 new <lang n="greek">χοῖρος</lang>. || Radeau, train de bois. || Hanche ou flanc. || Embrassement.
+;
+; =====================================================
+; <L>5148<pc>188,1<k1>koSa
+32542 old <lang n="greek"></lang>.
+32542 new <lang n="greek">ϰόϰϰος</lang>.
+;
+; =====================================================
+; <L>5220<pc>190,1<k1>knaT
+32956 old <lang n="greek"></lang>.
+32956 new <lang n="greek">ϰτείνω, ἔϰτανον</lang>.
+;
+; =====================================================
+; <L>5225<pc>190,1<k1>kmar
+32995 old <lang n="greek"></lang>.
+32995 new <lang n="greek">ϰαμάρα</lang>.
+;
+; =====================================================
+; <L>5230<pc>190,2<k1>kratu
+33027 old <lang n="greek"></lang>. || Œuvre accomplie; || l'œuvre sainte, le Sacrifice. || <ab>Np.</ab>
+33027 new <lang n="greek">ϰράτος</lang>. || Œuvre accomplie; || l'œuvre sainte, le Sacrifice. || <ab>Np.</ab>
+;
+; =====================================================
+; <L>5238<pc>191,2<k1>kramela
+33154 old <lang n="greek"></lang>; <ab>lat.</ab> camelus.
+33154 new <lang n="greek">ϰάμηλος</lang>; <ab>lat.</ab> camelus.
+;
+; =====================================================
+; <L>5242<pc>191,2<k1>kravya
+33187 old <lang n="greek"></lang> <ab>lat.</ab> caro (? cruor); <ab>germ.</ab> ancien, hrêo; <ab>lith.</ab> kraujas, sang;
+33187 new <lang n="greek">ϰρέας</lang> <ab>lat.</ab> caro (? cruor); <ab>germ.</ab> ancien, hrêo; <ab>lith.</ab> kraujas, sang;
+;
+; =====================================================
+; <L>5253<pc>192,1<k1>krI
+33284 old <lang n="greek"></lang>.
+33284 new <lang n="greek">πρίαμαι, πέρνημι</lang>.
+;
+; =====================================================
+; <L>5273<pc>192,2<k1>kruS
+33393 old <lang n="greek"></lang>; <ab>lat.</ab> crocio.
+33393 new <lang n="greek">ϰρώζω, ϰραυγή</lang>; <ab>lat.</ab> crocio.
+;
+; =====================================================
+; <L>5276<pc>192,2<k1>krUra
+33408 old <lang n="greek"></lang>; <ab>lat.</ab> crudus, crudelis.
+33408 new <lang n="greek">ϰραῦρος</lang>; <ab>lat.</ab> crudus, crudelis.
+;
+; =====================================================
+; <L>5290<pc>193,2<k1>klad
+33544 old <lang n="greek"></lang>.
+33544 new <lang n="greek">ϰλάζω</lang>.
+;
+; =====================================================
+; <L>5295<pc>193,2<k1>klid
+33577 old <lang n="greek"></lang>.
+33577 new <lang n="greek">ϰλύζω</lang>.
+;
+; =====================================================
+; <L>5328<pc>195,1<k1>kzaR
+33777 old <lang n="greek"></lang>. <ab>Cf.</ab> {%kṣi.%}
+33777 new <lang n="greek">ϰαίνω</lang>. <ab>Cf.</ab> {%kṣi.%}
+;
+; =====================================================
+; <L>5351<pc>195,2<k1>kzam
+33933 old <lang n="greek"></lang>; <ab>cf.</ab> {%kṣoṇi.%}
+33933 new <lang n="greek">χαμαί</lang>; <ab>cf.</ab> {%kṣoṇi.%}
+;
+; =====================================================
+; <L>5381<pc>197,1<k1>kzi
+34128 old <lang n="greek"></lang> <ab>(?)</ab>. || <ab>Cf.</ab> {%kṣaṇ.%}
+34128 new <lang n="greek">ϰτίννυμι</lang> <ab>(?)</ab>. || <ab>Cf.</ab> {%kṣaṇ.%}
+;
+; =====================================================
+; <L>5425<pc>198,2<k1>kzur
+34474 old <lang n="greek"></lang>.
+34474 new <lang n="greek">ξέω, ξύω</lang>.
+;
+; =====================================================
+; <L>5426<pc>198,2<k1>kzura
+34481 old <lang n="greek"></lang>.
+34481 new <lang n="greek">ξυρός</lang>.
+;
+; =====================================================
+; <L>5442<pc>199,2<k1>kzEpra
+34612 old <lang n="greek"></lang>.
+34612 new <lang n="greek">ϰραιπνός</lang>.
+;
+; =====================================================
+; <L>5446<pc>199,2<k1>kzoRi
+34632 old <lang n="greek"></lang>.
+34632 new <lang n="greek">χθών</lang>.
+;
+; =====================================================
+; <L>5513<pc>202,2<k1>Kan
+35132 old <lang n="greek"></lang> <ab>(?)</ab>; <ab>lat.</ab> canalis, cuniculus.
+35132 new <lang n="greek">χαίνω</lang> <ab>(?)</ab>; <ab>lat.</ab> canalis, cuniculus.
+;
+; =====================================================
+; <L>5514<pc>202,2<k1>Kanaka
+35138 old <lang n="greek"></lang>.
+35138 new <lang n="greek">τοιχώρυχος</lang>.
+;
+; =====================================================
+; <L>5546<pc>203,2<k1>Kalina
+35357 old <lang n="greek"></lang>.
+35357 new <lang n="greek">χαλινός</lang>.
+;
+; =====================================================
+; <L>5593<pc>205,1<k1>KAnila
+35597 old <lang n="greek"></lang>.
+35597 new <lang n="greek">τοιχώρυχος</lang>.
+;
+; =====================================================
+; <L>5601<pc>205,1<k1>Kid
+35648 old <lang n="greek"></lang> <ab>(?)</ab>.
+35648 new <lang n="greek">ϰῆδος</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>5634<pc>206,1<k1>Keda
+35821 old <lang n="greek"></lang>.
+35821 new <lang n="greek">ϰῆδος</lang>.
+;
+; =====================================================
+; <L>5655<pc>206,2<k1>Kola
+35932 old <lang n="greek"></lang>; <ab>cf.</ab> {%koḍa.%}
+35932 new <lang n="greek">χωλός</lang>; <ab>cf.</ab> {%koḍa.%}
+;
+; =====================================================
+; <L>5723<pc>210,1<k1>ganDa
+36647 old <lang n="greek"></lang>.
+36647 new <lang n="greek">ϰένταυρος</lang>.
+;
+; =====================================================
+; <L>5733<pc>212,1<k1>gam
+36810 old <lang n="greek"></lang>.
+36810 new <lang n="greek">γῆ</lang>.
+;
+; =====================================================
+; <L>5776<pc>213,1<k1>garBa
+37065 old <lang n="greek"></lang>.
+37065 new <lang n="greek">δελφύς</lang>.
+;
+; =====================================================
+; <L>5815<pc>215,1<k1>gA
+37354 old <lang n="greek"></lang>, etc.
+37354 new <lang n="greek">βαίνω, ἔϐην</lang>, etc.
+;
+; =====================================================
+; <L>5867<pc>216,2<k1>gir
+37677 old <lang n="greek"></lang>; <ab>irland.</ab> gair.
+37677 new <lang n="greek">γῆρυς</lang>; <ab>irland.</ab> gair.
+;
+; =====================================================
+; <L>5934<pc>219,1<k1>guD
+38131 old <lang n="greek"></lang>; <ab>lat.</ab> cutis; <ab>germ.</ab> haut; <ab>angl.</ab> hide; suéd. hud. 
+38131 new <lang n="greek">ϰεύθω</lang>; <ab>lat.</ab> cutis; <ab>germ.</ab> haut; <ab>angl.</ab> hide; suéd. hud. 
+;
+; =====================================================
+; <L>5964<pc>220,2<k1>guh
+38349 old <lang n="greek"></lang>.
+38349 new <lang n="greek">ϰεύθω</lang>.
+;
+; =====================================================
+; <L>6009<pc>222,2<k1>gF
+38713 old <lang n="greek"></lang>.
+38713 new <lang n="greek">γλώσσα</lang>.
+;
+; =====================================================
+; <L>6022<pc>223,1<k1>go
+38797 old <lang n="greek"></lang>; <ab>lat.</ab> bos; <ab>angl.</ab> cow; dan. kœ; suéd. ko; <ab>germ.</ab> kuh.
+38797 new <lang n="greek">βοῦς</lang>; <ab>lat.</ab> bos; <ab>angl.</ab> cow; dan. kœ; suéd. ko; <ab>germ.</ab> kuh.
+;
+; =====================================================
+; <L>6151<pc>227,2<k1>gras
+39611 old <lang n="greek"></lang>; <ab>germ.</ab> grasen.
+39611 new <lang n="greek">γραίνω</lang>; <ab>germ.</ab> grasen.
+;
+; =====================================================
+; <L>6153<pc>228,1<k1>grah
+39647 old <lang n="greek"></lang>; franç. griffe. <ab>Cf.</ab> {%grabh.%}
+39647 new <lang n="greek">γριπίζω</lang>; franç. griffe. <ab>Cf.</ab> {%grabh.%}
+;
+; =====================================================
+; <L>6175<pc>229,1<k1>grAha
+; ; <L>6200  previously done (COMMENT)
+; ; old 39973: <lang n="greek">θ</lang> (COMMENT)
+; ; new 39973: <lang n="greek">θ</lang> (COMMENT)
+39830 old <lang n="greek"></lang>; <ab>germ.</ab> greif.
+39830 new <lang n="greek">γρύψ</lang>; <ab>germ.</ab> greif.
+;
+; =====================================================
+; <L>6232<pc>231,2<k1>Garma
+40231 old <lang n="greek"></lang>.
+40231 new <lang n="greek">θέρος, θερμός</lang>.
+;
+; =====================================================
+; <L>6234<pc>231,2<k1>Gas
+40248 old <lang n="greek"></lang>; <ab>lat.</ab> gustus, vescor.
+40248 new <lang n="greek">γαστήρ</lang>; <ab>lat.</ab> gustus, vescor.
+;
+; =====================================================
+; <L>6308<pc>234,2<k1>ca
+40678 old répond ordinairement <lbinfo n="9"/> à {%k, q, <lang n="greek">ϰ</lang>;%} <ab>qqf.</ab> aussi à {%<lang n="greek">σϰ</lang>, sc,%} à
+40678 new répond ordinairement <lbinfo n="9"/> à {%k, q%}, <lang n="greek">ϰ</lang>; <ab>qqf.</ab> aussi à <lang n="greek">σϰ</lang>, {% sc,%} à
+;
+; =====================================================
+; <L>6309<pc>234,2<k1>ca
+40686 old <lang n="greek"></lang>. 
+40686 new <lang n="greek">τε, ϰαὶ</lang>. 
+;
+; =====================================================
+; <L>6320<pc>235,1<k1>cakra
+40744 old <lang n="greek"></lang>; <ab>lat.</ab> cygnus.
+40744 new <lang n="greek">ϰύϰνος</lang>; <ab>lat.</ab> cygnus.
+;
+; =====================================================
+; <L>6321<pc>235,1<k1>cakra
+40757 old <lang n="greek"></lang>; <ab>lat.</ab> circus, circulus.
+40757 new <lang n="greek">ϰύϰλος</lang>; <ab>lat.</ab> circus, circulus.
+;
+; =====================================================
+; <L>6377<pc>237,1<k1>catur
+41164 old <lang n="greek"></lang>. -- Au <ab>n.</ab> {%catur%} <ab>advt.</ab> quatre fois; <ab>lat.</ab> quater; <ab>zd.</ab>
+41164 new <lang n="greek">τέτταρες</lang>. -- Au <ab>n.</ab> {%catur%} <ab>advt.</ab> quatre fois; <ab>lat.</ab> quater; <ab>zd.</ab>
+;
+; =====================================================
+; <L>6388<pc>237,2<k1>caturDA
+41219 old <lang n="greek"></lang>.
+41219 new <lang n="greek">τέτραχα</lang>.
+;
+; =====================================================
+; <L>6406<pc>238,1<k1>catvAriMSat
+41310 old <lang n="greek"></lang>. <ab>M§</ab> 52.
+41310 new <lang n="greek">τετταράϰοντα</lang>. <ab>M§</ab> 52.
+;
+; =====================================================
+; <L>6419<pc>238,2<k1>candra
+41410 old <ab>gr.</ab> <lang n="greek"></lang>.
+41410 new <ab>gr.</ab> <lang n="greek">Σανδράϰσττος</lang>.
+;
+; =====================================================
+; <L>6440<pc>240,1<k1>cay
+41621 old <lang n="greek"></lang>; <ab>lat.</ab> cio <ab>(?)</ab>, citus.
+41621 new <lang n="greek">ϰίω</lang>; <ab>lat.</ab> cio <ab>(?)</ab>, citus.
+;
+; =====================================================
+; <L>6442<pc>240,1<k1>car
+41650 old <lang n="greek"></lang> <ab>(?)</ab>. || <ab>Cf.</ab> {%cal.%}
+41650 new <lang n="greek">σϰαίρω</lang> <ab>(?)</ab>. || <ab>Cf.</ab> {%cal.%}
+;
+; =====================================================
+; <L>6468<pc>241,1<k1>carma
+41831 old <lang n="greek"></lang>.
+41831 new <lang n="greek">σϰῦλον</lang>.
+;
+; =====================================================
+; <L>6486<pc>242,1<k1>calu
+41970 old <lang n="greek"></lang>. -- <ab>Mms.</ab> que {%calu.%}
+41970 new <lang n="greek">σϰαλλίον</lang>. -- <ab>Mms.</ab> que {%calu.%}
+;
+; =====================================================
+; <L>6683<pc>248,1<k1>cIv
+43181 old <lang n="greek"></lang>. 
+43181 new <lang n="greek">σϰεῦος</lang>. 
+;
+; =====================================================
+; <L>6718<pc>249,1<k1>cut
+43344 old <lang n="greek"></lang> dans
+43344 new <lang n="greek">χυ</lang> dans
+;
+43345 old <lang n="greek"></lang>, etc.
+43345 new <lang n="greek">χέω</lang>, etc.
+;
+; =====================================================
+; <L>6720<pc>249,1<k1>cud
+43361 old <lang n="greek"></lang>.
+43361 new <lang n="greek">σπεύδω, σπουδάζω</lang>.
+;
+; =====================================================
+; <L>6729<pc>249,2<k1>cur
+43408 old <lang n="greek"></lang> dans
+43408 new <lang n="greek">ϰαυ</lang> dans
+;
+43409 old <lang n="greek"></lang> <ab>(?)</ab>.
+43409 new <lang n="greek">ϰαίω</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>6730<pc>249,2<k1>cur
+43415 old <lang n="greek"></lang>; <ab>lat.</ab> furari.
+43415 new <lang n="greek">φωράω</lang>; <ab>lat.</ab> furari.
+;
+; =====================================================
+; <L>6756<pc>250,2<k1>cUlA
+43564 old <lang n="greek"></lang>.
+43564 new <lang n="greek">σϰόλλυς</lang>.
+;
+; =====================================================
+; <L>6816<pc>252,1<k1>cora
+43892 old <lang n="greek"></lang>; <ab>lat.</ab> fur.
+43892 new <lang n="greek">φώρ</lang>; <ab>lat.</ab> fur.
+;
+; =====================================================
+; <L>6823<pc>252,2<k1>cOla
+43946 old <lang n="greek"></lang>.
+43946 new <lang n="greek">σϰόλλυς</lang>.
+;
+; =====================================================
+; <L>6839<pc>253,1<k1>Ca
+44044 old <lang n="greek"></lang> {%sc, sch, squ%} ou même {%sp.%}
+44044 new <lang n="greek">σϰ, σχ</lang>, {%sc, sch, squ%} ou même {%sp.%}
+;
+; =====================================================
+; <L>6845<pc>253,1<k1>Catra
+44086 old <lang n="greek"></lang>.
+44086 new <lang n="greek">σϰίρον</lang>.
+;
+; =====================================================
+; <L>6848<pc>253,2<k1>Cad
+44123 old <lang n="greek"></lang>; <ab>irland.</ab> scath; <ab>got.</ab> skadu. || <ab>Cf.</ab> {%sku.%}
+44123 new <lang n="greek">σϰοτός</lang>; <ab>irland.</ab> scath; <ab>got.</ab> skadu. || <ab>Cf.</ab> {%sku.%}
+;
+; =====================================================
+; <L>6853<pc>254,1<k1>Cadis
+44156 old <lang n="greek"></lang>.
+44156 new <lang n="greek">σϰάνδιξ, σϰιάς</lang>.
+;
+; =====================================================
+; <L>6858<pc>254,1<k1>Canda
+44185 old <lang n="greek"></lang> piège.
+44185 new <lang n="greek">σϰάνδαλον</lang> piège.
+;
+; =====================================================
+; <L>6861<pc>254,1<k1>Canna
+44214 old <lang n="greek"></lang>
+44214 new <lang n="greek">σϰηνή</lang>.
+;
+; =====================================================
+; <L>6865<pc>254,2<k1>Card
+44235 old <lang n="greek"></lang>
+44235 new <lang n="greek">σϰώρ</lang>.
+;
+; =====================================================
+; <L>6881<pc>254,2<k1>CAda
+44323 old <lang n="greek"></lang>
+44323 new <lang n="greek">σϰηνή</lang>.
+;
+; =====================================================
+; <L>6885<pc>255,1<k1>CAyA
+44350 old <lang n="greek"></lang>
+44350 new <lang n="greek">σϰιά</lang>.
+;
+; =====================================================
+; <L>6891<pc>255,1<k1>Cid
+; ; both strings merged together, as are throughout the text when only a punctuation is in between the strings. (COMMENT)
+44404 old <ab>gr.</ab> <lang n="greek"></lang>,<lang n="greek"></lang>;
+44404 new <ab>gr.</ab> <lang n="greek">σχίζω, σϰεδάννυμι</lang>;
+;
+; =====================================================
+; <L>6910<pc>256,1<k1>Cfd
+44513 old <lang n="greek"></lang> <ab>germ.</ab> glanz. || <ab>Cf.</ab> {%chṛp.%}
+44513 new <lang n="greek">σπινθήρ</lang>; <ab>germ.</ab> glanz. || <ab>Cf.</ab> {%chṛp.%}
+;
+; =====================================================
+; <L>6915<pc>256,1<k1>Ceda
+44542 old <lang n="greek"></lang>
+44542 new <lang n="greek">σχὶδη</lang>.
+;
+; =====================================================
+; <L>6998<pc>258,2<k1>jan
+45020 old <lang n="greek"></lang> <ab>lat.</ab> gigno, genui; <ab>lith.</ab> gemù, gaminu, etc.
+45020 new <lang n="greek">γεννάω, γίγνομαι</lang>; <ab>lat.</ab> gigno, genui; <ab>lith.</ab> gemù, gaminu, etc.
+;
+; =====================================================
+; <L>7000<pc>259,1<k1>janaka
+45049 old <lang n="greek"></lang> [<ab>g.</ab> de
+45049 new <lang n="greek">γναιϰός</lang> [<ab>g.</ab> de
+;
+45050 old <lang n="greek"></lang>].
+45050 new <lang n="greek">γυνή</lang>].
+;
+; =====================================================
+; <L>7020<pc>259,2<k1>janitf
+45166 old <lang n="greek"></lang> <ab>lat.</ab> genitor; <ab>irland.</ab> genteoir.
+45166 new <lang n="greek">γενέτωρ</lang>; <ab>lat.</ab> genitor; <ab>irland.</ab> genteoir.
+;
+45169 old <lang n="greek"></lang> <ab>lat.</ab> genitrix.
+45169 new <lang n="greek">γενέτειρα</lang>; <ab>lat.</ab> genitrix.
+;
+; =====================================================
+; <L>7022<pc>259,2<k1>janI
+45180 old <lang n="greek"></lang> <ab>irland.</ab> gean.
+45180 new <lang n="greek">γυνή</lang>; <ab>irland.</ab> gean.
+;
+; =====================================================
+; <L>7037<pc>260,1<k1>jam
+; ; both strings merged together, as are throughout the text when only a punctuation is in between the strings. (COMMENT)
+45286 old <ab>gr.</ab> <lang n="greek"></lang>,<lang n="greek"></lang> <ab>(?)</ab>.
+45286 new <ab>gr.</ab> <lang n="greek">γάμος, γαμέτις</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>7045<pc>260,2<k1>jamBa
+45340 old <lang n="greek"></lang>
+45340 new <lang n="greek">γαμφαί</lang>.
+;
+; =====================================================
+; <L>7055<pc>261,1<k1>jarat
+45435 old <lang n="greek"></lang>
+45435 new <lang n="greek">γέρων</lang>.
+;
+; =====================================================
+; <L>7062<pc>261,1<k1>jaras
+45473 old <lang n="greek"></lang>
+45473 new <lang n="greek">λῆρας</lang>.
+;
+; =====================================================
+; <L>7135<pc>264,2<k1>jAgf
+46132 old <lang n="greek"></lang>
+46132 new <lang n="greek">ἐγείρω, ἐγρήγορα</lang>.
+;
+; =====================================================
+; <L>7173<pc>266,1<k1>jAnu
+46355 old <lang n="greek"></lang> <ab>lat.</ab> genu; <ab>germ.</ab> knie.
+46355 new <lang n="greek">γόνυ</lang>; <ab>lat.</ab> genu; <ab>germ.</ab> knie.
+;
+; =====================================================
+; <L>7180<pc>266,1<k1>jAmitra
+46391 old <lang n="greek"></lang> adopté par l'astronomie indienne].
+46391 new <lang n="greek">διάμετρον</lang> adopté par l'astronomie indienne].
+;
+; =====================================================
+; <L>7249<pc>268,1<k1>jijYAsA
+46765 old <lang n="greek"></lang>
+46765 new <lang n="greek">γιγνώσσϰω</lang>.
+;
+; =====================================================
+; <L>7256<pc>268,2<k1>jituma
+46823 old <lang n="greek"></lang> passé en sanscrit] gémeau, <ab>t.</ab> d'<ab>astr.</ab>
+46823 new <lang n="greek">δίδυμος</lang> passé en sanscrit] gémeau, <ab>t.</ab> d'<ab>astr.</ab>
+;
+; =====================================================
+; <L>7264<pc>268,2<k1>jiras
+46870 old <lang n="greek"></lang>
+46870 new <lang n="greek">γῆρας</lang>.
+;
+; =====================================================
+; <L>7300<pc>269,2<k1>jIva
+47090 old <lang n="greek"></lang>.
+47090 new <lang n="greek">βίος</lang>.
+;
+; =====================================================
+; <L>7366<pc>271,2<k1>jUka
+47454 old <lang n="greek"></lang>] la Balance, <ab>t.</ab> d'<ab>astr.</ab>
+47454 new <lang n="greek">ζυγόν</lang>] la Balance, <ab>t.</ab> d'<ab>astr.</ab>
+;
+; =====================================================
+; <L>7438<pc>273,2<k1>jYA
+47841 old <lang n="greek"></lang> <ab>angl.</ab> know: <ab>germ.</ab> kann, kennen.
+47841 new <lang n="greek">γιγνώσϰω, νοέω [γνοέω]</lang>; <ab>angl.</ab> know: <ab>germ.</ab> kann, kennen.
+;
+; =====================================================
+; <L>7448<pc>274,1<k1>jyA
+47918 old <lang n="greek"></lang>
+47918 new <lang n="greek">βιός</lang>.
+;
+; =====================================================
+; <L>7454<pc>274,2<k1>jyezWa
+47949 old <lang n="greek"></lang> du Scorpion et figuré par un anneau. || Le doigt du milieu. ||
+47949 new <lang n="greek">α</lang> du Scorpion et figuré par un anneau. || Le doigt du milieu. ||
+;
+; =====================================================
+; <L>7465<pc>274,2<k1>jyO
+48027 old <lang n="greek"></lang>] la planète Jupiter, <ab>t.</ab> d'astr. 
+48027 new <lang n="greek">Ζεύς</lang>] la planète Jupiter, <ab>t.</ab> d'astr. 
+;
+; =====================================================
+; <L>7616<pc>281,1<k1>takma
+48905 old <lang n="greek"></lang>
+48905 new <lang n="greek">τέϰνον</lang>.
+;
+; =====================================================
+; <L>7649<pc>282,2<k1>tatas
+49107 old <lang n="greek"></lang>.
+49107 new <lang n="greek">τότε</lang>.
+;
+; =====================================================
+; <L>7660<pc>283,1<k1>taTA
+49198 old <lang n="greek"></lang>
+49198 new <lang n="greek">ὁ διάδοχος</lang>].
+;
+; =====================================================
+; <L>7676<pc>283,2<k1>tan
+49300 old <lang n="greek"></lang> <ab>lat.</ab> tendo [{%tantanmi%}].
+49300 new <lang n="greek">τείνω, τάνυμαι</lang>; <ab>lat.</ab> tendo [{%tantanmi%}].
+;
+; =====================================================
+; <L>7681<pc>283,2<k1>tanu
+49325 old <lang n="greek"></lang>
+49325 new <lang n="greek">τανυ</lang>…
+;
+; =====================================================
+; <L>7697<pc>284,2<k1>tap
+49507 old <lang n="greek"></lang> (?.
+49507 new <lang n="greek">τανυτέφρα</lang> (?.
+;
+; =====================================================
+; <L>7794<pc>287,2<k1>tarman
+50063 old <lang n="greek"></lang> <ab>lat.</ab> terminus.
+50063 new <lang n="greek">τέρμα</lang>; <ab>lat.</ab> terminus.
+;
+; =====================================================
+; <L>7855<pc>289,1<k1>tAdfS
+50383 old <lang n="greek"></lang> <ab>lat.</ab> talis. || <ab>M§</ab> 113.
+50383 new <lang n="greek">τηλίϰος</lang>; <ab>lat.</ab> talis. || <ab>M§</ab> 113.
+;
+; =====================================================
+; <L>7856<pc>289,1<k1>tAna
+50388 old <lang n="greek"></lang> || Tension; extension. || Object sensible. 
+50388 new <lang n="greek">τόνος</lang>. || Tension; extension. || Object sensible. 
+;
+; =====================================================
+; <L>7873<pc>290,2<k1>tAra
+50580 old <lang n="greek"></lang>; etc.
+50580 new <lang n="greek">ἀστήρ</lang>; etc.
+;
+; =====================================================
+; <L>7904<pc>291,2<k1>tAvat
+50796 old <lang n="greek"></lang>
+50796 new <lang n="greek">τόσος</lang>.
+;
+; =====================================================
+; <L>7981<pc>294,1<k1>tizya
+51271 old <lang n="greek"></lang> du Cancer. || Le mois {%pauṣa%} [déc. -janv.]. || Le <s1 slp1="kaliyuga">kaliyuga</s1>.
+51271 new <lang n="greek">δ</lang> du Cancer. || Le mois {%pauṣa%} [déc. -janv.]. || Le <s1 slp1="kaliyuga">kaliyuga</s1>.
+;
+; =====================================================
+; <L>8030<pc>296,1<k1>tup
+51622 old <lang n="greek"></lang> <ab>fr.</ab> taper.
+51622 new <lang n="greek">τύπτω</lang>; <ab>fr.</ab> taper.
+;
+; =====================================================
+; <L>8053<pc>296,2<k1>tul
+51756 old <lang n="greek"></lang> etc.
+51756 new <lang n="greek">τλάω, τελάμων, τάλαντον</lang>, etc.
+;
+; =====================================================
+; <L>8054<pc>296,2<k1>tulayAmi
+51762 old <lang n="greek"></lang> || apprécier, estimer, juger.
+51762 new <lang n="greek">ταλαντάω</lang>. || apprécier, estimer, juger.
+;
+; =====================================================
+; <L>8099<pc>298,1<k1>tfkz
+52046 old <lang n="greek"></lang>
+52046 new <lang n="greek">τρέχω</lang>.
+;
+; =====================================================
+; <L>8105<pc>298,2<k1>tftIya
+52139 old <lang n="greek"></lang>; <ab>lat.</ab> tertius; <ab>lith.</ab> trécias; <ab>goth.</ab> thridja; <ab>germ.</ab> dritte; etc.
+52139 new <lang n="greek">τρίτος</lang>; <ab>lat.</ab> tertius; <ab>lith.</ab> trécias; <ab>goth.</ab> thridja; <ab>germ.</ab> dritte; etc.
+;
+; =====================================================
+; <L>8107<pc>298,2<k1>tfp
+; ; both strings merged together, as are throughout the text when only a punctuation is in between the strings. (COMMENT)
+52168 old || <ab>Gr.</ab> <lang n="greek"></lang>; <lang n="greek"></lang><ab>(?)</ab>.
+52168 new || <ab>Gr.</ab> <lang n="greek">πέρπω; τρέφω</lang><ab>(?)</ab>.
+;
+; =====================================================
+; <L>8113<pc>299,1<k1>tfpti
+52198 old <lang n="greek"></lang>
+52198 new <lang n="greek">τέρψις</lang>.
+;
+; =====================================================
+; <L>8119<pc>299,1<k1>tfz
+52231 old <lang n="greek"></lang>, etc.; <ab>lat.</ab> torreo <ab>(?)</ab>; <ab>germ.</ab> durst; <ab>goth.</ab> thars.
+52231 new <lang n="greek">τέρσς</lang>, etc.; <ab>lat.</ab> torreo <ab>(?)</ab>; <ab>germ.</ab> durst; <ab>goth.</ab> thars.
+;
+; =====================================================
+; <L>8128<pc>299,2<k1>tF
+; ; all three strings merged together, as are throughout the text when only a punctuation is in between the strings. (COMMENT)
+52296 old || <ab>Gr.</ab><lang n="greek"></lang> dans
+52296 new || <ab>Gr.</ab><lang n="greek">τερ</lang> dans
+;
+52297 old <lang n="greek"></lang> , <lang n="greek"></lang> , <lang n="greek"></lang>, etc.
+52297 new <lang n="greek">τέρετρον, τιτραίνω, τρύπα</lang>, etc.
+;
+; =====================================================
+; <L>8193<pc>302,1<k1>trap
+52726 old <lang n="greek"></lang>
+52726 new <lang n="greek">ἐντρέπω</lang>.
+;
+; =====================================================
+; <L>8194<pc>302,1<k1>trapa
+52733 old <lang n="greek"></lang>
+52733 new <lang n="greek">ἐντροπή</lang>.
+;
+; =====================================================
+; <L>8199<pc>302,1<k1>traya
+52765 old <lang n="greek"></lang>
+52765 new <lang n="greek">τριάς</lang>.
+;
+; =====================================================
+; <L>8200<pc>302,1<k1>tras
+52791 old <lang n="greek"></lang> (<ab>sfx.</ab>
+52791 new <lang n="greek">τρέω, τρέμω, τρέστης</lang> (<ab>sfx.</ab>
+;
+52792 old <lang n="greek"></lang>); <ab>lat.</ab> tremo: <ab>fr.</ab> transe.
+52792 new <lang n="greek">της</lang>) <ab>lat.</ab> tremo: <ab>fr.</ab> transe.
+;
+; =====================================================
+; <L>8215<pc>302,2<k1>tri
+52878 old <lang n="greek"></lang> <ab>lat.</ab> tres; <ab>lith.</ab> trys; <ab>goth.</ab> thri; <ab>angl.</ab> three; <ab>germ.</ab> drei; etc.
+52878 new <lang n="greek">τρεῖς</lang>; <ab>lat.</ab> tres; <ab>lith.</ab> trys; <ab>goth.</ab> thri; <ab>angl.</ab> three; <ab>germ.</ab> drei; etc.
+;
+; =====================================================
+; <L>8225<pc>303,1<k1>trikoRa
+52936 old <lang n="greek"></lang> || Vulve.
+52936 new <lang n="greek">τρίγωνον</lang>. || Vulve.
+;
+; =====================================================
+; <L>8237<pc>303,2<k1>tritaya
+53009 old <lang n="greek"></lang> <ab>lat.</ab> tertius. -- <ab>S.</ab> <ab>n.</ab> le nombre trois; triade, trinité.
+53009 new <lang n="greek">τρίος</lang>; <ab>lat.</ab> tertius. -- <ab>S.</ab> <ab>n.</ab> le nombre trois; triade, trinité.
+;
+; =====================================================
+; <L>8245<pc>303,2<k1>triDA
+53071 old <lang n="greek"></lang>
+53071 new <lang n="greek">τρίχα</lang>.
+;
+; =====================================================
+; <L>8301<pc>305,2<k1>tris
+53373 old <lang n="greek"></lang> <ab>lat.</ab> ter.
+53373 new <lang n="greek">τρίς</lang>; <ab>lat.</ab> ter.
+;
+; =====================================================
+; <L>8347<pc>307,1<k1>tvam
+53656 old <lang n="greek"></lang> dor.
+53656 new <lang n="greek">τύ, σύ</lang>; dor.
+;
+53657 old <lang n="greek"></lang>; <ab>lat.</ab> tu; <ab>goth.</ab> thu; <ab>germ.</ab> du; <ab>ang.</ab> thou; etc. || <ab>M§</ab> 61.
+53657 new <lang n="greek">τύνη</lang>; <ab>lat.</ab> tu; <ab>goth.</ab> thu; <ab>germ.</ab> du; <ab>ang.</ab> thou; etc. || <ab>M§</ab> 61.
+;
+; =====================================================
+; <L>8368<pc>308,1<k1>dakza
+53808 old <lang n="greek"></lang> <ab>lat.</ab> dexter.
+53808 new <lang n="greek">δέξιος</lang>; <ab>lat.</ab> dexter.
+;
+; =====================================================
+; <L>8380<pc>310,1<k1>datti
+54017 old <lang n="greek"></lang> <ab>lat.</ab> dos, dotis; <ab>irland.</ab> dath.
+54017 new <lang n="greek">δόσις</lang>; <ab>lat.</ab> dos, dotis; <ab>irland.</ab> dath.
+;
+; =====================================================
+; <L>8423<pc>311,1<k1>danta
+54247 old <lang n="greek"></lang> <ab>lat.</ab> dens; <ab>lith.</ab> dantis; <ab>goth.</ab> tunthus; <lbinfo n="5"/> <ab>angl.</ab> tooth.
+54247 new <lang n="greek">ὀδούς</lang>; <ab>lat.</ab> dens; <ab>lith.</ab> dantis; <ab>goth.</ab> tunthus; <lbinfo n="5"/> <ab>angl.</ab> tooth.
+;
+; =====================================================
+; <L>8435<pc>311,2<k1>danv
+54352 old <lang n="greek"></lang> <ab>(?)</ab>.
+54352 new <lang n="greek">δονέω</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>8438<pc>311,2<k1>dam
+54369 old <lang n="greek"></lang> <ab>lat.</ab> domare; <ab>ang.</ab> tame.
+54369 new <lang n="greek">δάμνημι</lang>; <ab>lat.</ab> domare; <ab>ang.</ab> tame.
+;
+; =====================================================
+; <L>8439<pc>311,2<k1>dam
+54375 old <lang n="greek"></lang> <ab>ang.</ab> dam; <ab>fr.</ab> dame (<ab>lat.</ab> domina).
+54375 new <lang n="greek">δάμαρ</lang>; <ab>ang.</ab> dam; <ab>fr.</ab> dame (<ab>lat.</ab> domina).
+;
+; =====================================================
+; <L>8440<pc>311,2<k1>dama
+54382 old || <ab>Gr.</ab><lang n="greek"></lang> par <ab>ex.</ab> dans
+54382 new || <ab>Gr.</ab><lang n="greek">δαμος</lang> par <ab>ex.</ab> dans
+;
+54383 old <lang n="greek"></lang>, etc.
+54383 new <lang n="greek">ἱππόδαμος</lang>, etc.
+;
+; =====================================================
+; <L>8449<pc>312,1<k1>day
+54458 old <lang n="greek"></lang>
+54458 new <lang n="greek">δαίομαι</lang>.
+;
+; =====================================================
+; <L>8451<pc>312,1<k1>dara
+54476 old <lang n="greek"></lang>
+54476 new <lang n="greek">δειρά</lang>.
+;
+54483 old <lang n="greek"></lang>
+54483 new <lang n="greek">δειράς</lang>.
+;
+; =====================================================
+; <L>8503<pc>314,1<k1>daSan
+54808 old <lang n="greek"></lang> <ab>lat.</ab> decem; <ab>lith.</ab> deszim; <ab>irland.</ab> deagh; bret. dek; etc.
+54808 new <lang n="greek">δἐϰα</lang>; <ab>lat.</ab> decem; <ab>lith.</ab> deszim; <ab>irland.</ab> deagh; bret. dek; etc.
+;
+; =====================================================
+; <L>8535<pc>315,1<k1>dah
+54999 old <lang n="greek"></lang> <ab>lith.</ab> degù; <lbinfo n="3"/> <ab>irland.</ab> daghaim.
+54999 new <lang n="greek">δαίω</lang>; <ab>lith.</ab> degù; <lbinfo n="3"/> <ab>irland.</ab> daghaim.
+;
+; =====================================================
+; <L>8539<pc>315,1<k1>daMS
+55029 old <lang n="greek"></lang> <ab>lat.</ab> lacero <ab>(?)</ab>.
+55029 new <lang n="greek">δάϰυω</lang> <ab>lat.</ab> lacero <ab>(?)</ab>.
+;
+; =====================================================
+; <L>8546<pc>315,2<k1>dA
+55104 old <lang n="greek"></lang> <ab>lat.</ab> darc; <ab>lith.</ab> dûmi; <ab>irland.</ab> daighim.
+55104 new <lang n="greek">δίδωμι</lang>; <ab>lat.</ab> darc; <ab>lith.</ab> dûmi; <ab>irland.</ab> daighim.
+;
+; =====================================================
+; <L>8547<pc>316,1<k1>dA
+55113 old <lang n="greek"></lang>
+55113 new <lang n="greek">δαΐζω</lang>.
+;
+; =====================================================
+; <L>8563<pc>316,1<k1>dAtf
+55202 old <lang n="greek"></lang> <ab>lat.</ab> dator. 
+55202 new <lang n="greek">δότης</lang>; <ab>lat.</ab> dator. 
+;
+; =====================================================
+; <L>8617<pc>317,2<k1>dAru
+55484 old <lang n="greek"></lang>
+55484 new <lang n="greek">δόρυ</lang>.
+;
+; =====================================================
+; <L>8696<pc>319,2<k1>didrAsAmi
+55885 old <lang n="greek"></lang>
+55885 new <lang n="greek">διδράσϰω</lang>.
+;
+; =====================================================
+; <L>8749<pc>321,2<k1>diS
+56230 old || <ab>Gr.</ab> <lang n="greek"></lang>.
+56230 new || <ab>Gr.</ab> <lang n="greek">δείϰνυμι, δίϰη, δοϰέω</lang>.
+;
+; =====================================================
+; <L>8778<pc>323,1<k1>dIrGa
+56472 old <lang n="greek"></lang> <ab>zd.</ab> daregha.
+56472 new <lang n="greek">δολιχός</lang>; <ab>zd.</ab> daregha.
+;
+; =====================================================
+; <L>8784<pc>323,2<k1>du
+56590 old <lang n="greek"></lang>
+56590 new <lang n="greek">δύω, δύσις</lang>.
+;
+; =====================================================
+; <L>8785<pc>323,2<k1>du
+56599 old <lang n="greek"></lang>
+56599 new <lang n="greek">ὀδύνη</lang>.
+;
+; =====================================================
+; <L>8787<pc>323,2<k1>dugDa
+; ; merged both the strings together in (56611) (COMMENT)
+56611 old <lang n="greek"></lang>
+56611 new <lang n="greek">γάλαϰτος (γάλα)</lang>
+;
+56612 old <lang n="greek"></lang> = {%godugdha.%}
+56612 new NIL = {%godugdha.%}
+;
+; =====================================================
+; <L>8847<pc>325,2<k1>durmanas
+56918 old <lang n="greek"></lang>
+56918 new <lang n="greek">δυσμένης</lang>.
+;
+; =====================================================
+; <L>8883<pc>326,2<k1>dus
+57117 old <lang n="greek"></lang> <ab>lith.</ab> dur; <ab>irland.</ab> do.
+57117 new <lang n="greek">δυς</lang>; <ab>lith.</ab> dur; <ab>irland.</ab> do.
+;
+; =====================================================
+; <L>8900<pc>327,1<k1>duhitf
+57232 old <lang n="greek"></lang> <ab>lith.</ab> dukterês au <ab>g.</ab>; <ab>goth.</ab> dauhtar; <ab>angl.</ab> daughter; <ab>germ.</ab>
+57232 new <lang n="greek">θυγάτηρ</lang>; <ab>lith.</ab> dukterês au <ab>g.</ab>; <ab>goth.</ab> dauhtar; <ab>angl.</ab> daughter; <ab>germ.</ab>
+;
+; =====================================================
+; <L>8938<pc>328,2<k1>dfS
+57502 old <lang n="greek"></lang>
+57502 new <lang n="greek">δέρϰομαι</lang>.
+;
+; =====================================================
+; <L>8948<pc>329,1<k1>dfh
+57580 old <lang n="greek"></lang>
+57580 new <lang n="greek">δριάω</lang>.
+;
+; =====================================================
+; <L>8950<pc>329,1<k1>dF
+57595 old <lang n="greek"></lang> <ab>ang.</ab> tear; anc. <ab>germ.</ab> zar; <ab>germ.</ab> zehre.
+57595 new <lang n="greek">δέρω</lang>; <ab>ang.</ab> tear; anc. <ab>germ.</ab> zar; <ab>germ.</ab> zehre.
+;
+; =====================================================
+; <L>8972<pc>329,2<k1>deva
+57705 old <lang n="greek"></lang> <ab>irland.</ab> dia.
+57705 new <lang n="greek">θεός</lang>; <ab>irland.</ab> dia.
+;
+; =====================================================
+; <L>8980<pc>331,1<k1>devf
+57962 old <lang n="greek"></lang>
+57962 new <lang n="greek">δαήρ</lang>.
+;
+; =====================================================
+; <L>9071<pc>334,1<k1>dyo
+58511 old <lang n="greek"></lang> = {%divs%}],
+58511 new <lang n="greek">Ζεύς</lang> = {%divs%}],
+;
+58512 old <lang n="greek"></lang> <ab>lat.</ab> Jovis.
+58512 new <lang n="greek">Διός</lang>; <ab>lat.</ab> Jovis.
+;
+; =====================================================
+; <L>9085<pc>334,2<k1>dram
+; ; both strings merged together, as are throughout the text when only a punctuation is in between the strings. (COMMENT)
+58584 old <lang n="greek"></lang> , <lang n="greek"></lang>.
+58584 new <lang n="greek">ἔδραμον, δρόμος</lang>.
+;
+; =====================================================
+; <L>9091<pc>334,2<k1>drA
+58653 old <lang n="greek"></lang>.
+58653 new <lang n="greek">δρᾶναι</lang>.
+;
+; =====================================================
+; <L>9109<pc>335,2<k1>dru
+58762 old <lang n="greek"></lang> <ab>goth.</ab> triu.
+58762 new <lang n="greek">δρῦς</lang>; <ab>goth.</ab> triu.
+;
+; =====================================================
+; <L>9133<pc>336,1<k1>drE
+58900 old gr.<lang n="greek"></lang>;
+58900 new gr.<lang n="greek">δραθεῖν, δαρθάνω</lang>;
+;
+; =====================================================
+; <L>9142<pc>336,2<k1>dvAdaSa
+59005 old <lang n="greek"></lang> <ab>lat.</ab> duodecim.
+59005 new <lang n="greek">δώδεϰα</lang>; <ab>lat.</ab> duodecim.
+;
+; =====================================================
+; <L>9145<pc>337,1<k1>dvAr
+59037 old <lang n="greek"></lang> <ab>lat.</ab> foris, <lbinfo n="4"/> porta <ab>(?)</ab>; <ab>goth.</ab> daur; <ab>lith.</ab> durrys; <ab>germ.</ab> thür;
+59037 new <lang n="greek">θύρα</lang>; <ab>lat.</ab> foris, <lbinfo n="4"/> porta <ab>(?)</ab>; <ab>goth.</ab> daur; <ab>lith.</ab> durrys; <ab>germ.</ab> thür;
+;
+; =====================================================
+; <L>9150<pc>337,1<k1>dvi
+59085 old <lang n="greek"></lang> <ab>lat.</ab> duo, bi; <ab>zd.</ab> bi; <ab>irl.</ab> do; <ab>ang.</ab> two; <ab>lith.</ab> du; <ab>goth.</ab> twai;
+59085 new <lang n="greek">δύο, δι</lang>; <ab>lat.</ab> duo, bi; <ab>zd.</ab> bi; <ab>irl.</ab> do; <ab>ang.</ab> two; <ab>lith.</ab> du; <ab>goth.</ab> twai;
+;
+; =====================================================
+; <L>9165<pc>338,1<k1>dviDa
+59216 old <lang n="greek"></lang>
+59216 new <lang n="greek">δίχα</lang>.
+;
+; =====================================================
+; <L>9171<pc>338,1<k1>dvipad
+59246 old <lang n="greek"></lang> <ab>lat.</ab> bipes.
+59246 new <lang n="greek">δίπους</lang>; <ab>lat.</ab> bipes.
+;
+; =====================================================
+; <L>9199<pc>339,1<k1>dvis
+; ;<L>9234 change previously made (COMMENT)
+; ;old 59571: <lang n="greek">θ</lang>, (COMMENT)
+; ;new 59571: <lang n="greek">θ</lang>, (COMMENT)
+59387 old <lang n="greek"></lang>
+59387 new <lang n="greek">δίς</lang>.
+;
+; =====================================================
+; <L>9277<pc>342,1<k1>Darma
+59974 old <lang n="greek"></lang> <ab>Surn.</ab> de <s1 slp1="yuDizWira">Yudhiṣṭhira</s1>. || Le chef religieux ou pape du Bhôtan,
+59974 new <lang n="greek">Ῥαδαμανθυς</lang>; <ab>Surn.</ab> de <s1 slp1="yuDizWira">Yudhiṣṭhira</s1>. || Le chef religieux ou pape du Bhôtan,
+;
+; =====================================================
+; <L>9290<pc>343,1<k1>DA
+60100 old <lang n="greek"></lang> <ab>lith.</ab> dêmi; <ab>goth.</ab> dêths; <ab>lat.</ab> dare <ab>qqf.</ab> et en <ab>compos.</ab>
+60100 new <lang n="greek">τιθημι</lang>; <ab>lith.</ab> dêmi; <ab>goth.</ab> dêths; <ab>lat.</ab> dare <ab>qqf.</ab> et en <ab>compos.</ab>
+;
+; =====================================================
+; <L>9335<pc>345,1<k1>DAsas
+60456 old <lang n="greek"></lang> <ab>(?)</ab>.
+60456 new <lang n="greek">δάσος</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>9392<pc>347,1<k1>DUp
+60763 old <lang n="greek"></lang>
+60763 new <lang n="greek">θυμιάω, τύφω</lang>.
+;
+; =====================================================
+; <L>9394<pc>347,1<k1>DUpa
+60773 old <lang n="greek"></lang>
+60773 new <lang n="greek">τῦφος</lang>.
+;
+; =====================================================
+; <L>9395<pc>347,1<k1>DUma
+60782 old <lang n="greek"></lang> lat fumus; <ab>lith.</ab> dûmai.
+60782 new <lang n="greek">θῦμα</lang>; lat fumus; <ab>lith.</ab> dûmai.
+;
+; =====================================================
+; <L>9416<pc>348,1<k1>Dfz
+60964 old <lang n="greek"></lang>, <ab>lith.</ab> drasùs; <ab>goth.</ab> gadars.
+60964 new <lang n="greek">θάρσος, θρασύς</lang>; <ab>lith.</ab> drasùs; <ab>goth.</ab> gadars.
+;
+; =====================================================
+; <L>9423<pc>348,1<k1>De
+61002 old <lang n="greek"></lang>
+61002 new <lang n="greek">θάομαι, θῆλυς, τιθήνη</lang>.
+;
+; =====================================================
+; <L>9447<pc>348,2<k1>DmA
+61130 old <lang n="greek"></lang> <ab>(?)</ab>.
+61130 new <lang n="greek">ἄσθμα</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>9460<pc>349,1<k1>DyE
+61198 old <lang n="greek"></lang>
+61198 new <lang n="greek">θεάομαι</lang>.
+;
+; =====================================================
+; <L>9501<pc>351,1<k1>na
+61462 old <lang n="greek"></lang> <ab>lat.</ab> ne, non; <ab>lith.</ab> ne; <ab>goth.</ab> ni.
+61462 new <lang n="greek">νη</lang>; <ab>lat.</ab> ne, non; <ab>lith.</ab> ne; <ab>goth.</ab> ni.
+;
+; =====================================================
+; <L>9509<pc>351,1<k1>naktam
+61505 old <lang n="greek"></lang> <ab>lith.</ab> naktis; <ab>cf.</ab> {%niś.%}
+61505 new <lang n="greek">νυϰτός (νύξ)</lang>; <ab>lith.</ab> naktis; <ab>cf.</ab> {%niś.%}
+;
+; =====================================================
+; <L>9514<pc>351,2<k1>naKa
+61549 old <lang n="greek"></lang> <ab>lat.</ab> unguis.
+61549 new <lang n="greek">ὄνυξ</lang>; <ab>lat.</ab> unguis.
+;
+; =====================================================
+; <L>9557<pc>353,2<k1>naBa
+61905 old <lang n="greek"></lang> <ab>lat.</ab> nebula, nubes; anc. <ab>germ.</ab> nibul.
+61905 new <lang n="greek">νέφος</lang>; <ab>lat.</ab> nebula, nubes; anc. <ab>germ.</ab> nibul.
+;
+; =====================================================
+; <L>9626<pc>356,1<k1>nava
+62324 old <lang n="greek"></lang> <ab>irl.</ab> nua.
+62324 new <lang n="greek">νέος</lang>; <ab>irl.</ab> nua.
+;
+; =====================================================
+; <L>9630<pc>356,1<k1>navan
+62380 old <lang n="greek"></lang> <ab>goth.</ab> niun; <ab>angl.</ab> nine.
+62380 new <lang n="greek">ἐννέα</lang>; <ab>goth.</ab> niun; <ab>angl.</ab> nine.
+;
+; =====================================================
+; <L>9634<pc>356,1<k1>naS
+; ; merged both the strings together in (62420) (COMMENT)
+62420 old <lang n="greek"></lang>
+62420 new <lang n="greek">νέϰυς, νεϰρός</lang>,
+;
+62421 old <lang n="greek"></lang> <ab>cf.</ab> {%naṣṭa.%}
+62421 new NIL <ab>cf.</ab> {%naṣṭa.%}
+;
+; =====================================================
+; <L>9639<pc>356,2<k1>nazwa
+62442 old <lang n="greek"></lang>; <ab>goth.</ab> naus; <ab>irl.</ab> nas.
+62442 new <lang n="greek">νεϰρός</lang>; <ab>goth.</ab> naus; <ab>irl.</ab> nas.
+;
+; =====================================================
+; <L>9642<pc>356,2<k1>nah
+62478 old <lang n="greek"></lang> <ab>irl.</ab> nasgaim. <lbinfo n="5"/>
+62478 new <lang n="greek">νέω, νήθω</lang>; <ab>irl.</ab> nasgaim. <lbinfo n="5"/>
+;
+; =====================================================
+; <L>9683<pc>359,1<k1>nAman
+62898 old <lang n="greek"></lang> <ab>goth.</ab> naman.
+62898 new <lang n="greek">ὄνομα</lang>; <ab>goth.</ab> naman.
+;
+; =====================================================
+; <L>9688<pc>359,1<k1>nAra
+62940 old <lang n="greek"></lang>
+62940 new <lang n="greek">ναρός</lang>.
+;
+; =====================================================
+; <L>9776<pc>362,1<k1>nij
+; ; merged both the strings together in (63460) (COMMENT)
+63460 old <lang n="greek"></lang>
+63460 new <lang n="greek">νίζω, νίπτω</lang>.
+;
+63461 old <lang n="greek"></lang>.
+63461 new NIL
+;
+; =====================================================
+; <L>9784<pc>362,1<k1>nitamba
+63505 old <lang n="greek"></lang>
+63505 new <lang n="greek">ϰαλλίπυγος</lang>.
+;
+; =====================================================
+; <L>9826<pc>363,2<k1>nind
+63756 old <lang n="greek"></lang>.
+63756 new <lang n="greek">ὄνειδος</lang>.
+;
+; =====================================================
+; <L>10087<pc>372,2<k1>niS
+65298 old <lang n="greek"></lang>; <ab>lat.</ab> nox; <ab>cf.</ab> {%naktam.%}
+65298 new <lang n="greek">νύξ</lang>; <ab>lat.</ab> nox; <ab>cf.</ab> {%naktam.%}
+;
+; =====================================================
+; <L>10334<pc>380,2<k1>nO
+66815 old <lang n="greek"></lang> <ab>lat.</ab> navis; <ab>irl.</ab> navi.
+66815 new <lang n="greek">ναῦς</lang>; <ab>lat.</ab> navis; <ab>irl.</ab> navi.
+;
+; =====================================================
+; <L>10381<pc>383,1<k1>pac
+67197 old <lang n="greek"></lang> <ab>lat.</ab> coquo.
+67197 new <lang n="greek">πέσσω, πεπτός</lang>; <ab>lat.</ab> coquo.
+;
+; =====================================================
+; <L>10388<pc>384,1<k1>paYcan
+67396 old <lang n="greek"></lang> bret. pemp; <ab>goth.</ab> fimf; <ab>lat.</ab> quinque; <ab>irl.</ab> cuig; etc. || <ab>M§</ab> 51,
+67396 new <lang n="greek">πέντε</lang>; bret. pemp; <ab>goth.</ab> fimf; <ab>lat.</ab> quinque; <ab>irl.</ab> cuig; etc. || <ab>M§</ab> 51,
+;
+; =====================================================
+; <L>10414<pc>385,2<k1>pat
+67642 old <lang n="greek"></lang> etc.; <ab>lat.</ab> peto [impetus], penna, etc.
+67642 new <lang n="greek">πίπτω, ἵπταμαι, πτερόν</lang>, etc.; <ab>lat.</ab> peto [impetus], penna, etc.
+;
+; =====================================================
+; <L>10428<pc>386,1<k1>pati
+67721 old <lang n="greek"></lang> <ab>lat.</ab> potis, <lbinfo n="4"/> pater [signifiant maître], potens.
+67721 new <lang n="greek">πότις, πόσις</lang>; <ab>lat.</ab> potis, <lbinfo n="4"/> pater [signifiant maître], potens.
+;
+; =====================================================
+; <L>10435<pc>386,1<k1>patnI
+67772 old <lang n="greek"></lang>
+67772 new <lang n="greek">πότνια</lang>.
+;
+; =====================================================
+; <L>10436<pc>386,1<k1>patra
+67781 old <lang n="greek"></lang>
+67781 new <lang n="greek">πέταλον, πτερόν</lang>.
+;
+; =====================================================
+; <L>10439<pc>386,2<k1>paTa
+67873 old <lang n="greek"></lang>.
+67873 new <lang n="greek">πάτος</lang>.
+;
+; =====================================================
+; <L>10442<pc>387,1<k1>pad
+67910 old <lang n="greek"></lang> <ab>lat.</ab> pes. pedis; <ab>ang.</ab> foot, etc.
+67910 new <lang n="greek">ποῦς, ποδός</lang>; <ab>lat.</ab> pes. pedis; <ab>ang.</ab> foot, etc.
+;
+67916 old <lang n="greek"></lang>
+67916 new <lang n="greek">πέδον</lang>.
+;
+; =====================================================
+; <L>10472<pc>389,2<k1>paraSu
+68390 old <lang n="greek"></lang>.
+68390 new <lang n="greek">πέλεϰυς</lang>.
+;
+; =====================================================
+; <L>10473<pc>389,2<k1>parA
+68403 old <lang n="greek"></lang>, <ab>lith.</ab> par.
+68403 new <lang n="greek">παρά</lang>; <ab>lith.</ab> par.
+;
+; =====================================================
+; <L>10525<pc>391,1<k1>pari
+68664 old <lang n="greek"></lang>
+68664 new <lang n="greek">περί</lang>.
+;
+; =====================================================
+; <L>10600<pc>393,2<k1>paridaDAmi
+69120 old <lang n="greek"></lang> || Perdre, <ab>Vd.</ab>?
+69120 new <lang n="greek">περιτίθημι</lang>. || Perdre, <ab>Vd.</ab>?
+;
+; =====================================================
+; <L>10810<pc>400,1<k1>pard
+70299 old <lang n="greek"></lang> <ab>lat.</ab> pedo; <ab>lith.</ab> pirdis; <ab>ang.</ab> fart.
+70299 new <lang n="greek">πέρδω</lang>; <ab>lat.</ab> pedo; <ab>lith.</ab> pirdis; <ab>ang.</ab> fart.
+;
+; =====================================================
+; <L>10870<pc>402,1<k1>pala
+70661 old <lang n="greek"></lang> -- <ab>M.</ab> <s1 slp1="rAkzasa">rākṣasa</s1>.
+70661 new <lang n="greek">πηλός</lang>. -- <ab>M.</ab> <s1 slp1="rAkzasa">rākṣasa</s1>.
+;
+; =====================================================
+; <L>10876<pc>402,2<k1>palita
+70712 old <lang n="greek"></lang> -- <ab>F.</ab> femme à cheveux blancs. -- <ab>N.</ab> cheveux blancs [au pl.].
+70712 new <lang n="greek">πολιός</lang>. -- <ab>F.</ab> femme à cheveux blancs. -- <ab>N.</ab> cheveux blancs [au pl.].
+;
+; =====================================================
+; <L>10892<pc>403,1<k1>paS
+70828 old <lang n="greek"></lang> <ab>lat.</ab> pango, fascia, <lbinfo n="4"/> fascis.
+70828 new <lang n="greek">πήγνυμι</lang>; <ab>lat.</ab> pango, fascia, <lbinfo n="4"/> fascis.
+;
+; =====================================================
+; <L>10903<pc>403,2<k1>pA
+70908 old <lang n="greek"></lang> etc.; <ab>lat.</ab> bibo et poto, etc.
+70908 new <lang n="greek">πίνω</lang>, etc.; <ab>lat.</ab> bibo et poto, etc.
+;
+; =====================================================
+; <L>10904<pc>403,2<k1>pA
+70917 old <lang n="greek"></lang>.
+70917 new <lang n="greek">πάομαι</lang>.
+;
+; =====================================================
+; <L>10937<pc>405,1<k1>pARqya
+71217 old <lang n="greek"></lang> des historiens Grecs.
+71217 new <lang n="greek">Πανδίων</lang> des historiens Grecs.
+;
+; =====================================================
+; <L>10947<pc>405,2<k1>pAtra
+71285 old <lang n="greek"></lang>
+71285 new <lang n="greek">ποτἠριον</lang>.
+;
+; =====================================================
+; <L>10959<pc>406,2<k1>pApa
+71481 old <lang n="greek"></lang>
+71481 new <lang n="greek">ϰαϰός</lang>.
+;
+; =====================================================
+; <L>11045<pc>409,2<k1>pAzARa
+72054 old <lang n="greek"></lang> -- <ab>F.</ab> {%pāṣāṇī%} petite pierre employée comme poids.
+72054 new <lang n="greek">βάσανος</lang>. -- <ab>F.</ab> {%pāṣāṇī%} petite pierre employée comme poids.
+;
+; =====================================================
+; <L>11065<pc>410,2<k1>piYj
+72247 old <lang n="greek"></lang> <ab>lat.</ab> compages. || Honorer, <lbinfo n="4"/> <ab>cf.</ab> {%pūj.%} || Résonner.
+72247 new <lang n="greek">πήγνυμι</lang>; <ab>lat.</ab> compages. || Honorer, <lbinfo n="4"/> <ab>cf.</ab> {%pūj.%} || Résonner.
+;
+; =====================================================
+; <L>11079<pc>411,2<k1>pitf
+72412 old <lang n="greek"></lang>; <ab>lat.</ab> pater; <ab>zd.</ab> patare; <ab>goth.</ab> fadar; <ab>germ.</ab> vater; <ab>ang.</ab> father;
+72412 new <lang n="greek">πατήρ</lang>; <ab>lat.</ab> pater; <ab>zd.</ab> patare; <ab>goth.</ab> fadar; <ab>germ.</ab> vater; <ab>ang.</ab> father;
+;
+; =====================================================
+; <L>11098<pc>412,2<k1>pipAsA
+72566 old <lang n="greek"></lang><ab>(?)</ab>.
+72566 new <lang n="greek">δίψα</lang><ab>(?)</ab>.
+;
+; =====================================================
+; <L>11106<pc>412,2<k1>pippali
+72604 old <lang n="greek"></lang>; <ab>lat.</ab> piper.
+72604 new <lang n="greek">πέπερι</lang>; <ab>lat.</ab> piper.
+;
+; =====================================================
+; <L>11146<pc>414,2<k1>pIv
+72943 old <lang n="greek"></lang>.
+72943 new <lang n="greek">πιαρός</lang>.
+;
+; =====================================================
+; <L>11182<pc>416,2<k1>pura
+73251 old <lang n="greek"></lang> [?
+73251 new <lang n="greek">πόλις</lang> [?
+;
+73252 old <lang n="greek"></lang>; <ab>germ.</ab> burg]. -- <ab>N.</ab> habitation; étage supérieur; || le corps;
+73252 new <lang n="greek">πύργος</lang>; <ab>germ.</ab> burg]. -- <ab>N.</ab> habitation; étage supérieur; || le corps;
+;
+; =====================================================
+; <L>11206<pc>417,1<k1>puru
+73390 old <lang n="greek"></lang>; <ab>lat.</ab> pollen. <ab>Cf.</ab> {%pula.%}
+73390 new <lang n="greek">πολύς</lang>; <ab>lat.</ab> pollen. <ab>Cf.</ab> {%pula.%}
+;
+; =====================================================
+; <L>11241<pc>419,2<k1>puzya
+73751 old <lang n="greek"></lang> du Cancer. || Le mois de <s1 slp1="puzya">puṣya</s1> [déc. janv.]. || L'âge de
+73751 new <lang n="greek">δ</lang> du Cancer. || Le mois de <s1 slp1="puzya">puṣya</s1> [déc. janv.]. || L'âge de
+;
+; =====================================================
+; <L>11257<pc>420,2<k1>pUy
+73923 old <lang n="greek"></lang>; <ab>lat.</ab> puteo, etc.
+73923 new <lang n="greek">πύθω</lang>; <ab>lat.</ab> puteo, etc.
+;
+; =====================================================
+; <L>11258<pc>420,2<k1>pUya
+73928 old <lang n="greek"></lang>; <ab>lat.</ab> pus.
+73928 new <lang n="greek">πῦον</lang>; <ab>lat.</ab> pus.
+;
+; =====================================================
+; <L>11270<pc>421,1<k1>pUrva
+74067 old <lang n="greek"></lang> du Lion.
+74067 new <lang n="greek">δ</lang> du Lion.
+;
+74096 old <lang n="greek"></lang> du Sagittaire.
+74096 new <lang n="greek">δ</lang> du Sagittaire.
+;
+; =====================================================
+; <L>11287<pc>422,1<k1>pfTak
+74210 old <lang n="greek"></lang>;
+74210 new <lang n="greek">χωριστὸν</lang>;
+;
+; =====================================================
+; <L>11292<pc>422,2<k1>pfTu
+74271 old <lang n="greek"></lang>.
+74271 new <lang n="greek">πλατύς</lang>.
+;
+; =====================================================
+; <L>11294<pc>422,2<k1>pfdAku
+74294 old <lang n="greek"></lang>.
+74294 new <lang n="greek">πάρδαλις</lang>.
+;
+; =====================================================
+; <L>11305<pc>423,1<k1>pF
+74411 old <lang n="greek"></lang>; <ab>lat.</ab> plenus; <ab>lith.</ab> pilnas.
+74411 new <lang n="greek">πίμπλημι, πλέως</lang>; <ab>lat.</ab> plenus; <ab>lith.</ab> pilnas.
+;
+; =====================================================
+; <L>11389<pc>425,2<k1>pra
+74904 old <lang n="greek"></lang>; <ab>lat.</ab> pro; <ab>lith.</ab> pra; <ab>slav.</ab> pro; <ab>goth.</ab> fra; <ab>irl.</ab> fur, for.
+74904 new <lang n="greek">πρό</lang>; <ab>lat.</ab> pro; <ab>lith.</ab> pra; <ab>slav.</ab> pro; <ab>goth.</ab> fra; <ab>irl.</ab> fur, for.
+;
+; =====================================================
+; <L>11534<pc>430,2<k1>pratanomi
+75839 old <lang n="greek"></lang>.
+75839 new <lang n="greek">προτείνω</lang>.
+;
+; =====================================================
+; <L>11543<pc>431,1<k1>prati
+75911 old <lang n="greek"></lang>.
+75911 new <lang n="greek">προτί, πρός</lang>.
+;
+; =====================================================
+; <L>11826<pc>439,2<k1>praTama
+77530 old <lang n="greek"></lang>; <ab>lat.</ab> primus.
+77530 new <lang n="greek">πρῶτος</lang>; <ab>lat.</ab> primus.
+;
+; =====================================================
+; <L>11830<pc>439,2<k1>pradadAmi
+77554 old <lang n="greek"></lang>; <ab>lat.</ab> prodere.
+77554 new <lang n="greek">προδίδωμι</lang>; <ab>lat.</ab> prodere.
+;
+; =====================================================
+; <L>11842<pc>439,2<k1>pradiSAmi
+77618 old <lang n="greek"></lang>.
+77618 new <lang n="greek">προδείϰνυμι</lang>.
+;
+; =====================================================
+; <L>11877<pc>440,2<k1>prapatAmi
+77826 old <lang n="greek"></lang>.
+77826 new <lang n="greek">προπίπτω</lang>.
+;
+; =====================================================
+; <L>11989<pc>444,2<k1>pralaBe
+78537 old <lang n="greek"></lang>.
+78537 new <lang n="greek">προλαμϐάνω</lang>.
+;
+; =====================================================
+; <L>12150<pc>450,1<k1>prAk
+79605 old <lang n="greek"></lang>.
+79605 new <lang n="greek">πρωΐ</lang>.
+;
+; =====================================================
+; <L>12194<pc>451,1<k1>prARa
+79839 old <lang n="greek"></lang>.
+79839 new <lang n="greek">φρὴν</lang>.
+;
+; =====================================================
+; <L>12324<pc>456,1<k1>plava
+80780 old -- <ab>Gr.</ab><lang n="greek"></lang>.
+80780 new -- <ab>Gr.</ab><lang n="greek">πλόος, πλοῖον</lang>.
+;
+; =====================================================
+; <L>12327<pc>456,2<k1>plihan
+80817 old <lang n="greek"></lang>; <ab>lat.</ab> lien; <ab>ang.</ab> spleen.
+80817 new <lang n="greek">σπλήν, σπλάγχνον</lang>; <ab>lat.</ab> lien; <ab>ang.</ab> spleen.
+;
+; =====================================================
+; <L>12330<pc>456,2<k1>plu
+80844 old || <ab>Gr.</ab> <lang n="greek"></lang>;
+80844 new || <ab>Gr.</ab> <lang n="greek">πλέω, πλεύσομαι; πλύνω; φλύω</lang>;
+;
+; =====================================================
+; <L>12338<pc>456,2<k1>psA
+80887 old <lang n="greek"></lang>; <ab>germ.</ab> speise <ab>(?)</ab>.
+80887 new <lang n="greek">ὀψῶμαι</lang>; <ab>germ.</ab> speise <ab>(?)</ab>.
+;
+; =====================================================
+; <L>12339<pc>456,2<k1>psA
+80894 old <lang n="greek"></lang>; <ab>lat.</ab> obsonium. 
+80894 new <lang n="greek">ὄψον</lang>; <ab>lat.</ab> obsonium. 
+;
+; =====================================================
+; <L>12340<pc>457,1<k1>Pa
+80904 old <lang n="greek"></lang>, f, et <ab>qqf.</ab> p ou b dans les langues âryennes.
+80904 new <lang n="greek">φ</lang>, f, et <ab>qqf.</ab> p ou b dans les langues âryennes.
+;
+; =====================================================
+; <L>12375<pc>458,2<k1>Pulla
+81205 old <lang n="greek"></lang>; <ab>lat.</ab> folium, flos <ab>(?)</ab>; <ab>germ.</ab> blume; etc. 
+81205 new <lang n="greek">φύλλον</lang>; <ab>lat.</ab> folium, flos <ab>(?)</ab>; <ab>germ.</ab> blume; etc. 
+;
+; =====================================================
+; <L>12429<pc>461,1<k1>barbara
+81601 old <ab>gr.</ab> <lang n="greek"></lang>.
+81601 new <ab>gr.</ab> <lang n="greek">βάρϐαρος</lang>.
+;
+; =====================================================
+; <L>12472<pc>462,2<k1>bahu
+81859 old <lang n="greek"></lang>.
+81859 new <lang n="greek">βαθύς</lang>.
+;
+; =====================================================
+; <L>12477<pc>463,2<k1>bAq
+82032 old <lang n="greek"></lang>.
+82032 new <lang n="greek">βαλανεῖον</lang>.
+;
+; =====================================================
+; <L>12516<pc>465,1<k1>bAhu
+82313 old <lang n="greek"></lang>; <lbinfo n="5"/> <ab>lat.</ab> brachium.
+82313 new <lang n="greek">ϐραχίων</lang>; <lbinfo n="5"/> <ab>lat.</ab> brachium.
+;
+; =====================================================
+; <L>12555<pc>466,1<k1>buD
+82560 old <lang n="greek"></lang>; <ab>lith.</ab> bundu.
+82560 new <lang n="greek">πυθ [ἐπυθόμην]</lang>; <ab>lith.</ab> bundu.
+;
+; =====================================================
+; <L>12579<pc>466,2<k1>bfhat
+82682 old  védique, <ab>cf.</ab> {%vṛhati.%} || Zd. berezat; <ab>gr.</ab> B<lang n="greek"></lang>.
+82682 new  védique, <ab>cf.</ab> {%vṛhati.%} || Zd. berezat; <ab>gr.</ab> <lang n="greek">Βερέϰιντος</lang>.
+;
+; =====================================================
+; <L>12603<pc>468,2<k1>brU
+83035 old <lang n="greek"></lang>. 
+83035 new <lang n="greek">φράζω</lang>. 
+;
+; =====================================================
+; <L>12604<pc>469,1<k1>Ba
+83044 old <lang n="greek"></lang>, {%f,%} à {%b%} et <ab>qqf.</ab> à {%h%} ou même à l'esprit <lbinfo n="4"/> rude
+83044 new <lang n="greek">φ</lang>, {%f,%} à {%b%} et <ab>qqf.</ab> à {%h%} ou même à l'esprit <lbinfo n="4"/> rude
+;
+; =====================================================
+; <L>12609<pc>469,1<k1>Bakz
+83092 old <lang n="greek"></lang>.
+83092 new <lang n="greek">ἔφαγον</lang>.
+;
+; =====================================================
+; <L>12610<pc>469,1<k1>Bakza
+83097 old <lang n="greek"></lang>.
+83097 new <lang n="greek">φαγος</lang>.
+;
+; =====================================================
+; <L>12624<pc>470,1<k1>BaYj
+83241 old <lang n="greek"></lang>; <ab>fr.</ab> briser. || <ab>Cf.</ab> {%bhaj.%}
+83241 new <lang n="greek">ῥήγνυμι</lang>; <ab>fr.</ab> briser. || <ab>Cf.</ab> {%bhaj.%}
+;
+; =====================================================
+; <L>12651<pc>471,2<k1>Bara
+83511 old <lang n="greek"></lang>.
+83511 new <lang n="greek">βάρος</lang>.
+;
+; =====================================================
+; <L>12669<pc>472,1<k1>Bal
+83637 old <lang n="greek"></lang>. -- Donner. || Raconter, décrire. -- {%bhālaye%} 10
+83637 new <lang n="greek">βάλλω</lang>. -- Donner. || Raconter, décrire. -- {%bhālaye%} 10
+;
+; =====================================================
+; <L>12696<pc>473,2<k1>BA
+83849 old <lang n="greek"></lang>, etc.
+83849 new <lang n="greek">φάω, φαίνω</lang>, etc.
+;
+; =====================================================
+; <L>12743<pc>475,2<k1>BAs
+84225 old <lang n="greek"></lang>.
+84225 new <lang n="greek">φῶς</lang>.
+;
+; =====================================================
+; <L>12747<pc>476,1<k1>Bitti
+84302 old <lang n="greek"></lang>.
+84302 new <lang n="greek">τοιχώρυχος</lang>.
+;
+; =====================================================
+; <L>12759<pc>476,2<k1>BI
+84391 old <lang n="greek"></lang>.
+84391 new <lang n="greek">φόϐος</lang>.
+;
+; =====================================================
+; <L>12784<pc>477,2<k1>BU
+84631 old <lang n="greek"></lang>; <ab>lat.</ab> fui, fore; <ab>lith.</ab> buti; <ab>slav.</ab> byti; <ab>irl.</ab> fuilim.
+84631 new <lang n="greek">φυω</lang>; <ab>lat.</ab> fui, fore; <ab>lith.</ab> buti; <ab>slav.</ab> byti; <ab>irl.</ab> fuilim.
+;
+; =====================================================
+; <L>12786<pc>478,1<k1>BUta
+84726 old <lang n="greek"></lang>.
+84726 new <lang n="greek">φυτόν</lang>.
+;
+; =====================================================
+; <L>12793<pc>478,2<k1>BUmi
+84840 old <lang n="greek"></lang>.
+84840 new <lang n="greek">ϐῶμος</lang>.
+;
+; =====================================================
+; <L>12796<pc>479,1<k1>BUri
+84910 old <lang n="greek"></lang>.
+84910 new <lang n="greek">μυρίος</lang>.
+;
+; =====================================================
+; <L>12804<pc>479,2<k1>Bf
+84971 old <lang n="greek"></lang>; <ab>lat.</ab> fero, porto; <ab>goth.</ab> bar et brah; <ab>germ.</ab> bringen; <ab>irl.</ab>
+84971 new <lang n="greek">φέρω</lang>; <ab>lat.</ab> fero, porto; <ab>goth.</ab> bar et brah; <ab>germ.</ab> bringen; <ab>irl.</ab>
+;
+; =====================================================
+; <L>12858<pc>481,2<k1>Brajj
+85388 old <ab>Gr.</ab> <lang n="greek"></lang>;
+85388 new <ab>Gr.</ab> <lang n="greek">φρύγω, φώγω</lang>;
+;
+; =====================================================
+; <L>12872<pc>482,2<k1>BrAj
+85500 old <lang n="greek"></lang>; <ab>lat.</ab> fulgeo, flagro, etc.; <ab>angl.</ab> bright.; <ab>fr.</ab> braise; <ab>cf.</ab>
+85500 new <lang n="greek">φλέγω</lang>; <ab>lat.</ab> fulgeo, flagro, etc.; <ab>angl.</ab> bright.; <ab>fr.</ab> braise; <ab>cf.</ab>
+;
+; =====================================================
+; <L>12873<pc>482,2<k1>BrAtf
+85515 old <lang n="greek"></lang>; <ab>lat.</ab> frater; <ab>germ.</ab> bruder; <ab>ang.</ab> brother; <ab>irl.</ab> brathair; etc.
+85515 new <lang n="greek">φράτωρ</lang>; <ab>lat.</ab> frater; <ab>germ.</ab> bruder; <ab>ang.</ab> brother; <ab>irl.</ab> brathair; etc.
+;
+; =====================================================
+; <L>12885<pc>483,1<k1>BrU
+85599 old <lang n="greek"></lang>; <ab>angl.</ab> brow, frown; <ab>fr.</ab> froncer.
+85599 new <lang n="greek">ὀφρύς</lang>; <ab>angl.</ab> brow, frown; <ab>fr.</ab> froncer.
+;
+; =====================================================
+; <L>12887<pc>483,1<k1>BrURa
+85617 old <lang n="greek"></lang> dans
+85617 new <lang n="greek">ϐρυ</lang> dans
+;
+85618 old <lang n="greek"></lang>. 
+85618 new <lang n="greek">ἔμϐρυον</lang>. 
+;
+; =====================================================
+; <L>12911<pc>484,1<k1>makzikA
+85769 old <lang n="greek"></lang>.
+85769 new <lang n="greek">μυῖα</lang>.
+;
+; =====================================================
+; <L>12944<pc>485,1<k1>maYjara
+85983 old <lang n="greek"></lang>; <ab>lat.</ab> margarita.
+85983 new <lang n="greek">μάργαρον</lang>; <ab>lat.</ab> margarita.
+;
+; =====================================================
+; <L>12957<pc>485,2<k1>maRi
+86076 old <lang n="greek"></lang>; <ab>lat.</ab> monile.
+86076 new <lang n="greek">μάννος</lang>; <ab>lat.</ab> monile.
+;
+; =====================================================
+; <L>12970<pc>486,2<k1>mati
+86240 old <lang n="greek"></lang>.
+86240 new <lang n="greek">μῆτις</lang>.
+;
+; =====================================================
+; <L>12994<pc>488,2<k1>maDu
+86568 old <lang n="greek"></lang>; <ab>lat.</ab> mel; <ab>lith.</ab> medûs.
+86568 new <lang n="greek">μέθυ, μέλι</lang>; <ab>lat.</ab> mel; <ab>lith.</ab> medûs.
+;
+; =====================================================
+; <L>12995<pc>489,2<k1>maDya
+86759 old <lang n="greek"></lang>; <ab>goth.</ab> midja; <ab>irl.</ab> meadhon; etc.
+86759 new <lang n="greek">μέσος</lang>; <ab>goth.</ab> midja; <ab>irl.</ab> meadhon; etc.
+;
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86863 old <lang n="greek"></lang>; lat mens; etc.
+86863 new <lang n="greek">μένος</lang>; lat mens; etc.
+;
+; =====================================================
+; <L>13036<pc>492,1<k1>mandira
+87201 old <lang n="greek"></lang>.
+87201 new <lang n="greek">μάνδρα</lang>.
+;
+; =====================================================
+; <L>13071<pc>493,1<k1>marakata
+87386 old <lang n="greek"></lang>.
+87386 new <lang n="greek">λάραγδος</lang>.
+;
+; =====================================================
+; <L>13103<pc>494,1<k1>marta
+87600 old <lang n="greek"></lang>.
+87600 new <lang n="greek">μορτὸς, βροτός</lang>.
+;
+; =====================================================
+; <L>13107<pc>494,2<k1>marmara
+87644 old <lang n="greek"></lang>.
+87644 new <lang n="greek">μορμύρω</lang>.
+;
+; =====================================================
+; <L>13120<pc>495,1<k1>malina
+87747 old <lang n="greek"></lang>; <ab>lith.</ab> mêlinâs. <lbinfo n="4"/>
+87747 new <lang n="greek">μέλανος</lang>; <ab>lith.</ab> mêlinâs. <lbinfo n="4"/>
+;
+; =====================================================
+; <L>13156<pc>496,2<k1>mahat
+88003 old <lang n="greek"></lang>; <ab>lat.</ab> magnus; <ab>lith.</ab> macnus.
+88003 new <lang n="greek">μέγας</lang>; <ab>lat.</ab> magnus; <ab>lith.</ab> macnus.
+;
+; =====================================================
+; <L>13198<pc>500,2<k1>maMhizWa
+88735 old <lang n="greek"></lang>; <ab>goth.</ab> maists.
+88735 new <lang n="greek">μέγιστος</lang>; <ab>goth.</ab> maists.
+;
+; =====================================================
+; <L>13200<pc>500,2<k1>mA
+88747 old <lang n="greek"></lang>.
+88747 new <lang n="greek">μή</lang>.
+;
+; =====================================================
+; <L>13233<pc>501,2<k1>mAtf
+88937 old <lang n="greek"></lang>; <ab>lat.</ab> mater; <ab>lith.</ab> motc; <ab>germ.</ab> mutter; <ab>angl.</ab> mother; etc.
+88937 new <lang n="greek">μητήρ</lang>; <ab>lat.</ab> mater; <ab>lith.</ab> motc; <ab>germ.</ab> mutter; <ab>angl.</ab> mother; etc.
+;
+; =====================================================
+; <L>13234<pc>501,2<k1>mAtra
+88979 old <lang n="greek"></lang>; <ab>lat.</ab> materies.
+88979 new <lang n="greek">μέτρον</lang>; <ab>lat.</ab> materies.
+;
+; =====================================================
+; <L>13321<pc>505,1<k1>mAs
+89608 old <lang n="greek"></lang>; <ab>lith.</ab> mênu; <ab>angl.</ab> moon, month.; <ab>lat.</ab> mensis; etc.
+89608 new <lang n="greek">μήν</lang>; <ab>lith.</ab> mênu; <ab>angl.</ab> moon, month.; <ab>lat.</ab> mensis; etc.
+;
+; =====================================================
+; <L>13382<pc>507,1<k1>miSr
+89977 old <lang n="greek"></lang>.
+89977 new <lang n="greek">μίγνυμι</lang>.
+;
+; =====================================================
+; <L>13392<pc>507,2<k1>mih
+90044 old <lang n="greek"></lang>.
+90044 new <lang n="greek">όμιχέω</lang>.
+;
+; =====================================================
+; <L>13393<pc>507,2<k1>miha
+90051 old <lang n="greek"></lang>.
+90051 new <lang n="greek">ὀμίχλν</lang>.
+;
+; =====================================================
+; <L>13455<pc>510,1<k1>muni
+90557 old || <ab>Gr.</ab>? <lang n="greek"></lang>.
+90557 new || <ab>Gr.</ab>? <lang n="greek">μόνος, μόναχος</lang>.
+;
+; =====================================================
+; <L>13465<pc>510,2<k1>mura
+90625 old <lang n="greek"></lang>.
+90625 new <lang n="greek">μύρον</lang>.
+;
+; =====================================================
+; <L>13502<pc>512,1<k1>mUra
+90877 old <lang n="greek"></lang>.
+90877 new <lang n="greek">μώρός</lang>.
+;
+; =====================================================
+; <L>13517<pc>513,1<k1>mUza
+91031 old <lang n="greek"></lang>; <ab>lat.</ab> mus; <ab>germ.</ab> maus.
+91031 new <lang n="greek">μύς</lang>; <ab>lat.</ab> mus; <ab>germ.</ab> maus.
+;
+; =====================================================
+; <L>13524<pc>513,1<k1>mfga
+91141 old <lang n="greek"></lang> d'Orion et figuré par une tête d'antilope.
+91141 new <lang n="greek">λ</lang> d'Orion et figuré par une tête d'antilope.
+;
+; =====================================================
+; <L>13525<pc>513,2<k1>mfj
+91181 old <ab>gr.</ab> <lang n="greek"></lang>;
+91181 new <ab>gr.</ab> <lang n="greek">άμέλγω, ὀμόργνυμι</lang>;
+;
+; =====================================================
+; <L>13556<pc>514,2<k1>mfdu
+91371 old <lang n="greek"></lang>. -- <ab>S.</ab> <ab>f.</ab> {%mṛdvī%} raisin noir.
+91371 new <lang n="greek">βραδύς</lang>. -- <ab>S.</ab> <ab>f.</ab> {%mṛdvī%} raisin noir.
+;
+; =====================================================
+; <L>13595<pc>516,2<k1>meD
+91702 old <ab>gr.</ab> <lang n="greek"></lang>.
+91702 new <ab>gr.</ab> <lang n="greek">μήδομαι, μανθάνω</lang>.
+;
+; =====================================================
+; <L>13597<pc>516,2<k1>meDas
+91713 old <lang n="greek"></lang>.
+91713 new <lang n="greek">μῆδος</lang>.
+;
+; =====================================================
+; <L>13602<pc>516,2<k1>menA
+91750 old <ab>Vd.</ab> || L'épouse d'<s1 slp1="himavat">Himavat</s1> et mère de <s1 slp1="pArvatI">Pārvatī</s1>. || M<lang n="greek"></lang> ou
+91750 new <ab>Vd.</ab> || L'épouse d'<s1 slp1="himavat">Himavat</s1> et mère de <s1 slp1="pArvatI">Pārvatī</s1>. || <lang n="greek">Μῆν</lang> ou
+;
+91751 old M<lang n="greek"></lang> des Orphiques.
+91751 new <lang n="greek">Μῆνα</lang> des Orphiques.
+;
+; =====================================================
+; <L>13617<pc>517,1<k1>melA
+91831 old <lang n="greek"></lang>.
+91831 new <lang n="greek">μέλαν</lang>.
+;
+; =====================================================
+; <L>13663<pc>519,1<k1>mnA
+92156 old <lang n="greek"></lang>.
+92156 new <lang n="greek">μνάοραι</lang>.
+;
+; =====================================================
+; <L>13671<pc>519,1<k1>mradayAmi
+92204 old <lang n="greek"></lang>.
+92204 new <lang n="greek">βράδιστος</lang>.
+;
+92207 old <lang n="greek"></lang>.
+92207 new <lang n="greek">βραδίων</lang>.
+;
+; =====================================================
+; <L>13683<pc>519,2<k1>mlE
+92295 old <lang n="greek"></lang>; <ab>lat.</ab> marcesco <ab>(?)</ab>. 
+92295 new <lang n="greek">μαραίνω</lang>; <ab>lat.</ab> marcesco <ab>(?)</ab>. 
+;
+; =====================================================
+; <L>13684<pc>520,1<k1>ya
+92307 old <lang n="greek"></lang> ou à l'esprit rude des Grecs.
+92307 new <lang n="greek">ζ</lang> ou à l'esprit rude des Grecs.
+;
+; =====================================================
+; <L>13686<pc>520,1<k1>ya
+92322 old <lang n="greek"></lang>; <ab>lat.</ab> qui, quis; <ab>cf.</ab> {%ka, kim.%}
+92322 new <lang n="greek">ὅς</lang>; <ab>lat.</ab> qui, quis; <ab>cf.</ab> {%ka, kim.%}
+;
+; =====================================================
+; <L>13694<pc>520,2<k1>yaj
+92406 old <lang n="greek"></lang>. -- <ab>Pp.</ab> {%iṣṭa%} sacrifié, honoré d'un sacrifice.
+92406 new <lang n="greek">ἅζομαι, ἁγίζω, ἅγιος</lang>. -- <ab>Pp.</ab> {%iṣṭa%} sacrifié, honoré d'un sacrifice.
+;
+; =====================================================
+; <L>13703<pc>521,1<k1>yajYa
+92451 old <lang n="greek"></lang>. -- <ab>S.</ab> <ab>m.</ab> le saint sacrifice. <lbinfo n="5"/> || Zd. yaçna.
+92451 new <lang n="greek">ἁγνός</lang>. -- <ab>S.</ab> <ab>m.</ab> le saint sacrifice. <lbinfo n="5"/> || Zd. yaçna.
+;
+; =====================================================
+; <L>13706<pc>521,1<k1>yat
+92530 old <lang n="greek"></lang>, <ab>(?)</ab>
+92530 new <lang n="greek">ζητέω</lang>, <ab>(?)</ab>
+;
+92531 old <lang n="greek"></lang>.
+92531 new <lang n="greek"> ὄθομαι</lang>.
+;
+; =====================================================
+; <L>13711<pc>521,2<k1>yatas
+92557 old <lang n="greek"></lang>.
+92557 new <lang n="greek">ὅθεν</lang>.
+;
+; =====================================================
+; <L>13742<pc>523,1<k1>yava
+92888 old <lang n="greek"></lang>; <ab>lith.</ab> jawa, blé. 
+92888 new <lang n="greek">ζέα</lang>; <ab>lith.</ab> jawa, blé. 
+;
+; =====================================================
+; <L>13785<pc>525,1<k1>yAdfS
+93205 old <lang n="greek"></lang>; <ab>lat.</ab> qualis. <ab>M§</ab> 113.
+93205 new <lang n="greek">ἥλιξ</lang>; <ab>lat.</ab> qualis. <ab>M§</ab> 113.
+;
+; =====================================================
+; <L>13785<pc>525,1<k1>yAdfS
+93208 old <lang n="greek"></lang>.
+93208 new <lang n="greek">ἡλίϰος</lang>.
+;
+; =====================================================
+; <L>13831<pc>526,1<k1>yukta
+93474 old <lang n="greek"></lang>.
+93474 new <lang n="greek">ζευϰτός</lang>.
+;
+; =====================================================
+; <L>13832<pc>526,2<k1>yukti
+93497 old <lang n="greek"></lang>.
+93497 new <lang n="greek">ζεῦξις</lang>.
+;
+; =====================================================
+; <L>13833<pc>526,2<k1>yuga
+93504 old <lang n="greek"></lang>; <ab>lat.</ab> jugum; <ab>goth.</ab> juk; <ab>lith.</ab> jungas.
+93504 new <lang n="greek">ζυγός</lang>; <ab>lat.</ab> jugum; <ab>goth.</ab> juk; <ab>lith.</ab> jungas.
+;
+; =====================================================
+; <L>13834<pc>526,2<k1>yugma
+93534 old <lang n="greek"></lang>.
+93534 new <lang n="greek">ζεῦγμα</lang>.
+;
+; =====================================================
+; <L>13839<pc>527,1<k1>yuj
+93586 old <lang n="greek"></lang>, etc.; <ab>lat.</ab> jungo; <ab>lith.</ab> jungiu [atteler].
+93586 new <lang n="greek">ζεύγνυμι</lang>, etc.; <ab>lat.</ab> jungo; <ab>lith.</ab> jungiu [atteler].
+;
+; =====================================================
+; <L>13849<pc>527,2<k1>yuD
+93664 old <lang n="greek"></lang>.
+93664 new <lang n="greek">ὑσμίνη</lang>.
+;
+; =====================================================
+; <L>13861<pc>528,1<k1>yuzmat
+93739 old <lang n="greek"></lang>, etc.; <ab>angl.</ab> you; <ab>goth.</ab> jus; <ab>lith.</ab> jûs. || M § 61.
+93739 new <lang n="greek">ὔμμες, ὑμεῖς</lang>, etc.; <ab>angl.</ab> you; <ab>goth.</ab> jus; <ab>lith.</ab> jûs. || M § 61.
+;
+; =====================================================
+; <L>13946<pc>532,1<k1>rajata
+94489 old <ab>gr.</ab> <lang n="greek"></lang>.
+94489 new <ab>gr.</ab> <lang n="greek">ἀργός, ἄργυρος</lang>.
+;
+; =====================================================
+; <L>13952<pc>532,2<k1>raYj
+94564 old <lang n="greek"></lang>. || Avoir du penchant, <lbinfo n="6"/> de l'attachement pour, <ab>cf.</ab> {%rajju.%}
+94564 new <lang n="greek">ῥεγεύς, ῥέγμα</lang>. || Avoir du penchant, <lbinfo n="6"/> de l'attachement pour, <ab>cf.</ab> {%rajju.%}
+;
+; =====================================================
+; <L>14118<pc>541,1<k1>ric
+96131 old <lang n="greek"></lang>.
+96131 new <lang n="greek">λείπω</lang>.
+;
+; =====================================================
+; <L>14168<pc>542,1<k1>ruc
+96391 old <lang n="greek"></lang> etc.
+96391 new <lang n="greek">λευϰός, λύχνος</lang>, etc.
+;
+; =====================================================
+; <L>14190<pc>543,2<k1>ruDira
+96567 old <lang n="greek"></lang>; <ab>lat.</ab> <ab>(?)</ab> ruber, rufus; <ab>lith.</ab> rauda; <ab>germ.</ab> roth: <ab>ang.</ab> red; <ab>fr.</ab>
+96567 new <lang n="greek">ἐρυθρός</lang>; <ab>lat.</ab> <ab>(?)</ab> ruber, rufus; <ab>lith.</ab> rauda; <ab>germ.</ab> roth: <ab>ang.</ab> red; <ab>fr.</ab>
+;
+; =====================================================
+; <L>14207<pc>543,2<k1>ruz
+96651 old <lang n="greek"></lang>. 
+96651 new <lang n="greek">λυσσάω</lang>. 
+;
+; =====================================================
+; <L>14208<pc>544,1<k1>ruz
+96657 old <lang n="greek"></lang>.
+96657 new <lang n="greek">μύσσα</lang>.
+;
+; =====================================================
+; <L>14256<pc>545,2<k1>revata
+96950 old nommé le Tambour [<lang n="greek"></lang> des Poissons]. || Vache. || <ab>Np.</ab> d'une des
+96950 new nommé le Tambour [<lang n="greek">ζ</lang> des Poissons]. || Vache. || <ab>Np.</ab> d'une des
+;
+; =====================================================
+; <L>14342<pc>549,1<k1>laGu
+97584 old || <ab>Gr.</ab> <lang n="greek"></lang>;
+97584 new || <ab>Gr.</ab> <lang n="greek">ἐλαχύς, ὀλίγος</lang>;
+;
+; =====================================================
+; <L>14382<pc>550,2<k1>laB
+97882 old <lang n="greek"></lang>.
+97882 new <lang n="greek">λαμϐάνω</lang>.
+;
+; =====================================================
+; <L>14479<pc>554,1<k1>lip
+98490 old <lang n="greek"></lang> etc.
+98490 new <lang n="greek">λιπάζω, ἀλείφω</lang>, etc.
+;
+; =====================================================
+; <L>14480<pc>554,1<k1>lipa
+98495 old <ab>gr.</ab> <lang n="greek"></lang>, etc.
+98495 new <ab>gr.</ab> <lang n="greek">λίπα, λίπος</lang>, etc.
+;
+; =====================================================
+; <L>14499<pc>554,2<k1>lih
+98594 old <lang n="greek"></lang>; <ab>lat.</ab> lingo; <lbinfo n="3"/> <ab>goth.</ab> laigô; <ab>fr.</ab> lécher; <ab>ang.</ab> lick; etc.
+98594 new <lang n="greek">λείχω</lang>; <ab>lat.</ab> lingo; <lbinfo n="3"/> <ab>goth.</ab> laigô; <ab>fr.</ab> lécher; <ab>ang.</ab> lick; etc.
+;
+; =====================================================
+; <L>14504<pc>554,2<k1>lIlA
+98624 old <lang n="greek"></lang>.
+98624 new <lang n="greek">λιλαίομαι</lang>.
+;
+; =====================================================
+; <L>14616<pc>559,1<k1>va
+99440 old <lang n="greek"></lang>, {%f,%} et <ab>qqf.</ab> à l'esprit rude ou même à l'esprit doux.
+99440 new <lang n="greek">β, φ</lang>, {%f,%} et <ab>qqf.</ab> à l'esprit rude ou même à l'esprit doux.
+;
+; =====================================================
+; <L>14629<pc>560,1<k1>vakz
+99582 old <lang n="greek"></lang>; <ab>lat.</ab> augeo; <ab>lith.</ab> augu.
+99582 new <lang n="greek">αὔξω</lang>; <ab>lat.</ab> augeo; <ab>lith.</ab> augu.
+;
+; =====================================================
+; <L>14728<pc>564,1<k1>vap
+100398 old <lang n="greek"></lang>.
+100398 new <lang n="greek">ὑφαίνω</lang>.
+;
+; =====================================================
+; <L>14735<pc>564,2<k1>vam
+100454 old <lang n="greek"></lang>; <ab>lith.</ab> wemju.
+100454 new <lang n="greek">ἐμέω</lang>; <ab>lith.</ab> wemju.
+;
+; =====================================================
+; <L>14752<pc>565,2<k1>varayAmi
+100594 old <lang n="greek"></lang>.
+100594 new <lang n="greek">βούλομαι</lang>.
+;
+; =====================================================
+; <L>14778<pc>566,1<k1>varizWa
+100744 old <lang n="greek"></lang>.
+100744 new <lang n="greek">ἄριστος</lang>.
+;
+100748 old <lang n="greek"></lang>. -- <ab>S.</ab> <ab>m.</ab> le 8e <s1 slp1="yoga">yoga</s1> astronomique.
+100748 new <lang n="greek">ἀρείων</lang>. -- <ab>S.</ab> <ab>m.</ab> le 8e <s1 slp1="yoga">yoga</s1> astronomique.
+;
+; =====================================================
+; <L>14815<pc>567,2<k1>vartaka
+101012 old <lang n="greek"></lang>. || Sabot de cheval. -- <ab>N.</ab> sorte de métal de cloches.
+101012 new <lang n="greek">ὄρτυξ</lang>. || Sabot de cheval. -- <ab>N.</ab> sorte de métal de cloches.
+;
+; =====================================================
+; <L>14833<pc>568,2<k1>varvara
+101158 old <lang n="greek"></lang>; <ab>lat.</ab> barbarus.
+101158 new <lang n="greek">βάρϐαρος</lang>; <ab>lat.</ab> barbarus.
+;
+; =====================================================
+; <L>14836<pc>568,2<k1>varza
+101184 old <lang n="greek"></lang>.
+101184 new <lang n="greek">ἕρση</lang>.
+;
+; =====================================================
+; <L>14864<pc>570,1<k1>valmIka
+101431 old <lang n="greek"></lang>.
+101431 new <lang n="greek">μύρμηξ</lang>.
+;
+; =====================================================
+; <L>14866<pc>570,1<k1>vall
+101440 old <lang n="greek"></lang>.
+101440 new <lang n="greek">βάλλω</lang>.
+;
+; =====================================================
+; <L>14880<pc>570,2<k1>vaS
+101521 old <lang n="greek"></lang> = {%vaśat.%}
+101521 new <lang n="greek">ἕϰωυ</lang> = {%vaśat.%}
+;
+; =====================================================
+; <L>14899<pc>571,2<k1>vas
+101659 old <lang n="greek"></lang> [pour
+101659 new <lang n="greek">ἕννμι</lang> [pour
+;
+101660 old <lang n="greek"></lang>]
+101660 new <lang n="greek">ἕσνμι</lang>]
+;
+101661 old <lang n="greek"></lang>; <ab>lat.</ab> vestire; <ab>goth.</ab> vasja.
+101661 new <lang n="greek">ἑσθής</lang>; <ab>lat.</ab> vestire; <ab>goth.</ab> vasja.
+;
+; =====================================================
+; <L>14904<pc>571,2<k1>vasanta
+101687 old <lang n="greek"></lang>.
+101687 new <lang n="greek">ἔαρ</lang>.
+;
+; =====================================================
+; <L>14924<pc>572,1<k1>vastu
+101847 old <lang n="greek"></lang>.
+101847 new <lang n="greek">ἄστυ</lang>.
+;
+; =====================================================
+; <L>14926<pc>572,2<k1>vastra
+101860 old <lang n="greek"></lang>; <ab>goth.</ab> vasti; etc.
+101860 new <lang n="greek">ἐσθής</lang>; <ab>goth.</ab> vasti; etc.
+;
+; =====================================================
+; <L>14929<pc>572,2<k1>vah
+101905 old <lang n="greek"></lang>; <ab>lith.</ab> vezu; etc.
+101905 new <lang n="greek">ὀχέω</lang>; <ab>lith.</ab> vezu; etc.
+;
+; =====================================================
+; <L>14930<pc>572,2<k1>vaha
+101914 old <lang n="greek"></lang>; <ab>gr.</ab>
+101914 new <lang n="greek">βαῖγες</lang>; <ab>gr.</ab>
+;
+101915 old <lang n="greek"></lang>, etc.; <ab>germ.</ab> wogen; <ab>fr.</ab> vague; <ab>ang.</ab> wave, etc. || <ab>Gr.</ab>
+101915 new <lang n="greek">αἶγες, αἰγίς, Αἰγαιῶν</lang>, etc.; <ab>germ.</ab> wogen; <ab>fr.</ab> vague; <ab>ang.</ab> wave, etc. || <ab>Gr.</ab>
+;
+101916 old <lang n="greek"></lang>; <ab>lat.</ab> via [vehia].
+101916 new <lang n="greek">ὄχος</lang>; <ab>lat.</ab> via [vehia].
+;
+; =====================================================
+; <L>14941<pc>573,2<k1>vA
+102073 old <lang n="greek"></lang>; <ab>lat.</ab> aer.
+102073 new <lang n="greek">ἄω, ἄημι, ἀήρ</lang>; <ab>lat.</ab> aer.
+;
+102077 old <lang n="greek"></lang>; <ab>lat.</ab> aura.
+102077 new <lang n="greek">αὔω, αὔρα</lang>; <ab>lat.</ab> aura.
+;
+; =====================================================
+; <L>14975<pc>574,2<k1>vAc
+102252 old <lang n="greek"></lang> ?. -- {%vācas pati%} et {%vācasām pati%} <s1 slp1="bfhaspati">Bṛhaspati</s1>. <lbinfo n="8"/>
+102252 new <lang n="greek">ὄψ</lang> ?. -- {%vācas pati%} et {%vācasām pati%} <s1 slp1="bfhaspati">Bṛhaspati</s1>. <lbinfo n="8"/>
+;
+; =====================================================
+; <L>15050<pc>577,2<k1>vAra
+102894 old <lang n="greek"></lang>; <ab>lat.</ab> hora.
+102894 new <lang n="greek">ὥρα</lang>; <ab>lat.</ab> hora.
+;
+; =====================================================
+; <L>15084<pc>579,1<k1>vArtta
+103162 old <lang n="greek"></lang>.
+103162 new <lang n="greek">ὄρτυξ</lang>.
+;
+; =====================================================
+; <L>15377<pc>589,1<k1>vid
+104976 old <lang n="greek"></lang>;] <ab>f1.</ab> {%veditāsmi;%} <ab>f2.</ab> {%vediṣyāmi%} et
+104976 new <lang n="greek">οἶδα</lang>;] <ab>f1.</ab> {%veditāsmi;%} <ab>f2.</ab> {%vediṣyāmi%} et
+;
+104987 old <lang n="greek"></lang>; <ab>goth.</ab> vait; <ab>lith.</ab> veizdmi; etc.
+104987 new <lang n="greek">εἴδω, οἶδα</lang>; <ab>goth.</ab> vait; <ab>lith.</ab> veizdmi; etc.
+;
+; =====================================================
+; <L>15845<pc>605,1<k1>viSpati
+107961 old <lang n="greek"></lang> <ab>(?)</ab>.
+107961 new <lang n="greek">δεσπότης</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>15961<pc>610,2<k1>viMSa
+108951 old <lang n="greek"></lang>; <ab>ang.</ab> twenty; <ab>germ.</ab> zwanzig; etc. <ab>M§</ab> 51.
+108951 new <lang n="greek">εἴϰατι, εἴϰοσι</lang>; <ab>ang.</ab> twenty; <ab>germ.</ab> zwanzig; etc. <ab>M§</ab> 51.
+;
+; =====================================================
+; <L>16016<pc>613,2<k1>vftra
+109502 old <lang n="greek"></lang> <ab>(?)</ab>
+109502 new <lang n="greek">Ὄρθρος</lang> <ab>(?)</ab>
+;
+; =====================================================
+; <L>16028<pc>614,2<k1>vfz
+109651 old <lang n="greek"></lang>; vieux <ab>fr.</ab> il verse [il pleut], pleuvoir <lbinfo n="4"/> à verse.
+109651 new <lang n="greek">βρέχω</lang>; vieux <ab>fr.</ab> il verse [il pleut], pleuvoir <lbinfo n="4"/> à verse.
+;
+; =====================================================
+; <L>16031<pc>614,2<k1>vfza
+109675 old <lang n="greek"></lang>; <ab>irl.</ab> braiche. 
+109675 new <lang n="greek">ἄρσην</lang>; <ab>irl.</ab> braiche. 
+;
+; =====================================================
+; <L>16032<pc>615,1<k1>vfzaRa
+109685 old <lang n="greek"></lang>; <ab>lat.</ab> veretrum.
+109685 new <lang n="greek">ὄρχις</lang>; <ab>lat.</ab> veretrum.
+;
+; =====================================================
+; <L>16064<pc>616,1<k1>vfMh
+109940 old <lang n="greek"></lang>.
+109940 new <lang n="greek">ῥέγχω</lang>.
+;
+; =====================================================
+; <L>16089<pc>617,2<k1>veda
+110124 old <lang n="greek"></lang>.
+110124 new <lang n="greek">οἶδα</lang>.
+;
+; =====================================================
+; <L>16137<pc>619,1<k1>veSa
+; ;<L>16479 previously changed (COMMENT)
+; ;old 112566: <lang n="greek">χ</lang> (COMMENT)
+; ;new 112566: <lang n="greek">χ</lang> (COMMENT)
+110456 old <lang n="greek"></lang>; <ab>goth.</ab> veihs; <ab>lith.</ab> ûkis; <ab>cf.</ab> {%oka.%}
+110456 new <lang n="greek">οἶϰος</lang>; <ab>goth.</ab> veihs; <ab>lith.</ab> ûkis; <ab>cf.</ab> {%oka.%}
+;
+; =====================================================
+; <L>16490<pc>631,2<k1>Sakuna
+112652 old <lang n="greek"></lang>; <ab>lat.</ab> ciconia <ab>(?)</ab>.
+112652 new <lang n="greek">ϰίϰυμος</lang>; <ab>lat.</ab> ciconia <ab>(?)</ab>.
+;
+; =====================================================
+; <L>16493<pc>631,2<k1>Sakft
+112691 old <lang n="greek"></lang>; <ab>irl.</ab> seachraith; <ab>lat.</ab> cacare <ab>(?)</ab>.
+112691 new <lang n="greek">ϰόπρος</lang>; <ab>irl.</ab> seachraith; <ab>lat.</ab> cacare <ab>(?)</ab>.
+;
+; =====================================================
+; <L>16511<pc>632,2<k1>SaNKa
+112893 old <lang n="greek"></lang>; <ab>lat.</ab> concha.
+112893 new <lang n="greek">ϰόγχη</lang>; <ab>lat.</ab> concha.
+;
+; =====================================================
+; <L>16524<pc>635,2<k1>SaRa
+113000 old <lang n="greek"></lang>; <ab>lat.</ab> cannabis; <ab>lith.</ab> kanâpê; <ab>irl.</ab> canaib; anglo <ab>sax.</ab>
+113000 new <lang n="greek">ϰάνναϐις</lang>; <ab>lat.</ab> cannabis; <ab>lith.</ab> kanâpê; <ab>irl.</ab> canaib; anglo <ab>sax.</ab>
+;
+; =====================================================
+; <L>16528<pc>635,2<k1>Sata
+113035 old <lang n="greek"></lang>; etc.
+113035 new <lang n="greek">ἑϰατόν</lang>; etc.
+;
+113063 old <lang n="greek"></lang> <ab>Cf.</ab> {%śutudrī.%}
+113063 new <lang n="greek">Ζάδαδρος</lang>; <ab>Cf.</ab> {%śutudrī.%}
+;
+; =====================================================
+; <L>16579<pc>638,2<k1>SaraBa
+113592 old <lang n="greek"></lang>.
+113592 new <lang n="greek">ϰάραϐος</lang>.
+;
+; =====================================================
+; <L>16606<pc>639,2<k1>Saru
+113733 old <lang n="greek"></lang>.
+113733 new <lang n="greek">ϰερραυνός</lang>.
+;
+; =====================================================
+; <L>16609<pc>639,2<k1>SarkarA
+113748 old <lang n="greek"></lang> <ab>lat.</ab> saccharum, calculus, etc. <ab>Cf.</ab> {%śara.%}
+113748 new <lang n="greek">σάϰχαρον, ϰάχλιξ</lang>; <ab>lat.</ab> saccharum, calculus, etc. <ab>Cf.</ab> {%śara.%}
+;
+; =====================================================
+; <L>16617<pc>639,2<k1>Sarvara
+113802 old <lang n="greek"></lang>. -- <ab>S.</ab> <ab>f.</ab> [{%ī%}] la nuit; || curcuma longa. || Femme.
+113802 new <lang n="greek">Κέρϐερος</lang>. -- <ab>S.</ab> <ab>f.</ab> [{%ī%}] la nuit; || curcuma longa. || Femme.
+;
+; =====================================================
+; <L>16700<pc>642,2<k1>SARa
+114366 old <lang n="greek"></lang>; <ab>lat.</ab> cos; <ab>angl.</ab> hone.
+114366 new <lang n="greek">ἀϰόνη</lang>; <ab>lat.</ab> cos; <ab>angl.</ab> hone.
+;
+; =====================================================
+; <L>16808<pc>647,2<k1>Sira
+115212 old || <ab>Gr.</ab> <lang n="greek"></lang>;
+115212 new || <ab>Gr.</ab> <lang n="greek">ϰάρη, ϰάρηνον, ϰρανίον, ϰέρας</lang>;
+;
+; =====================================================
+; <L>16852<pc>649,2<k1>SI
+115622 old <lang n="greek"></lang>; <ab>lat.</ab> quiesco, quies.
+115622 new <lang n="greek">ϰεῖμαι</lang>; <ab>lat.</ab> quiesco, quies.
+;
+; =====================================================
+; <L>16871<pc>650,2<k1>SIrza
+115831 old <lang n="greek"></lang>. 
+115831 new <lang n="greek">ϰόρση</lang>. 
+;
+; =====================================================
+; <L>16900<pc>652,2<k1>SutudrI
+116132 old <lang n="greek"></lang> auj. Setlej. <ab>Cf.</ab> {%śatadru.%}
+116132 new <lang n="greek">Ζάδαδρος</lang>; auj. Setlej. <ab>Cf.</ab> {%śatadru.%}
+;
+; =====================================================
+; <L>16933<pc>654,1<k1>Suzka
+116387 old <ab>gr.</ab> <lang n="greek"></lang>.
+116387 new <ab>gr.</ab> <lang n="greek">σαυϰρός, σαυλός, σαχνός</lang>.
+;
+; =====================================================
+; <L>16944<pc>654,2<k1>SUnya
+116491 old <lang n="greek"></lang>.
+116491 new <lang n="greek">ϰενός</lang>.
+;
+; =====================================================
+; <L>16947<pc>654,2<k1>SUra
+116513 old || <ab>Gr.</ab> <lang n="greek"></lang>.
+116513 new || <ab>Gr.</ab> <lang n="greek">ϰῦρος, ϰύριος</lang>.
+;
+; =====================================================
+; <L>17059<pc>659,1<k1>SyAma
+117296 old <lang n="greek"></lang> <ab>(?)</ab>
+117296 new <lang n="greek">ϰύανος</lang>; <ab>(?)</ab>
+;
+117297 old <lang n="greek"></lang>.
+117297 new <lang n="greek">ϰύαμος</lang>.
+;
+; =====================================================
+; <L>17090<pc>660,1<k1>Srava
+117504 old <lang n="greek"></lang> de l'Aigle.
+117504 new <lang n="greek">α, β, γ</lang> de l'Aigle.
+;
+117508 old <lang n="greek"></lang>.
+117508 new <lang n="greek">ϰλέος</lang>.
+;
+; =====================================================
+; <L>17118<pc>661,2<k1>Sru
+117795 old <lang n="greek"></lang>; <ab>lat.</ab> clutus, inclutus; etc.
+117795 new <lang n="greek">ϰλύω, ϰλυτός</lang>; <ab>lat.</ab> clutus, inclutus; etc.
+;
+; =====================================================
+; <L>17124<pc>662,1<k1>SruDi
+117856 old <lang n="greek"></lang>.
+117856 new <lang n="greek">ϰλῦθι</lang>.
+;
+; =====================================================
+; <L>17127<pc>662,1<k1>SreRi
+117873 old <lang n="greek"></lang>.
+117873 new <lang n="greek">σϰήνη</lang>.
+;
+; =====================================================
+; <L>17135<pc>662,2<k1>SroRi
+117926 old <lang n="greek"></lang>; <ab>lat.</ab> clunis. || Voie, chemin.
+117926 new <lang n="greek">ϰλόνις</lang>; <ab>lat.</ab> clunis. || Voie, chemin.
+;
+; =====================================================
+; <L>17166<pc>663,2<k1>Svan
+118123 old <lang n="greek"></lang> <ab>lat.</ab> canis; <ab>goth.</ab> hunds; <ab>germ.</ab> hund; <ab>zd.</ab> spâ [nom. sanskrit
+118123 new <lang n="greek">ϰύων, ϰυνός</lang>; <ab>lat.</ab> canis; <ab>goth.</ab> hunds; <ab>germ.</ab> hund; <ab>zd.</ab> spâ [nom. sanskrit
+;
+; =====================================================
+; <L>17172<pc>663,2<k1>SvaSura
+118199 old <lang n="greek"></lang>; <ab>lat.</ab> socer; <ab>lith.</ab> szeszur; <ab>goth.</ab> swaihra; etc. 
+118199 new <lang n="greek">ἑϰυρός</lang>; <ab>lat.</ab> socer; <ab>lith.</ab> szeszur; <ab>goth.</ab> swaihra; etc. 
+;
+118205 old <lang n="greek"></lang>; <ab>lat.</ab> socrus; <lbinfo n="5"/> <ab>goth.</ab> swaihrô; etc.
+118205 new <lang n="greek">ἑϰυρά</lang>; <ab>lat.</ab> socrus; <lbinfo n="5"/> <ab>goth.</ab> swaihrô; etc.
+;
+; =====================================================
+; <L>17179<pc>664,1<k1>Svi
+118262 old <lang n="greek"></lang>.
+118262 new <lang n="greek">ϰύω, ϰῦμα</lang>.
+;
+; =====================================================
+; <L>17206<pc>666,1<k1>zaz
+118568 old <lang n="greek"></lang>; <ab>goth.</ab> saihs; <ab>lith.</ab> szeszi; etc. || M § 51, 5o.
+118568 new <lang n="greek">ἕξ</lang>; <ab>goth.</ab> saihs; <ab>lith.</ab> szeszi; etc. || M § 51, 5o.
+;
+; =====================================================
+; <L>17208<pc>666,1<k1>zazWa
+118595 old <lang n="greek"></lang>; etc. -- <ab>S.</ab> <ab>f.</ab> [{%ī%}] le 6e jour de la quinzaine. ||
+118595 new <lang n="greek">ἕϰτος</lang>; etc. -- <ab>S.</ab> <ab>f.</ab> [{%ī%}] le 6e jour de la quinzaine. ||
+;
+; =====================================================
+; <L>17257<pc>667,2<k1>sag
+118860 old <lang n="greek"></lang>, etc.
+118860 new <lang n="greek">σάττω, σάγη</lang>, etc.
+;
+; =====================================================
+; <L>17262<pc>667,2<k1>sagarBa
+118885 old <lang n="greek"></lang>.
+118885 new <lang n="greek">ἀδελφός</lang>.
+;
+; =====================================================
+; <L>17309<pc>669,2<k1>saNgacCAmi
+119201 old <lang n="greek"></lang>; || association. || Conjonction, <ab>t.</ab> d'<ab>astr.</ab>
+119201 new <lang n="greek">γάμος</lang>; || association. || Conjonction, <ab>t.</ab> d'<ab>astr.</ab>
+;
+; =====================================================
+; <L>17333<pc>670,2<k1>sac
+119373 old <lang n="greek"></lang>; <ab>irl.</ab> seichim; <ab>lith.</ab> seku; <ab>cf.</ab> {%sap.%}
+119373 new <lang n="greek">ἕπομαι</lang>; <ab>irl.</ab> seichim; <ab>lith.</ab> seku; <ab>cf.</ab> {%sap.%}
+;
+; =====================================================
+; <L>17421<pc>673,2<k1>satya
+119888 old <lang n="greek"></lang>.
+119888 new <lang n="greek">ἐτεός</lang>.
+;
+; =====================================================
+; <L>17430<pc>674,1<k1>sad
+119990 old <lang n="greek"></lang>.
+119990 new <lang n="greek">ὁδός</lang>.
+;
+; =====================================================
+; <L>17517<pc>677,1<k1>sanDi
+120542 old <lang n="greek"></lang>.
+120542 new <lang n="greek">τοιχώρυχος</lang>.
+;
+; =====================================================
+; <L>17557<pc>678,2<k1>sap
+120824 old <lang n="greek"></lang>.
+120824 new <lang n="greek">ἕπομαι</lang>.
+;
+; =====================================================
+; <L>17568<pc>679,1<k1>saptan
+120884 old <lang n="greek"></lang>; <ab>zd.</ab> hapta; <ab>lat.</ab> septem; etc. M § 51, 5o.
+120884 new <lang n="greek">ἑπτά</lang>; <ab>zd.</ab> hapta; <ab>lat.</ab> septem; etc. M § 51, 5o.
+;
+120914 old <lang n="greek"></lang>; <ab>lat.</ab> septimus; <lbinfo n="6"/> etc. -- <ab>S.</ab> <ab>f.</ab> {%saptamī%} le 7e cas [le
+120914 new <lang n="greek">ἕϐδομος</lang>; <ab>lat.</ab> septimus; <lbinfo n="6"/> etc. -- <ab>S.</ab> <ab>f.</ab> {%saptamī%} le 7e cas [le
+;
+; =====================================================
+; <L>17583<pc>679,2<k1>sam
+121019 old <lang n="greek"></lang>; <ab>lat.</ab> cum.
+121019 new <lang n="greek">σύν</lang>; <ab>lat.</ab> cum.
+;
+; =====================================================
+; <L>17585<pc>679,2<k1>sama
+121032 old <lang n="greek"></lang>; <ab>lat.</ab> similis; <ab>goth.</ab> sama; <ab>angl.</ab> same.
+121032 new <lang n="greek">ὁμός</lang>; <ab>lat.</ab> similis; <ab>goth.</ab> sama; <ab>angl.</ab> same.
+;
+; =====================================================
+; <L>17655<pc>681,2<k1>samam
+121390 old <lang n="greek"></lang>.
+121390 new <lang n="greek">ἅμα</lang>.
+;
+; =====================================================
+; <L>17932<pc>691,1<k1>sampibAmi
+123054 old <lang n="greek"></lang>.
+123054 new <lang n="greek">συμπίνω</lang>.
+;
+; =====================================================
+; <L>17934<pc>691,1<k1>sampIti
+123066 old <lang n="greek"></lang>.
+123066 new <lang n="greek">συμπόσιον</lang>.
+;
+; =====================================================
+; <L>18046<pc>694,2<k1>sammArjmi
+123714 old <lang n="greek"></lang>.
+123714 new <lang n="greek">ὀμόργνυμι</lang>.
+;
+; =====================================================
+; <L>18153<pc>698,1<k1>saras
+124349 old <lang n="greek"></lang>.
+124349 new <lang n="greek">ἓλος</lang>.
+;
+; =====================================================
+; <L>18186<pc>699,1<k1>sarpa
+124559 old <lang n="greek"></lang>; <ab>lat.</ab> serpens.
+124559 new <lang n="greek">ἑρπετόν</lang>; <ab>lat.</ab> serpens.
+;
+; =====================================================
+; <L>18193<pc>700,2<k1>sal
+124812 old <lang n="greek"></lang>; <ab>lat.</ab> salio; <ab>lith.</ab> selu, etc.
+124812 new <lang n="greek">ἅλλομαι</lang>; <ab>lat.</ab> salio; <ab>lith.</ab> selu, etc.
+;
+; =====================================================
+; <L>18194<pc>700,2<k1>sala
+124817 old <lang n="greek"></lang>; <ab>lat.</ab> sal. salum, etc.
+124817 new <lang n="greek">σάλος, ἃλς</lang>; <ab>lat.</ab> sal. salum, etc.
+;
+; =====================================================
+; <L>18208<pc>701,1<k1>savya
+124921 old <lang n="greek"></lang>; <ab>lat.</ab> scaevus. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1="vizRu">Viṣṇu</s1>.
+124921 new <lang n="greek">σϰαιός</lang>; <ab>lat.</ab> scaevus. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1="vizRu">Viṣṇu</s1>.
+;
+; =====================================================
+; <L>18227<pc>702,1<k1>sah
+125043 old <lang n="greek"></lang>.
+125043 new <lang n="greek">ἔχω, σχῶ, ἴσχω</lang>.
+;
+; =====================================================
+; <L>18228<pc>702,1<k1>saha
+125050 old <lang n="greek"></lang>.
+125050 new <lang n="greek">ὀχός</lang>.
+;
+; =====================================================
+; <L>18434<pc>709,2<k1>sAmi
+126366 old <lang n="greek"></lang>; <ab>lat.</ab> semi.
+126366 new <lang n="greek">ἡμι</lang>; <ab>lat.</ab> semi.
+;
+; =====================================================
+; <L>18468<pc>710,2<k1>sArameya
+126559 old enfants de <s1 slp1="saramA">Saramā</s1>; <ab>gr.</ab> E<lang n="greek"></lang>. -- <ab>F.</ab> [{%ī%}] chienne.
+126559 new enfants de <s1 slp1="saramA">Saramā</s1>; <ab>gr.</ab> <lang n="greek">Ἑρμείας</lang>. -- <ab>F.</ab> [{%ī%}] chienne.
+;
+; =====================================================
+; <L>18607<pc>715,2<k1>sItya
+127524 old <lang n="greek"></lang>.
+127524 new <lang n="greek">σῖτος</lang>.
+;
+; =====================================================
+; <L>18619<pc>716,1<k1>su
+127610 old <lang n="greek"></lang> <ab>(?)</ab>.
+127610 new <lang n="greek">ὕω</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>18622<pc>716,1<k1>su
+127624 old <lang n="greek"></lang>; <ab>lat.</ab> {%su%} dans sudum {%(sudivam)%}.
+127624 new <lang n="greek">εὐ</lang>; <ab>lat.</ab> {%su%} dans sudum {%(sudivam)%}.
+;
+; =====================================================
+; <L>18755<pc>720,2<k1>sumanas
+128401 old <lang n="greek"></lang>. -- <ab>S.</ab> <ab>m.</ab> un dieu. || Un savant ou pandit. || Un étudiant qui
+128401 new <lang n="greek">εὐμενής</lang>. -- <ab>S.</ab> <ab>m.</ab> un dieu. || Un savant ou pandit. || Un étudiant qui
+;
+; =====================================================
+; <L>18762<pc>720,2<k1>sumna
+128445 old <lang n="greek"></lang>.
+128445 new <lang n="greek">ὑμνος</lang>.
+;
+128449 old <lang n="greek"></lang>.
+128449 new <lang n="greek">ὑμνέω</lang>.
+;
+; =====================================================
+; <L>18772<pc>721,1<k1>suraNga
+128509 old <lang n="greek"></lang>.
+128509 new <lang n="greek">τοιχώρυχος</lang>.
+;
+; =====================================================
+; <L>18825<pc>722,2<k1>surUpa
+128787 old <lang n="greek"></lang>.
+128787 new <lang n="greek">Εὐρώπη</lang>.
+;
+; =====================================================
+; <L>18968<pc>728,1<k1>sfp
+129719 old <lang n="greek"></lang>; <ab>lat.</ab> serpo, repo.
+129719 new <lang n="greek">ἕρπω</lang>; <ab>lat.</ab> serpo, repo.
+;
+; =====================================================
+; <L>18994<pc>729,1<k1>sev
+129887 old <lang n="greek"></lang>.
+129887 new <lang n="greek">σέϐομαι</lang>.
+;
+; =====================================================
+; <L>19111<pc>732,2<k1>skanda
+130587 old <lang n="greek"></lang>.
+130587 new <lang n="greek">Κάνδαος</lang>.
+;
+; =====================================================
+; <L>19124<pc>733,2<k1>stan
+130722 old <lang n="greek"></lang>; <ab>lith.</ab> stenu.
+130722 new <lang n="greek">στένω</lang>; <ab>lith.</ab> stenu.
+;
+; =====================================================
+; <L>19144<pc>734,2<k1>stiG
+130875 old <lang n="greek"></lang>.
+130875 new <lang n="greek">στείχω</lang>.
+;
+; =====================================================
+; <L>19151<pc>734,2<k1>stu
+130912 old <lang n="greek"></lang> <ab>(?)</ab>.
+130912 new <lang n="greek">στόμα</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>19161<pc>735,1<k1>stUpa
+130965 old <lang n="greek"></lang>; <ab>lat.</ab> tumulus.
+130965 new <lang n="greek">τύμϐος</lang>; <ab>lat.</ab> tumulus.
+;
+; =====================================================
+; <L>19163<pc>735,1<k1>stf
+130982 old <lang n="greek"></lang>.
+130982 new <lang n="greek">στορέννυμι</lang>.
+;
+; =====================================================
+; <L>19200<pc>736,1<k1>sTA
+131232 old <lang n="greek"></lang>; <ab>zd.</ab> {%hiṣtāmi;%} <ab>lat.</ab> stare, sistere; <ab>lith.</ab> stowmi; etc.
+131232 new <lang n="greek">ἵστημι</lang>; <ab>zd.</ab> {%hiṣtāmi;%} <ab>lat.</ab> stare, sistere; <ab>lith.</ab> stowmi; etc.
+;
+; =====================================================
+; <L>19204<pc>736,2<k1>sTAna
+131260 old <lang n="greek"></lang>, <ab>cf.</ab> {%sthāman.%}
+131260 new <lang n="greek">σθένος</lang>, <ab>cf.</ab> {%sthāman.%}
+;
+; =====================================================
+; <L>19220<pc>737,1<k1>sTira
+131393 old <lang n="greek"></lang>.
+131393 new <lang n="greek">στερεός</lang>.
+;
+; =====================================================
+; <L>19241<pc>738,1<k1>snA
+131596 old <lang n="greek"></lang>; <ab>lat.</ab> nare <ab>(?)</ab>. <ab>Cf.</ab> {%snu.%}
+131596 new <lang n="greek">νάω</lang>; <ab>lat.</ab> nare <ab>(?)</ab>. <ab>Cf.</ab> {%snu.%}
+;
+; =====================================================
+; <L>19252<pc>738,2<k1>snu
+131668 old <lang n="greek"></lang>.
+131668 new <lang n="greek">νάω, νέω</lang>.
+;
+; =====================================================
+; <L>19254<pc>738,2<k1>snuzA
+131679 old <lang n="greek"></lang>.
+131679 new <lang n="greek">νυός</lang>.
+;
+; =====================================================
+; <L>19291<pc>740,1<k1>sPal
+131930 old <lang n="greek"></lang>; <ab>cf.</ab> {%sphul.%}
+131930 new <lang n="greek">σφάλλω</lang>; <ab>cf.</ab> {%sphul.%}
+;
+; =====================================================
+; <L>19339<pc>741,2<k1>smf
+132242 old <lang n="greek"></lang>; <ab>lat.</ab> memor.
+132242 new <lang n="greek">μερίμνα, μάρτυς</lang>; <ab>lat.</ab> memor.
+;
+; =====================================================
+; <L>19376<pc>743,1<k1>sru
+132475 old <lang n="greek"></lang>; <ab>lat.</ab> ruo, rivus <ab>(?)</ab>.
+132475 new <lang n="greek">ῥέω, ῥεύσω</lang>; <ab>lat.</ab> ruo, rivus <ab>(?)</ab>.
+;
+; =====================================================
+; <L>19384<pc>743,2<k1>sva
+132535 old <lang n="greek"></lang>, etc.; <ab>lat.</ab> sui, suus; <ab>lith.</ab> saw.
+132535 new <lang n="greek">οὖ, σφέ</lang>, etc.; <ab>lat.</ab> sui, suus; <ab>lith.</ab> saw.
+;
+; =====================================================
+; <L>19406<pc>744,1<k1>svad
+132646 old <lang n="greek"></lang>.
+132646 new <lang n="greek">ἁνδάνω</lang>.
+;
+; =====================================================
+; <L>19416<pc>744,2<k1>svapna
+132712 old <lang n="greek"></lang>; <ab>lat.</ab> somnus; <ab>lith.</ab> sapnas; etc.
+132712 new <lang n="greek">ὕπνος</lang>; <ab>lat.</ab> somnus; <ab>lith.</ab> sapnas; etc.
+;
+; =====================================================
+; <L>19422<pc>744,2<k1>svar
+132768 old <ab>gr.</ab> ? <lang n="greek"></lang> ? <lang n="greek"></lang>.
+132768 new <ab>gr.</ab> ? <lang n="greek">σέλας</lang>, ? <lang n="greek">ούρανός</lang>
+;
+; =====================================================
+; <L>19449<pc>746,1<k1>svAd
+133039 old <lang n="greek"></lang>.
+133039 new <lang n="greek">ἥδομαι</lang>.
+;
+; =====================================================
+; <L>19451<pc>746,1<k1>svAdu
+133053 old <lang n="greek"></lang>; <ab>lat.</ab> suavis; <ab>lith.</ab> saldus; <lbinfo n="4"/> <ab>germ.</ab> süsz; <ab>angl.</ab> sweet.
+133053 new <lang n="greek">ἡδύς</lang>; <ab>lat.</ab> suavis; <ab>lith.</ab> saldus; <lbinfo n="4"/> <ab>germ.</ab> süsz; <ab>angl.</ab> sweet.
+;
+; =====================================================
+; <L>19469<pc>747,1<k1>svid
+133192 old <lang n="greek"></lang>; <ab>lat.</ab> sudare; <ab>germ.</ab> schwizzen; <lbinfo n="4"/> <ab>angl.</ab> sweat; isl. sviti; etc.
+133192 new <lang n="greek">ἱδρώς</lang>; <ab>lat.</ab> sudare; <ab>germ.</ab> schwizzen; <lbinfo n="4"/> <ab>angl.</ab> sweat; isl. sviti; etc.
+;
+; =====================================================
+; <L>19497<pc>748,2<k1>had
+133395 old <lang n="greek"></lang>.
+133395 new <lang n="greek">χέζω</lang>.
+;
+; =====================================================
+; <L>19498<pc>748,2<k1>han
+133409 old <lang n="greek"></lang>; <ab>goth.</ab> danthus [la mort]; <ab>germ.</ab> tod.
+133409 new <lang n="greek">ἔθανον, θάνατος</lang>; <ab>goth.</ab> danthus [la mort]; <ab>germ.</ab> tod.
+;
+; =====================================================
+; <L>19501<pc>748,2<k1>hanu
+133426 old <lang n="greek"></lang>; <ab>lith.</ab> zandas; <ab>lat.</ab> gena.
+133426 new <lang n="greek">γένυς</lang>; <ab>lith.</ab> zandas; <ab>lat.</ab> gena.
+;
+; =====================================================
+; <L>19513<pc>749,1<k1>hara
+133520 old <lang n="greek"></lang>.
+133520 new <lang n="greek">χείρ</lang>.
+;
+; =====================================================
+; <L>19549<pc>751,1<k1>hasta
+133898 old contenant <lbinfo n="4"/> {%y%} et
+133898 new contenant <lbinfo n="4"/> <lang n="greek">γ</lang> et
+;
+133899 old <lang n="greek"></lang> du Corbeau. || Abondance de cheveux. <lbinfo n="5"/> -- <ab>N.</ab> soufflet à
+133899 new <lang n="greek">δ</lang> du Corbeau. || Abondance de cheveux. <lbinfo n="5"/> -- <ab>N.</ab> soufflet à
+;
+; =====================================================
+; <L>19558<pc>751,2<k1>haMsa
+133996 old <lang n="greek"></lang>; <ab>germ.</ab> gans; <ab>lat.</ab> anser; <lbinfo n="4"/> etc.
+133996 new <lang n="greek">χήν</lang>; <ab>germ.</ab> gans; <ab>lat.</ab> anser; <lbinfo n="4"/> etc.
+;
+; =====================================================
+; <L>19628<pc>754,1<k1>hima
+134429 old <lang n="greek"></lang>; <ab>lat.</ab> hiems, hibernus; <ab>lith.</ab> ziêma; etc.
+134429 new <lang n="greek">χεῖμα, χιών</lang>; <ab>lat.</ab> hiems, hibernus; <ab>lith.</ab> ziêma; etc.
+;
+134449 old <lang n="greek"></lang>; <ab>lat.</ab> Imaus.
+134449 new <lang n="greek">Ἴμαος</lang>; <ab>lat.</ab> Imaus.
+;
+; =====================================================
+; <L>19651<pc>755,1<k1>hu
+134658 old <lang n="greek"></lang>.
+134658 new <lang n="greek">θύω</lang>.
+;
+; =====================================================
+; <L>19675<pc>756,1<k1>hf
+134790 old <lang n="greek"></lang> <ab>(?)</ab>; <ab>lat.</ab> gero.
+134790 new <lang n="greek">χείρ; χράομαι</lang> <ab>(?)</ab>; <ab>lat.</ab> gero.
+;
+; =====================================================
+; <L>19679<pc>756,1<k1>hfd
+134817 old <lang n="greek"></lang>; <ab>germ.</ab> herz; <ab>angl.</ab> heart.
+134817 new <lang n="greek">ϰέαρ</lang>; <ab>germ.</ab> herz; <ab>angl.</ab> heart.
+;
+134825 old <lang n="greek"></lang>.
+134825 new <lang n="greek">ϰαρδία</lang>.
+;
+; =====================================================
+; <L>19680<pc>756,2<k1>hfz
+134886 old <lang n="greek"></lang>; <ab>germ.</ab> grausen; <ab>lat.</ab> horreo.
+134886 new <lang n="greek">χαίρω</lang>; <ab>germ.</ab> grausen; <ab>lat.</ab> horreo.
+;
+; =====================================================
+; <L>19709<pc>757,2<k1>heli
+135091 old <lang n="greek"></lang> <ab>(?)</ab>.
+135091 new <lang n="greek">ἥλιος</lang> <ab>(?)</ab>.
+;
+; =====================================================
+; <L>19728<pc>758,1<k1>horA
+135211 old <lang n="greek"></lang>) lever d'un signe du zodiaque; || heure, 1/24 du jour. || Trait,
+135211 new <lang n="greek">ὥρα</lang>) lever d'un signe du zodiaque; || heure, 1/24 du jour. || Trait,
+;
+; =====================================================
+; <L>19736<pc>758,2<k1>hyas
+135253 old <lang n="greek"></lang>.
+135253 new <lang n="greek">χθές</lang>.
+;
+; =====================================================
+; <L>19763<pc>759,1<k1>hrez
+135407 old <lang n="greek"></lang>. <ab>Cf.</ab> {%heṣ.%}
+135407 new <lang n="greek">χρεμέθω</lang>. <ab>Cf.</ab> {%heṣ.%}
+;
