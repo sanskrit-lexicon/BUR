@@ -1,0 +1,204 @@
+; =====================================================
+; Section 1: 21 instances of regex [0-9]o
+;  (first 10 instances shown)
+; =====================================================
+; <L>2161<pc>073,1<k1>AdDve
+{#AdDve#}¦ {%āddhve%} <ab>2p.</ab> <ab>pl.</ab> <ab>pr.</ab> de {%ās.%} <ab>M§</ab> 18, 5o.
+;
+; <L>2162<pc>073,1<k1>Adya
+un parfum <lbinfo n="3"/> délicieux. <ab>M§</ab> 16, 6o. -- <ab>S.</ab> <ab>f.</ab> {%ādyā,%} surnom de
+;
+; <L>2525<pc>084,1<k1>As
+<ab>ppr.</ab> {%āsīna;%} <ab>pp.</ab> {%āsita;%} <ab>imp.</ab> <ab>2p.</ab> {%āsva.%} <ab>M§</ab> 18, 5o.
+;
+; <L>2813<pc>096,1<k1>ut
+{#ut#}¦ {%ut%} <ab>pfx.</ab> indiquant 1o situation ou mouvement vers le
+;
+haut; 2o mouvement pour ôter. -- Comp. {%uttara;%} <ab>sup.</ab>
+;
+; <L>2914<pc>099,2<k1>udac
+{#udac#}¦ {%udac%} [cas forts {%udañc.%} <ab>M§</ab> 41; 112, 5o]; <ab>f.</ab>
+;
+; <L>3343<pc>115,2<k1>uru
+-- <ab>Comp.</ab> {%varīyas;%} <ab>sup.</ab> {%variṣṭha.%} <ab>M§</ab> 49, 2o. || <ab>Gr.</ab>
+;
+; <L>3466<pc>120,1<k1>f
+{#*f#}¦ {%ṛ.%} 1o [{%ṛcchāmi%} 1. de {%ṛcch%}]; <ab>p.</ab>
+;
+a 1. {%āriṣam.%} -- 2o <ab>Vd.</ab>: {%iyarmi%} 2; {%ārye%} 4;
+;
+{%ṛṇomi%} 5, <ab>3p.</ab> <ab>pl.</ab> {%ṛṇvati.%} -- 3o {%ṛṇāmi%} 9. --
+;
+; =====================================================
+; Section 2: 309 instances of regex [0-9]e
+;  (first 10 instances shown)
+; =====================================================
+; <L>9<pc>005,1<k1>akanizWa
+{#akanizWa#}¦ {%akaniṣṭha%} <ab>m.</ab> <ab>Bd.</ab> le 23e ordre de saints, ceux qui
+;
+; <L>101<pc>008,1<k1>agni
+<P>{%agnidevā%} <ab>f.</ab> {%(deva)%} le 3e astérisme lunaire, <ab>c-à-d.</ab>
+;
+; <L>104<pc>008,2<k1>agrahAyaRa
+{#agrahAyaRa#}¦ {%agrahāyaṇa%} <ab>m.</ab> {%(hāyaṇa)%} le 8e mois de
+;
+; <L>156<pc>010,1<k1>aNguttara
+{#aNguttara#}¦ {%aṅguttara%} <ab>m.</ab> <ab>Bd.</ab> le 4e {%āgama.%}
+;
+; <L>238<pc>012,2<k1>awata
+{#awata#}¦ {%aṭata%} <ab>m.</ab> le 3e enfer glacé.
+;
+; <L>270<pc>013,1<k1>atapa
+{#atapa#}¦ {%atapa%} <ab>m.</ab> <ab>pl.</ab> {%(tap)%} <ab>Bd.</ab> le 20e ordre de dieux.
+;
+; <L>358<pc>015,2<k1>aTarvaRa
+{#aTarvaRa#}¦ {%atharvaṇa%} <ab>m.</ab> (<ab>sfx.</ab> {%na)%} le 4e <s1 slp1="veda">Veda</s1>. || Surnom
+;
+; <L>359<pc>015,2<k1>aTarvan
+brâhmane. || Le 4e <s1 slp1="veda">Veda</s1>.
+;
+; <L>509<pc>020,1<k1>anaBraka
+{#anaBraka#}¦ {%anabhraka%} <ab>m.</ab> <ab>pl.</ab> <ab>Bd.</ab> les dieux du 16e ordre.
+;
+; <L>538<pc>020,2<k1>anAgAmin
+[à la vie], 3e degré de sainteté de l'{%ārya.%}
+;
+; =====================================================
+; Section 3: 21 instances of regex 1re
+;  (first 10 instances shown)
+; =====================================================
+; <L>1<pc>005,1<k1>a
+{#a#}¦ {%a%} 1re lettre de l'alphabet sanscrit, nommée
+;
+; <L>2105<pc>070,2<k1>AwIkara
+{%āṭīlaka%} <lbinfo n="6"/> <ab>m.</ab> bondissements du veau. [La 1re orthogr. <lbinfo n="6"/>
+;
+; <L>2167<pc>073,1<k1>AdyudAtta
+la 1re syllabe, <ab>tg.</ab>
+;
+; <L>3513<pc>123,1<k1>e
+{#e#}¦ {%e,%} 11e lettre de l'alphabet et 1re lettre double
+;
+; <L>3763<pc>132,1<k1>ka
+{#ka#}¦ {%ka%} 15e lettre de l'alphabet et 1re consonne <lbinfo n="5"/>
+;
+; <L>6308<pc>234,2<k1>ca
+{#ca#}¦ {%ca,%} 20 lettre et 1re palatale dans l'alphabet <lbinfo n="6"/>
+;
+; <L>7528<pc>277,1<k1>wa
+{#wa#}¦ {%ṭa%} 25e lettre de l'alphabet sanscrit, et 1re
+;
+; <L>7609<pc>281,1<k1>ta
+{#ta#}¦ {%ta%} 30e lettre de l'alphabet sanscrit et 1re
+;
+; <L>10367<pc>382,1<k1>pa
+{#pa#}¦ {%pa%} 35e lettre et 1re consonne labiale de l'alphabet
+;
+; <L>10375<pc>382,1<k1>pakza
+|| Le 1re jour du {%pakṣa.%}
+;
+; =====================================================
+; Section 4: 30 instances of regex 1er
+;  (first 10 instances shown)
+; =====================================================
+; <L>1454<pc>049,2<k1>arbuda
+Ophthalmie. || Le 1er enfer glacé.
+;
+; <L>1817<pc>060,2<k1>aSva
+<P>{%aśvakinī%} <ab>f.</ab> 1er astérisme lunaire.
+;
+; <L>1827<pc>061,1<k1>aSvayuj
+{#aSvayuj#}¦ {%aśvayuj%} <ab>f.</ab> 1er astérisme lunaire. <ab>Cf.</ab>
+;
+; <L>1840<pc>061,1<k1>aSvin
+<P>{%aśvinī%} <ab>f.</ab> 1er astérisme lunaire. || La mère des <s1 slp1="aSvin">Aśvin</s1>s.
+;
+; <L>2241<pc>075,1<k1>ApatAmi
+entré dans le courant, 1er degré de l'<s1 slp1="Arya">ārya</s1> buddhiste. -- <ab>F.</ab>
+;
+; <L>2796<pc>095,1<k1>ujjaya
+capitale de <s1 slp1="vikramAditya">Vikramāditya</s1>, une des 7 villes saintes des Indiens et 1er
+;
+; <L>4948<pc>177,2<k1>kuhu
+jour du 1er quartier, où la lune se lève invisible. || Le chant
+;
+; <L>4996<pc>180,2<k1>kfta
+{%kṛtayuga%} ou le 1er âge du monde et le meilleur. -- Au <ab>l.</ab>
+;
+; <L>8983<pc>331,1<k1>deSinI
+{#deSinI#}¦ {%deśinī%} <ab>f.</ab> {%(diś)%} l'index ou 1er doigt de la
+;
+; <L>9153<pc>337,2<k1>dvigu
+{#dvigu#}¦ {%dvigu%} <ab>m.</ab> composé grammatical dont le 1er membre est
+;
+; =====================================================
+; Section 5: 2 instances of regex 2d
+; =====================================================
+; <L>2053<pc>069,1<k1>AgAmin
+vie, 2d degré de l'<s1 slp1="Arya">ārya</s1>.
+;
+; <L>12645<pc>471,1<k1>Badra
+2d, le 7e et le 12e jour de la quinzaine lunaire.
+;
+; =====================================================
+; Section 6: 128 instances of regex ae
+;  (first 10 instances shown)
+; =====================================================
+; <L>24<pc>006,1<k1>akiYcana
+et de Jaenas.
+;
+; <L>92<pc>007,2<k1>agasti
+<P>{%agastidru%} <ab>m.</ab> aeschynomene grandiflora, <ab>bot.</ab>
+;
+; <L>300<pc>014,1<k1>atimaNgalya
+{#atimaNgalya#}¦ {%atimaṅgalya%} <ab>m.</ab> {%(maṅgala)%} fruit de l'aegle
+;
+; <L>518<pc>020,1<k1>anala
+<P>{%anali%} <ab>m.</ab> aeschynomene grandiflora, <ab>bot.</ab>
+;
+; <L>1324<pc>044,2<k1>ambA
+chez les Jaenas. || Nom d'une plante médicinale.
+;
+; <L>1348<pc>045,2<k1>ayas
+aes, ahenus; <ab>goth.</ab> ais; <ab>germ.</ab> eisen; <ab>angl.</ab> iron; <ab>fr.</ab> airain.
+;
+; <L>1832<pc>061,1<k1>aSvavAra
+<P>{%aśvavāraṇa%} <ab>m.</ab> bos gavaeus, variété du bœuf.
+;
+; <L>2342<pc>078,1<k1>AyuDa
+<P>{%āyudhadharmiṇi%} <ab>f.</ab> {%(dharma%} condition, vertu) aeschynomene
+;
+; <L>2347<pc>078,2<k1>Ayus
+<lang n="greek">αἰές</lang>; <ab>lat.</ab> aevum, aetas.
+;
+; <L>2352<pc>078,2<k1>Ara
+{#Ara#}¦ {%āra%} <ab>m.</ab> cuivre, airain; <ab>cf.</ab> {%ayas%} et le <ab>lat.</ab> aes,
+;
+; =====================================================
+; Section 7: 9 instances of regex AE
+; =====================================================
+; <L>11042<pc>409,2<k1>pASupata
+flèche miraculeuse de <s1 slp1="Siva">Śiva</s1>. || AEschynomene grandiflora, <ab>bot.</ab>
+;
+; <L>13546<pc>514,1<k1>mftyu
+<P>{%mṛtyuvañcana%} <ab>m.</ab> corbeau. || AEgle marmelos, <lbinfo n="6"/> <ab>bot.</ab> || <s1 slp1="Siva">Śiva</s1>.
+;
+; <L>14618<pc>559,1<k1>vaka
+{#vaka#}¦ {%vaka%} <ab>m.</ab> grue [oiseau]. || AEschynomene <lbinfo n="4"/> grandiflora, <ab>bot.</ab>
+;
+; <L>14912<pc>571,2<k1>vasu
+AEschynomène; trophis; <ab>bot.</ab> -- <ab>A.</ab> doux, d'une odeur douce. || Sec,
+;
+; <L>16163<pc>620,1<k1>vEjayanta
+de guirlande. || AEschynomene sesban; premna spinosa, etc., <ab>bot.</ab>
+;
+bannière. || AEschynomène, etc.
+;
+; <L>16820<pc>648,2<k1>Siva
+<P>{%śivapriya%} <ab>m.</ab> cristal. || AEschynomene grandiflora, <ab>bot.</ab> -- <ab>F.</ab>
+;
+<P>{%śivacekhara%} <ab>m.</ab> la lune. || AEschynomene grandiflora, <ab>bot.</ab>
+;
+; <L>16994<pc>657,1<k1>SElAlin
+danseur, histrion. || Par <ab>ext.</ab> voleur, <lbinfo n="5"/> escroc. || AEgle marmelos, <ab>bot.</ab>
+;

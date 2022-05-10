@@ -1,0 +1,21 @@
+Place	cologne	corrected	Remark(s)
+-----------------------------------------------------
+<L>19165	A'ler	Aller
+*	||	‖	; it is 'double' bar, not two bars!
+*	([0-9])o	\1॰
+*	1re	1ʳᵉ
+*	1er	1ᵉʳ
+*	([0-9])e	\1ᵉ
+*	8c	8ᵉ
+*	2d	2ᵈ
+*	ae	æ	; scope is non-Sanskrit words, wherein it is to be 'ai'.
+*	AE	Æ	; scope is non-Sanskrit words
+*	ạ.	a2.	; mis-interpration as LN (AS) encoding
+*	Ạ.	A2.	; mis-interpration as LN (AS) encoding
+*	(s)	ḥ	; noticed some (possibly, more) marked as plain 's'-- need a full proofing!
+
+
+
+
+
+

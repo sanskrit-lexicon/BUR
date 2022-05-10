@@ -1,0 +1,585 @@
+; =====================================================
+; <L>9<pc>005,1<k1>akanizWa
+54 old habitent le 8c ciel de la contemplation. || aîné; supérieur.
+;
+54 new habitent le 8e ciel de la contemplation. || aîné; supérieur.
+; =====================================================
+; <L>102<pc>008,2<k1>agra
+663 old <P>{%agrata(s)sara%} <ab>m.</ab> {%(sṛ)%} <ab>m à m.</ab> qui va devant; guide, chef.
+;
+663 new <P>{%agratassara%} <ab>m.</ab> {%(sṛ)%} <ab>m à m.</ab> qui va devant; guide, chef.
+; =====================================================
+; <L>374<pc>016,1<k1>adita
+2150 old {#adita#}¦ {%adita%} <ab>3p.</ab> <ab>sg.</ab> ạ. <ab>moy.</ab> de {%dā.%}
+;
+2150 new {#adita#}¦ {%adita%} <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>moy.</ab> de {%dā.%}
+; =====================================================
+; <L>3094<pc>106,2<k1>upacarAmi
+18798 old || qui a subi le changement de (s) en sifflante, <ab>tg.</ab>
+;
+18798 new || qui a subi le changement de {%s%} en sifflante, <ab>tg.</ab>
+; =====================================================
+; <L>4787<pc>171,1<k1>kup
+29731 old {#*kup#}¦ {%kup.%} {%kupyāmi%} 4; <ab>p.</ab> {%cukopa;%} ạ.
+;
+29731 new {#*kup#}¦ {%kup.%} {%kupyāmi%} 4; <ab>p.</ab> {%cukopa;%} <ab>a2.</ab>
+; =====================================================
+; <L>4984<pc>179,1<k1>kf
+31135 old <P>{@Part.@} <ab>ppf.</ab> <ab>act.</ab> {%cakrāṇa;%} ạ. {%krāṇa;%} <ab>pp.</ab> <ab>ps.</ab>
+;
+31135 new <P>{@Part.@} <ab>ppf.</ab> <ab>act.</ab> {%cakrāṇa;%} <ab>a2.</ab> {%krāṇa;%} <ab>pp.</ab> <ab>ps.</ab>
+; =====================================================
+; <L>4984<pc>179,1<k1>kf
+31161 old feu réduit le bois en cendres; || {%pṛṣṭhata(s) kartum iṣṭam%}
+;
+31161 new feu réduit le bois en cendres; || {%pṛṣṭhatas kartum iṣṭam%}
+; =====================================================
+; <L>5023<pc>182,1<k1>kfS
+31581 old {%karśiṣyāmi;%} ạ. {%akṛśam;%} <ab>gér.</ab> {%karśitvā%} et
+;
+31581 new {%karśiṣyāmi;%} <ab>a2.</ab> {%akṛśam;%} <ab>gér.</ab> {%karśitvā%} et
+; =====================================================
+; <L>5045<pc>184,1<k1>kxp
+31866 old {%kalpiṣye;%} <ab>a1.</ab> {%akalpiṣi;%} ạ. {%akḷpam%} et {%akḷpsi;%}
+;
+31866 new {%kalpiṣye;%} <ab>a1.</ab> {%akalpiṣi;%} <ab>a2.</ab> {%akḷpam%} et {%akḷpsi;%}
+; =====================================================
+; <L>5268<pc>192,2<k1>kruD
+33364 old {%cukrodha;%} <ab>f2.</ab> {%krotsyāmi;%} ạ. {%akrudham;%} <ab>pp.</ab>
+;
+33364 new {%cukrodha;%} <ab>f2.</ab> {%krotsyāmi;%} <ab>a2.</ab> {%akrudham;%} <ab>pp.</ab>
+; =====================================================
+; <L>5295<pc>193,2<k1>klid
+33575 old {%klestye;%} ạ. {%aklidam;%} <ab>pp.</ab> {%klinna.%} Etre humide, devenir
+;
+33575 new {%klestye;%} <ab>a2.</ab> {%aklidam;%} <ab>pp.</ab> {%klinna.%} Etre humide, devenir
+; =====================================================
+; <L>5350<pc>195,2<k1>kzam
+33921 old {%kṣaṃsye;%} <ab>a1.</ab> {%akṣamiṣi;%} ạ. {%akṣamam%} [{%akṣaṃsta%}]; <ab>pp.</ab>
+;
+33921 new {%kṣaṃsye;%} <ab>a1.</ab> {%akṣamiṣi;%} <ab>a2.</ab> {%akṣamam%} [{%akṣaṃsta%}]; <ab>pp.</ab>
+; =====================================================
+; <L>5413<pc>198,1<k1>kzud
+34371 old {%cukṣude;%} <ab>f2.</ab> {%kṣotsyāmi;%} <ab>a1.</ab> {%akṣotsam;%} ạ. {%akṣudam;%}
+;
+34371 new {%cukṣude;%} <ab>f2.</ab> {%kṣotsyāmi;%} <ab>a1.</ab> {%akṣotsam;%} <ab>a2.</ab> {%akṣudam;%}
+; =====================================================
+; <L>5423<pc>198,2<k1>kzuB
+34461 old ạ. {%akṣubham;%} <ab>pp.</ab> {%kṣubhita%} et {%kṣubdha.%} Etre agité, être
+;
+34461 new <ab>a2.</ab> {%akṣubham;%} <ab>pp.</ab> {%kṣubhita%} et {%kṣubdha.%} Etre agité, être
+; =====================================================
+; <L>5659<pc>206,2<k1>KyA
+35953 old <ab>a1.</ab> <ab>o.</ab> {%khyāyāsam%} et {%khyeyāsam;%} ạ. {%akhyam.%}
+;
+35953 new <ab>a1.</ab> <ab>o.</ab> {%khyāyāsam%} et {%khyeyāsam;%} <ab>a2.</ab> {%akhyam.%}
+; =====================================================
+; <L>5659<pc>206,2<k1>KyA
+35956 old <ab>o.</ab> {%khyāsīya;%} ạ. {%akhye.%}
+;
+35956 new <ab>o.</ab> {%khyāsīya;%} <ab>a2.</ab> {%akhye.%}
+; =====================================================
+; <L>5659<pc>206,2<k1>KyA
+35960 old a 1. <ab>o.</ab> {%khyāyiṣīya%} et {%khyāsīya;%} ạ. {%akhye,%} <ab>3p.</ab>
+;
+35960 new a 1. <ab>o.</ab> {%khyāyiṣīya%} et {%khyāsīya;%} <ab>a2.</ab> {%akhye,%} <ab>3p.</ab>
+; =====================================================
+; <L>5732<pc>211,2<k1>gam
+36751 old <ab>3p.</ab> <ab>pl.</ab> {%jagmus;%} <ab>f1.</ab> {%gantāsmi;%} <ab>f2.</ab> {%gamiṣyāmi;%} <lbinfo n="10"/> ạ.
+;
+36751 new <ab>3p.</ab> <ab>pl.</ab> {%jagmus;%} <ab>f1.</ab> {%gantāsmi;%} <ab>f2.</ab> {%gamiṣyāmi;%} <lbinfo n="10"/> <ab>a2.</ab>
+; =====================================================
+; <L>5732<pc>211,2<k1>gam
+36757 old {%gaṃsīṣṭa%} et {%gasīṣṭa;%} ạ. {%agaṃsi,%} <ab>3p.</ab> <ab>sg.</ab>
+;
+36757 new {%gaṃsīṣṭa%} et {%gasīṣṭa;%} <ab>a2.</ab> {%agaṃsi,%} <ab>3p.</ab> <ab>sg.</ab>
+; =====================================================
+; <L>5732<pc>211,2<k1>gam
+36764 old {%gamantu.%} {@Ạ.@} <ab>1p.</ab> <ab>pl.</ab> {%aganma,%} <ab>3p.</ab> {%agman,%} <ab>1p.</ab> <ab>du.</ab>
+;
+36764 new {%gamantu.%} {@<ab>A2.</ab>@} <ab>1p.</ab> <ab>pl.</ab> {%aganma,%} <ab>3p.</ab> {%agman,%} <ab>1p.</ab> <ab>du.</ab>
+; =====================================================
+; <L>5815<pc>215,1<k1>gA
+37352 old ạ. {%agām,%} <ab>3p.</ab> <ab>sg.</ab> {%agāt%} et {%gāt,%} <ab>3p.</ab> <ab>pl.</ab> {%agan%} et
+;
+37352 new <ab>a2.</ab> {%agām,%} <ab>3p.</ab> <ab>sg.</ab> {%agāt%} et {%gāt,%} <ab>3p.</ab> <ab>pl.</ab> {%agan%} et
+; =====================================================
+; <L>5992<pc>221,2<k1>gfD
+38526 old {#*gfD#}¦ {%gṛdh.%} {%gṛdhyāmi%} 4; <ab>p.</ab> {%jagardha;%} ạ.
+;
+38526 new {#*gfD#}¦ {%gṛdh.%} {%gṛdhyāmi%} 4; <ab>p.</ab> {%jagardha;%} <ab>a2.</ab>
+; =====================================================
+; <L>6181<pc>229,2<k1>gruc
+39874 old {#*gruc#}¦ {%gruc.%} {%grocāmi%} 1; <ab>p.</ab> {%jugroca;%} ạ.
+;
+39874 new {#*gruc#}¦ {%gruc.%} {%grocāmi%} 1; <ab>p.</ab> {%jugroca;%} <ab>a2.</ab>
+; =====================================================
+; <L>6234<pc>231,2<k1>Gas
+40245 old  {%jakṣus;%} <ab>f1.</ab> {%ghastāsmi;%} <ab>f2.</ab> {%ghatsyāmi;%} ạ.
+;
+40245 new  {%jakṣus;%} <ab>f1.</ab> {%ghastāsmi;%} <ab>f2.</ab> {%ghatsyāmi;%} <ab>a2.</ab>
+; =====================================================
+; <L>6265<pc>232,2<k1>Guz
+40409 old <ab>p.</ab> {%jughoṣa;%} <ab>f2.</ab> {%ghoṣiṣyāmi;%} <ab>a1.</ab> {%aghoṣiṣam;%} ạ.
+;
+40409 new <ab>p.</ab> {%jughoṣa;%} <ab>f2.</ab> {%ghoṣiṣyāmi;%} <ab>a1.</ab> {%aghoṣiṣam;%} <ab>a2.</ab>
+; =====================================================
+; <L>6303<pc>234,1<k1>GrA
+40637 old  ạ. {%aghrām.%} <ab>Ps.</ab> {%ghrāye;%} <ab>pp.</ab>
+;
+40637 new  <ab>a2.</ab> {%aghrām.%} <ab>Ps.</ab> {%ghrāye;%} <ab>pp.</ab>
+; =====================================================
+; <L>6830<pc>252,2<k1>cyut
+43990 old {%cyotiṣyāmi;%} al. {%acyotiṣam;%} ạ. {%acyutam.%} <lbinfo n="6"/> Tomber,
+;
+43990 new {%cyotiṣyāmi;%} al. {%acyotiṣam;%} <ab>a2.</ab> {%acyutam.%} <lbinfo n="6"/> Tomber,
+; =====================================================
+; <L>6891<pc>255,1<k1>Cid
+44397 old {%achaitsam, <lbinfo n="4"/> achitsi;%} ạ. {%achidam.%} <ab>Ps.</ab> {%chidye;%} <ab>pp.</ab>
+;
+44397 new {%achaitsam, <lbinfo n="4"/> achitsi;%} <ab>a2.</ab> {%achidam.%} <ab>Ps.</ab> {%chidye;%} <ab>pp.</ab>
+; =====================================================
+; <L>6909<pc>255,2<k1>Cfd
+44503 old {%cacharda, <lbinfo n="7"/> cachṛde;%} ạ. {%achṛdam;%} etc. <ab>Pp.</ab>
+;
+44503 new {%cacharda, <lbinfo n="7"/> cachṛde;%} <ab>a2.</ab> {%achṛdam;%} etc. <ab>Pp.</ab>
+; =====================================================
+; <L>6920<pc>256,2<k1>Co
+44570 old <ab>f1.</ab> {%chātāsmi;%} <ab>f2.</ab> {%chāsyāmi;%} <ab>a1.</ab> {%achāsam;%} ạ.
+;
+44570 new <ab>f1.</ab> {%chātāsmi;%} <ab>f2.</ab> {%chāsyāmi;%} <ab>a1.</ab> {%achāsam;%} <ab>a2.</ab>
+; =====================================================
+; <L>6930<pc>256,2<k1>jakzimi
+44624 old {%jajakṣa;%} <ab>f2.</ab> {%jakṣiṣyāmi;%} ạ. {%ajakṣam;%} <lbinfo n="6"/> al.
+;
+44624 new {%jajakṣa;%} <ab>f2.</ab> {%jakṣiṣyāmi;%} <ab>a2.</ab> {%ajakṣam;%} <lbinfo n="6"/> al.
+; =====================================================
+; <L>7382<pc>272,1<k1>jF
+47549 old {%ajariṣam;%} ạ. {%ajaram;%} <ab>gér.</ab> {%jaritvā%} et
+;
+47549 new {%ajariṣam;%} <ab>a2.</ab> {%ajaram;%} <ab>gér.</ab> {%jaritvā%} et
+; =====================================================
+; <L>8080<pc>297,2<k1>tuh
+51917 old {%atohiṣam;%} ạ. {%atuham.%} Tourmenter, vexer.
+;
+51917 new {%atohiṣam;%} <ab>a2.</ab> {%atuham.%} Tourmenter, vexer.
+; =====================================================
+; <L>8106<pc>298,2<k1>tfd
+52149 old {%atārdiṣam;%} ạ. {%atṛdam;%} <ab>gér.</ab> {%tarditvā%} et
+;
+52149 new {%atārdiṣam;%} <ab>a2.</ab> {%atṛdam;%} <ab>gér.</ab> {%tarditvā%} et
+; =====================================================
+; <L>8107<pc>298,2<k1>tfp
+52160 old {%atārpsam;%} ạ. {%atṛpam;%} <ab>pp.</ab> 
+;
+52160 new {%atārpsam;%} <ab>a2.</ab> {%atṛpam;%} <ab>pp.</ab> 
+; =====================================================
+; <L>8535<pc>315,1<k1>dah
+54985 old {%adhākṣam%} ou {%adhākṣiṣam;%} ạ. <ab>vd.</ab> <ab>3p.</ab> <ab>sg.</ab> {%dhak;%} <ab>pp.</ab>
+;
+54985 new {%adhākṣam%} ou {%adhākṣiṣam;%} <ab>a2.</ab> <ab>vd.</ab> <ab>3p.</ab> <ab>sg.</ab> {%dhak;%} <ab>pp.</ab>
+; =====================================================
+; <L>8546<pc>315,2<k1>dA
+55086 old {@F1.@} {%dātāsmi.%} F2. {%dāsyāmi.%} {@Ạ.@} {%adām,%} <ab>3p.</ab>
+;
+55086 new {@F1.@} {%dātāsmi.%} F2. {%dāsyāmi.%} {@<ab>A2.</ab>@} {%adām,%} <ab>3p.</ab>
+; =====================================================
+; <L>8546<pc>315,2<k1>dA
+55092 old {%dāyitāhe;%} <ab>f2.</ab> {%dāyiṣye;%} ạ. <ab>3p.</ab> <ab>sg.</ab> {%adāyi;%} <ab>o.</ab>
+;
+55092 new {%dāyitāhe;%} <ab>f2.</ab> {%dāyiṣye;%} <ab>a2.</ab> <ab>3p.</ab> <ab>sg.</ab> {%adāyi;%} <ab>o.</ab>
+; =====================================================
+; <L>8561<pc>316,1<k1>dAt
+55192 old {#dAt#}¦ {%dāt,%} pour {%adāt,%} <ab>3p.</ab> <ab>sg.</ab> ạ. <ab>vd.</ab> de {%dā.%}
+;
+55192 new {#dAt#}¦ {%dāt,%} pour {%adāt,%} <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%dā.%}
+; =====================================================
+; <L>8869<pc>326,1<k1>duz
+57035 old <ab>f2.</ab> {%dokṣyāmi;%} <ab>a1.</ab> {%adukṣam;%} ạ. {%aduṣam;%} <lbinfo n="6"/> <ab>pp.</ab> {%duṣṭa.%}
+;
+57035 new <ab>f2.</ab> {%dokṣyāmi;%} <ab>a1.</ab> {%adukṣam;%} <ab>a2.</ab> {%aduṣam;%} <lbinfo n="6"/> <ab>pp.</ab> {%duṣṭa.%}
+; =====================================================
+; <L>8898<pc>327,1<k1>duh
+57213 old {%dohe%} 1; <ab>p.</ab> <ab>3p.</ab> <ab>pl.</ab> {%duhre;%} ạ. <ab>3p.</ab> <ab>pl.</ab> {%aduhra;%} <ab>ppr.</ab>
+;
+57213 new {%dohe%} 1; <ab>p.</ab> <ab>3p.</ab> <ab>pl.</ab> {%duhre;%} <ab>a2.</ab> <ab>3p.</ab> <ab>pl.</ab> {%aduhra;%} <ab>ppr.</ab>
+; =====================================================
+; <L>8920<pc>328,1<k1>df
+57366 old {%dartāhe;%} <ab>f2.</ab> {%dariṣye;%} ạ. {%adṛṣi;%} <ab>pf.</ab> <ab>ps.</ab>
+;
+57366 new {%dartāhe;%} <ab>f2.</ab> {%dariṣye;%} <ab>a2.</ab> {%adṛṣi;%} <ab>pf.</ab> <ab>ps.</ab>
+; =====================================================
+; <L>8938<pc>328,2<k1>dfS
+57493 old {%adrākṣam;%} ạ. {%adarśam;%} <ab>inf.</ab> {%draṣṭum;%} <ab>ppf.</ab> {%dadṛśivas%}
+;
+57493 new {%adrākṣam;%} <ab>a2.</ab> {%adarśam;%} <ab>inf.</ab> {%draṣṭum;%} <ab>ppf.</ab> {%dadṛśivas%}
+; =====================================================
+; <L>8938<pc>328,2<k1>dfS
+57500 old {%drakṣye;%} <lbinfo n="6"/> ạ. {%adarśiṣi%} et {%adrakṣi;%} <ab>pp.</ab> {%dṛṣṭa.%} Etre
+;
+57500 new {%drakṣye;%} <lbinfo n="6"/> <ab>a2.</ab> {%adarśiṣi%} et {%adrakṣi;%} <ab>pp.</ab> {%dṛṣṭa.%} Etre
+; =====================================================
+; <L>9055<pc>333,2<k1>dyut
+58424 old {%dyotiṣyāmi;%} <ab>a1.</ab> {%adyotiṣi;%} ạ. {%adyutam.%} Briller,
+;
+58424 new {%dyotiṣyāmi;%} <ab>a1.</ab> {%adyotiṣi;%} <ab>a2.</ab> {%adyutam.%} Briller,
+; =====================================================
+; <L>9125<pc>336,1<k1>druh
+58862 old {%dhrokṣyāmi;%} ạ. {%adruham;%} <ab>pp.</ab> {%drugdha%} et {%druḍha.%}
+;
+58862 new {%dhrokṣyāmi;%} <ab>a2.</ab> {%adruham;%} <ab>pp.</ab> {%drugdha%} et {%druḍha.%}
+; =====================================================
+; <L>9235<pc>340,1<k1>Dak
+59575 old {#Dak#}¦ {%dhak%} <ab>3p.</ab> <ab>sg.</ab> ạ. <ab>vd.</ab> de {%dah.%}
+;
+59575 new {#Dak#}¦ {%dhak%} <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%dah.%}
+; =====================================================
+; <L>9290<pc>343,1<k1>DA
+60095 old {%dhāsyāmi, dhāsye;%} ạ. {%adhām, adhiṣi;%} <ab>o.</ab>
+;
+60095 new {%dhāsyāmi, dhāsye;%} <ab>a2.</ab> {%adhām, adhiṣi;%} <ab>o.</ab>
+; =====================================================
+; <L>9290<pc>343,1<k1>DA
+60105 old {%dadhāt%} et {%dadhat.%} {@Ạ.@} <ab>3p.</ab> <ab>pl.</ab> {%dhāsus;%} <ab>o.</ab> <ab>1p.</ab> <ab>pl.</ab>
+;
+60105 new {%dadhāt%} et {%dadhat.%} {@<ab>A2.</ab>@} <ab>3p.</ab> <ab>pl.</ab> {%dhāsus;%} <ab>o.</ab> <ab>1p.</ab> <ab>pl.</ab>
+; =====================================================
+; <L>9290<pc>343,1<k1>DA
+60107 old et {%dhiṣe;%} <ab>1p.</ab> <ab>pl.</ab> {%dhāmahe;%} <ab>o.</ab> {%didhiṣeya.%} <lbinfo n="7"/> {@Ạ.@}
+;
+60107 new et {%dhiṣe;%} <ab>1p.</ab> <ab>pl.</ab> {%dhāmahe;%} <ab>o.</ab> {%didhiṣeya.%} <lbinfo n="7"/> {@<ab>A2.</ab>@}
+; =====================================================
+; <L>9423<pc>348,1<k1>De
+60998 old {%dhāsyāmi;%} <lbinfo n="5"/> <ab>a1.</ab> {%adhāsam;%} ạ. {%adhām;%} <ab>pqp.</ab> {%adadham.%}
+;
+60998 new {%dhāsyāmi;%} <lbinfo n="5"/> <ab>a1.</ab> {%adhāsam;%} <ab>a2.</ab> {%adhām;%} <ab>pqp.</ab> {%adadham.%}
+; =====================================================
+; <L>9488<pc>350,2<k1>DvaMs
+61375 old {%adhvaṃsiṣi;%} ạ. {%adhvasam.%} <ab>Ps.</ab> {%dhvasye;%} <ab>pp.</ab> {%dhvasta.%}
+;
+61375 new {%adhvaṃsiṣi;%} <ab>a2.</ab> {%adhvasam.%} <ab>Ps.</ab> {%dhvasye;%} <ab>pp.</ab> {%dhvasta.%}
+; =====================================================
+; <L>9504<pc>351,1<k1>nak
+61478 old {#nak#}¦ {%nak%} <ab>3p.</ab> <ab>sg.</ab> ạ. <ab>vd.</ab> de {%naś.%}
+;
+61478 new {#nak#}¦ {%nak%} <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%naś.%}
+; =====================================================
+; <L>9634<pc>356,1<k1>naS
+62414 old {%naśiṣyāmi%} <lbinfo n="7"/> et {%naṅkṣyāmi;%} ạ. {%anaśam;%} <ab>pp.</ab> {%naṣṭa.%}
+;
+62414 new {%naśiṣyāmi%} <lbinfo n="7"/> et {%naṅkṣyāmi;%} <ab>a2.</ab> {%anaśam;%} <ab>pp.</ab> {%naṣṭa.%}
+; =====================================================
+; <L>10903<pc>403,2<k1>pA
+70905 old {%pāsyāmi;%} ạ. {%apām;%} <ab>gér.</ab> {%pītvā%} [en <ab>comp.</ab>
+;
+70905 new {%pāsyāmi;%} <ab>a2.</ab> {%apām;%} <ab>gér.</ab> {%pītvā%} [en <ab>comp.</ab>
+; =====================================================
+; <L>11121<pc>413,1<k1>piz
+72691 old {%pipeṣa;%} <ab>f2.</ab> {%pekṣyāmi;%} ạ. {%apiṣam.%} Piler, broyer:
+;
+72691 new {%pipeṣa;%} <ab>f2.</ab> {%pekṣyāmi;%} <ab>a2.</ab> {%apiṣam.%} Piler, broyer:
+; =====================================================
+; <L>11210<pc>417,1<k1>puruza
+73410 old l'âme; {%sukhadu(s)kānām <lbinfo n="10"/> bhoktṛtve hetus puruṣa%}
+;
+73410 new l'âme; {%sukhaduskānām <lbinfo n="10"/> bhoktṛtve hetus puruṣa%}
+; =====================================================
+; <L>12088<pc>447,2<k1>prasara
+79159 old Couler. || Au <ab>fig.</ab> émaner: {%yatas(s) pravṛtti(s) prasṛtā%}
+;
+79159 new Couler. || Au <ab>fig.</ab> émaner: {%yatas pravṛttis prasṛtā%}
+; =====================================================
+; <L>12225<pc>452,2<k1>prAran
+80099 old {#prAran#}¦ {%prāran%} <ab>3p.</ab> <ab>pl.</ab> ạ. <ab>vd.</ab> de {%praṛṇāmi.%} <lbinfo n="7"/>
+;
+80099 new {#prAran#}¦ {%prāran%} <ab>3p.</ab> <ab>pl.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%praṛṇāmi.%} <lbinfo n="7"/>
+; =====================================================
+; <L>12598<pc>467,2<k1>bravat
+82795 old {#bravat#}¦ {%bravat%} 3 <ab>p.</ab> <ab>sg.</ab> ạ. <ab>Vd.</ab> de {%brū.%}
+;
+82795 new {#bravat#}¦ {%bravat%} 3 <ab>p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>Vd.</ab> de {%brū.%}
+; =====================================================
+; <L>12781<pc>477,2<k1>Buvas
+84603 old {#Buvas#}¦ {%bhuvas, bhuvat,%} 2p et <ab>3p.</ab> <ab>sg.</ab> ạ. <ab>vd.</ab> de {%bhū.%}
+;
+84603 new {#Buvas#}¦ {%bhuvas, bhuvat,%} 2p et <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%bhū.%}
+; =====================================================
+; <L>12784<pc>477,2<k1>BU
+84618 old {%bhaviṣye.%} Ạ. {%abhūvam, abhūs, abhūt;%} <ab>2p.</ab> <ab>sg.</ab> <ab>vd.</ab>
+;
+84618 new {%bhaviṣye.%} <ab>A2.</ab> {%abhūvam, abhūs, abhūt;%} <ab>2p.</ab> <ab>sg.</ab> <ab>vd.</ab>
+; =====================================================
+; <L>12784<pc>477,2<k1>BU
+84620 old {%bhūyate;%} ạ. {%abhāvi;%} <ab>pp.</ab> {%bhūta.%} Se produire,
+;
+84620 new {%bhūyate;%} <ab>a2.</ab> {%abhāvi;%} <ab>pp.</ab> {%bhūta.%} Se produire,
+; =====================================================
+; <L>12869<pc>482,1<k1>BraMS
+85476 old <ab>p.</ab> {%babhraṃśa, bhabhraṃśe;%} ạ. {%abhraśam, <lbinfo n="4"/> abhraṃśiṣi;%} <ab>pp.</ab>
+;
+85476 new <ab>p.</ab> {%babhraṃśa, bhabhraṃśe;%} <ab>a2.</ab> {%abhraśam, <lbinfo n="4"/> abhraṃśiṣi;%} <ab>pp.</ab>
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86888 old <P>{%mana(s)prasāda%} <ab>m.</ab> la paix du cœur.
+;
+86888 new <P>{%manasprasāda%} <ab>m.</ab> la paix du cœur.
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86890 old <P>{%mana(s)śila%} <ab>m.</ab> <ab>f.</ab> [{%ā%}] arsenic rouge.
+;
+86890 new <P>{%manasśila%} <ab>m.</ab> <ab>f.</ab> [{%ā%}] arsenic rouge.
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86892 old <P>{%mana(s)sila,%} <ab>mms.</ab>
+;
+86892 new <P>{%manassila,%} <ab>mms.</ab>
+; =====================================================
+; <L>13138<pc>495,2<k1>mas
+87877 old {#*mas#}¦ {%mas.%} {%masyāmi%} 4; <ab>p.</ab> {%mamāsa;%} ạ.
+;
+87877 new {#*mas#}¦ {%mas.%} {%masyāmi%} 4; <ab>p.</ab> {%mamāsa;%} <ab>a2.</ab>
+; =====================================================
+; <L>13164<pc>496,2<k1>mahA
+88419 old <ab>c.-à-d.</ab> les trois mots mystiques <lbinfo n="4"/> {%bhūr, bhuva(s), svar.%}
+;
+88419 new <ab>c.-à-d.</ab> les trois mots mystiques <lbinfo n="4"/> {%bhūr, bhuvas, svar.%}
+; =====================================================
+; <L>13839<pc>527,1<k1>yuj
+93568 old {%yokṣyāmi, yokṣye;%} <ab>a1.</ab> {%ayokṣam;%} ạ. {%ayujam.%} <lbinfo n="6"/> {@Ps.@}
+;
+93568 new {%yokṣyāmi, yokṣye;%} <ab>a1.</ab> {%ayokṣam;%} <ab>a2.</ab> {%ayujam.%} <lbinfo n="6"/> {@Ps.@}
+; =====================================================
+; <L>13977<pc>534,1<k1>raD
+94869 old {%ratsyāmi;%} ạ. {%aradham.%} Périr, être tué, être subjugué;
+;
+94869 new {%ratsyāmi;%} <ab>a2.</ab> {%aradham.%} Périr, être tué, être subjugué;
+; =====================================================
+; <L>14068<pc>539,1<k1>rAD
+95806 old  {%arātsam;%} ạ. <ab>vd.</ab> {%arādham;%} <ab>pp.</ab> {%rāddha.%}
+;
+95806 new  {%arātsam;%} <ab>a2.</ab> <ab>vd.</ab> {%arādham;%} <ab>pp.</ab> {%rāddha.%}
+; =====================================================
+; <L>14117<pc>541,1<k1>ric
+96124 old {%araikṣam;%} ạ. {%aricam;%} <ab>pp.</ab> {%rikta.%} Vider; || ôter. ||
+;
+96124 new {%araikṣam;%} <ab>a2.</ab> {%aricam;%} <ab>pp.</ab> {%rikta.%} Vider; || ôter. ||
+; =====================================================
+; <L>14144<pc>541,2<k1>riz
+96245 old {#*riz#}¦ {%riṣ.%} {%reṣāmi%} 1 et {%riṣyāmi%} 4; etc. ạ.
+;
+96245 new {#*riz#}¦ {%riṣ.%} {%reṣāmi%} 1 et {%riṣyāmi%} 4; etc. <ab>a2.</ab>
+; =====================================================
+; <L>14168<pc>542,1<k1>ruc
+96384 old {%rociṣye;%} <lbinfo n="8"/> <ab>a1.</ab> {%arociṣi;%} ạ. {%arucam;%} <ab>pp.</ab>
+;
+96384 new {%rociṣye;%} <lbinfo n="8"/> <ab>a1.</ab> {%arociṣi;%} <ab>a2.</ab> {%arucam;%} <ab>pp.</ab>
+; =====================================================
+; <L>14183<pc>543,1<k1>rud
+96494 old {%ruroda;%} etc.; ạ. {%arudam;%} <ab>ppr.</ab> {%rudat;%} <ab>pp.</ab> {%rudita.%}
+;
+96494 new {%ruroda;%} etc.; <ab>a2.</ab> {%arudam;%} <ab>ppr.</ab> {%rudat;%} <ab>pp.</ab> {%rudita.%}
+; =====================================================
+; <L>14189<pc>543,1<k1>ruD
+96556 old <ab>a1.</ab> {%arautsam, arutsi;%} ạ. {%arudham;%} 
+;
+96556 new <ab>a1.</ab> {%arautsam, arutsi;%} <ab>a2.</ab> {%arudham;%} 
+; =====================================================
+; <L>14191<pc>543,2<k1>rup
+96574 old {#*rup#}¦ {%rup.%} {%rupyāmi%} 4; etc. ạ. {%arupam.%} <lbinfo n="6"/> Agiter,
+;
+96574 new {#*rup#}¦ {%rup.%} {%rupyāmi%} 4; etc. <ab>a2.</ab> {%arupam.%} <lbinfo n="6"/> Agiter,
+; =====================================================
+; <L>14206<pc>543,2<k1>ruz
+96643 old {%ruroṣa;%} ạ. {%aruṣam;%} <ab>pp.</ab> {%ruṣita%} et {%ruṣṭa.%} Frapper,
+;
+96643 new {%ruroṣa;%} <ab>a2.</ab> {%aruṣam;%} <ab>pp.</ab> {%ruṣita%} et {%ruṣṭa.%} Frapper,
+; =====================================================
+; <L>14479<pc>554,1<k1>lip
+98487 old {%lilipe;%} <ab>f2.</ab> {%lepsyāmi, lepsye;%} ạ. {%alipam, alipsi.%} <lbinfo n="6"/>
+;
+98487 new {%lilipe;%} <ab>f2.</ab> {%lepsyāmi, lepsye;%} <ab>a2.</ab> {%alipam, alipsi.%} <lbinfo n="6"/>
+; =====================================================
+; <L>14509<pc>554,2<k1>luw
+98649 old {#*luw#}¦ {%luṭ.%} {%loṭāmi%} 1 et {%luṭyāmi%} 4; ạ
+;
+98649 new {#*luw#}¦ {%luṭ.%} {%loṭāmi%} 1 et {%luṭyāmi%} 4; <ab>a2.</ab>
+; =====================================================
+; <L>14529<pc>555,1<k1>lup
+98747 old {%lulupe;%} <ab>f2.</ab> {%lopsyāmi, lopsye;%} ạ. {%alupam, alupsi;%}
+;
+98747 new {%lulupe;%} <ab>f2.</ab> {%lopsyāmi, lopsye;%} <ab>a2.</ab> {%alupam, alupsi;%}
+; =====================================================
+; <L>14533<pc>555,2<k1>luB
+98777 old {%lobhitāsmi%} et {%lobdhāsmi;%} <ab>f1.</ab> {%lobhiṣyāmi;%} ạ.
+;
+98777 new {%lobhitāsmi%} et {%lobdhāsmi;%} <ab>f1.</ab> {%lobhiṣyāmi;%} <ab>a2.</ab>
+; =====================================================
+; <L>14800<pc>566,2<k1>varg
+100858 old {#varg#}¦ {%varg%} 3 <ab>p.</ab> <ab>sg.</ab> ạ. <ab>vd.</ab> de {%vṛj.%}
+;
+100858 new {#varg#}¦ {%varg%} 3 <ab>p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%vṛj.%}
+; =====================================================
+; <L>15378<pc>589,1<k1>vid
+104991 old {#*vid#}¦ {%vid.%} {%vindāmi, vinde%} 6; etc. ạ. {%avidam;%}
+;
+104991 new {#*vid#}¦ {%vid.%} {%vindāmi, vinde%} 6; etc. <ab>a2.</ab> {%avidam;%}
+; =====================================================
+; <L>15733<pc>601,2<k1>viluByAmi
+107281 old {%vilubhila(s) keśaras%} crinière mêlée par le vent.
+;
+107281 new {%vilubhilas keśaras%} crinière mêlée par le vent.
+; =====================================================
+; <L>16010<pc>613,1<k1>vft
+109440 old {%vartsyāmi, <lbinfo n="6"/> vartiṣye;%} ạ. {%avṛtam, avartiṣi;%} <ab>gér.</ab>
+;
+109440 new {%vartsyāmi, <lbinfo n="6"/> vartiṣye;%} <ab>a2.</ab> {%avṛtam, avartiṣi;%} <ab>gér.</ab>
+; =====================================================
+; <L>16481<pc>631,1<k1>Sak
+112579 old {%śakṣye;%} ạ. {%aśakam;%} <ab>pp.</ab> {%śakta%} et <ab>qqf.</ab> {%śakita.%} Pouvoir,
+;
+112579 new {%śakṣye;%} <ab>a2.</ab> {%aśakam;%} <ab>pp.</ab> {%śakta%} et <ab>qqf.</ab> {%śakita.%} Pouvoir,
+; =====================================================
+; <L>16535<pc>636,2<k1>Sad
+113211 old {%śattāsmi;%} <ab>f2.</ab> {%śatsyāmi;%} ạ. {%aśadam.%} Tomber; || périr.
+;
+113211 new {%śattāsmi;%} <ab>f2.</ab> {%śatsyāmi;%} <ab>a2.</ab> {%aśadam.%} Tomber; || périr.
+; =====================================================
+; <L>16777<pc>645,2<k1>SAs
+114873 old {%śaśāsa;%} <ab>f2.</ab> {%śāsiṣyāmi;%} ạ. {%aśiṣam;%} <ab>gér.</ab>
+;
+114873 new {%śaśāsa;%} <ab>f2.</ab> {%śāsiṣyāmi;%} <ab>a2.</ab> {%aśiṣam;%} <ab>gér.</ab>
+; =====================================================
+; <L>16777<pc>645,2<k1>SAs
+114875 old Ordonner, régir: {%daṇḍa(s) śāsti prajās%} le châtiment régit
+;
+114875 new Ordonner, régir: {%daṇḍas śāsti prajās%} le châtiment régit
+; =====================================================
+; <L>16902<pc>652,2<k1>SuD
+116165 old {%śuśodha;%} <ab>f1.</ab> {%śoddhāsmi;%} <ab>f2.</ab> {%śotsyāmi;%} ạ.
+;
+116165 new {%śuśodha;%} <ab>f1.</ab> {%śoddhāsmi;%} <ab>f2.</ab> {%śotsyāmi;%} <ab>a2.</ab>
+; =====================================================
+; <L>17088<pc>660,1<k1>SramB
+117489 old rapporter à]. -- {%śrambhe%} 1; ạ. {%aśrabham;%} <ab>a1.</ab>
+;
+117489 new rapporter à]. -- {%śrambhe%} 1; <ab>a2.</ab> {%aśrabham;%} <ab>a1.</ab>
+; =====================================================
+; <L>17333<pc>670,2<k1>sac
+119369 old au bois; || obéir, servir, honorer: {%indraṃ śloka(s) siṣaktu%} que
+;
+119369 new au bois; || obéir, servir, honorer: {%indraṃ ślokas siṣaktu%} que
+; =====================================================
+; <L>17333<pc>670,2<k1>sac
+119371 old {%no divya(s) pāyu(s) sisaktu%} que le buveur céleste <lbinfo n="5"/> [le Soleil]
+;
+119371 new {%no divyas pāyus sisaktu%} que le buveur céleste <lbinfo n="5"/> [le Soleil]
+; =====================================================
+; <L>17429<pc>674,1<k1>sad
+119977 old 2]; <ab>p.</ab> {%sasāda;%} <ab>f2.</ab> {%satsyāmi;%} ạ. {%asadam%} <lbinfo n="5"/> [<ab>vd.</ab>
+;
+119977 new 2]; <ab>p.</ab> {%sasāda;%} <ab>f2.</ab> {%satsyāmi;%} <ab>a2.</ab> {%asadam%} <lbinfo n="5"/> [<ab>vd.</ab>
+; =====================================================
+; <L>17445<pc>674,2<k1>sadyas
+120094 old <P>{%sadya(s)śotā%} <ab>f.</ab> carpopogon pruriens.
+;
+120094 new <P>{%sadyasśotā%} <ab>f.</ab> carpopogon pruriens.
+; =====================================================
+; <L>17844<pc>688,1<k1>samudemi
+122503 old lever: {%aha(s) samudeti%} le jour se lève. || <ab>Pp.</ab> {%samudita,%}
+;
+122503 new lever: {%ahas samudeti%} le jour se lève. || <ab>Pp.</ab> {%samudita,%}
+; =====================================================
+; <L>18227<pc>702,1<k1>sah
+125035 old résister. {%taṃ sahitum raṇe ka(s) kṣamas%} qui est capable de
+;
+125035 new résister. {%taṃ sahitum raṇe kas kṣamas%} qui est capable de
+; =====================================================
+; <L>18540<pc>712,2<k1>sic
+126966 old {%siṣice;%} <ab>f1.</ab> {%sektāsmi;%} <ab>f2.</ab> {%sekṣyāmi, sekṣye;%} <lbinfo n="6"/> ạ.
+;
+126966 new {%siṣice;%} <ab>f1.</ab> {%sektāsmi;%} <ab>f2.</ab> {%sekṣyāmi, sekṣye;%} <lbinfo n="6"/> <ab>a2.</ab>
+; =====================================================
+; <L>18549<pc>713,2<k1>siD
+127148 old {%seddhāsmi;%} <ab>f2.</ab> {%setsyāmi;%} ạ. {%asidham;%} <ab>pp.</ab>
+;
+127148 new {%seddhāsmi;%} <ab>f2.</ab> {%setsyāmi;%} <ab>a2.</ab> {%asidham;%} <ab>pp.</ab>
+; =====================================================
+; <L>18950<pc>727,2<k1>sf
+129627 old {%sriyāsam;%} <lbinfo n="8"/> <ab>a1.</ab> {%asārṣam;%} ạ. {%asaram.%} Aller, marcher,
+;
+129627 new {%sriyāsam;%} <lbinfo n="8"/> <ab>a1.</ab> {%asārṣam;%} <ab>a2.</ab> {%asaram.%} Aller, marcher,
+; =====================================================
+; <L>18968<pc>728,1<k1>sfp
+129717 old {%srapsyāmi;%} ạ. {%asṛpam;%} <ab>pp.</ab> {%sṛpta.%} Aller, s'avancer,
+;
+129717 new {%srapsyāmi;%} <ab>a2.</ab> {%asṛpam;%} <ab>pp.</ab> {%sṛpta.%} Aller, s'avancer,
+; =====================================================
+; <L>19109<pc>732,2<k1>skand
+130572 old {%skantāsmi;%} <ab>f2.</ab> {%skantsyāmi;%} <ab>a1.</ab> {%askāntsam;%} ạ.
+;
+130572 new {%skantāsmi;%} <ab>f2.</ab> {%skantsyāmi;%} <ab>a1.</ab> {%askāntsam;%} <ab>a2.</ab>
+; =====================================================
+; <L>19134<pc>734,1<k1>stamB
+130809 old {%astambhiṣam;%} ạ. {%astabham;%} <ab>pp.</ab> {%stabdha.%} <lbinfo n="6"/> Etayer,
+;
+130809 new {%astambhiṣam;%} <ab>a2.</ab> {%astabham;%} <ab>pp.</ab> {%stabdha.%} <lbinfo n="6"/> Etayer,
+; =====================================================
+; <L>19165<pc>735,1<k1>stfkz
+130990 old {#*stfkz#}¦ {%stṛkṣ.%} {%stṛkṣmi%} 1. A'ler.
+;
+130990 new {#*stfkz#}¦ {%stṛkṣ.%} {%stṛkṣmi%} 1. Aller.
+; =====================================================
+; <L>19200<pc>736,1<k1>sTA
+131220 old {%sthāsye;%} ạ. {%asthām, asthiṣi;%} <ab>o.</ab> {%stheyāsam,%}
+;
+131220 new {%sthāsye;%} <ab>a2.</ab> {%asthām, asthiṣi;%} <ab>o.</ab> {%stheyāsam,%}
+; =====================================================
+; <L>19250<pc>738,2<k1>snih
+131654 old {%snehiṣyāmi%} et {%snekṣyāmi;%} ạ. {%asniham;%} <ab>gér.</ab>
+;
+131654 new {%snehiṣyāmi%} et {%snekṣyāmi;%} <ab>a2.</ab> {%asniham;%} <ab>gér.</ab>
+; =====================================================
+; <L>19265<pc>739,1<k1>sparD
+131758 old Rivaliser, lutter, vouloir égaler, <ab>i.</ab> || Egaler: <lbinfo n="4"/> {%asmān eka(s)%}
+;
+131758 new Rivaliser, lutter, vouloir égaler, <ab>i.</ab> || Egaler: <lbinfo n="4"/> {%asmān ekas%}
+; =====================================================
+; <L>19311<pc>740,2<k1>sPur
+132038 old brandit: {%śira(s) sphurat%} tête que l'on branle; {%savyaṃ netraṃ%}
+;
+132038 new brandit: {%śiras sphurat%} tête que l'on branle; {%savyaṃ netraṃ%}
+; =====================================================
+; <L>19343<pc>742,1<k1>syand
+132285 old {%syandiṣye, syantsye;%} <ab>a1.</ab> {%asyandiṣi, asyantsi;%} ạ.
+;
+132285 new {%syandiṣye, syantsye;%} <ab>a1.</ab> {%asyandiṣi, asyantsi;%} <ab>a2.</ab>
+; =====================================================
+; <L>19376<pc>743,1<k1>sru
+132470 old {%sruta.%} Couler: {%āpa(s) sravanti%} les eaux coulent. || Couler de:
+;
+132470 new {%sruta.%} Couler: {%āpas sravanti%} les eaux coulent. || Couler de:
+; =====================================================
+; <L>19469<pc>747,1<k1>svid
+133191 old {%svetsyāmi;%} ạ. {%asvidam;%} <ab>pp.</ab> {%svinna.%} Suer. || <ab>Gr.</ab>
+;
+133191 new {%svetsyāmi;%} <ab>a2.</ab> {%asvidam;%} <ab>pp.</ab> {%svinna.%} Suer. || <ab>Gr.</ab>
+; =====================================================
+; <L>19675<pc>756,1<k1>hf
+134781 old {%hariṣye;%} <ab>a1.</ab> {%ahārṣam, ahṛṣi%} [<ab>vd.</ab> {%ahār, ahā(s)%}].
+;
+134781 new {%hariṣye;%} <ab>a1.</ab> {%ahārṣam, ahṛṣi%} [<ab>vd.</ab> {%ahār, ahās%}].
+; =====================================================
+; <L>19675<pc>756,1<k1>hf
+134788 old {%jabhru(s) śīrṣāṇy aśvyāni%} ils ont offert en sacrifice des
+;
+134788 new {%jabhrus śīrṣāṇy aśvyāni%} ils ont offert en sacrifice des
+; =====================================================
+; <L>19680<pc>756,2<k1>hfz
+134882 old {%jaharṣa, <lbinfo n="6"/> jahṛṣe;%} <ab>f2.</ab> {%hariṣiṣyāmi, harṣiṣye;%} ạ.
+;
+134882 new {%jaharṣa, <lbinfo n="6"/> jahṛṣe;%} <ab>f2.</ab> {%hariṣiṣyāmi, harṣiṣye;%} <ab>a2.</ab>
+; =====================================================
+; <L>19774<pc>759,2<k1>hve
+135470 old {%hvāsye;%} ạ. {%ahvam, ahvasi%} et {%ahvāsi%} [{%ahve;%} 3 <ab>p.</ab>
+;
+135470 new {%hvāsye;%} <ab>a2.</ab> {%ahvam, ahvasi%} et {%ahvāsi%} [{%ahve;%} 3 <ab>p.</ab>
