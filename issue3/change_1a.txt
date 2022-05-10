@@ -1,0 +1,105 @@
+; =====================================================
+; <L>102<pc>008,2<k1>agra
+663 old <P>{%agratassara%} <ab>m.</ab> {%(sṛ)%} <ab>m à m.</ab> qui va devant; guide, chef.
+;
+663 new <P>{%agrataḥsara%} <ab>m.</ab> {%(sṛ)%} <ab>m à m.</ab> qui va devant; guide, chef.
+; =====================================================
+; <L>3094<pc>106,2<k1>upacarAmi
+18798 old || qui a subi le changement de {%s%} en sifflante, <ab>tg.</ab>
+;
+18798 new || qui a subi le changement de ḥ en sifflante, <ab>tg.</ab>
+; =====================================================
+; <L>4984<pc>179,1<k1>kf
+31161 old feu réduit le bois en cendres; || {%pṛṣṭhatas kartum iṣṭam%}
+;
+31161 new feu réduit le bois en cendres; || {%pṛṣṭhataḥ kartum iṣṭam%}
+; =====================================================
+; <L>11210<pc>417,1<k1>puruza
+73410 old l'âme; {%sukhaduskānām <lbinfo n="10"/> bhoktṛtve hetus puruṣa%}
+;
+73410 new l'âme; {%sukhaduḥkānām <lbinfo n="10"/> bhoktṛtve hetus puruṣa%}
+; =====================================================
+; <L>12088<pc>447,2<k1>prasara
+79159 old Couler. || Au <ab>fig.</ab> émaner: {%yatas pravṛttis prasṛtā%}
+;
+79159 new Couler. || Au <ab>fig.</ab> émaner: {%yataḥ pravṛttiḥ prasṛtā%}
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86888 old <P>{%manasprasāda%} <ab>m.</ab> la paix du cœur.
+;
+86888 new <P>{%manaḥprasāda%} <ab>m.</ab> la paix du cœur.
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86890 old <P>{%manasśila%} <ab>m.</ab> <ab>f.</ab> [{%ā%}] arsenic rouge.
+;
+86890 new <P>{%manaḥśila%} <ab>m.</ab> <ab>f.</ab> [{%ā%}] arsenic rouge.
+; =====================================================
+; <L>13003<pc>490,1<k1>manas
+86892 old <P>{%manassila,%} <ab>mms.</ab>
+;
+86892 new <P>{%manaḥsila,%} <ab>mms.</ab>
+; =====================================================
+; <L>13164<pc>496,2<k1>mahA
+88419 old <ab>c.-à-d.</ab> les trois mots mystiques <lbinfo n="4"/> {%bhūr, bhuvas, svar.%}
+;
+88419 new <ab>c.-à-d.</ab> les trois mots mystiques <lbinfo n="4"/> {%bhūr, bhuvaḥ, svar.%}
+; =====================================================
+; <L>15733<pc>601,2<k1>viluByAmi
+107281 old {%vilubhilas keśaras%} crinière mêlée par le vent.
+;
+107281 new {%vilubhilaḥ keśaras%} crinière mêlée par le vent.
+; =====================================================
+; <L>16777<pc>645,2<k1>SAs
+114875 old Ordonner, régir: {%daṇḍas śāsti prajās%} le châtiment régit
+;
+114875 new Ordonner, régir: {%daṇḍaḥ śāsti prajās%} le châtiment régit
+; =====================================================
+; <L>17333<pc>670,2<k1>sac
+119369 old au bois; || obéir, servir, honorer: {%indraṃ ślokas siṣaktu%} que
+;
+119369 new au bois; || obéir, servir, honorer: {%indraṃ ślokaḥ siṣaktu%} que
+; =====================================================
+; <L>17333<pc>670,2<k1>sac
+119371 old {%no divyas pāyus sisaktu%} que le buveur céleste <lbinfo n="5"/> [le Soleil]
+;
+119371 new {%no divyaḥ pāyuḥ sisaktu%} que le buveur céleste <lbinfo n="5"/> [le Soleil]
+; =====================================================
+; <L>17445<pc>674,2<k1>sadyas
+120094 old <P>{%sadyasśotā%} <ab>f.</ab> carpopogon pruriens.
+;
+120094 new <P>{%sadyaḥśotā%} <ab>f.</ab> carpopogon pruriens.
+; =====================================================
+; <L>17844<pc>688,1<k1>samudemi
+122503 old lever: {%ahas samudeti%} le jour se lève. || <ab>Pp.</ab> {%samudita,%}
+;
+122503 new lever: {%ahaḥ samudeti%} le jour se lève. || <ab>Pp.</ab> {%samudita,%}
+; =====================================================
+; <L>18227<pc>702,1<k1>sah
+125035 old résister. {%taṃ sahitum raṇe kas kṣamas%} qui est capable de
+;
+125035 new résister. {%taṃ sahitum raṇe kaḥ kṣamas%} qui est capable de
+; =====================================================
+; <L>19265<pc>739,1<k1>sparD
+131758 old Rivaliser, lutter, vouloir égaler, <ab>i.</ab> || Egaler: <lbinfo n="4"/> {%asmān ekas%}
+;
+131758 new Rivaliser, lutter, vouloir égaler, <ab>i.</ab> || Egaler: <lbinfo n="4"/> {%asmān ekaḥ%}
+; =====================================================
+; <L>19311<pc>740,2<k1>sPur
+132038 old brandit: {%śiras sphurat%} tête que l'on branle; {%savyaṃ netraṃ%}
+;
+132038 new brandit: {%śiraḥ sphurat%} tête que l'on branle; {%savyaṃ netraṃ%}
+; =====================================================
+; <L>19376<pc>743,1<k1>sru
+132470 old {%sruta.%} Couler: {%āpas sravanti%} les eaux coulent. || Couler de:
+;
+132470 new {%sruta.%} Couler: {%āpaḥ sravanti%} les eaux coulent. || Couler de:
+; =====================================================
+; <L>19675<pc>756,1<k1>hf
+134781 old {%hariṣye;%} <ab>a1.</ab> {%ahārṣam, ahṛṣi%} [<ab>vd.</ab> {%ahār, ahās%}].
+;
+134781 new {%hariṣye;%} <ab>a1.</ab> {%ahārṣam, ahṛṣi%} [<ab>vd.</ab> {%ahār, ahāḥ%}].
+; =====================================================
+; <L>19675<pc>756,1<k1>hf
+134788 old {%jabhrus śīrṣāṇy aśvyāni%} ils ont offert en sacrifice des
+;
+134788 new {%jabhruḥ śīrṣāṇy aśvyāni%} ils ont offert en sacrifice des
