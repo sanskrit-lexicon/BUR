@@ -1,0 +1,204 @@
+Jim requested Odile's comment on changes suggested by Andhrabharati
+  in abdata.txt
+Jim's note and Odile's response shown below.
+=====================================================================
+Note from Jim to Odile:
+=====================================================================
+Another contributor has suggested some changes in Burnouf dictionary.
+I would like to have your opinion on these.
+The changes can be arranged in 7 Sections.
+The attached file (prep2.txt) has examples of each of these sections.
+
+This file may also be found at
+https://github.com/sanskrit-lexicon/BUR/blob/master/issue3/prep2.txt.
+
+section 1:  Should '5o' be changed to '5॰'  (and similarly for 1,2,...,9)
+ Google translate does not recognize either of these forms.
+ Another possibility is that '5o' should be changed to '5e'.
+Section 2: Should '3e' be changed to '3ᵉ', and similarly for other digits.
+ Google translate recognizes
+   'le 23e ordre de saints' as 'the 23rd order of saints'
+Section 3: Should '1re' be changed to '1ʳᵉ' ?
+Section 4: Should '1er' be changed to '1ᵉʳ' ?
+Section 5: Should '2d' be changed to '2ᵈ' ?
+
+The next two do not involve numbers.
+Section 6: Should 'ae' be changed to 'æ' ?
+Section 7: Should 'AE' be changed to 'Æ' ?
+
+Thanks for taking a look.
+
+=====================================================================
+Odile's response
+=====================================================================
+
+Section 1: Yes 5o should be changed into 5°‌, and same for other digits (and it should Not be changed into 5e as 5e means 5th and 5° means "in the fifth place"; same for the other digits)
+
+Section 2: Yes of course 3e can be changed to '3ᵉ', and similarly for other digits. that is surely a better presentation.
+Section 3: Should '1re' be changed to '1ʳᵉ' ? Yes, surely
+Section 4: Should '1er' be changed to '1ᵉʳ' ? same, yes.
+Section 5: Should '2d' be changed to '2ᵈ' ? same, yes.
+
+About 2d i see in the example given that that abbreviation is not referenced, '2d' is for 'second'
+
+Section 6: Should 'ae' be changed to 'æ' ? no, see below
+Section 7: Should 'AE' be changed to 'Æ' ? yes
+Yes, 'AE' should be changed to 'Æ'
+but
+About 'ae'
+First change all Jaena/Jaenas into Jaïna/Jaïnas
+and all jaena/jaenas into jaïna/jaïnas.
+Then you can change the ae into 'æ' in the lists below APART those few words:
+DO NOT CHANGE,
+-'kaer' (under cāru);
+**-'Naerrita' under brahma;
+-'Gaerî' under 'vṛṣākapi' which is a misprint (of the book) for 'Gaorî' (which i suggest to replace here by 'Gaorî (gaurī)' (as in French 'au' is equivalent to 'o', and it is not at all a diphtongue, that is why the author did use 'ao' for 'au' in the dict. )
+- zaez (under śaśa) (non latine word)
+Second list, DO NOT CHANGE:
+-the ae of ajwaen, 'aeva' (not latine)
+under 9 eva (aeva)
+Third list, DO NOT CHANGE:
+- 3 dipsāmi (lae), 'lae' which is a misprint for 'le' and should be corrected; 
+ - 4 dhava (dae), 'dae' which is a non latine word
+
+First list:
+1 akiñcana (jaenas)
+2 ambā (jaenas)
+3 aśvavāra (gavaeus)
+4 indambara (nymphaea)
+5 indu (ajwaen)
+6 kamala (nymphaea)
+7 kaliṅga (caesalpinia)
+8 kahlāra (nymphaea)
+9 kārtavīrya (jaenas)
+10 kālaparṇa (tabernaemontana)
+11 kumud (nymphaea)
+12 kurara (haliaeetus)
+13 kurala (haliaeetus)
+14 kuvṛttikṛt (caesalpinia)
+15 kṛṣṇa (nymphaea)
+16 keśara (caesaries)
+17 kairava (nymplaea)
+18 khara (nymphaea)
+19 gavaya (gavaeus)
+20 gosadṛkṣa (gavaeus)
+21 cāru (kaer)
+22 jina (jaena)
+23 jihma (tabernaemontana)
+24 tagara (tabernaemontana)
+25 triṃśat (nymphaea)
+26 digambara (jaenas)
+27 dhiyāmpati (jaena)
+28 nandyāvarta (tabernaemontana)
+29 nameru (elaeocarpus)
+30 nemi (jaena)
+31 paṭṭa (caesalpinia)
+32 patra (caesalpinia)
+33 piṇḍa (tabernaemontana)
+34 puṇḍra (gaertnera)
+35 puruṣa (jaenas)
+36 puṣpa (jaena)
+37 pūrva (jaenas)
+38 potra (jaenas)
+39 pracaṇḍa (crataeva)
+40 prāsmi (praeosse)
+41 bālu (jaenas)
+42 brahma (jaenas)
+43 bhūta (elaeocarpus)
+44 bhūmi (kaempferia)
+45 maṇi (naerrita)
+46 mahā (gaertnera)
+47 mādhava (gaertnera)
+48 yati (jaena)
+49 rakta (gomphraena)
+50 rudra (elaeocarpus)
+51 latā (gaertnera)
+52 vajra (jaenas)
+53 vana (gavaeus)
+54 vasanta (gaertnera)
+55 vāsanta (gaertnera)
+56 vidyā (jaenas)
+57 vṛṣākapi (gaer)
+58 veda (jaena)
+59 śaśa (zaez)
+60 śātayāmi (caedere)
+61 śiva (elaeocarpus)
+62 śrī (jaenas)
+63 sandhi (kaempferia)
+64 sarpa (elaeocarpus)
+65 savya (scaevus)
+66 sumanas (caesalpinia)
+67 surapriya (elaeocarpus)
+68 suvasanta (gaertnera)
+
+Second list,
+Under triṃśat note the misprint 'nymphaea blance' for 'nymphaea blanc'.
+DO NOT CHANGE, the ae of ajwaen, 'aeva' (not latine)
+1 agasti (aeschynomene)
+2 atimaṅgalya (aegle)
+3 anala (aeschynomene)
+4 ayas (aes)
+5 āyudha (aeschynomene)
+6 āyus (aetas)
+7 āra (aeris)
+8 indh (aestas)
+9 eva (aeva)
+10 kajjvala (aethiops)
+11 karkoṭa (aegle)
+12 kāka (aequata)
+13 kākāṅgā (aequata)
+14 kākāñcī (aequata)
+15 kunalin (aeschynomene)
+16 goharītakī (aegle)
+17 jaya (aeschynomene)
+18 jayanta (aeschynomene)
+19 jaitra (aeschynomene)
+20 pāśupata (aeschynomene)
+21 pūti (aegle)
+22 prācīna (aegle)
+23 mahā (aegle)
+24 maheśa (aegle)
+25 mālu (aegle)
+26 muni (aeschynom)
+27 mṛtyu (aegle)
+28 vaka (aeschynomene)
+29 vaṅga (aeschynomene)
+30 vasu (aeschynomene)
+31 vā (aer)
+32 vilva (aegle)
+33 vṛka (aeschynomene)
+34 vaijayanta (aeschynom)
+35 śāṇḍilya (aegle)
+36 śiva (aeschynomene)
+37 śuka (aeschynomene)
+38 śailālin (aegle)
+39 śrī (aegle)
+40 sadā (aegle)
+41 sarva (aegle)
+42 sunālaka (aeschynom)
+43 supūra (aeschynom)
+44 subhadra (aegle)
+45 sureṣṭa (aeschynomene)
+46 sthūla (aeschynom)
+47 hṛd (aegle)
+
+And in the third list below, apart 1) 'lae' which is a misprint for 'le' and should be corrected; and 2) 'dae' which is a non latine word
+1 kāla (kalendae)
+2 chagala (caprae)
+3 dipsāmi (lae)
+4 dhava (dae)
+5 śaka (sacae)
+
+Regards,
+Odile
+ 
+De : "Jim"
+A : "Odile Caujolle"
+Envoyé: mercredi 11 Mai 2022 19:14
+Objet : Burnouf questions
+ 
+Dear Odile ---
+
+Regards,
+Jim
+ 

@@ -1,0 +1,2395 @@
+; <L>1<pc>005,1<k1>a (sections = [3])
+8 old {#a#}¦ {%a%} 1re lettre de l'alphabet sanscrit, nommée
+;
+8 new {#a#}¦ {%a%} 1ʳᵉ lettre de l'alphabet sanscrit, nommée
+; ========================================================
+; <L>9<pc>005,1<k1>akanizWa (sections = [2])
+53 old {#akanizWa#}¦ {%akaniṣṭha%} <ab>m.</ab> <ab>Bd.</ab> le 23e ordre de saints, ceux qui
+;
+53 new {#akanizWa#}¦ {%akaniṣṭha%} <ab>m.</ab> <ab>Bd.</ab> le 23ᵉ ordre de saints, ceux qui
+; ========================================================
+; <L>9<pc>005,1<k1>akanizWa (sections = [2])
+54 old habitent le 8e ciel de la contemplation. || aîné; supérieur.
+;
+54 new habitent le 8ᵉ ciel de la contemplation. || aîné; supérieur.
+; ========================================================
+; <L>24<pc>006,1<k1>akiYcana (sections = [7])
+135 old et de Jaenas.
+;
+135 new et de Jaïnas.
+; ========================================================
+; <L>92<pc>007,2<k1>agasti (sections = [7])
+509 old <P>{%agastidru%} <ab>m.</ab> aeschynomene grandiflora, <ab>bot.</ab>
+;
+509 new <P>{%agastidru%} <ab>m.</ab> æschynomene grandiflora, <ab>bot.</ab>
+; ========================================================
+; <L>101<pc>008,1<k1>agni (sections = [2])
+577 old <P>{%agnidevā%} <ab>f.</ab> {%(deva)%} le 3e astérisme lunaire, <ab>c-à-d.</ab>
+;
+577 new <P>{%agnidevā%} <ab>f.</ab> {%(deva)%} le 3ᵉ astérisme lunaire, <ab>c-à-d.</ab>
+; ========================================================
+; <L>104<pc>008,2<k1>agrahAyaRa (sections = [2])
+680 old {#agrahAyaRa#}¦ {%agrahāyaṇa%} <ab>m.</ab> {%(hāyaṇa)%} le 8e mois de
+;
+680 new {#agrahAyaRa#}¦ {%agrahāyaṇa%} <ab>m.</ab> {%(hāyaṇa)%} le 8ᵉ mois de
+; ========================================================
+; <L>156<pc>010,1<k1>aNguttara (sections = [2])
+968 old {#aNguttara#}¦ {%aṅguttara%} <ab>m.</ab> <ab>Bd.</ab> le 4e {%āgama.%}
+;
+968 new {#aNguttara#}¦ {%aṅguttara%} <ab>m.</ab> <ab>Bd.</ab> le 4ᵉ {%āgama.%}
+; ========================================================
+; <L>238<pc>012,2<k1>awata (sections = [2])
+1431 old {#awata#}¦ {%aṭata%} <ab>m.</ab> le 3e enfer glacé.
+;
+1431 new {#awata#}¦ {%aṭata%} <ab>m.</ab> le 3ᵉ enfer glacé.
+; ========================================================
+; <L>270<pc>013,1<k1>atapa (sections = [2])
+1601 old {#atapa#}¦ {%atapa%} <ab>m.</ab> <ab>pl.</ab> {%(tap)%} <ab>Bd.</ab> le 20e ordre de dieux.
+;
+1601 new {#atapa#}¦ {%atapa%} <ab>m.</ab> <ab>pl.</ab> {%(tap)%} <ab>Bd.</ab> le 20ᵉ ordre de dieux.
+; ========================================================
+; <L>300<pc>014,1<k1>atimaNgalya (sections = [7])
+1761 old {#atimaNgalya#}¦ {%atimaṅgalya%} <ab>m.</ab> {%(maṅgala)%} fruit de l'aegle
+;
+1761 new {#atimaNgalya#}¦ {%atimaṅgalya%} <ab>m.</ab> {%(maṅgala)%} fruit de l'ægle
+; ========================================================
+; <L>358<pc>015,2<k1>aTarvaRa (sections = [2])
+2072 old {#aTarvaRa#}¦ {%atharvaṇa%} <ab>m.</ab> (<ab>sfx.</ab> {%na)%} le 4e <s1 slp1="veda">Veda</s1>. || Surnom
+;
+2072 new {#aTarvaRa#}¦ {%atharvaṇa%} <ab>m.</ab> (<ab>sfx.</ab> {%na)%} le 4ᵉ <s1 slp1="veda">Veda</s1>. || Surnom
+; ========================================================
+; <L>359<pc>015,2<k1>aTarvan (sections = [2])
+2080 old brâhmane. || Le 4e <s1 slp1="veda">Veda</s1>.
+;
+2080 new brâhmane. || Le 4ᵉ <s1 slp1="veda">Veda</s1>.
+; ========================================================
+; <L>509<pc>020,1<k1>anaBraka (sections = [2])
+2911 old {#anaBraka#}¦ {%anabhraka%} <ab>m.</ab> <ab>pl.</ab> <ab>Bd.</ab> les dieux du 16e ordre.
+;
+2911 new {#anaBraka#}¦ {%anabhraka%} <ab>m.</ab> <ab>pl.</ab> <ab>Bd.</ab> les dieux du 16ᵉ ordre.
+; ========================================================
+; <L>518<pc>020,1<k1>anala (sections = [7])
+2963 old <P>{%anali%} <ab>m.</ab> aeschynomene grandiflora, <ab>bot.</ab>
+;
+2963 new <P>{%anali%} <ab>m.</ab> æschynomene grandiflora, <ab>bot.</ab>
+; ========================================================
+; <L>538<pc>020,2<k1>anAgAmin (sections = [2])
+3064 old [à la vie], 3e degré de sainteté de l'{%ārya.%}
+;
+3064 new [à la vie], 3ᵉ degré de sainteté de l'{%ārya.%}
+; ========================================================
+; <L>581<pc>022,1<k1>anila (sections = [2])
+3295 old un des <s1 slp1="vasu">Vasu</s1>s. || <ab>F.</ab> {%anili,%} le 15e astérisme lunaire ou {%nakṣatra.%}
+;
+3295 new un des <s1 slp1="vasu">Vasu</s1>s. || <ab>F.</ab> {%anili,%} le 15ᵉ astérisme lunaire ou {%nakṣatra.%}
+; ========================================================
+; <L>584<pc>022,1<k1>anIka (sections = [2])
+3314 old <P>{%anikinī%} <ab>f.</ab> armée; un 10e de l'{%akṣauhiṇī.%}
+;
+3314 new <P>{%anikinī%} <ab>f.</ab> armée; un 10ᵉ de l'{%akṣauhiṇī.%}
+; ========================================================
+; <L>680<pc>025,1<k1>anumata (sections = [2])
+3835 old <P>{%anumati%} <ab>f.</ab> <ab>Vd.</ab> le 15e jour de la lune. || Ordre; avertissement.
+;
+3835 new <P>{%anumati%} <ab>f.</ab> <ab>Vd.</ab> le 15ᵉ jour de la lune. || Ordre; avertissement.
+; ========================================================
+; <L>692<pc>025,2<k1>anurADA (sections = [2])
+3919 old {#anurADA#}¦ {%anurādhā%} <ab>f.</ab> {%(rādh)%} le 17e astérisme <lbinfo n="5"/>
+;
+3919 new {#anurADA#}¦ {%anurādhā%} <ab>f.</ab> {%(rādh)%} le 17ᵉ astérisme <lbinfo n="5"/>
+; ========================================================
+; <L>831<pc>030,1<k1>anvazwakA (sections = [2])
+4741 old qui suit le 8e jour des lunes {%puṣa, māgha, phālguna%} et
+;
+4741 new qui suit le 8ᵉ jour des lunes {%puṣa, māgha, phālguna%} et
+; ========================================================
+; <L>1012<pc>035,1<k1>apramARABa (sections = [2])
+5726 old 11e ordre, <ab>Bd.</ab>
+;
+5726 new 11ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>1013<pc>035,1<k1>apramARaSuBa (sections = [2])
+5731 old du 14e ordre, <ab>Bd.</ab>
+;
+5731 new du 14ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>1324<pc>044,2<k1>ambA (sections = [7])
+7532 old chez les Jaenas. || Nom d'une plante médicinale.
+;
+7532 new chez les Jaïnas. || Nom d'une plante médicinale.
+; ========================================================
+; <L>1348<pc>045,2<k1>ayas (sections = [7])
+7738 old aes, ahenus; <ab>goth.</ab> ais; <ab>germ.</ab> eisen; <ab>angl.</ab> iron; <ab>fr.</ab> airain.
+;
+7738 new æs, ahenus; <ab>goth.</ab> ais; <ab>germ.</ab> eisen; <ab>angl.</ab> iron; <ab>fr.</ab> airain.
+; ========================================================
+; <L>1370<pc>046,1<k1>araNgisattva (sections = [2])
+7847 old {#araNgisattva#}¦ {%araṅgisattva%} <ab>m.</ab> Au <ab>pl.</ab> les dieux de la 4e
+;
+7847 new {#araNgisattva#}¦ {%araṅgisattva%} <ab>m.</ab> Au <ab>pl.</ab> les dieux de la 4ᵉ
+; ========================================================
+; <L>1426<pc>048,1<k1>arjuna (sections = [2])
+8206 old || <s1 slp1="arjuna">Arjuna</s1>, 3e fils de {%pāṇḍu.%} -- <ab>S.</ab> <ab>f.</ab> {%arjunī,%}
+;
+8206 new || <s1 slp1="arjuna">Arjuna</s1>, 3ᵉ fils de {%pāṇḍu.%} -- <ab>S.</ab> <ab>f.</ab> {%arjunī,%}
+; ========================================================
+; <L>1454<pc>049,2<k1>arbuda (sections = [4])
+8431 old Ophthalmie. || Le 1er enfer glacé.
+;
+8431 new Ophthalmie. || Le 1ᵉʳ enfer glacé.
+; ========================================================
+; <L>1459<pc>049,2<k1>aryARI (sections = [2])
+8459 old {#aryARI#}¦ {%aryāṇī%} <ab>f.</ab> femme de la 3e caste.
+;
+8459 new {#aryARI#}¦ {%aryāṇī%} <ab>f.</ab> femme de la 3ᵉ caste.
+; ========================================================
+; <L>1470<pc>050,1<k1>arhat (sections = [2])
+8533 old {#arhat#}¦ {%arhat%} <ab>a.</ab> {%(arh)%} <ab>Bd.</ab> vénérable. -- <ab>S.</ab> <ab>m.</ab> le 4e
+;
+8533 new {#arhat#}¦ {%arhat%} <ab>a.</ab> {%(arh)%} <ab>Bd.</ab> vénérable. -- <ab>S.</ab> <ab>m.</ab> le 4ᵉ
+; ========================================================
+; <L>1730<pc>058,1<k1>avIci (sections = [2])
+10022 old {#avIci#}¦ {%avīci%} <ab>m.</ab> le 8e enfer brûlant.
+;
+10022 new {#avIci#}¦ {%avīci%} <ab>m.</ab> le 8ᵉ enfer brûlant.
+; ========================================================
+; <L>1733<pc>058,1<k1>avfhAs (sections = [2])
+10035 old {#avfhAs#}¦ {%avṛhās%} <ab>m.</ab> <ab>pl.</ab> <ab>Bd.</ab> les dieux du 19e ordre.
+;
+10035 new {#avfhAs#}¦ {%avṛhās%} <ab>m.</ab> <ab>pl.</ab> <ab>Bd.</ab> les dieux du 19ᵉ ordre.
+; ========================================================
+; <L>1762<pc>059,1<k1>aS (sections = [2])
+10201 old fruit d une action. [Ce verbe, qui est aussi de la 4e classe dans
+;
+10201 new fruit d une action. [Ce verbe, qui est aussi de la 4ᵉ classe dans
+; ========================================================
+; <L>1816<pc>060,2<k1>aSlezA (sections = [2])
+10498 old {#aSlezA#}¦ {%aśleṣā%} <ab>f.</ab> {%(śleṣa)%} 9e astérisme
+;
+10498 new {#aSlezA#}¦ {%aśleṣā%} <ab>f.</ab> {%(śleṣa)%} 9ᵉ astérisme
+; ========================================================
+; <L>1817<pc>060,2<k1>aSva (sections = [4])
+10514 old <P>{%aśvakinī%} <ab>f.</ab> 1er astérisme lunaire.
+;
+10514 new <P>{%aśvakinī%} <ab>f.</ab> 1ᵉʳ astérisme lunaire.
+; ========================================================
+; <L>1827<pc>061,1<k1>aSvayuj (sections = [4])
+10577 old {#aSvayuj#}¦ {%aśvayuj%} <ab>f.</ab> 1er astérisme lunaire. <ab>Cf.</ab>
+;
+10577 new {#aSvayuj#}¦ {%aśvayuj%} <ab>f.</ab> 1ᵉʳ astérisme lunaire. <ab>Cf.</ab>
+; ========================================================
+; <L>1832<pc>061,1<k1>aSvavAra (sections = [7])
+10602 old <P>{%aśvavāraṇa%} <ab>m.</ab> bos gavaeus, variété du bœuf.
+;
+10602 new <P>{%aśvavāraṇa%} <ab>m.</ab> bos gavæus, variété du bœuf.
+; ========================================================
+; <L>1840<pc>061,1<k1>aSvin (sections = [4])
+10643 old <P>{%aśvinī%} <ab>f.</ab> 1er astérisme lunaire. || La mère des <s1 slp1="aSvin">Aśvin</s1>s.
+;
+10643 new <P>{%aśvinī%} <ab>f.</ab> 1ᵉʳ astérisme lunaire. || La mère des <s1 slp1="aSvin">Aśvin</s1>s.
+; ========================================================
+; <L>1845<pc>061,1<k1>azwaka (sections = [2])
+10671 old  8e jour de la
+;
+10671 new  8ᵉ jour de la
+; ========================================================
+; <L>1851<pc>061,2<k1>azwan (sections = [2])
+10707 old <P>{%aṣṭama%} <ab>a.</ab> huitième. -- <ab>S.</ab> <ab>f.</ab> {%aṣṭamī%} le 8e jour de
+;
+10707 new <P>{%aṣṭama%} <ab>a.</ab> huitième. -- <ab>S.</ab> <ab>f.</ab> {%aṣṭamī%} le 8ᵉ jour de
+; ========================================================
+; <L>2004<pc>067,1<k1>A (sections = [2])
+11648 old {#A#}¦ {%ā,%} 2e lettre de l'alphabet. Elle est égale à deux
+;
+11648 new {#A#}¦ {%ā,%} 2ᵉ lettre de l'alphabet. Elle est égale à deux
+; ========================================================
+; <L>2053<pc>069,1<k1>AgAmin (sections = [5])
+11989 old vie, 2d degré de l'<s1 slp1="Arya">ārya</s1>.
+;
+11989 new vie, 2ᵈ degré de l'<s1 slp1="Arya">ārya</s1>.
+; ========================================================
+; <L>2105<pc>070,2<k1>AwIkara (sections = [3])
+12279 old {%āṭīlaka%} <lbinfo n="6"/> <ab>m.</ab> bondissements du veau. [La 1re orthogr. <lbinfo n="6"/>
+;
+12279 new {%āṭīlaka%} <lbinfo n="6"/> <ab>m.</ab> bondissements du veau. [La 1ʳᵉ orthogr. <lbinfo n="6"/>
+; ========================================================
+; <L>2161<pc>073,1<k1>AdDve (sections = [1])
+12733 old {#AdDve#}¦ {%āddhve%} <ab>2p.</ab> <ab>pl.</ab> <ab>pr.</ab> de {%ās.%} <ab>M§</ab> 18, 5o.
+;
+12733 new {#AdDve#}¦ {%āddhve%} <ab>2p.</ab> <ab>pl.</ab> <ab>pr.</ab> de {%ās.%} <ab>M§</ab> 18, 5°.
+; ========================================================
+; <L>2162<pc>073,1<k1>Adya (sections = [1])
+12741 old un parfum <lbinfo n="3"/> délicieux. <ab>M§</ab> 16, 6o. -- <ab>S.</ab> <ab>f.</ab> {%ādyā,%} surnom de
+;
+12741 new un parfum <lbinfo n="3"/> délicieux. <ab>M§</ab> 16, 6°. -- <ab>S.</ab> <ab>f.</ab> {%ādyā,%} surnom de
+; ========================================================
+; <L>2167<pc>073,1<k1>AdyudAtta (sections = [3])
+12774 old la 1re syllabe, <ab>tg.</ab>
+;
+12774 new la 1ʳᵉ syllabe, <ab>tg.</ab>
+; ========================================================
+; <L>2222<pc>074,2<k1>Anili (sections = [2])
+13055 old ou {%svāti,%} 15e astérisme lunaire.
+;
+13055 new ou {%svāti,%} 15ᵉ astérisme lunaire.
+; ========================================================
+; <L>2241<pc>075,1<k1>ApatAmi (sections = [4])
+13157 old entré dans le courant, 1er degré de l'<s1 slp1="Arya">ārya</s1> buddhiste. -- <ab>F.</ab>
+;
+13157 new entré dans le courant, 1ᵉʳ degré de l'<s1 slp1="Arya">ārya</s1> buddhiste. -- <ab>F.</ab>
+; ========================================================
+; <L>2281<pc>076,2<k1>ABAs (sections = [2])
+13406 old <P>{%ābhāsvara%} <ab>m.</ab> Au <ab>pl.</ab> <ab n="seulement">seult.</ab> les dieux du 12e ordre, <ab>Bd.</ab>
+;
+13406 new <P>{%ābhāsvara%} <ab>m.</ab> Au <ab>pl.</ab> <ab n="seulement">seult.</ab> les dieux du 12ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>2342<pc>078,1<k1>AyuDa (sections = [7])
+13750 old <P>{%āyudhadharmiṇi%} <ab>f.</ab> {%(dharma%} condition, vertu) aeschynomene
+;
+13750 new <P>{%āyudhadharmiṇi%} <ab>f.</ab> {%(dharma%} condition, vertu) æschynomene
+; ========================================================
+; <L>2347<pc>078,2<k1>Ayus (sections = [7])
+13780 old <lang n="greek">αἰές</lang>; <ab>lat.</ab> aevum, aetas.
+;
+13780 new <lang n="greek">αἰές</lang>; <ab>lat.</ab> ævum, ætas.
+; ========================================================
+; <L>2352<pc>078,2<k1>Ara (sections = [7])
+13810 old {#Ara#}¦ {%āra%} <ab>m.</ab> cuivre, airain; <ab>cf.</ab> {%ayas%} et le <ab>lat.</ab> aes,
+;
+13810 new {#Ara#}¦ {%āra%} <ab>m.</ab> cuivre, airain; <ab>cf.</ab> {%ayas%} et le <ab>lat.</ab> æs,
+; ========================================================
+; <L>2352<pc>078,2<k1>Ara (sections = [7])
+13811 old aeris. || Les planètes de Mars ou de Saturne.
+;
+13811 new æris. || Les planètes de Mars ou de Saturne.
+; ========================================================
+; <L>2398<pc>080,1<k1>Ardra (sections = [2])
+14050 old lâche. -- <ab>S.</ab> <ab>f.</ab> {%ārdrā%} 6e astérisme <lbinfo n="7"/> lunaire.
+;
+14050 new lâche. -- <ab>S.</ab> <ab>f.</ab> {%ārdrā%} 6ᵉ astérisme <lbinfo n="7"/> lunaire.
+; ========================================================
+; <L>2525<pc>084,1<k1>As (sections = [1])
+14851 old <ab>ppr.</ab> {%āsīna;%} <ab>pp.</ab> {%āsita;%} <ab>imp.</ab> <ab>2p.</ab> {%āsva.%} <ab>M§</ab> 18, 5o.
+;
+14851 new <ab>ppr.</ab> {%āsīna;%} <ab>pp.</ab> {%āsita;%} <ab>imp.</ab> <ab>2p.</ab> {%āsva.%} <ab>M§</ab> 18, 5°.
+; ========================================================
+; <L>2565<pc>085,2<k1>Asrapa (sections = [2])
+15103 old {#Asrapa#}¦ {%āsrapa%} <ab>m.</ab> {%(asrapa)%} 19e astérisme lunaire.
+;
+15103 new {#Asrapa#}¦ {%āsrapa%} <ab>m.</ab> {%(asrapa)%} 19ᵉ astérisme lunaire.
+; ========================================================
+; <L>2589<pc>086,1<k1>i (sections = [2])
+15267 old {#i#}¦ {%i%} 3e lettre de l'alphabet, répondant à l'i bref.
+;
+15267 new {#i#}¦ {%i%} 3ᵉ lettre de l'alphabet, répondant à l'i bref.
+; ========================================================
+; <L>2638<pc>088,2<k1>indambara (sections = [7])
+15604 old {#indambara#}¦ {%indambara%} <ab>n.</ab> lotus bleu, nymphaea cœrulea, <ab>bot.</ab>
+;
+15604 new {#indambara#}¦ {%indambara%} <ab>n.</ab> lotus bleu, nymphæa cœrulea, <ab>bot.</ab>
+; ========================================================
+; <L>2641<pc>088,2<k1>indu (sections = [7])
+15644 old <s1 slp1="soma">soma</s1>; ligusticum ajwaen, <ab>bot.</ab>
+;
+15644 new <s1 slp1="soma">soma</s1>; ligusticum ajwæn, <ab>bot.</ab>
+; ========================================================
+; <L>2646<pc>089,2<k1>inD (sections = [7])
+15774 old <lang n="greek">αἴθω, αἰθήρ</lang>. <ab>Lat.</ab> aestus, aestas; <ab>got.</ab> eit, feu.
+;
+15774 new <lang n="greek">αἴθω, αἰθήρ</lang>. <ab>Lat.</ab> æstus, æstas; <ab>got.</ab> eit, feu.
+; ========================================================
+; <L>2706<pc>091,1<k1>I (sections = [2])
+16125 old {#I#}¦ {%ī,%} 4e lettre de l'alphabet, répondant à l'{%ī%}
+;
+16125 new {#I#}¦ {%ī,%} 4ᵉ lettre de l'alphabet, répondant à l'{%ī%}
+; ========================================================
+; <L>2744<pc>093,2<k1>IzaDara (sections = [2])
+16406 old {#IzaDara#}¦ {%īṣadhara%} <ab>m.</ab> <ab>np.</ab> de la 2e chaine de montagnes
+;
+16406 new {#IzaDara#}¦ {%īṣadhara%} <ab>m.</ab> <ab>np.</ab> de la 2ᵉ chaine de montagnes
+; ========================================================
+; <L>2750<pc>093,1<k1>u (sections = [2])
+16449 old {#u#}¦ {%u,%} 5e lettre de l'alphabet, répondant à l'ou bref.
+;
+16449 new {#u#}¦ {%u,%} 5ᵉ lettre de l'alphabet, répondant à l'ou bref.
+; ========================================================
+; <L>2796<pc>095,1<k1>ujjaya (sections = [4])
+16768 old capitale de <s1 slp1="vikramAditya">Vikramāditya</s1>, une des 7 villes saintes des Indiens et 1er
+;
+16768 new capitale de <s1 slp1="vikramAditya">Vikramāditya</s1>, une des 7 villes saintes des Indiens et 1ᵉʳ
+; ========================================================
+; <L>2813<pc>096,1<k1>ut (sections = [1])
+16885 old {#ut#}¦ {%ut%} <ab>pfx.</ab> indiquant 1o situation ou mouvement vers le
+;
+16885 new {#ut#}¦ {%ut%} <ab>pfx.</ab> indiquant 1° situation ou mouvement vers le
+; ========================================================
+; <L>2813<pc>096,1<k1>ut (sections = [1])
+16886 old haut; 2o mouvement pour ôter. -- Comp. {%uttara;%} <ab>sup.</ab>
+;
+16886 new haut; 2° mouvement pour ôter. -- Comp. {%uttara;%} <ab>sup.</ab>
+; ========================================================
+; <L>2847<pc>097,1<k1>uttara (sections = [2])
+17124 old <P>{%uttaraphālgunī%} <ab>f.</ab> {%(phālgunī)%} le 12e astérisme
+;
+17124 new <P>{%uttaraphālgunī%} <ab>f.</ab> {%(phālgunī)%} le 12ᵉ astérisme
+; ========================================================
+; <L>2847<pc>097,1<k1>uttara (sections = [2])
+17127 old <P>{%uttarabhādrapad%} <ab>f.</ab> le 27e astérisme lunaire, <lbinfo n="6"/> contenant
+;
+17127 new <P>{%uttarabhādrapad%} <ab>f.</ab> le 27ᵉ astérisme lunaire, <lbinfo n="6"/> contenant
+; ========================================================
+; <L>2847<pc>097,1<k1>uttara (sections = [2])
+17152 old <P>{%uttarāṣāḍhā%} <ab>f.</ab> {%uttarāśāḍhā%} <ab>f.</ab> le 21e
+;
+17152 new <P>{%uttarāṣāḍhā%} <ab>f.</ab> {%uttarāśāḍhā%} <ab>f.</ab> le 21ᵉ
+; ========================================================
+; <L>2870<pc>098,1<k1>utpala (sections = [2])
+17307 old nymphéacées en <ab>gén.</ab>: || costus, <ab>bot.</ab> || Le 6e enfer glacé.
+;
+17307 new nymphéacées en <ab>gén.</ab>: || costus, <ab>bot.</ab> || Le 6ᵉ enfer glacé.
+; ========================================================
+; <L>2914<pc>099,2<k1>udac (sections = [1])
+17590 old {#udac#}¦ {%udac%} [cas forts {%udañc.%} <ab>M§</ab> 41; 112, 5o]; <ab>f.</ab>
+;
+17590 new {#udac#}¦ {%udac%} [cas forts {%udañc.%} <ab>M§</ab> 41; 112, 5°]; <ab>f.</ab>
+; ========================================================
+; <L>3170<pc>109,1<k1>upama (sections = [2])
+19257 old {%upamā%} ressemblance; <lbinfo n="7"/> || image, portrait, statue; || le 4e des
+;
+19257 new {%upamā%} ressemblance; <lbinfo n="7"/> || image, portrait, statue; || le 4ᵉ des
+; ========================================================
+; <L>3343<pc>115,2<k1>uru (sections = [1])
+20367 old -- <ab>Comp.</ab> {%varīyas;%} <ab>sup.</ab> {%variṣṭha.%} <ab>M§</ab> 49, 2o. || <ab>Gr.</ab>
+;
+20367 new -- <ab>Comp.</ab> {%varīyas;%} <ab>sup.</ab> {%variṣṭha.%} <ab>M§</ab> 49, 2°. || <ab>Gr.</ab>
+; ========================================================
+; <L>3418<pc>118,1<k1>U (sections = [2])
+20831 old {#U#}¦ {%ū%} 6e lettre de l'alphabet, répondant à oû long.
+;
+20831 new {#U#}¦ {%ū%} 6ᵉ lettre de l'alphabet, répondant à oû long.
+; ========================================================
+; <L>3434<pc>118,2<k1>Uravya (sections = [2])
+20911 old {#Uravya#}¦ {%ūravya%} <ab>m.</ab> {%(ūru)%} homme de la 3e caste, celle
+;
+20911 new {#Uravya#}¦ {%ūravya%} <ab>m.</ab> {%(ūru)%} homme de la 3ᵉ caste, celle
+; ========================================================
+; <L>3436<pc>118,2<k1>Uru (sections = [2])
+20926 old qui est de la 3e caste. <ab>Cf.</ab> {%ūravya.%}
+;
+20926 new qui est de la 3ᵉ caste. <ab>Cf.</ab> {%ūravya.%}
+; ========================================================
+; <L>3465<pc>120,1<k1>f (sections = [2])
+21180 old {#f#}¦ {%ṛ,%} 7e lettre de l'alphabet, ou 4e voyelle brève;
+;
+21180 new {#f#}¦ {%ṛ,%} 7ᵉ lettre de l'alphabet, ou 4ᵉ voyelle brève;
+; ========================================================
+; <L>3466<pc>120,1<k1>f (sections = [1])
+21191 old {#*f#}¦ {%ṛ.%} 1o [{%ṛcchāmi%} 1. de {%ṛcch%}]; <ab>p.</ab>
+;
+21191 new {#*f#}¦ {%ṛ.%} 1° [{%ṛcchāmi%} 1. de {%ṛcch%}]; <ab>p.</ab>
+; ========================================================
+; <L>3466<pc>120,1<k1>f (sections = [1])
+21194 old a 1. {%āriṣam.%} -- 2o <ab>Vd.</ab>: {%iyarmi%} 2; {%ārye%} 4;
+;
+21194 new a 1. {%āriṣam.%} -- 2° <ab>Vd.</ab>: {%iyarmi%} 2; {%ārye%} 4;
+; ========================================================
+; <L>3466<pc>120,1<k1>f (sections = [1])
+21195 old {%ṛṇomi%} 5, <ab>3p.</ab> <ab>pl.</ab> {%ṛṇvati.%} -- 3o {%ṛṇāmi%} 9. --
+;
+21195 new {%ṛṇomi%} 5, <ab>3p.</ab> <ab>pl.</ab> {%ṛṇvati.%} -- 3° {%ṛṇāmi%} 9. --
+; ========================================================
+; <L>3505<pc>122,1<k1>fzaBa (sections = [1])
+21492 old {#fzaBa#}¦ {%ṛṣabha%} <ab>m.</ab> taureau. || La 2o note de 
+;
+21492 new {#fzaBa#}¦ {%ṛṣabha%} <ab>m.</ab> taureau. || La 2° note de 
+; ========================================================
+; <L>3509<pc>122,1<k1>F (sections = [2])
+21548 old {#F#}¦ {%ṝ,%} 8e lettre de l'alphabet ou 4e voyelle
+;
+21548 new {#F#}¦ {%ṝ,%} 8ᵉ lettre de l'alphabet ou 4ᵉ voyelle
+; ========================================================
+; <L>3511<pc>123,1<k1>x (sections = [2])
+21567 old {#x#}¦ {%ḷ,%} 9e lettre de l'alphabet, ou 5e voyelle
+;
+21567 new {#x#}¦ {%ḷ,%} 9ᵉ lettre de l'alphabet, ou 5ᵉ voyelle
+; ========================================================
+; <L>3512<pc>123,1<k1>X (sections = [2])
+21583 old {#X#}¦ {%ḹ,%} 10e lettre de l'alphabet ou 5e voyelle
+;
+21583 new {#X#}¦ {%ḹ,%} 10ᵉ lettre de l'alphabet ou 5ᵉ voyelle
+; ========================================================
+; <L>3513<pc>123,1<k1>e (sections = [3, 2])
+21596 old {#e#}¦ {%e,%} 11e lettre de l'alphabet et 1re lettre double
+;
+21596 new {#e#}¦ {%e,%} 11ᵉ lettre de l'alphabet et 1ʳᵉ lettre double
+; ========================================================
+; <L>3570<pc>125,2<k1>ekAdaSan (sections = [2])
+21921 old -- <ab>S.</ab> <ab>f.</ab> {%ekādaśanī%} le 11e jour de la quinzaine lunaire.
+;
+21921 new -- <ab>S.</ab> <ab>f.</ab> {%ekādaśanī%} le 11ᵉ jour de la quinzaine lunaire.
+; ========================================================
+; <L>3583<pc>126,1<k1>ekonaviMSati (sections = [1])
+22002 old {#ekonaviMSati#}¦ {%ekonaviṃśati%} <ab>a.</ab> dix-neuf. <ab>M§</ab> 51, 7o.
+;
+22002 new {#ekonaviMSati#}¦ {%ekonaviṃśati%} <ab>a.</ab> dix-neuf. <ab>M§</ab> 51, 7°.
+; ========================================================
+; <L>3630<pc>127,1<k1>eva (sections = [7])
+22247 old Zd. aeva. 
+;
+22247 new Zd. æva. 
+; ========================================================
+; <L>3646<pc>128,1<k1>E (sections = [2])
+22334 old {#E#}¦ {%ai%} 12e lettre de l'alphabet et 2e lettre double ou
+;
+22334 new {#E#}¦ {%ai%} 12ᵉ lettre de l'alphabet et 2ᵉ lettre double ou
+; ========================================================
+; <L>3682<pc>129,1<k1>o (sections = [2])
+22523 old {#o#}¦ {%o,%} 13e lettre de l'alphabet et 3e lettre double ou
+;
+22523 new {#o#}¦ {%o,%} 13ᵉ lettre de l'alphabet et 3ᵉ lettre double ou
+; ========================================================
+; <L>3713<pc>130,1<k1>O (sections = [2])
+22726 old {#O#}¦ {%au,%} 14e lettre de l'alphabet et 4e lettre double ou
+;
+22726 new {#O#}¦ {%au,%} 14ᵉ lettre de l'alphabet et 4ᵉ lettre double ou
+; ========================================================
+; <L>3763<pc>132,1<k1>ka (sections = [3, 2])
+22970 old {#ka#}¦ {%ka%} 15e lettre de l'alphabet et 1re consonne <lbinfo n="5"/>
+;
+22970 new {#ka#}¦ {%ka%} 15ᵉ lettre de l'alphabet et 1ʳᵉ consonne <lbinfo n="5"/>
+; ========================================================
+; <L>3805<pc>134,1<k1>kajjvala (sections = [7])
+23283 old Sulphure de mercure ou aethiops.
+;
+23283 new Sulphure de mercure ou æthiops.
+; ========================================================
+; <L>3917<pc>138,2<k1>kadru (sections = [2])
+24059 old suivent la nouvelle-lune, le croissant ne paraissant que le 4e jour
+;
+24059 new suivent la nouvelle-lune, le croissant ne paraissant que le 4ᵉ jour
+; ========================================================
+; <L>3993<pc>141,1<k1>kamala (sections = [7])
+24556 old || [Ordinairt.] lotus, nelumbium <lbinfo n="7"/> speciosum ou nymphaea nelumbo. -- <ab>S.</ab>
+;
+24556 new || [Ordinairt.] lotus, nelumbium <lbinfo n="7"/> speciosum ou nymphæa nelumbo. -- <ab>S.</ab>
+; ========================================================
+; <L>4044<pc>143,1<k1>karavIka (sections = [2])
+24891 old {#karavIka#}¦ {%karavīka%} <ab>m.</ab> <ab>np.</ab> de la 3e chaîne de montagnes
+;
+24891 new {#karavIka#}¦ {%karavīka%} <ab>m.</ab> <ab>np.</ab> de la 3ᵉ chaîne de montagnes
+; ========================================================
+; <L>4076<pc>144,2<k1>karkowa (sections = [7])
+25135 old <P>{%karkoṭaka%} <ab>m.</ab> aegle marmelos et momordica <lbinfo n="4"/> charantia, <ab>bot.</ab> ||
+;
+25135 new <P>{%karkoṭaka%} <ab>m.</ab> ægle marmelos et momordica <lbinfo n="4"/> charantia, <ab>bot.</ab> ||
+; ========================================================
+; <L>4118<pc>146,2<k1>karmaBUmi (sections = [2])
+25475 old <P>{%karmavāṭī%} <ab>f.</ab> {%(vāṭa%} clôture) le 30e jour du mois
+;
+25475 new <P>{%karmavāṭī%} <ab>f.</ab> {%(vāṭa%} clôture) le 30ᵉ jour du mois
+; ========================================================
+; <L>4185<pc>149,1<k1>kali (sections = [2])
+25876 old et du mal, qui est le 4e âge du monde actuel, l'âge où nous
+;
+25876 new et du mal, qui est le 4ᵉ âge du monde actuel, l'âge où nous
+; ========================================================
+; <L>4189<pc>149,1<k1>kaliNga (sections = [7])
+25898 old {#kaliNga#}¦ {%kaliṅga%} <ab>m.</ab> bonduc fébrifuge [caesalpinia <lbinfo n="8"/> ou
+;
+25898 new {#kaliNga#}¦ {%kaliṅga%} <ab>m.</ab> bonduc fébrifuge [cæsalpinia <lbinfo n="8"/> ou
+; ========================================================
+; <L>4201<pc>149,2<k1>kalka (sections = [2])
+25972 old <P>{%kalkin%} <ab>m.</ab> surnom de <s1 slp1="vizRu">Viṣṇu</s1> dans sa 10e et dernîère
+;
+25972 new <P>{%kalkin%} <ab>m.</ab> surnom de <s1 slp1="vizRu">Viṣṇu</s1> dans sa 10ᵉ et dernîère
+; ========================================================
+; <L>4278<pc>152,1<k1>kahlAra (sections = [7])
+26426 old nénuphar blanc comestible, nymphaea <lbinfo n="5"/> lotus.
+;
+26426 new nénuphar blanc comestible, nymphæa <lbinfo n="5"/> lotus.
+; ========================================================
+; <L>4284<pc>152,1<k1>kAka (sections = [7])
+26487 old <P>{%kākajaṅghā%} <ab>f.</ab> leea hirta ou aequata, <ab>bot.</ab>
+;
+26487 new <P>{%kākajaṅghā%} <ab>f.</ab> leea hirta ou æquata, <ab>bot.</ab>
+; ========================================================
+; <L>4287<pc>152,2<k1>kAkANgA (sections = [7])
+26549 old {#kAkANgA#}¦ {%kākāṅgā%} <ab>f.</ab> {%(aṅga)%} leea aequata, <ab>bot.</ab>
+;
+26549 new {#kAkANgA#}¦ {%kākāṅgā%} <ab>f.</ab> {%(aṅga)%} leea æquata, <ab>bot.</ab>
+; ========================================================
+; <L>4288<pc>152,2<k1>kAkAYcI (sections = [7])
+26553 old {#kAkAYcI#}¦ {%kākāñcī%} <ab>f.</ab> {%(añc)%} leea aequata et
+;
+26553 new {#kAkAYcI#}¦ {%kākāñcī%} <ab>f.</ab> {%(añc)%} leea æquata et
+; ========================================================
+; <L>4391<pc>157,1<k1>kAra (sections = [1])
+27307 old composés, signifie 1o qui fait la chose exprimée <lbinfo n="3"/> par l'autre
+;
+27307 new composés, signifie 1° qui fait la chose exprimée <lbinfo n="3"/> par l'autre
+; ========================================================
+; <L>4391<pc>157,1<k1>kAra (sections = [1])
+27310 old personnalité; 2o la chose faite: {%andhakāra%} la cécité;
+;
+27310 new personnalité; 2° la chose faite: {%andhakāra%} la cécité;
+; ========================================================
+; <L>4391<pc>157,1<k1>kAra (sections = [1])
+27311 old {%cukkāra%} le rugissement du lion; 3o la chose exprimée par le
+;
+27311 new {%cukkāra%} le rugissement du lion; 3° la chose exprimée par le
+; ========================================================
+; <L>4425<pc>158,2<k1>kArtavIrya (sections = [7])
+27522 old symbolique chez les Jaenas.
+;
+27522 new symbolique chez les Jaïnas.
+; ========================================================
+; <L>4450<pc>159,1<k1>kAla (sections = [7])
+27666 old <lang n="greek">ϰαιρός, ϰήρ</lang>; <ab>lat.</ab> kalendae <lbinfo n="6"/> {%(kālānta,%} <ab>cf.</ab> {%anta)%}.
+;
+27666 new <lang n="greek">ϰαιρός, ϰήρ</lang>; <ab>lat.</ab> kalendæ <lbinfo n="6"/> {%(kālānta,%} <ab>cf.</ab> {%anta)%}.
+; ========================================================
+; <L>4474<pc>160,1<k1>kAlaparRa (sections = [7])
+27797 old {#kAlaparRa#}¦ {%kālaparṇa%} <ab>m.</ab> tabernaemontana <lbinfo n="4"/> coronaria, arbre
+;
+27797 new {#kAlaparRa#}¦ {%kālaparṇa%} <ab>m.</ab> tabernæmontana <lbinfo n="4"/> coronaria, arbre
+; ========================================================
+; <L>4483<pc>160,1<k1>kAlarAtri (sections = [2])
+27845 old la 7e nuit du 7e mois de la 77e année d'âge d'une
+;
+27845 new la 7ᵉ nuit du 7ᵉ mois de la 77ᵉ année d'âge d'une
+; ========================================================
+; <L>4492<pc>160,2<k1>kAlasUtra (sections = [2])
+27891 old {#kAlasUtra#}¦ {%kālasūtra%} <ab>n.</ab> et {%kālasūtraka%} <ab>n.</ab> le 2e
+;
+27891 new {#kAlasUtra#}¦ {%kālasūtra%} <ab>n.</ab> et {%kālasūtraka%} <ab>n.</ab> le 2ᵉ
+; ========================================================
+; <L>4544<pc>162,1<k1>kAzWA (sections = [2])
+28210 old temps égale à 4 secondes: elle forme la 15e partie du {%laghu%}
+;
+28210 new temps égale à 4 secondes: elle forme la 15ᵉ partie du {%laghu%}
+; ========================================================
+; <L>4776<pc>170,2<k1>kunalin (sections = [7])
+29662 old {#kunalin#}¦ {%kunalin%} <ab>m.</ab> {%(ku; nala)%} aeschynomene <lbinfo n="6"/> grandiflora,
+;
+29662 new {#kunalin#}¦ {%kunalin%} <ab>m.</ab> {%(ku; nala)%} æschynomene <lbinfo n="6"/> grandiflora,
+; ========================================================
+; <L>4805<pc>171,2<k1>kumud (sections = [7])
+29853 old  {%mud)%} lotus blanc comestible, nymphaea esculenta;
+;
+29853 new  {%mud)%} lotus blanc comestible, nymphæa esculenta;
+; ========================================================
+; <L>4805<pc>171,2<k1>kumud (sections = [7])
+29854 old lotus rouge, nymphaea rubra, <ab>bot.</ab>
+;
+29854 new lotus rouge, nymphæa rubra, <ab>bot.</ab>
+; ========================================================
+; <L>4805<pc>171,2<k1>kumud (sections = [7])
+29861 old comestible ou nymphaea esculenta; lotus rouge ou nymphaea rubra, <ab>bot.</ab>
+;
+29861 new comestible ou nymphæa esculenta; lotus rouge ou nymphæa rubra, <ab>bot.</ab>
+; ========================================================
+; <L>4829<pc>173,1<k1>kurara (sections = [7])
+30041 old {#kurara#}¦ {%kurara%} <ab>m.</ab> {%kurarī%} <ab>f.</ab> aigle pêcheur, <lbinfo n="6"/> haliaeetus.
+;
+30041 new {#kurara#}¦ {%kurara%} <ab>m.</ab> {%kurarī%} <ab>f.</ab> aigle pêcheur, <lbinfo n="6"/> haliæetus.
+; ========================================================
+; <L>4830<pc>173,1<k1>kurala (sections = [7])
+30046 old {#kurala#}¦ {%kurala%} <ab>m.</ab> haliaeetus. || Boucle de cheveux; <ab>angl.</ab> curl;
+;
+30046 new {#kurala#}¦ {%kurala%} <ab>m.</ab> haliæetus. || Boucle de cheveux; <ab>angl.</ab> curl;
+; ========================================================
+; <L>4888<pc>175,1<k1>kuvfttikft (sections = [7])
+30440 old {#kuvfttikft#}¦ {%kuvṛttikṛt%} <ab>m.</ab> {%(ku; vṛt; kṛ)%} caesalpinia
+;
+30440 new {#kuvfttikft#}¦ {%kuvṛttikṛt%} <ab>m.</ab> {%(ku; vṛt; kṛ)%} cæsalpinia
+; ========================================================
+; <L>4948<pc>177,2<k1>kuhu (sections = [4])
+30833 old jour du 1er quartier, où la lune se lève invisible. || Le chant
+;
+30833 new jour du 1ᵉʳ quartier, où la lune se lève invisible. || Le chant
+; ========================================================
+; <L>4984<pc>179,1<k1>kf (sections = [2])
+31130 old {%karāma;%} <ab>du.</ab> <ab>2p.</ab> {%karatam%} et {%kṛthas,%} 3e <ab>p.</ab>
+;
+31130 new {%karāma;%} <ab>du.</ab> <ab>2p.</ab> {%karatam%} et {%kṛthas,%} 3ᵉ <ab>p.</ab>
+; ========================================================
+; <L>4996<pc>180,2<k1>kfta (sections = [4])
+31287 old {%kṛtayuga%} ou le 1er âge du monde et le meilleur. -- Au <ab>l.</ab>
+;
+31287 new {%kṛtayuga%} ou le 1ᵉʳ âge du monde et le meilleur. -- Au <ab>l.</ab>
+; ========================================================
+; <L>5001<pc>181,1<k1>kftti (sections = [2])
+31412 old <P>{%kṛttikā%} <ab>f.</ab> le 3e astérisme lunaire, comprenant <lbinfo n="4"/> les 6
+;
+31412 new <P>{%kṛttikā%} <ab>f.</ab> le 3ᵉ astérisme lunaire, comprenant <lbinfo n="4"/> les 6
+; ========================================================
+; <L>5039<pc>183,1<k1>kfzRa (sections = [2])
+31682 old <ab>Np.</ab> de <s1 slp1="kfzRa">Kṛṣṇa</s1>, 10e et dernière incarnation de <s1 slp1="vizRu">Viṣṇu</s1>; || surnom
+;
+31682 new <ab>Np.</ab> de <s1 slp1="kfzRa">Kṛṣṇa</s1>, 10ᵉ et dernière incarnation de <s1 slp1="vizRu">Viṣṇu</s1>; || surnom
+; ========================================================
+; <L>5039<pc>183,1<k1>kfzRa (sections = [7])
+31689 old <P>{%kṛṣṇakanda%} <ab>n.</ab> nymphaea rubra, <ab>bot.</ab>
+;
+31689 new <P>{%kṛṣṇakanda%} <ab>n.</ab> nymphæa rubra, <ab>bot.</ab>
+; ========================================================
+; <L>5039<pc>183,1<k1>kfzRa (sections = [2])
+31701 old <P>{%kṛṣṇacaturdaśī%} <ab>f.</ab> le 14e jour de la partie obscure de
+;
+31701 new <P>{%kṛṣṇacaturdaśī%} <ab>f.</ab> le 14ᵉ jour de la partie obscure de
+; ========================================================
+; <L>5078<pc>185,2<k1>keSara (sections = [7])
+32111 old {#keSara#}¦ {%keśara%} <ab>m.</ab> (<ab>sfx.</ab> {%ra)%} crinière; <ab>lat.</ab> caesaries.
+;
+32111 new {#keSara#}¦ {%keśara%} <ab>m.</ab> (<ab>sfx.</ab> {%ra)%} crinière; <ab>lat.</ab> cæsaries.
+; ========================================================
+; <L>5098<pc>186,1<k1>kErava (sections = [7])
+32238 old nymplaea blanc comestible.
+;
+32238 new nymplæa blanc comestible.
+; ========================================================
+; <L>5249<pc>192,1<k1>kriyA (sections = [2])
+33253 old <P>{%kriyāpāda%} <ab>m.</ab> le 4e acte d'un procès, <ab>c-à-d.</ab> la preuve
+;
+33253 new <P>{%kriyāpāda%} <ab>m.</ab> le 4ᵉ acte d'un procès, <ab>c-à-d.</ab> la preuve
+; ========================================================
+; <L>5326<pc>194,2<k1>kza (sections = [2])
+33759 old champs, paysan. || Démon, <s1 slp1="rAkzasa">rākṣasa</s1>. || La 3e incarnation de <s1 slp1="vizRu">Viṣṇu</s1>.
+;
+33759 new champs, paysan. || Démon, <s1 slp1="rAkzasa">rākṣasa</s1>. || La 3ᵉ incarnation de <s1 slp1="vizRu">Viṣṇu</s1>.
+; ========================================================
+; <L>5465<pc>200,1<k1>Ka (sections = [2])
+34773 old {#Ka#}¦ {%kha,%} 2e consonne de l'alphabet sanscrit; <lbinfo n="5"/> elle
+;
+34773 new {#Ka#}¦ {%kha,%} 2ᵉ consonne de l'alphabet sanscrit; <lbinfo n="5"/> elle
+; ========================================================
+; <L>5526<pc>202,2<k1>Kara (sections = [7])
+35219 old <P>{%kharadaṇḍa%} <ab>n.</ab> nymphaea lotus, <ab>bot.</ab>
+;
+35219 new <P>{%kharadaṇḍa%} <ab>n.</ab> nymphæa lotus, <ab>bot.</ab>
+; ========================================================
+; <L>5663<pc>207,1<k1>ga (sections = [2])
+35995 old {#ga#}¦ {%ga,%} 17e lettre et 3e consonne gutturale de
+;
+35995 new {#ga#}¦ {%ga,%} 17ᵉ lettre et 3ᵉ consonne gutturale de
+; ========================================================
+; <L>5693<pc>209,1<k1>gaRqa (sections = [2])
+36311 old harnais d'un cheval. || Joint, nœud. || Le 10e <s1 slp1="yoga">yoga</s1> ou division
+;
+36311 new harnais d'un cheval. || Joint, nœud. || Le 10ᵉ <s1 slp1="yoga">yoga</s1> ou division
+; ========================================================
+; <L>5776<pc>213,1<k1>garBa (sections = [2])
+37101 old <P>{%garbhāṣṭama%} <ab>m.</ab> {%(aṣṭan)%} le 8e mois de la grossesse.
+;
+37101 new <P>{%garbhāṣṭama%} <ab>m.</ab> {%(aṣṭan)%} le 8ᵉ mois de la grossesse.
+; ========================================================
+; <L>5796<pc>214,1<k1>gavaya (sections = [7])
+37245 old {#gavaya#}¦ {%gavaya%} <ab>m.</ab> {%(go;%} <ab>sfx.</ab> {%aya)%} bos gavaeus, <lbinfo n="6"/> <ab>esp.</ab>
+;
+37245 new {#gavaya#}¦ {%gavaya%} <ab>m.</ab> {%(go;%} <ab>sfx.</ab> {%aya)%} bos gavæus, <lbinfo n="6"/> <ab>esp.</ab>
+; ========================================================
+; <L>5945<pc>219,2<k1>gupta (sections = [2])
+38193 old de la 3e caste, celle des <s1 slp1="vESya">Vaiśya</s1>s.
+;
+38193 new de la 3ᵉ caste, celle des <s1 slp1="vESya">Vaiśya</s1>s.
+; ========================================================
+; <L>5950<pc>220,1<k1>guru (sections = [2])
+38247 old <P>{%gurudaivata%} <ab>m.</ab> le 8e astérisme lunaire auquel préside
+;
+38247 new <P>{%gurudaivata%} <ab>m.</ab> le 8ᵉ astérisme lunaire auquel préside
+; ========================================================
+; <L>6111<pc>226,2<k1>gosadfkza (sections = [7])
+39360 old {#gosadfkza#}¦ {%gosadṛkṣa%} <ab>m.</ab> {%(sadṛś)%} bos gavaeus, <lbinfo n="6"/> <ab>cf.</ab>
+;
+39360 new {#gosadfkza#}¦ {%gosadṛkṣa%} <ab>m.</ab> {%(sadṛś)%} bos gavæus, <lbinfo n="6"/> <ab>cf.</ab>
+; ========================================================
+; <L>6119<pc>226,2<k1>goharItakI (sections = [7])
+39400 old {#goharItakI#}¦ {%goharītakī%} <ab>f.</ab> {%(go)%} aegle marmelos, <lbinfo n="6"/>
+;
+39400 new {#goharItakI#}¦ {%goharītakī%} <ab>f.</ab> {%(go)%} ægle marmelos, <lbinfo n="6"/>
+; ========================================================
+; <L>6167<pc>228,2<k1>grAma (sections = [2])
+39733 old <P>{%grāmakūṭa%} <ab>m.</ab> les hommes de la 4e caste ou <s1 slp1="SUdra">śūdra</s1>s, qui
+;
+39733 new <P>{%grāmakūṭa%} <ab>m.</ab> les hommes de la 4ᵉ caste ou <s1 slp1="SUdra">śūdra</s1>s, qui
+; ========================================================
+; <L>6200<pc>230,1<k1>Ga (sections = [2])
+39970 old {#Ga#}¦ {%gha%} 18e lettre et 4e gutturale de l'alphabet <lbinfo n="3"/>
+;
+39970 new {#Ga#}¦ {%gha%} 18ᵉ lettre et 4ᵉ gutturale de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>6306<pc>234,2<k1>Na (sections = [2])
+40658 old {#Na#}¦ {%ṅa,%} 19e lettre et nasale des gutturales dans
+;
+40658 new {#Na#}¦ {%ṅa,%} 19ᵉ lettre et nasale des gutturales dans
+; ========================================================
+; <L>6308<pc>234,2<k1>ca (sections = [3])
+40674 old {#ca#}¦ {%ca,%} 20 lettre et 1re palatale dans l'alphabet <lbinfo n="6"/>
+;
+40674 new {#ca#}¦ {%ca,%} 20 lettre et 1ʳᵉ palatale dans l'alphabet <lbinfo n="6"/>
+; ========================================================
+; <L>6386<pc>237,2<k1>caturdaSa (sections = [2])
+41209 old le 14e jour du mois.
+;
+41209 new le 14ᵉ jour du mois.
+; ========================================================
+; <L>6547<pc>244,1<k1>cAru (sections = [7])
+42320 old kaer.
+;
+42320 new kær.
+; ========================================================
+; <L>6795<pc>251,2<k1>cElaka (sections = [2])
+43794 old [c'est la 4e des 5 classes des religieux <lbinfo n="5"/> buddhistes].
+;
+43794 new [c'est la 4ᵉ des 5 classes des religieux <lbinfo n="5"/> buddhistes].
+; ========================================================
+; <L>6839<pc>253,1<k1>Ca (sections = [2])
+44040 old {#Ca#}¦ {%cha%} 21° lettre et 2e palatale dans l'alphabet <lbinfo n="6"/>
+;
+44040 new {#Ca#}¦ {%cha%} 21° lettre et 2ᵉ palatale dans l'alphabet <lbinfo n="6"/>
+; ========================================================
+; <L>6843<pc>253,1<k1>Cagala (sections = [7])
+44068 old <P>{%chagalāyghrī%} <ab>f.</ab> {%(aṅghri)%} convolvulus pes-caprae, <lbinfo n="5"/> <ab>bot.</ab>
+;
+44068 new <P>{%chagalāyghrī%} <ab>f.</ab> {%(aṅghri)%} convolvulus pes-capræ, <lbinfo n="5"/> <ab>bot.</ab>
+; ========================================================
+; <L>6925<pc>256,1<k1>ja (sections = [2])
+44597 old {#ja#}¦ {%ja,%} 22e lettre de l'alphabet sanscrit, la 3e des
+;
+44597 new {#ja#}¦ {%ja,%} 22ᵉ lettre de l'alphabet sanscrit, la 3ᵉ des
+; ========================================================
+; <L>7046<pc>260,2<k1>jaya (sections = [2])
+45364 old compagnes; || nom du 3e du 8e ou du 133 jour de la quinzaine
+;
+45364 new compagnes; || nom du 3ᵉ du 8ᵉ ou du 133 jour de la quinzaine
+; ========================================================
+; <L>7046<pc>260,2<k1>jaya (sections = [7])
+45366 old jaune, aeschynomene sesban, premna spinosa, cannabis sativa ou chanvre,
+;
+45366 new jaune, æschynomene sesban, premna spinosa, cannabis sativa ou chanvre,
+; ========================================================
+; <L>7048<pc>261,1<k1>jayanta (sections = [7])
+45397 old d'<s1 slp1="indra">Indra</s1>. || Bannière, <lbinfo n="6"/> étendard; || aeschynomene sesban, <ab>bot.</ab>
+;
+45397 new d'<s1 slp1="indra">Indra</s1>. || Bannière, <lbinfo n="6"/> étendard; || æschynomene sesban, <ab>bot.</ab>
+; ========================================================
+; <L>7207<pc>267,1<k1>ji (sections = [2])
+46566 old {%māyām%} détruire l'effect de la magie. <lbinfo n="4"/> || À la 3e pers.:
+;
+46566 new {%māyām%} détruire l'effect de la magie. <lbinfo n="4"/> || À la 3ᵉ pers.:
+; ========================================================
+; <L>7259<pc>268,2<k1>jina (sections = [7])
+46839 old {%jina%} ou saint de la secte des Jaenas. || Un <s1 slp1="budDa">buddha</s1>.
+;
+46839 new {%jina%} ou saint de la secte des Jaïnas. || Un <s1 slp1="budDa">buddha</s1>.
+; ========================================================
+; <L>7259<pc>268,2<k1>jina (sections = [7])
+46841 old <P>{%jinasadman%} <ab>n.</ab> {%(sad;%} <ab>sfx.</ab> {%man)%} temple jaena.
+;
+46841 new <P>{%jinasadman%} <ab>n.</ab> {%(sad;%} <ab>sfx.</ab> {%man)%} temple jæna.
+; ========================================================
+; <L>7259<pc>268,2<k1>jina (sections = [7])
+46843 old <P>{%jinendra%} <ab>m.</ab> {%(indra)%} saint jaena, en <ab>gén.</ab>
+;
+46843 new <P>{%jinendra%} <ab>m.</ab> {%(indra)%} saint jæna, en <ab>gén.</ab>
+; ========================================================
+; <L>7283<pc>269,1<k1>jihma (sections = [7])
+46956 old tabernaemontana <lbinfo n="10"/> coronaria, <ab>bot.</ab>
+;
+46956 new tabernæmontana <lbinfo n="10"/> coronaria, <ab>bot.</ab>
+; ========================================================
+; <L>7411<pc>273,1<k1>jEtra (sections = [7])
+47696 old <ab>m.</ab> vainqueur. -- <ab>S.</ab> <ab>f.</ab> aeschynomene sesban, <ab>bot.</ab>
+;
+47696 new <ab>m.</ab> vainqueur. -- <ab>S.</ab> <ab>f.</ab> æschynomene sesban, <ab>bot.</ab>
+; ========================================================
+; <L>7454<pc>274,2<k1>jyezWa (sections = [2])
+47948 old <ab>f.</ab> {%jyeṣṭhā%} le 18e astérisme lunaire, comprenant <lbinfo n="7"/>
+;
+47948 new <ab>f.</ab> {%jyeṣṭhā%} le 18ᵉ astérisme lunaire, comprenant <lbinfo n="7"/>
+; ========================================================
+; <L>7477<pc>275,1<k1>Ja (sections = [2])
+48126 old {#Ja#}¦ {%jha%} 23e lettre de l'alphabet sanscrit, la 4e des
+;
+48126 new {#Ja#}¦ {%jha%} 23ᵉ lettre de l'alphabet sanscrit, la 4ᵉ des
+; ========================================================
+; <L>7526<pc>277,1<k1>Ya (sections = [2])
+48407 old {#Ya#}¦ {%ña%} 24e lettre de l'alphabet sanscrit, ou nasale des
+;
+48407 new {#Ya#}¦ {%ña%} 24ᵉ lettre de l'alphabet sanscrit, ou nasale des
+; ========================================================
+; <L>7528<pc>277,1<k1>wa (sections = [3, 2])
+48423 old {#wa#}¦ {%ṭa%} 25e lettre de l'alphabet sanscrit, et 1re
+;
+48423 new {#wa#}¦ {%ṭa%} 25ᵉ lettre de l'alphabet sanscrit, et 1ʳᵉ
+; ========================================================
+; <L>7558<pc>278,1<k1>Wa (sections = [2])
+48587 old {#Wa#}¦ {%ṭha%} 26e lettre de l'alphabet sanscrit et 2e
+;
+48587 new {#Wa#}¦ {%ṭha%} 26ᵉ lettre de l'alphabet sanscrit et 2ᵉ
+; ========================================================
+; <L>7561<pc>279,1<k1>qa (sections = [2])
+48608 old {#qa#}¦ {%ḍa%} 27e lettre de l'alphabet sanscrit, la 3e des
+;
+48608 new {#qa#}¦ {%ḍa%} 27ᵉ lettre de l'alphabet sanscrit, la 3ᵉ des
+; ========================================================
+; <L>7600<pc>280,1<k1>Qa (sections = [2])
+48804 old {#Qa#}¦ {%ḍha%} 28e lettre de l'alphabet sanscrit et 4e
+;
+48804 new {#Qa#}¦ {%ḍha%} 28ᵉ lettre de l'alphabet sanscrit et 4ᵉ
+; ========================================================
+; <L>7608<pc>280,1<k1>Ra (sections = [2])
+48856 old {#Ra#}¦ {%ṇa%} 29e lettre de l'alphabet sanscrit et nasale des
+;
+48856 new {#Ra#}¦ {%ṇa%} 29ᵉ lettre de l'alphabet sanscrit et nasale des
+; ========================================================
+; <L>7609<pc>281,1<k1>ta (sections = [3, 2])
+48870 old {#ta#}¦ {%ta%} 30e lettre de l'alphabet sanscrit et 1re
+;
+48870 new {#ta#}¦ {%ta%} 30ᵉ lettre de l'alphabet sanscrit et 1ʳᵉ
+; ========================================================
+; <L>7624<pc>281,2<k1>tagara (sections = [7])
+48958 old {#tagara#}¦ {%tagara%} <ab>m.</ab> tabernaemontana, arbre.
+;
+48958 new {#tagara#}¦ {%tagara%} <ab>m.</ab> tabernæmontana, arbre.
+; ========================================================
+; <L>7676<pc>283,2<k1>tan (sections = [2])
+49291 old {%tata.%} [On trouve dans le <ab>Vd.</ab> des formes appartenant à la 3e
+;
+49291 new {%tata.%} [On trouve dans le <ab>Vd.</ab> des formes appartenant à la 3ᵉ
+; ========================================================
+; <L>7700<pc>284,2<k1>tapana (sections = [2])
+49520 old -- <ab>M.</ab> le Soleil. || La saison des chaleurs. || Le 6e enfer brûlant.
+;
+49520 new -- <ab>M.</ab> le Soleil. || La saison des chaleurs. || Le 6ᵉ enfer brûlant.
+; ========================================================
+; <L>7981<pc>294,1<k1>tizya (sections = [2])
+51269 old {#tizya#}¦ {%tiṣya%} <ab>a.</ab> heureux, de bon augure. -- <ab>S.</ab> <ab>m.</ab> le 8e
+;
+51269 new {#tizya#}¦ {%tiṣya%} <ab>a.</ab> heureux, de bon augure. -- <ab>S.</ab> <ab>m.</ab> le 8ᵉ
+; ========================================================
+; <L>8049<pc>296,2<k1>turIya (sections = [2])
+51735 old <P>{%turīyavarṇa%} <ab>a.</ab> de la 4e caste, <s1 slp1="SUdra">śūdra</s1>.
+;
+51735 new <P>{%turīyavarṇa%} <ab>a.</ab> de la 4ᵉ caste, <s1 slp1="SUdra">śūdra</s1>.
+; ========================================================
+; <L>8065<pc>297,1<k1>tuzita (sections = [2])
+51851 old 4e ordre, <ab>Bd.</ab>
+;
+51851 new 4ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>8199<pc>302,1<k1>traya (sections = [2])
+52767 old <P>{%trayastriṃśat%} <ab>m.</ab> au <ab>pl.</ab> les 33 dieux du 2e ordre, <ab>Bd.</ab>
+;
+52767 new <P>{%trayastriṃśat%} <ab>m.</ab> au <ab>pl.</ab> les 33 dieux du 2ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>8199<pc>302,1<k1>traya (sections = [2])
+52780 old <P>{%trayodaśa%} <ab>a.</ab> [<ab>f.</ab> {%ī%}] treizième. -- <ab>F.</ab> le 13e jour de
+;
+52780 new <P>{%trayodaśa%} <ab>a.</ab> [<ab>f.</ab> {%ī%}] treizième. -- <ab>F.</ab> le 13ᵉ jour de
+; ========================================================
+; <L>8241<pc>303,2<k1>tridaSa (sections = [2])
+53028 old que <s1 slp1="brahmA">Brahmā</s1>, <s1 slp1="vizRu">Viṣṇu</s1> et <s1 slp1="Siva">Śiva</s1>]. -- <ab>S.</ab> <ab>f.</ab> {%tridaśī%} le 13e jour de
+;
+53028 new que <s1 slp1="brahmA">Brahmā</s1>, <s1 slp1="vizRu">Viṣṇu</s1> et <s1 slp1="Siva">Śiva</s1>]. -- <ab>S.</ab> <ab>f.</ab> {%tridaśī%} le 13ᵉ jour de
+; ========================================================
+; <L>8308<pc>305,2<k1>triMSat (sections = [7])
+53410 old <P>{%triṃśatpatra%} <ab>n.</ab> nymphaea blance comestible. <lbinfo n="6"/>
+;
+53410 new <P>{%triṃśatpatra%} <ab>n.</ab> nymphæa blance comestible. <lbinfo n="6"/>
+; ========================================================
+; <L>8310<pc>305,2<k1>truwi (sections = [2])
+53422 old très-court; la 100e partie du {%vedha%} ou 0'',000266... ||
+;
+53422 new très-court; la 100ᵉ partie du {%vedha%} ou 0'',000266... ||
+; ========================================================
+; <L>8353<pc>307,2<k1>tvAzwra (sections = [2])
+53708 old Twashtri. || <ab>N.</ab> <ab>f.</ab> le 14e astérisme lunaire, {%citra.%} -- <ab>F.</ab>
+;
+53708 new Twashtri. || <ab>N.</ab> <ab>f.</ab> le 14ᵉ astérisme lunaire, {%citra.%} -- <ab>F.</ab>
+; ========================================================
+; <L>8359<pc>308,1<k1>Ta (sections = [2])
+53750 old {#Ta#}¦ {%tha%} 31e lettre et 2e dentale de l'alphabet <lbinfo n="3"/>
+;
+53750 new {#Ta#}¦ {%tha%} 31ᵉ lettre et 2ᵉ dentale de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>8364<pc>308,1<k1>da (sections = [2])
+53779 old {#da#}¦ {%da%} 32e lettre et 3e dentale de l'alphabet sanscrit.
+;
+53779 new {#da#}¦ {%da%} 32ᵉ lettre et 3ᵉ dentale de l'alphabet sanscrit.
+; ========================================================
+; <L>8379<pc>309,2<k1>datta (sections = [2])
+53999 old ce mot désigne ordt. des personnes de la 3e caste.]
+;
+53999 new ce mot désigne ordt. des personnes de la 3ᵉ caste.]
+; ========================================================
+; <L>8508<pc>314,1<k1>daSama (sections = [2])
+54839 old {%daśamī%} le 10e jour de la quinzaine lunaire; || la 10e
+;
+54839 new {%daśamī%} le 10ᵉ jour de la quinzaine lunaire; || la 10ᵉ
+; ========================================================
+; <L>8508<pc>314,1<k1>daSama (sections = [2])
+54842 old <P>{%daśamin%} <ab>a.</ab> (<ab>sfx.</ab> {%in)%} qui en est à la 10e partie de sa
+;
+54842 new <P>{%daśamin%} <ab>a.</ab> (<ab>sfx.</ab> {%in)%} qui en est à la 10ᵉ partie de sa
+; ========================================================
+; <L>8652<pc>318,2<k1>dAsa (sections = [2])
+55662 old des <s1 slp1="arya">Arya</s1>s. || Esclave; <lbinfo n="6"/> serviteur; || homme de la 4e caste, <s1 slp1="SUdra">śūdra</s1>.
+;
+55662 new des <s1 slp1="arya">Arya</s1>s. || Esclave; <lbinfo n="6"/> serviteur; || homme de la 4ᵉ caste, <s1 slp1="SUdra">śūdra</s1>.
+; ========================================================
+; <L>8669<pc>319,1<k1>digambara (sections = [7])
+55755 old vêtement que l'espace, <ab>c-à-d.</ab> nu, <ab>ép.</ab> de certains religieux jaenas,
+;
+55755 new vêtement que l'espace, <ab>c-à-d.</ab> nu, <ab>ép.</ab> de certains religieux jænas,
+; ========================================================
+; <L>8719<pc>320,2<k1>dipsAmi (sections = [7])
+56017 old celui qui veut nous nuire lae jour, et celui qui le veut la nuit, <ab>Vd.</ab>
+;
+56017 new celui qui veut nous nuire læ jour, et celui qui le veut la nuit, <ab>Vd.</ab>
+; ========================================================
+; <L>8972<pc>329,2<k1>deva (sections = [2])
+57810 old <P>{%devamāsa%} <ab>m.</ab> le 8e mois de la grossesse.
+;
+57810 new <P>{%devamāsa%} <ab>m.</ab> le 8ᵉ mois de la grossesse.
+; ========================================================
+; <L>8983<pc>331,1<k1>deSinI (sections = [4])
+57987 old {#deSinI#}¦ {%deśinī%} <ab>f.</ab> {%(diś)%} l'index ou 1er doigt de la
+;
+57987 new {#deSinI#}¦ {%deśinī%} <ab>f.</ab> {%(diś)%} l'index ou 1ᵉʳ doigt de la
+; ========================================================
+; <L>9070<pc>334,1<k1>dyUna (sections = [2])
+58504 old {#dyUna#}¦ {%dyūna%} <ab>n.</ab> {%(div)%} le 7e signe du zodiaque <lbinfo n="3"/>
+;
+58504 new {#dyUna#}¦ {%dyūna%} <ab>n.</ab> {%(div)%} le 7ᵉ signe du zodiaque <lbinfo n="3"/>
+; ========================================================
+; <L>9142<pc>336,2<k1>dvAdaSa (sections = [2])
+58997 old {#dvAdaSa#}¦ {%dvādaśa%} <ab>a.</ab> [<ab>f.</ab> {%ī%}] douzième. -- <ab>F.</ab> le 12e
+;
+58997 new {#dvAdaSa#}¦ {%dvādaśa%} <ab>a.</ab> [<ab>f.</ab> {%ī%}] douzième. -- <ab>F.</ab> le 12ᵉ
+; ========================================================
+; <L>9144<pc>337,1<k1>dvApara (sections = [2])
+59030 old {#dvApara#}¦ {%dvāpara%} <ab>m.</ab> {%(dva)%} doute. || Le 3e des 4 <s1 slp1="yuga">yuga</s1>s
+;
+59030 new {#dvApara#}¦ {%dvāpara%} <ab>m.</ab> {%(dva)%} doute. || Le 3ᵉ des 4 <s1 slp1="yuga">yuga</s1>s
+; ========================================================
+; <L>9153<pc>337,2<k1>dvigu (sections = [4])
+59103 old {#dvigu#}¦ {%dvigu%} <ab>m.</ab> composé grammatical dont le 1er membre est
+;
+59103 new {#dvigu#}¦ {%dvigu%} <ab>m.</ab> composé grammatical dont le 1ᵉʳ membre est
+; ========================================================
+; <L>9234<pc>340,1<k1>Da (sections = [2])
+59569 old {#Da#}¦ {%dha%} 33e lettre et 3e dentale de l'alphabet <lbinfo n="3"/>
+;
+59569 new {#Da#}¦ {%dha%} 33ᵉ lettre et 3ᵉ dentale de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>9248<pc>340,2<k1>Danin (sections = [2])
+59685 old 24e astérisme lunaire comprenant 4 étoiles du Dauphin et figuré
+;
+59685 new 24ᵉ astérisme lunaire comprenant 4 étoiles du Dauphin et figuré
+; ========================================================
+; <L>9286<pc>343,1<k1>Dava (sections = [7])
+60063 old || Grislea tomentosa, <ab>bot.</ab> || <ab>Irl.</ab> dae; <ab>lat.</ab> {%du%} dans vidua, <ab>cf.</ab>
+;
+60063 new || Grislea tomentosa, <ab>bot.</ab> || <ab>Irl.</ab> dæ; <ab>lat.</ab> {%du%} dans vidua, <ab>cf.</ab>
+; ========================================================
+; <L>9350<pc>345,2<k1>DiyAmpati (sections = [7])
+60528 old pensées, <ab>c-à-d.</ab> la raison. || Saint jaena.
+;
+60528 new pensées, <ab>c-à-d.</ab> la raison. || Saint jæna.
+; ========================================================
+; <L>9414<pc>348,1<k1>Dfta (sections = [2])
+60941 old <ab>Np.</ab> d'une déité résidant au 4e degré, <lbinfo n="4"/> à l'orient, sur le
+;
+60941 new <ab>Np.</ab> d'une déité résidant au 4ᵉ degré, <lbinfo n="4"/> à l'orient, sur le
+; ========================================================
+; <L>9434<pc>348,2<k1>DEvata (sections = [2])
+61054 old {#DEvata#}¦ {%dhaivata%} <ab>m.</ab> la 6e note de l'octave descendante
+;
+61054 new {#DEvata#}¦ {%dhaivata%} <ab>m.</ab> la 6ᵉ note de l'octave descendante
+; ========================================================
+; <L>9500<pc>351,1<k1>na (sections = [2])
+61451 old {#na#}¦ {%na,%} 34e lettre de l'alphabet sanscrit, nasale des
+;
+61451 new {#na#}¦ {%na,%} 34ᵉ lettre de l'alphabet sanscrit, nasale des
+; ========================================================
+; <L>9546<pc>353,1<k1>nanda (sections = [4, 2])
+61809 old mari. || Cruche à eau. || Le 1er, 6e ou 11e jour de la
+;
+61809 new mari. || Cruche à eau. || Le 1ᵉʳ, 6ᵉ ou 11ᵉ jour de la
+; ========================================================
+; <L>9551<pc>353,2<k1>nandyAvarta (sections = [7])
+61872 old Tabernaemontana coronaria, <ab>bot.</ab> || <ab>Esp.</ab> de diagramme.
+;
+61872 new Tabernæmontana coronaria, <ab>bot.</ab> || <ab>Esp.</ab> de diagramme.
+; ========================================================
+; <L>9578<pc>354,2<k1>nameru (sections = [7])
+62047 old {#nameru#}¦ {%nameru%} <ab>m.</ab> graine de l'elaeocarpus.
+;
+62047 new {#nameru#}¦ {%nameru%} <ab>m.</ab> graine de l'elæocarpus.
+; ========================================================
+; <L>9626<pc>356,1<k1>nava (sections = [4])
+62352 old <P>{%navāha%} <ab>m.</ab> {%(ahan)%} jour nouveau; le 1er jour de la
+;
+62352 new <P>{%navāha%} <ab>m.</ab> {%(ahan)%} jour nouveau; le 1ᵉʳ jour de la
+; ========================================================
+; <L>9630<pc>356,1<k1>navan (sections = [2])
+62390 old <P>{%navama%} <ab>a.</ab> neuvième. -- <ab>F.</ab> le 9e jour de la quinzaine
+;
+62390 new <P>{%navama%} <ab>a.</ab> neuvième. -- <ab>F.</ab> le 9ᵉ jour de la quinzaine
+; ========================================================
+; <L>9806<pc>363,1<k1>niDana (sections = [2])
+63646 old 7e astérisme à partir de celui sous lequel on est né. -- <ab>M.</ab> chef
+;
+63646 new 7ᵉ astérisme à partir de celui sous lequel on est né. -- <ab>M.</ab> chef
+; ========================================================
+; <L>9893<pc>366,1<k1>nirarbuda (sections = [2])
+64185 old {#nirarbuda#}¦ {%nirarbuda%} <ab>m.</ab> <ab>n.</ab> le 2e enfer glacé.
+;
+64185 new {#nirarbuda#}¦ {%nirarbuda%} <ab>m.</ab> <ab>n.</ab> le 2ᵉ enfer glacé.
+; ========================================================
+; <L>10000<pc>369,2<k1>nirmARa (sections = [2])
+64771 old <P>{%nirmānaralī%} <ab>m.</ab> {%(ram)%} au <ab>pl.</ab> les dieux du 5e ordre,
+;
+64771 new <P>{%nirmānaralī%} <ab>m.</ab> {%(ram)%} au <ab>pl.</ab> les dieux du 5ᵉ ordre,
+; ========================================================
+; <L>10114<pc>373,2<k1>nizAda (sections = [2])
+65484 old Pêcheur. <lbinfo n="6"/> || La 7e note de l'octave descendante [qui est notre
+;
+65484 new Pêcheur. <lbinfo n="6"/> || La 7ᵉ note de l'octave descendante [qui est notre
+; ========================================================
+; <L>10252<pc>377,2<k1>nIrAjana (sections = [2])
+66255 old [pratiquée le 19e jour du mois d'<s1 slp1="aSvinI">aśvinī</s1>].
+;
+66255 new [pratiquée le 19ᵉ jour du mois d'<s1 slp1="aSvinI">aśvinī</s1>].
+; ========================================================
+; <L>10282<pc>379,1<k1>nf (sections = [2])
+66522 old <P>{%nṛsiṃha%} <ab>m.</ab> chef, homme illustre. || La 4e incarnation de
+;
+66522 new <P>{%nṛsiṃha%} <ab>m.</ab> chef, homme illustre. || La 4ᵉ incarnation de
+; ========================================================
+; <L>10299<pc>379,2<k1>nemi (sections = [2, 7])
+66635 old du 22e pontife jaena. || Lieu consacré à. 
+;
+66635 new du 22ᵉ pontife jæna. || Lieu consacré à. 
+; ========================================================
+; <L>10367<pc>382,1<k1>pa (sections = [3, 2])
+67016 old {#pa#}¦ {%pa%} 35e lettre et 1re consonne labiale de l'alphabet
+;
+67016 new {#pa#}¦ {%pa%} 35ᵉ lettre et 1ʳᵉ consonne labiale de l'alphabet
+; ========================================================
+; <L>10375<pc>382,1<k1>pakza (sections = [3])
+67086 old || Le 1re jour du {%pakṣa.%}
+;
+67086 new || Le 1ʳᵉ jour du {%pakṣa.%}
+; ========================================================
+; <L>10387<pc>383,2<k1>paYca (sections = [2])
+67284 old le 15e jour de la Lune.
+;
+67284 new le 15ᵉ jour de la Lune.
+; ========================================================
+; <L>10387<pc>383,2<k1>paYca (sections = [2])
+67301 old <P>{%pañcabandha%} <ab>m.</ab> amende égale à la 5e partie d'un objet
+;
+67301 new <P>{%pañcabandha%} <ab>m.</ab> amende égale à la 5ᵉ partie d'un objet
+; ========================================================
+; <L>10387<pc>383,2<k1>paYca (sections = [2])
+67308 old agréable. -- <ab>S.</ab> <ab>m.</ab> la 5e note de l'octave <lbinfo n="4"/> [qui est notre quarte].
+;
+67308 new agréable. -- <ab>S.</ab> <ab>m.</ab> la 5ᵉ note de l'octave <lbinfo n="4"/> [qui est notre quarte].
+; ========================================================
+; <L>10387<pc>383,2<k1>paYca (sections = [2])
+67310 old 5e jour de la Lune. || Echiquier, damier. || <s1 slp1="drOpadI">Draupadī</s1>, femme des
+;
+67310 new 5ᵉ jour de la Lune. || Echiquier, damier. || <s1 slp1="drOpadI">Draupadī</s1>, femme des
+; ========================================================
+; <L>10402<pc>385,1<k1>pawwa (sections = [7])
+67531 old <P>{%paṭṭita%} <ab>m.</ab> caesalpinia bonducella, <ab>bot.</ab>
+;
+67531 new <P>{%paṭṭita%} <ab>m.</ab> cæsalpinia bonducella, <ab>bot.</ab>
+; ========================================================
+; <L>10436<pc>386,1<k1>patra (sections = [7])
+67843 old <P>{%patrāṅga%} <ab>n.</ab> {%(aṅga)%} pterocarpus santolinus, caesalpinia
+;
+67843 new <P>{%patrāṅga%} <ab>n.</ab> {%(aṅga)%} pterocarpus santolinus, cæsalpinia
+; ========================================================
+; <L>10443<pc>387,1<k1>padma (sections = [2])
+67965 old <ab>gén.</ab> || Un des trésors de <s1 slp1="kuvera">Kuvera</s1>. || Le 7e enfer glacé. -- <ab>M.</ab>
+;
+67965 new <ab>gén.</ab> || Un des trésors de <s1 slp1="kuvera">Kuvera</s1>. || Le 7ᵉ enfer glacé. -- <ab>M.</ab>
+; ========================================================
+; <L>10472<pc>389,2<k1>paraSu (sections = [4])
+68394 old <P>{%paracurāma%} <ab>m.</ab> <s1 slp1="paraSurAma">Paraśurāma</s1>, fils de <s1 slp1="jamadagni">Jamadagni</s1>, <lbinfo n="8"/> le 1er des
+;
+68394 new <P>{%paracurāma%} <ab>m.</ab> <s1 slp1="paraSurAma">Paraśurāma</s1>, fils de <s1 slp1="jamadagni">Jamadagni</s1>, <lbinfo n="8"/> le 1ᵉʳ des
+; ========================================================
+; <L>10472<pc>389,2<k1>paraSu (sections = [2])
+68395 old 3 <s1 slp1="rAma">Rāma</s1>s, considéré plus tard comme la 6e incarnation de <s1 slp1="vizRu">Viṣṇu</s1>.
+;
+68395 new 3 <s1 slp1="rAma">Rāma</s1>s, considéré plus tard comme la 6ᵉ incarnation de <s1 slp1="vizRu">Viṣṇu</s1>.
+; ========================================================
+; <L>10560<pc>392,1<k1>pariGa (sections = [2])
+68864 old extérieure, porte de palais: || pique, fance. || Le 19e <s1 slp1="yoga">yoga</s1>
+;
+68864 new extérieure, porte de palais: || pique, fance. || Le 19ᵉ <s1 slp1="yoga">yoga</s1>
+; ========================================================
+; <L>10616<pc>394,1<k1>parinirmita (sections = [2])
+69209 old 6e ordre, <ab>Bd.</ab>
+;
+69209 new 6ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>10776<pc>399,1<k1>parItta (sections = [2])
+70098 old <P>{%parīttaśubha%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 13e ordre, <ab>Bd.</ab>
+;
+70098 new <P>{%parīttaśubha%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 13ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>10776<pc>399,1<k1>parItta (sections = [2])
+70100 old <P>{%parīttābha%} <ab>m.</ab> {%(ā; bhā)%} au <ab>pl.</ab> les dieux du 10e
+;
+70100 new <P>{%parīttābha%} <ab>m.</ab> {%(ā; bhā)%} au <ab>pl.</ab> les dieux du 10ᵉ
+; ========================================================
+; <L>10777<pc>399,1<k1>parIDAvin (sections = [2])
+70106 old 41e année du cycle indien.
+;
+70106 new 41ᵉ année du cycle indien.
+; ========================================================
+; <L>10890<pc>403,1<k1>pavitra (sections = [2])
+70812 old sanctum; || le 11e jour de la quinzaine claire. || <ab>Np.</ab> d'une
+;
+70812 new sanctum; || le 11ᵉ jour de la quinzaine claire. || <ab>Np.</ab> d'une
+; ========================================================
+; <L>11042<pc>409,2<k1>pASupata (sections = [7])
+72038 old flèche miraculeuse de <s1 slp1="Siva">Śiva</s1>. || AEschynomene grandiflora, <ab>bot.</ab>
+;
+72038 new flèche miraculeuse de <s1 slp1="Siva">Śiva</s1>. || Æschynomene grandiflora, <ab>bot.</ab>
+; ========================================================
+; <L>11054<pc>410,1<k1>piNga (sections = [2])
+72150 old de <s1 slp1="kuvera">Kuvera</s1>. || <ab>Np.</ab> d'un <s1 slp1="nAga">nāga</s1>; || <ab>surn.</ab> de <s1 slp1="Siva">Śiva</s1>. || La 51e année
+;
+72150 new de <s1 slp1="kuvera">Kuvera</s1>. || <ab>Np.</ab> d'un <s1 slp1="nAga">nāga</s1>; || <ab>surn.</ab> de <s1 slp1="Siva">Śiva</s1>. || La 51ᵉ année
+; ========================================================
+; <L>11075<pc>411,1<k1>piRqa (sections = [7])
+72348 old tabernaemontana; rose-de-Chine.
+;
+72348 new tabernæmontana; rose-de-Chine.
+; ========================================================
+; <L>11164<pc>415,1<k1>puRqra (sections = [7])
+73059 old {#puRqra#}¦ {%puṇḍra%} <ab>m.</ab> lotus blanc. || Gaertnera racemosa, <ab>bot.</ab> ||
+;
+73059 new {#puRqra#}¦ {%puṇḍra%} <ab>m.</ab> lotus blanc. || Gærtnera racemosa, <ab>bot.</ab> ||
+; ========================================================
+; <L>11164<pc>415,1<k1>puRqra (sections = [7])
+73064 old <P>{%puṇḍraka%} <ab>m.</ab> gaertnera racemosa, <ab>bot.</ab> || Canne à sucre
+;
+73064 new <P>{%puṇḍraka%} <ab>m.</ab> gærtnera racemosa, <ab>bot.</ab> || Canne à sucre
+; ========================================================
+; <L>11165<pc>415,1<k1>puRya (sections = [2])
+73092 old <P>{%puṇyaprasava%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 17e ordre, <ab>Bd.</ab>
+;
+73092 new <P>{%puṇyaprasava%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 17ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>11170<pc>416,1<k1>punar (sections = [2])
+73185 old <P>{%punarvasū%} <ab>m.</ab> le 7e astérisme lunaire. || <ab>Surn.</ab> de <s1 slp1="Siva">Śiva</s1> et
+;
+73185 new <P>{%punarvasū%} <ab>m.</ab> le 7ᵉ astérisme lunaire. || <ab>Surn.</ab> de <s1 slp1="Siva">Śiva</s1> et
+; ========================================================
+; <L>11210<pc>417,1<k1>puruza (sections = [2, 7])
+73428 old <P>{%puruṣapuṇḍarīka%} <ab>m.</ab> le 7e <s1 slp1="vAsudeva">Vāsudeva</s1> des Jaenas.
+;
+73428 new <P>{%puruṣapuṇḍarīka%} <ab>m.</ab> le 7ᵉ <s1 slp1="vAsudeva">Vāsudeva</s1> des Jaïnas.
+; ========================================================
+; <L>11210<pc>417,1<k1>puruza (sections = [2, 7])
+73438 old <P>{%puruṣasiṃha%} <ab>m.</ab> le 5e <s1 slp1="vAsudeva">Vāsudeva</s1> des Jaenas. <lbinfo n="4"/>
+;
+73438 new <P>{%puruṣasiṃha%} <ab>m.</ab> le 5ᵉ <s1 slp1="vAsudeva">Vāsudeva</s1> des Jaïnas. <lbinfo n="4"/>
+; ========================================================
+; <L>11210<pc>417,1<k1>puruza (sections = [2])
+73443 old <s1 slp1="vizRu">Viṣṇu</s1>; l'Esprit divin. <lbinfo n="4"/> || Un <s1 slp1="jina">Jina</s1>, en <ab>gén.</ab> || Le 4e <s1 slp1="vAsudeva">Vāsudeva</s1>
+;
+73443 new <s1 slp1="vizRu">Viṣṇu</s1>; l'Esprit divin. <lbinfo n="4"/> || Un <s1 slp1="jina">Jina</s1>, en <ab>gén.</ab> || Le 4ᵉ <s1 slp1="vAsudeva">Vāsudeva</s1>
+; ========================================================
+; <L>11210<pc>417,1<k1>puruza (sections = [7])
+73444 old des Jaenas.
+;
+73444 new des Jaïnas.
+; ========================================================
+; <L>11213<pc>417,2<k1>purUravas (sections = [2])
+73456 old {#purUravas#}¦ {%purūravas%} <ab>m.</ab> le 2e roi de la dynastie lunaire,
+;
+73456 new {#purUravas#}¦ {%purūravas%} <ab>m.</ab> le 2ᵉ roi de la dynastie lunaire,
+; ========================================================
+; <L>11240<pc>418,2<k1>puzpa (sections = [7])
+73677 old chef des <s1 slp1="ganDarva">Gandharva</s1>s ou des <s1 slp1="vidyADara">Vidyādhara</s1>s; et d'un saint jaena. -- Au <ab>du.</ab>
+;
+73677 new chef des <s1 slp1="ganDarva">Gandharva</s1>s ou des <s1 slp1="vidyADara">Vidyādhara</s1>s; et d'un saint jæna. -- Au <ab>du.</ab>
+; ========================================================
+; <L>11241<pc>419,2<k1>puzya (sections = [2])
+73749 old {#puzya#}¦ {%puṣya%} <ab>pf.</ab> <ab>ps.</ab> de {%puṣ.%} -- <ab>S.</ab> <ab>m.</ab> et <ab>f.</ab> le 8e
+;
+73749 new {#puzya#}¦ {%puṣya%} <ab>pf.</ab> <ab>ps.</ab> de {%puṣ.%} -- <ab>S.</ab> <ab>m.</ab> et <ab>f.</ab> le 8ᵉ
+; ========================================================
+; <L>11245<pc>419,2<k1>puMs (sections = [4])
+73787 old une femme. || Le 1er acte de l'initiation. || Lait <ab>(?)</ab>.
+;
+73787 new une femme. || Le 1ᵉʳ acte de l'initiation. || Lait <ab>(?)</ab>.
+; ========================================================
+; <L>11254<pc>420,1<k1>pUti (sections = [7])
+73892 old <P>{%pūtivāta%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab>
+;
+73892 new <P>{%pūtivāta%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab>
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [7])
+74040 old <P>{%pūrvajina%} <ab>m.</ab> un jaena, en <ab>gén.</ab> || <s1 slp1="maYjuGoza">Mañjughoṣa</s1>. <lbinfo n="7"/> || Au <ab>pl.</ab>
+;
+74040 new <P>{%pūrvajina%} <ab>m.</ab> un jæna, en <ab>gén.</ab> || <s1 slp1="maYjuGoza">Mañjughoṣa</s1>. <lbinfo n="7"/> || Au <ab>pl.</ab>
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [3, 7])
+74041 old les 24 saints jaenas de la 1re ère.
+;
+74041 new les 24 saints jænas de la 1ʳᵉ ère.
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [3])
+74055 old <P>{%pūrvapakṣa%} <ab>m.</ab> la 1re quinzaine du mois lunaire. || La
+;
+74055 new <P>{%pūrvapakṣa%} <ab>m.</ab> la 1ʳᵉ quinzaine du mois lunaire. || La
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [3])
+74056 old 1re partie d'un argument.
+;
+74056 new 1ʳᵉ partie d'un argument.
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [4])
+74058 old <P>{%pūrvapada%} <ab>n.</ab> le 1er membre d'un composé, <lbinfo n="5"/> <ab>tg.</ab>
+;
+74058 new <P>{%pūrvapada%} <ab>n.</ab> le 1ᵉʳ membre d'un composé, <lbinfo n="5"/> <ab>tg.</ab>
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [4])
+74060 old <P>{%pūrvapadya%} <ab>a.</ab> qui se rapporte au 1er membre d'un composé,
+;
+74060 new <P>{%pūrvapadya%} <ab>a.</ab> qui se rapporte au 1ᵉʳ membre d'un composé,
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [2])
+74066 old <P>{%pūrvaphalgunī%} <ab>f.</ab> le 11e astérisme lunaire, comprenant
+;
+74066 new <P>{%pūrvaphalgunī%} <ab>f.</ab> le 11ᵉ astérisme lunaire, comprenant
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [2])
+74071 old <P>{%pūrvabhādrapadā%} <ab>f.</ab> le 26e astérisme lunaire. <lbinfo n="6"/>
+;
+74071 new <P>{%pūrvabhādrapadā%} <ab>f.</ab> le 26ᵉ astérisme lunaire. <lbinfo n="6"/>
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [3])
+74078 old <P>{%pūrvarātra%} <ab>m.</ab> 1re moitié de la nuit. 
+;
+74078 new <P>{%pūrvarātra%} <ab>m.</ab> 1ʳᵉ moitié de la nuit. 
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [4])
+74084 old <P>{%pūrvavāda%} <ab>n.</ab> le 1er plaidoyer dans un procès; la
+;
+74084 new <P>{%pūrvavāda%} <ab>n.</ab> le 1ᵉʳ plaidoyer dans un procès; la
+; ========================================================
+; <L>11270<pc>421,1<k1>pUrva (sections = [2])
+74095 old <P>{%pūrvāṣādhā%} <ab>f.</ab> le 20e astérisme lunaire, comprenant
+;
+74095 new <P>{%pūrvāṣādhā%} <ab>f.</ab> le 20ᵉ astérisme lunaire, comprenant
+; ========================================================
+; <L>11292<pc>422,2<k1>pfTu (sections = [2])
+74269 old d'<s1 slp1="agni">Agni</s1>. || <ab>Np.</ab> du 5e roi de la dynastie solaire. -- <ab>S.</ab> <ab>f.</ab>
+;
+74269 new d'<s1 slp1="agni">Agni</s1>. || <ab>Np.</ab> du 5ᵉ roi de la dynastie solaire. -- <ab>S.</ab> <ab>f.</ab>
+; ========================================================
+; <L>11351<pc>424,2<k1>potra (sections = [7])
+74685 old <P>{%potrirathā%} <ab>f.</ab> une des <s1 slp1="Sakti">Śakti</s1>s des Jaenas.
+;
+74685 new <P>{%potrirathā%} <ab>f.</ab> une des <s1 slp1="Sakti">Śakti</s1>s des Jaïnas.
+; ========================================================
+; <L>11381<pc>425,2<k1>pOzRa (sections = [2])
+74863 old {#pOzRa#}¦ {%pauṣṇa%} <ab>n.</ab> {%(pūṣan)%} le 28e astérisme
+;
+74863 new {#pOzRa#}¦ {%pauṣṇa%} <ab>n.</ab> {%(pūṣan)%} le 28ᵉ astérisme
+; ========================================================
+; <L>11456<pc>428,1<k1>pracaRqa (sections = [7])
+75356 old <P>{%pracaṇḍamūrti%} <ab>m.</ab> tapia crataeva, <ab>bot.</ab>
+;
+75356 new <P>{%pracaṇḍamūrti%} <ab>m.</ab> tapia cratæva, <ab>bot.</ab>
+; ========================================================
+; <L>11540<pc>431,1<k1>pratApa (sections = [2])
+75879 old 7e enfer brûlant.
+;
+75879 new 7ᵉ enfer brûlant.
+; ========================================================
+; <L>11609<pc>433,1<k1>pratipad (sections = [4])
+76280 old intelligence; <ab>cf.</ab> {%pratipalli.%} -- {%(patti)%} le 1er jour de la
+;
+76280 new intelligence; <ab>cf.</ab> {%pratipalli.%} -- {%(patti)%} le 1ᵉʳ jour de la
+; ========================================================
+; <L>11850<pc>440,1<k1>pradeSa (sections = [4])
+77672 old ou 1er doigt.
+;
+77672 new ou 1ᵉʳ doigt.
+; ========================================================
+; <L>11850<pc>440,1<k1>pradeSa (sections = [4])
+77676 old <P>{%pradeśinī%} <ab>f.</ab> l'index ou 1er doigt.
+;
+77676 new <P>{%pradeśinī%} <ab>f.</ab> l'index ou 1ᵉʳ doigt.
+; ========================================================
+; <L>11852<pc>440,1<k1>pradoza (sections = [3])
+77686 old 1re moitié de la nuit.
+;
+77686 new 1ʳᵉ moitié de la nuit.
+; ========================================================
+; <L>11861<pc>440,2<k1>praDAna (sections = [4])
+77736 old essentiel. -- <ab>M.</ab> <ab>n.</ab> le 1er confident d'un roi [ministre, eunuque,
+;
+77736 new essentiel. -- <ab>M.</ab> <ab>n.</ab> le 1ᵉʳ confident d'un roi [ministre, eunuque,
+; ========================================================
+; <L>12156<pc>450,1<k1>prAkPalguRI (sections = [2])
+79636 old {#prAkPalguRI#}¦ {%prākphalguṇī%} <ab>f.</ab> le 11e astérisme <lbinfo n="7"/>
+;
+79636 new {#prAkPalguRI#}¦ {%prākphalguṇī%} <ab>f.</ab> le 11ᵉ astérisme <lbinfo n="7"/>
+; ========================================================
+; <L>12179<pc>451,1<k1>prAcIna (sections = [7])
+79762 old <P>{%prācīnapanasa%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab>
+;
+79762 new <P>{%prācīnapanasa%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab>
+; ========================================================
+; <L>12187<pc>451,1<k1>prAjApatya (sections = [4])
+79802 old formes du mariage. || Le 1er des <s1 slp1="vAsudeva">Vāsudeva</s1>s. || <ab>Surn.</ab> du
+;
+79802 new formes du mariage. || Le 1ᵉʳ des <s1 slp1="vAsudeva">Vāsudeva</s1>s. || <ab>Surn.</ab> du
+; ========================================================
+; <L>12230<pc>452,2<k1>prArTana (sections = [2])
+80128 old demandé. -- <ab>S.</ab> <ab>n.</ab> le 3e âge du monde, <ab>cf.</ab> {%dvāpara.%}
+;
+80128 new demandé. -- <ab>S.</ab> <ab>n.</ab> le 3ᵉ âge du monde, <ab>cf.</ab> {%dvāpara.%}
+; ========================================================
+; <L>12250<pc>453,2<k1>prAsmi (sections = [7])
+80259 old être puissant; prévaloir, <ab>ab.</ab> || <ab>Lat.</ab> praeosse.
+;
+80259 new être puissant; prévaloir, <ab>ab.</ab> || <ab>Lat.</ab> præosse.
+; ========================================================
+; <L>12260<pc>454,1<k1>prIti (sections = [2])
+80366 old L'épouse de <s1 slp1="kAma">Kāma</s1>. || Le 2e des 27 <s1 slp1="yoga">yoga</s1>s astronomiques.
+;
+80366 new L'épouse de <s1 slp1="kAma">Kāma</s1>. || Le 2ᵉ des 27 <s1 slp1="yoga">yoga</s1>s astronomiques.
+; ========================================================
+; <L>12314<pc>456,1<k1>prozWa (sections = [2])
+80721 old <P>{%proṣṭhapadā%} <ab>f.</ab> le 26e ou 27e astérisme lunaire. <lbinfo n="6"/>
+;
+80721 new <P>{%proṣṭhapadā%} <ab>f.</ab> le 26ᵉ ou 27ᵉ astérisme lunaire. <lbinfo n="6"/>
+; ========================================================
+; <L>12340<pc>457,1<k1>Pa (sections = [2])
+80901 old {#Pa#}¦ {%pha%} 36e lettre et 2e labiale de l'alphabet <lbinfo n="3"/>
+;
+80901 new {#Pa#}¦ {%pha%} 36ᵉ lettre et 2ᵉ labiale de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>12367<pc>458,2<k1>PAlguna (sections = [2])
+81159 old Pentaptera <s1 slp1="arjuna">arjuna</s1>, <ab>bot.</ab> -- <ab>F.</ab> [{%ī%}] le 11e et le 12e
+;
+81159 new Pentaptera <s1 slp1="arjuna">arjuna</s1>, <ab>bot.</ab> -- <ab>F.</ab> [{%ī%}] le 11ᵉ et le 12ᵉ
+; ========================================================
+; <L>12382<pc>459,1<k1>ba (sections = [2])
+81267 old {#ba#}¦ {%ba%} 37e lettre et 3e labiale de l'alphabet sanscrit.
+;
+81267 new {#ba#}¦ {%ba%} 37ᵉ lettre et 3ᵉ labiale de l'alphabet sanscrit.
+; ========================================================
+; <L>12390<pc>459,2<k1>baRij (sections = [2])
+81317 old marchand, négociant. || Le 6e {%kāraṇa%} ou période
+;
+81317 new marchand, négociant. || Le 6ᵉ {%kāraṇa%} ou période
+; ========================================================
+; <L>12437<pc>461,2<k1>bala (sections = [2])
+81663 old <P>{%baladeva%} <ab>m.</ab> <s1 slp1="rAma">Rāma</s1>, 3e du nom, frère aîné de <s1 slp1="kfzRa">Kṛṣṇa</s1>.
+;
+81663 new <P>{%baladeva%} <ab>m.</ab> <s1 slp1="rAma">Rāma</s1>, 3ᵉ du nom, frère aîné de <s1 slp1="kfzRa">Kṛṣṇa</s1>.
+; ========================================================
+; <L>12509<pc>464,2<k1>bAlu (sections = [7])
+82272 old <P>{%bālukāprabhā%} <ab>f.</ab> l'enfer de sable des Jaenas.
+;
+82272 new <P>{%bālukāprabhā%} <ab>f.</ab> l'enfer de sable des Jaïnas.
+; ========================================================
+; <L>12600<pc>467,2<k1>brahma (sections = [2])
+82812 old <P>{%brahmakāyika%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 7e ordre, qui suivent
+;
+82812 new <P>{%brahmakāyika%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 7ᵉ ordre, qui suivent
+; ========================================================
+; <L>12600<pc>467,2<k1>brahma (sections = [3])
+82859 old monde, 1re hypostase de Brahme. || Brâhmane; prêtre officiant.
+;
+82859 new monde, 1ʳᵉ hypostase de Brahme. || Brâhmane; prêtre officiant.
+; ========================================================
+; <L>12600<pc>467,2<k1>brahma (sections = [2])
+82876 old <P>{%brahmapurohita%} <ab>m.</ab> Au <ab>pl.</ab> dieux du 8e ordre, qui sont
+;
+82876 new <P>{%brahmapurohita%} <ab>m.</ab> Au <ab>pl.</ab> dieux du 8ᵉ ordre, qui sont
+; ========================================================
+; <L>12600<pc>467,2<k1>brahma (sections = [2])
+82935 old <P>{%brahmasambhava%} <ab>m.</ab> {%(sam; bhū)%} le 2e <s1 slp1="vAsudeva">Vāsudeva</s1> <lbinfo n="4"/> des
+;
+82935 new <P>{%brahmasambhava%} <ab>m.</ab> {%(sam; bhū)%} le 2ᵉ <s1 slp1="vAsudeva">Vāsudeva</s1> <lbinfo n="4"/> des
+; ========================================================
+; <L>12600<pc>467,2<k1>brahma (sections = [7])
+82936 old Jaenas.
+;
+82936 new Jaïnas.
+; ========================================================
+; <L>12604<pc>469,1<k1>Ba (sections = [2])
+83042 old {#Ba#}¦ {%bha%} 38e lettre et 3e labiale de l'alphabet
+;
+83042 new {#Ba#}¦ {%bha%} 38ᵉ lettre et 3ᵉ labiale de l'alphabet
+; ========================================================
+; <L>12645<pc>471,1<k1>Badra (sections = [2, 5])
+83376 old 2d, le 7e et le 12e jour de la quinzaine lunaire.
+;
+83376 new 2ᵈ, le 7ᵉ et le 12ᵉ jour de la quinzaine lunaire.
+; ========================================================
+; <L>12645<pc>471,1<k1>Badra (sections = [2])
+83402 old <P>{%bhadrapadā%} <ab>f.</ab> le 26e et le 27e astérisme lunaire. <lbinfo n="6"/>
+;
+83402 new <P>{%bhadrapadā%} <ab>f.</ab> le 26ᵉ et le 27ᵉ astérisme lunaire. <lbinfo n="6"/>
+; ========================================================
+; <L>12653<pc>471,2<k1>BaraRa (sections = [2])
+83521 old {%bharaṇi%} le 2e astérisme lunaire. || Le {%ghoṣa%} <ab>bot.</ab>
+;
+83521 new {%bharaṇi%} le 2ᵉ astérisme lunaire. || Le {%ghoṣa%} <ab>bot.</ab>
+; ========================================================
+; <L>12674<pc>472,2<k1>Bava (sections = [2])
+83680 old vous [<ab>t.</ab> de respect, avec le verbe à la 3e p.] M § 114.
+;
+83680 new vous [<ab>t.</ab> de respect, avec le verbe à la 3ᵉ p.] M § 114.
+; ========================================================
+; <L>12711<pc>474,1<k1>BAdra (sections = [2])
+83965 old d'un mois [août-sept.] -- <ab>F.</ab> {%bhādhrapadā%} le 26e et le
+;
+83965 new d'un mois [août-sept.] -- <ab>F.</ab> {%bhādhrapadā%} le 26ᵉ et le
+; ========================================================
+; <L>12711<pc>474,1<k1>BAdra (sections = [2])
+83966 old 27e astérisme lunaire.
+;
+83966 new 27ᵉ astérisme lunaire.
+; ========================================================
+; <L>12786<pc>478,1<k1>BUta (sections = [2])
+84722 old || Le 14e jour de la quinzaine obscure de la lune. || <s1 slp1="Siva">Śiva</s1>; || <ab>esp.</ab>
+;
+84722 new || Le 14ᵉ jour de la quinzaine obscure de la lune. || <s1 slp1="Siva">Śiva</s1>; || <ab>esp.</ab>
+; ========================================================
+; <L>12786<pc>478,1<k1>BUta (sections = [7])
+84750 old anacardium, <ab>bot.</ab> -- <ab>N.</ab> graine d'elaeocarpus.
+;
+84750 new anacardium, <ab>bot.</ab> -- <ab>N.</ab> graine d'elæocarpus.
+; ========================================================
+; <L>12787<pc>478,2<k1>BUti (sections = [2])
+84809 old <P>{%bhūtinidhāna%} <ab>n.</ab> le 24e astérisme lunaire.
+;
+84809 new <P>{%bhūtinidhāna%} <ab>n.</ab> le 24ᵉ astérisme lunaire.
+; ========================================================
+; <L>12793<pc>478,2<k1>BUmi (sections = [7])
+84846 old <P>{%bhūmicampaka%} <ab>m.</ab> kaempferia rotunda, <ab>bot.</ab>
+;
+84846 new <P>{%bhūmicampaka%} <ab>m.</ab> kæmpferia rotunda, <ab>bot.</ab>
+; ========================================================
+; <L>12897<pc>483,1<k1>ma (sections = [2])
+85671 old {#ma#}¦ {%ma%} 39e lettre de l'alphabet, nasale des labiales.
+;
+85671 new {#ma#}¦ {%ma%} 39ᵉ lettre de l'alphabet, nasale des labiales.
+; ========================================================
+; <L>12898<pc>483,1<k1>ma (sections = [2])
+85677 old la 4e note de la gamme. -- <ab>F.</ab> {%mā%} {%(mā)%} mesure; <lbinfo n="5"/> || mort.
+;
+85677 new la 4ᵉ note de la gamme. -- <ab>F.</ab> {%mā%} {%(mā)%} mesure; <lbinfo n="5"/> || mort.
+; ========================================================
+; <L>12917<pc>484,1<k1>maGa (sections = [2])
+85811 old l'Arracan. -- <ab>F.</ab> [au <ab>sg.</ab> ou au pl.] le 10e astérisme lunaire,
+;
+85811 new l'Arracan. -- <ab>F.</ab> [au <ab>sg.</ab> ou au pl.] le 10ᵉ astérisme lunaire,
+; ========================================================
+; <L>12957<pc>485,2<k1>maRi (sections = [7])
+86115 old <P>{%maṇimaṇḍapa%} <ab>m.</ab> <ab>mms.</ab> || Le palais de Naerrita, régent du
+;
+86115 new <P>{%maṇimaṇḍapa%} <ab>m.</ab> <ab>mms.</ab> || Le palais de Nærrita, régent du
+; ========================================================
+; <L>12995<pc>489,2<k1>maDya (sections = [2])
+86772 old la taille. -- <ab>S.</ab> <ab>m.</ab> la 4e note de la gamme indienne, qui est notre
+;
+86772 new la taille. -- <ab>S.</ab> <ab>m.</ab> la 4ᵉ note de la gamme indienne, qui est notre
+; ========================================================
+; <L>13010<pc>490,2<k1>manu (sections = [4])
+86930 old {%manvantara%} <lbinfo n="6"/> [le <s1 slp1="manu">Manu</s1> {%svayambhuva%} ou 1er <s1 slp1="manu">Manu</s1> du <s1 slp1="kalpa">kalpa</s1>
+;
+86930 new {%manvantara%} <lbinfo n="6"/> [le <s1 slp1="manu">Manu</s1> {%svayambhuva%} ou 1ᵉʳ <s1 slp1="manu">Manu</s1> du <s1 slp1="kalpa">kalpa</s1>
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [7])
+88057 old <P>{%mahākapittha%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab>
+;
+88057 new <P>{%mahākapittha%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab>
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [2])
+88122 old <P>{%mahātala%} <ab>n.</ab> le 5e <s1 slp1="pAtAla">pātāla</s1> [en descendant].
+;
+88122 new <P>{%mahātala%} <ab>n.</ab> le 5ᵉ <s1 slp1="pAtAla">pātāla</s1> [en descendant].
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [2])
+88196 old lotus blanc. || Le 8e enfer glacé.
+;
+88196 new lotus blanc. || Le 8ᵉ enfer glacé.
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [3])
+88213 old <P>{%mahāprajāpati%} <ab>f.</ab> <ab>np.</ab> de la tante et 1re sectatrice du
+;
+88213 new <P>{%mahāprajāpati%} <ab>f.</ab> <ab>np.</ab> de la tante et 1ʳᵉ sectatrice du
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [7])
+88230 old <P>{%mahāphala%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab> -- <ab>F.</ab> cucumis colocynthis,
+;
+88230 new <P>{%mahāphala%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab> -- <ab>F.</ab> cucumis colocynthis,
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [2])
+88341 old 4 Grands-Rois ou dieux du 6e étage des 26 cieux buddhiques.
+;
+88341 new 4 Grands-Rois ou dieux du 6ᵉ étage des 26 cieux buddhiques.
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [2])
+88356 old <P>{%mahāraurava%} <ab>m.</ab> {%(ruru)%} le 5e enfer brûlant. <lbinfo n="5"/>
+;
+88356 new <P>{%mahāraurava%} <ab>m.</ab> {%(ruru)%} le 5ᵉ enfer brûlant. <lbinfo n="5"/>
+; ========================================================
+; <L>13164<pc>496,2<k1>mahA (sections = [7])
+88388 old <P>{%mahāvallī%} <ab>f.</ab> gaertnera racemosa, <ab>bot.</ab>
+;
+88388 new <P>{%mahāvallī%} <ab>f.</ab> gærtnera racemosa, <ab>bot.</ab>
+; ========================================================
+; <L>13180<pc>500,1<k1>maheSa (sections = [7])
+88639 old <P>{%maheśabandhu%} <ab>m.</ab> aegle marmelos.
+;
+88639 new <P>{%maheśabandhu%} <ab>m.</ab> ægle marmelos.
+; ========================================================
+; <L>13234<pc>501,2<k1>mAtra (sections = [2])
+88986 old <P>{%mātrikā%} <ab>f.</ab> l'{%abhidharma%} ou 3e partie du
+;
+88986 new <P>{%mātrikā%} <ab>f.</ab> l'{%abhidharma%} ou 3ᵉ partie du
+; ========================================================
+; <L>13243<pc>502,1<k1>mADava (sections = [7])
+89046 old spiritueuse. || Gaertnera racemosa, <ab>bot.</ab> || Entremetteuse. || <s1 slp1="durgA">Durgā</s1>.
+;
+89046 new spiritueuse. || Gærtnera racemosa, <ab>bot.</ab> || Entremetteuse. || <s1 slp1="durgA">Durgā</s1>.
+; ========================================================
+; <L>13315<pc>505,1<k1>mAlu (sections = [7])
+89567 old <P>{%mālūra%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab>
+;
+89567 new <P>{%mālūra%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab>
+; ========================================================
+; <L>13455<pc>510,1<k1>muni (sections = [7])
+90560 old <P>{%munidruma%} <ab>m.</ab> aeschynomène, <ab>bot.</ab>
+;
+90560 new <P>{%munidruma%} <ab>m.</ab> æschynomène, <ab>bot.</ab>
+; ========================================================
+; <L>13494<pc>511,2<k1>muhUrta (sections = [2])
+90819 old [soit la 30e partie du jour, soit la 6e du <s1 slp1="prahAra">prahāra</s1> ou 2
+;
+90819 new [soit la 30ᵉ partie du jour, soit la 6ᵉ du <s1 slp1="prahAra">prahāra</s1> ou 2
+; ========================================================
+; <L>13515<pc>512,2<k1>mUla (sections = [2])
+90973 old primitif. <lbinfo n="6"/> || Racine d'arum campanulé. -- <ab>M.</ab> <ab>n.</ab> le 19e astérisme
+;
+90973 new primitif. <lbinfo n="6"/> || Racine d'arum campanulé. -- <ab>M.</ab> <ab>n.</ab> le 19ᵉ astérisme
+; ========================================================
+; <L>13524<pc>513,1<k1>mfga (sections = [2])
+91140 old <P>{%mṛgaśiras%} <ab>m.</ab> <ab>n.</ab> le 5e astérisme lunaire, contenant
+;
+91140 new <P>{%mṛgaśiras%} <ab>m.</ab> <ab>n.</ab> le 5ᵉ astérisme lunaire, contenant
+; ========================================================
+; <L>13546<pc>514,1<k1>mftyu (sections = [7])
+91312 old <P>{%mṛtyuvañcana%} <ab>m.</ab> corbeau. || AEgle marmelos, <lbinfo n="6"/> <ab>bot.</ab> || <s1 slp1="Siva">Śiva</s1>.
+;
+91312 new <P>{%mṛtyuvañcana%} <ab>m.</ab> corbeau. || Ægle marmelos, <lbinfo n="6"/> <ab>bot.</ab> || <s1 slp1="Siva">Śiva</s1>.
+; ========================================================
+; <L>13622<pc>517,2<k1>mEtra (sections = [2])
+91878 old <ab>m.</ab> brâhmane. -- <ab>S.</ab> <ab>n.</ab> <ab>f.</ab> amitié. || Le 17e astérisme lunaire. ||
+;
+91878 new <ab>m.</ab> brâhmane. -- <ab>S.</ab> <ab>n.</ab> <ab>f.</ab> amitié. || Le 17ᵉ astérisme lunaire. ||
+; ========================================================
+; <L>13622<pc>517,2<k1>mEtra (sections = [2])
+91881 old <P>{%maitrabha%} <ab>n.</ab> le 17e astérisme lunaire.
+;
+91881 new <P>{%maitrabha%} <ab>n.</ab> le 17ᵉ astérisme lunaire.
+; ========================================================
+; <L>13684<pc>520,1<k1>ya (sections = [3, 2])
+92302 old {#ya#}¦ {%ya%} 40e lettre et 1re semivoyelle de l'alphabet <lbinfo n="6"/>
+;
+92302 new {#ya#}¦ {%ya%} 40ᵉ lettre et 1ʳᵉ semivoyelle de l'alphabet <lbinfo n="6"/>
+; ========================================================
+; <L>13702<pc>521,1<k1>yajus (sections = [2])
+92444 old hymne, <ab>Vd.</ab> || Le 3e <s1 slp1="veda">Veda</s1>, comprenant le {%Yajur blanc%} et le
+;
+92444 new hymne, <ab>Vd.</ab> || Le 3ᵉ <s1 slp1="veda">Veda</s1>, comprenant le {%Yajur blanc%} et le
+; ========================================================
+; <L>13703<pc>521,1<k1>yajYa (sections = [2])
+92495 old sacrifice. -- <ab>S.</ab> <ab>m.</ab> le 3e <s1 slp1="yuga">yuga</s1>.
+;
+92495 new sacrifice. -- <ab>S.</ab> <ab>m.</ab> le 3ᵉ <s1 slp1="yuga">yuga</s1>.
+; ========================================================
+; <L>13713<pc>521,2<k1>yati (sections = [7])
+92567 old || mendiant buddhiste ou jaena. -- <ab>F.</ab> action de dompter, de réfréner.
+;
+92567 new || mendiant buddhiste ou jæna. -- <ab>F.</ab> action de dompter, de réfréner.
+; ========================================================
+; <L>13736<pc>523,1<k1>yayAti (sections = [2])
+92860 old {#yayAti#}¦ {%yayāti%} <ab>m.</ab> <ab>np.</ab> du 5e roi de la dynastie lunaire.
+;
+92860 new {#yayAti#}¦ {%yayāti%} <ab>m.</ab> <ab>np.</ab> du 5ᵉ roi de la dynastie lunaire.
+; ========================================================
+; <L>13790<pc>525,1<k1>yAma (sections = [2])
+93248 old Au <ab>pl.</ab> les dieux du 3e ordre, qui ont succédé à <s1 slp1="yama">Yama</s1>, <ab>Bd.</ab>
+;
+93248 new Au <ab>pl.</ab> les dieux du 3ᵉ ordre, qui ont succédé à <s1 slp1="yama">Yama</s1>, <ab>Bd.</ab>
+; ========================================================
+; <L>13833<pc>526,2<k1>yuga (sections = [3])
+93509 old joug est attaché. || La 1re des 7 chaînes de montagnes qui
+;
+93509 new joug est attaché. || La 1ʳᵉ des 7 chaînes de montagnes qui
+; ========================================================
+; <L>13890<pc>529,1<k1>yoni (sections = [2])
+93981 old <P>{%yonidevatā%} <ab>f.</ab> le 11e astérisme lunaire ou
+;
+93981 new <P>{%yonidevatā%} <ab>f.</ab> le 11ᵉ astérisme lunaire ou
+; ========================================================
+; <L>13912<pc>530,1<k1>ra (sections = [2])
+94106 old {#ra#}¦ {%ra%} 41e lettre et 2e semivoyelle de l'alphabet <lbinfo n="6"/>
+;
+94106 new {#ra#}¦ {%ra%} 41ᵉ lettre et 2ᵉ semivoyelle de l'alphabet <lbinfo n="6"/>
+; ========================================================
+; <L>13916<pc>530,1<k1>rakta (sections = [7])
+94136 old <P>{%raktaka%} <ab>m.</ab> safranum; || gomphraena rouge; <lbinfo n="3"/> pentapetes et ixora,
+;
+94136 new <P>{%raktaka%} <ab>m.</ab> safranum; || gomphræna rouge; <lbinfo n="3"/> pentapetes et ixora,
+; ========================================================
+; <L>13950<pc>532,2<k1>rajas (sections = [2])
+94532 old instinct, désir; || le 2e {%guṇa%} ou état intellectuel, <ab>cf.</ab>
+;
+94532 new instinct, désir; || le 2ᵉ {%guṇa%} ou état intellectuel, <ab>cf.</ab>
+; ========================================================
+; <L>13966<pc>533,2<k1>ratna (sections = [4])
+94742 old <P>{%ratnaprabhā%} <ab>f.</ab> le 1er des 7 enfers, <ab>Bd.</ab>
+;
+94742 new <P>{%ratnaprabhā%} <ab>f.</ab> le 1ᵉʳ des 7 enfers, <ab>Bd.</ab>
+; ========================================================
+; <L>14069<pc>539,2<k1>rADa (sections = [2])
+95815 old {%rādhā%} le 16e astérisme lunaire. || <ab>Np.</ab> de la maîtresse de
+;
+95815 new {%rādhā%} le 16ᵉ astérisme lunaire. || <ab>Np.</ab> de la maîtresse de
+; ========================================================
+; <L>14079<pc>539,2<k1>rAma (sections = [2])
+95890 old <P>{%rāmabhadra%} <ab>m.</ab> le 2e <s1 slp1="rAma">Rāma</s1>.
+;
+95890 new <P>{%rāmabhadra%} <ab>m.</ab> le 2ᵉ <s1 slp1="rAma">Rāma</s1>.
+; ========================================================
+; <L>14102<pc>540,2<k1>rAserasa (sections = [2])
+96021 old {%rāsa;%} || la 6e nuit après l'accouchement, <lbinfo n="5"/> où la famille
+;
+96021 new {%rāsa;%} || la 6ᵉ nuit après l'accouchement, <lbinfo n="5"/> où la famille
+; ========================================================
+; <L>14108<pc>540,2<k1>ri (sections = [2])
+96067 old {#ri#}¦ {%ri%} <ab>m.</ab> danse; || chute; || perte, dommage. <lbinfo n="5"/> || La 2e
+;
+96067 new {#ri#}¦ {%ri%} <ab>m.</ab> danse; || chute; || perte, dommage. <lbinfo n="5"/> || La 2ᵉ
+; ========================================================
+; <L>14110<pc>540,2<k1>rikta (sections = [2])
+96078 old forêt. -- <ab>F.</ab> 4e, 5e ou 14e jour de la quinzaine lunaire.
+;
+96078 new forêt. -- <ab>F.</ab> 4ᵉ, 5ᵉ ou 14ᵉ jour de la quinzaine lunaire.
+; ========================================================
+; <L>14188<pc>543,1<k1>rudra (sections = [7])
+96543 old <P>{%rudrākṣa%} <ab>m.</ab> {%(akṣa)%} <ab>esp.</ab> d'elaeocarpus, <ab>bot.</ab> -- <ab>N.</ab> sa semence.
+;
+96543 new <P>{%rudrākṣa%} <ab>m.</ab> {%(akṣa)%} <ab>esp.</ab> d'elæocarpus, <ab>bot.</ab> -- <ab>N.</ab> sa semence.
+; ========================================================
+; <L>14257<pc>545,2<k1>revanta (sections = [2])
+96961 old {#revanta#}¦ {%revanta%} <ab>m.</ab> <ab>np.</ab> du 5e <s1 slp1="manu">Manu</s1> du présent <lbinfo n="4"/> <s1 slp1="kalpa">kalpa</s1>.
+;
+96961 new {#revanta#}¦ {%revanta%} <ab>m.</ab> <ab>np.</ab> du 5ᵉ <s1 slp1="manu">Manu</s1> du présent <lbinfo n="4"/> <s1 slp1="kalpa">kalpa</s1>.
+; ========================================================
+; <L>14306<pc>547,2<k1>rohiRa (sections = [2])
+97314 old {%rohiṇī%} le 4e astérisme lunaire, nommé le Char; || une des
+;
+97314 new {%rohiṇī%} le 4ᵉ astérisme lunaire, nommé le Char; || une des
+; ========================================================
+; <L>14318<pc>548,2<k1>rOrava (sections = [2])
+97407 old {%ravaṇa.%} -- <ab>S.</ab> <ab>m.</ab> monstre; sauvage. || Le 4e enfer brûlant.
+;
+97407 new {%ravaṇa.%} -- <ab>S.</ab> <ab>m.</ab> monstre; sauvage. || Le 4ᵉ enfer brûlant.
+; ========================================================
+; <L>14321<pc>548,1<k1>la (sections = [2])
+97426 old {#la#}¦ {%la%} 42e lettre et 3e semivoyelle de l'alphabet <lbinfo n="6"/>
+;
+97426 new {#la#}¦ {%la%} 42ᵉ lettre et 3ᵉ semivoyelle de l'alphabet <lbinfo n="6"/>
+; ========================================================
+; <L>14374<pc>550,2<k1>latA (sections = [7])
+97822 old <P>{%latāmādhavī%} <ab>f.</ab> gaertnera, <ab>bot.</ab>
+;
+97822 new <P>{%latāmādhavī%} <ab>f.</ab> gærtnera, <ab>bot.</ab>
+; ========================================================
+; <L>14580<pc>556,2<k1>loka (sections = [2])
+99104 old <P>{%lokāloka%} <ab>m.</ab> chaîne qui entoure la 7e des mers
+;
+99104 new <P>{%lokāloka%} <ab>m.</ab> chaîne qui entoure la 7ᵉ des mers
+; ========================================================
+; <L>14604<pc>558,1<k1>loha (sections = [2])
+99343 old [cérémonie du 5e jour de la quinzaine <lbinfo n="5"/> claire du mois <s1 slp1="ASvina">āśvina</s1>].
+;
+99343 new [cérémonie du 5ᵉ jour de la quinzaine <lbinfo n="5"/> claire du mois <s1 slp1="ASvina">āśvina</s1>].
+; ========================================================
+; <L>14607<pc>558,2<k1>lohottama (sections = [4])
+99380 old {#lohottama#}¦ {%lohottama%} <ab>n.</ab> {%(uttama)%} le 1er des
+;
+99380 new {#lohottama#}¦ {%lohottama%} <ab>n.</ab> {%(uttama)%} le 1ᵉʳ des
+; ========================================================
+; <L>14616<pc>559,1<k1>va (sections = [2])
+99435 old {#va#}¦ {%va%} 43e lettre et 4e semivoyelle de l'alphabet <lbinfo n="6"/>
+;
+99435 new {#va#}¦ {%va%} 43ᵉ lettre et 4ᵉ semivoyelle de l'alphabet <lbinfo n="6"/>
+; ========================================================
+; <L>14618<pc>559,1<k1>vaka (sections = [7])
+99451 old {#vaka#}¦ {%vaka%} <ab>m.</ab> grue [oiseau]. || AEschynomene <lbinfo n="4"/> grandiflora, <ab>bot.</ab>
+;
+99451 new {#vaka#}¦ {%vaka%} <ab>m.</ab> grue [oiseau]. || Æschynomene <lbinfo n="4"/> grandiflora, <ab>bot.</ab>
+; ========================================================
+; <L>14618<pc>559,1<k1>vaka (sections = [7])
+99463 old <P>{%vakapuṣpa%} <ab>m.</ab> aeschynomene, <ab>bot.</ab>
+;
+99463 new <P>{%vakapuṣpa%} <ab>m.</ab> æschynomene, <ab>bot.</ab>
+; ========================================================
+; <L>14646<pc>560,1<k1>vaNga (sections = [7])
+99674 old <P>{%vaṅgasena%} <ab>m.</ab> aeschynomene, <ab>bot.</ab>
+;
+99674 new <P>{%vaṅgasena%} <ab>m.</ab> æschynomene, <ab>bot.</ab>
+; ========================================================
+; <L>14653<pc>560,2<k1>vajra (sections = [7])
+99786 old <P>{%vajraśṛṅkhalā%} <ab>f.</ab> une des <s1 slp1="vidyAdevI">Vidyādevī</s1>s des Jaenas.
+;
+99786 new <P>{%vajraśṛṅkhalā%} <ab>f.</ab> une des <s1 slp1="vidyAdevI">Vidyādevī</s1>s des Jaïnas.
+; ========================================================
+; <L>14709<pc>563,1<k1>vana (sections = [7])
+100166 old <P>{%vanago%} <ab>f.</ab> et {%vanagava%} <ab>m.</ab> le bos gavaeus ou {%gavaya.%}
+;
+100166 new <P>{%vanago%} <ab>f.</ab> et {%vanagava%} <ab>m.</ab> le bos gavæus ou {%gavaya.%}
+; ========================================================
+; <L>14778<pc>566,1<k1>varizWa (sections = [2])
+100748 old <lang n="greek">ἀρείων</lang>. -- <ab>S.</ab> <ab>m.</ab> le 8e <s1 slp1="yoga">yoga</s1> astronomique.
+;
+100748 new <lang n="greek">ἀρείων</lang>. -- <ab>S.</ab> <ab>m.</ab> le 8ᵉ <s1 slp1="yoga">yoga</s1> astronomique.
+; ========================================================
+; <L>14904<pc>571,2<k1>vasanta (sections = [2])
+101694 old {%caitra.%} || Le 5e {%rāga%} ou mode musical. -- <ab>F.</ab> [{%ī%}]
+;
+101694 new {%caitra.%} || Le 5ᵉ {%rāga%} ou mode musical. -- <ab>F.</ab> [{%ī%}]
+; ========================================================
+; <L>14904<pc>571,2<k1>vasanta (sections = [7])
+101695 old bignonia; gaertnera <lbinfo n="4"/> racemosa, <ab>bot.</ab>
+;
+101695 new bignonia; gærtnera <lbinfo n="4"/> racemosa, <ab>bot.</ab>
+; ========================================================
+; <L>14912<pc>571,2<k1>vasu (sections = [7])
+101742 old AEschynomène; trophis; <ab>bot.</ab> -- <ab>A.</ab> doux, d'une odeur douce. || Sec,
+;
+101742 new Æschynomène; trophis; <ab>bot.</ab> -- <ab>A.</ab> doux, d'une odeur douce. || Sec,
+; ========================================================
+; <L>14912<pc>571,2<k1>vasu (sections = [7])
+101745 old <P>{%vasuka%} <ab>m.</ab> asclepias gigantea; aesc hymene <lbinfo n="4"/> 
+;
+101745 new <P>{%vasuka%} <ab>m.</ab> asclepias gigantea; æsc hymene <lbinfo n="4"/> 
+; ========================================================
+; <L>14912<pc>571,2<k1>vasu (sections = [7])
+101786 old <P>{%vasuhaṭṭa%} <ab>m.</ab> aeschynomene, <ab>bot.</ab>
+;
+101786 new <P>{%vasuhaṭṭa%} <ab>m.</ab> æschynomene, <ab>bot.</ab>
+; ========================================================
+; <L>14941<pc>573,2<k1>vA (sections = [7])
+102073 old <lang n="greek">ἄω, ἄημι, ἀήρ</lang>; <ab>lat.</ab> aer.
+;
+102073 new <lang n="greek">ἄω, ἄημι, ἀήρ</lang>; <ab>lat.</ab> ær.
+; ========================================================
+; <L>15038<pc>577,1<k1>vAma (sections = [2])
+102787 old céleste [<s1 slp1="vizRu">Viṣṇu</s1> dans sa 5e incarnation]. || L'éléphant du sud. ||
+;
+102787 new céleste [<s1 slp1="vizRu">Viṣṇu</s1> dans sa 5ᵉ incarnation]. || L'éléphant du sud. ||
+; ========================================================
+; <L>15078<pc>579,1<k1>vAruRI (sections = [2])
+103112 old 25e astérisme lunaire. || <ab>Esp.</ab> de {%dūrbā.%} || Sorte
+;
+103112 new 25ᵉ astérisme lunaire. || <ab>Esp.</ab> de {%dūrbā.%} || Sorte
+; ========================================================
+; <L>15133<pc>580,2<k1>vAsanta (sections = [7])
+103424 old auriculé; gaertnera, <ab>bot.</ab>
+;
+103424 new auriculé; gærtnera, <ab>bot.</ab>
+; ========================================================
+; <L>15283<pc>585,2<k1>vicitra (sections = [2])
+104377 old <P>{%vicitravīrya%} <ab>m.</ab> <ab>np.</ab> d'un roi, le 22e de la dynastie
+;
+104377 new <P>{%vicitravīrya%} <ab>m.</ab> <ab>np.</ab> d'un roi, le 22ᵉ de la dynastie
+; ========================================================
+; <L>15304<pc>586,2<k1>vijaye (sections = [2])
+104510 old lunaire [3e, 8e ou 13e]; le 10e jour de la quinzaine
+;
+104510 new lunaire [3ᵉ, 8ᵉ ou 13ᵉ]; le 10ᵉ jour de la quinzaine
+; ========================================================
+; <L>15360<pc>588,2<k1>vitala (sections = [2])
+104863 old {#vitala#}¦ {%vitala%} <ab>n.</ab> le 2e degré de l'enfer {%pātāla%} en
+;
+104863 new {#vitala#}¦ {%vitala%} <ab>n.</ab> le 2ᵉ degré de l'enfer {%pātāla%} en
+; ========================================================
+; <L>15420<pc>590,2<k1>vidyA (sections = [7])
+105257 old aux Jaenas].
+;
+105257 new aux Jaïnas].
+; ========================================================
+; <L>15465<pc>592,1<k1>vinaya (sections = [2])
+105581 old  livre de la Discipline, 2e partie du {%tripiṭaka,%} <ab>Bd.</ab>
+;
+105581 new  livre de la Discipline, 2ᵉ partie du {%tripiṭaka,%} <ab>Bd.</ab>
+; ========================================================
+; <L>15683<pc>599,2<k1>virAj (sections = [3])
+106961 old caste royale. || Eclat; beauté. || <s1 slp1="virAj">Virāj</s1>, 1re forme revêtue par
+;
+106961 new caste royale. || Eclat; beauté. || <s1 slp1="virAj">Virāj</s1>, 1ʳᵉ forme revêtue par
+; ========================================================
+; <L>15699<pc>600,1<k1>virUQa (sections = [2])
+107054 old <P>{%virūḍhaka%} <ab>n.</ab> <ab>np.</ab> d'une déité résidant au 4e degré sur
+;
+107054 new <P>{%virūḍhaka%} <ab>n.</ab> <ab>np.</ab> d'une déité résidant au 4ᵉ degré sur
+; ========================================================
+; <L>15700<pc>600,1<k1>virUpa (sections = [2])
+107072 old 4e degré sur le <s1 slp1="meru">Meru</s1>, à l'occident. <lbinfo n="5"/>
+;
+107072 new 4ᵉ degré sur le <s1 slp1="meru">Meru</s1>, à l'occident. <lbinfo n="5"/>
+; ========================================================
+; <L>15706<pc>600,2<k1>viroDa (sections = [2])
+107114 old <P>{%virodhikṛt%} <ab>m.</ab> {%(kṛ)%} la 45e année du cycle indien.
+;
+107114 new <P>{%virodhikṛt%} <ab>m.</ab> {%(kṛ)%} la 45ᵉ année du cycle indien.
+; ========================================================
+; <L>15706<pc>600,2<k1>viroDa (sections = [2])
+107117 old || ennemi. -- <ab>S.</ab> <ab>m.</ab> la 24e année du cycle indien.
+;
+107117 new || ennemi. -- <ab>S.</ab> <ab>m.</ab> la 24ᵉ année du cycle indien.
+; ========================================================
+; <L>15747<pc>602,1<k1>vilva (sections = [7])
+107378 old {#vilva#}¦ {%vilva%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab> -- <ab>N.</ab> le fruit de <s1 slp1="vilva">vilva</s1>.
+;
+107378 new {#vilva#}¦ {%vilva%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab> -- <ab>N.</ab> le fruit de <s1 slp1="vilva">vilva</s1>.
+; ========================================================
+; <L>15810<pc>603,2<k1>viS (sections = [2])
+107725 old peuple; || un homme de la 3e caste, un <s1 slp1="vESya">vaiśya</s1>. || Au <ab>pl.</ab> {%viśas,%}
+;
+107725 new peuple; || un homme de la 3ᵉ caste, un <s1 slp1="vESya">vaiśya</s1>. || Au <ab>pl.</ab> {%viśas,%}
+; ========================================================
+; <L>15822<pc>604,1<k1>viSAKa (sections = [2])
+107794 old <s1 slp1="kArttikeya">Kārttikeya</s1>. -- <ab>F.</ab> le 16e astérisme lunaire.
+;
+107794 new <s1 slp1="kArttikeya">Kārttikeya</s1>. -- <ab>F.</ab> le 16ᵉ astérisme lunaire.
+; ========================================================
+; <L>15882<pc>607,2<k1>vizkaBnomi (sections = [4])
+108403 old || Le 1er des 27 <s1 slp1="yoga">yoga</s1>s astronomiques. || Arbre.
+;
+108403 new || Le 1ᵉʳ des 27 <s1 slp1="yoga">yoga</s1>s astronomiques. || Arbre.
+; ========================================================
+; <L>15889<pc>607,2<k1>vizwi (sections = [2])
+108449 old 7e {%kāraṇa%} ou période astronomique.
+;
+108449 new 7ᵉ {%kāraṇa%} ou période astronomique.
+; ========================================================
+; <L>15892<pc>608,1<k1>vizRu (sections = [2])
+108471 old <P>{%viṣṇudaivatyā%} <ab>f.</ab> le 12e jour de la quinzaine <lbinfo n="5"/> lunaire.
+;
+108471 new <P>{%viṣṇudaivatyā%} <ab>f.</ab> le 12ᵉ jour de la quinzaine <lbinfo n="5"/> lunaire.
+; ========================================================
+; <L>15995<pc>612,2<k1>vf (sections = [2])
+109291 old {%avaram%} [2e et 3e <ab>p.</ab> {%avar%}]. {@Ps.@} {%vriye;%} <ab>a1.</ab> 3
+;
+109291 new {%avaram%} [2ᵉ et 3ᵉ <ab>p.</ab> {%avar%}]. {@Ps.@} {%vriye;%} <ab>a1.</ab> 3
+; ========================================================
+; <L>15997<pc>612,2<k1>vfka (sections = [7])
+109314 old térébenthine; || aeschynomene <lbinfo n="4"/> grandiflora; cissampelos hexandra; <ab>bot.</ab>
+;
+109314 new térébenthine; || æschynomene <lbinfo n="4"/> grandiflora; cissampelos hexandra; <ab>bot.</ab>
+; ========================================================
+; <L>16003<pc>613,1<k1>vfj (sections = [2])
+109401 old {%vavarja;%} [a 2. <ab>vd.</ab> 2e et 3e <ab>p.</ab> {%varg%}] etc. ||
+;
+109401 new {%vavarja;%} [a 2. <ab>vd.</ab> 2ᵉ et 3ᵉ <ab>p.</ab> {%varg%}] etc. ||
+; ========================================================
+; <L>16019<pc>614,1<k1>vfdDi (sections = [2])
+109562 old accroissement. || Croissance de la Lune; || le 11e <s1 slp1="yoga">yoga</s1>
+;
+109562 new accroissement. || Croissance de la Lune; || le 11ᵉ <s1 slp1="yoga">yoga</s1>
+; ========================================================
+; <L>16019<pc>614,1<k1>vfdDi (sections = [2])
+109567 old défalcation. || La {%vṛddhi%} ou augment de la voyelle au 2e
+;
+109567 new défalcation. || La {%vṛddhi%} ou augment de la voyelle au 2ᵉ
+; ========================================================
+; <L>16019<pc>614,1<k1>vfdDi (sections = [4])
+109568 old degré [le 1er degré est le {%guṇa%}], M § 8.
+;
+109568 new degré [le 1ᵉʳ degré est le {%guṇa%}], M § 8.
+; ========================================================
+; <L>16048<pc>615,2<k1>vfzAkapi (sections = [7])
+109776 old <P>{%vṛṣākapāyī%} f l'épouse d'<s1 slp1="agni">Agni</s1>; <s1 slp1="lakzmI">Lakṣmī</s1>; Gaerî;
+;
+109776 new <P>{%vṛṣākapāyī%} f l'épouse d'<s1 slp1="agni">Agni</s1>; <s1 slp1="lakzmI">Lakṣmī</s1>; Gærî;
+; ========================================================
+; <L>16061<pc>616,1<k1>vfhat (sections = [2])
+109882 old <P>{%vṛhatphala%} <ab>m.</ab> dieux du 18e ordre, <ab>Bd.</ab>
+;
+109882 new <P>{%vṛhatphala%} <ab>m.</ab> dieux du 18ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>16090<pc>617,2<k1>veda (sections = [7])
+110142 old buddhiste, un jaena.
+;
+110142 new buddhiste, un jæna.
+; ========================================================
+; <L>16163<pc>620,1<k1>vEjayanta (sections = [7])
+110625 old de guirlande. || AEschynomene sesban; premna spinosa, etc., <ab>bot.</ab>
+;
+110625 new de guirlande. || Æschynomene sesban; premna spinosa, etc., <ab>bot.</ab>
+; ========================================================
+; <L>16163<pc>620,1<k1>vEjayanta (sections = [7])
+110628 old bannière. || AEschynomène, etc.
+;
+110628 new bannière. || Æschynomène, etc.
+; ========================================================
+; <L>16241<pc>622,2<k1>vESvI (sections = [2])
+111062 old {#vESvI#}¦ {%vaiśvī%} <ab>f.</ab> {%(viśva)%} le 21e astérisme lunaire.
+;
+111062 new {#vESvI#}¦ {%vaiśvī%} <ab>f.</ab> {%(viśva)%} le 21ᵉ astérisme lunaire.
+; ========================================================
+; <L>16290<pc>623,2<k1>vyatipAta (sections = [2])
+111302 old présage horrible. || Mépris. <lbinfo n="5"/> || Le 17e <s1 slp1="yoga">yoga</s1> astronomique.
+;
+111302 new présage horrible. || Mépris. <lbinfo n="5"/> || Le 17ᵉ <s1 slp1="yoga">yoga</s1> astronomique.
+; ========================================================
+; <L>16362<pc>626,2<k1>vyAGAta (sections = [2])
+111779 old perturbation. || Obstacle, <lbinfo n="6"/> empêchement. || Le 13e <s1 slp1="yoga">yoga</s1>
+;
+111779 new perturbation. || Obstacle, <lbinfo n="6"/> empêchement. || Le 13ᵉ <s1 slp1="yoga">yoga</s1>
+; ========================================================
+; <L>16479<pc>631,1<k1>Sa (sections = [4, 2])
+112563 old {#Sa#}¦ {%śa%} 44e lettre et 1er sifflante de l'alphabet <lbinfo n="3"/>
+;
+112563 new {#Sa#}¦ {%śa%} 44ᵉ lettre et 1ᵉʳ sifflante de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>16482<pc>631,1<k1>Saka (sections = [7])
+112592 old Sacae. -- <ab>Np.</ab> du roi <s1 slp1="SAlivAhana">Śālivāhana</s1>; || les descendants de ce roi; ||
+;
+112592 new Sacæ. -- <ab>Np.</ab> du roi <s1 slp1="SAlivAhana">Śālivāhana</s1>; || les descendants de ce roi; ||
+; ========================================================
+; <L>16483<pc>631,1<k1>Sakawa (sections = [2])
+112604 old <P>{%śakaṭāhvā%} <ab>f.</ab> {%(ā; kve)%} <s1 slp1="rohiRI">Rohiṇī</s1> ou le 4e
+;
+112604 new <P>{%śakaṭāhvā%} <ab>f.</ab> {%(ā; kve)%} <s1 slp1="rohiRI">Rohiṇī</s1> ou le 4ᵉ
+; ========================================================
+; <L>16493<pc>631,2<k1>Sakft (sections = [1])
+112690 old 1o] excrément, ordure, fumier. || <ab>Gr.</ab>
+;
+112690 new 1°] excrément, ordure, fumier. || <ab>Gr.</ab>
+; ========================================================
+; <L>16513<pc>635,1<k1>SacI (sections = [2])
+112940 old facile. || <ab>Np.</ab> de l'épouse d'<s1 slp1="indra">Indra</s1>. || Le 7e {%kāraṇa%}
+;
+112940 new facile. || <ab>Np.</ab> de l'épouse d'<s1 slp1="indra">Indra</s1>. || Le 7ᵉ {%kāraṇa%}
+; ========================================================
+; <L>16528<pc>635,2<k1>Sata (sections = [2])
+113104 old <P>{%śatabhiṣaj%} et {%śatabhiṣā%} <ab>f.</ab> le 25e astérisme lunaire
+;
+113104 new <P>{%śatabhiṣaj%} et {%śatabhiṣā%} <ab>f.</ab> le 25ᵉ astérisme lunaire
+; ========================================================
+; <L>16533<pc>636,2<k1>Satru (sections = [2])
+113186 old <P>{%śatrughna%} <ab>m.</ab> <ab>np.</ab> du 2e frère de <s1 slp1="rAma">Rāma</s1>.
+;
+113186 new <P>{%śatrughna%} <ab>m.</ab> <ab>np.</ab> du 2ᵉ frère de <s1 slp1="rAma">Rāma</s1>.
+; ========================================================
+; <L>16640<pc>640,2<k1>SaSa (sections = [7])
+113961 old Myrrhe. || Le lôdhra, <ab>bot.</ab> || <ab>Germ.</ab> hase; russe zaez.
+;
+113961 new Myrrhe. || Le lôdhra, <ab>bot.</ab> || <ab>Germ.</ab> hase; russe zæz.
+; ========================================================
+; <L>16663<pc>641,2<k1>SAka (sections = [2])
+114152 old -- <ab>M.</ab> {%(śak)%} pouvoir, force. || Le 6e grand <s1 slp1="dvIpa">dvīpa</s1>, entouré par
+;
+114152 new -- <ab>M.</ab> {%(śak)%} pouvoir, force. || Le 6ᵉ grand <s1 slp1="dvIpa">dvīpa</s1>, entouré par
+; ========================================================
+; <L>16702<pc>643,1<k1>SARqilya (sections = [7])
+114377 old aegle marmelos, <ab>bot.</ab> || <ab>Np.</ab> d'un Muni.
+;
+114377 new ægle marmelos, <ab>bot.</ab> || <ab>Np.</ab> d'un Muni.
+; ========================================================
+; <L>16705<pc>643,1<k1>SAtayAmi (sections = [7])
+114397 old jambes. || <ab>Lat.</ab> caedere.
+;
+114397 new jambes. || <ab>Lat.</ab> cædere.
+; ========================================================
+; <L>16715<pc>643,2<k1>SAntanu (sections = [2])
+114451 old {#SAntanu#}¦ {%śāntanu%} <ab>m.</ab> <ab>np.</ab> du 21e roi de la dynastie
+;
+114451 new {#SAntanu#}¦ {%śāntanu%} <ab>m.</ab> <ab>np.</ab> du 21ᵉ roi de la dynastie
+; ========================================================
+; <L>16820<pc>648,2<k1>Siva (sections = [2])
+115391 old <s1 slp1="Siva">Śiva</s1>, successeur de <s1 slp1="rudra">Rudra</s1> dans le panthéon indien, la 3e personne <lbinfo n="5"/>
+;
+115391 new <s1 slp1="Siva">Śiva</s1>, successeur de <s1 slp1="rudra">Rudra</s1> dans le panthéon indien, la 3ᵉ personne <lbinfo n="5"/>
+; ========================================================
+; <L>16820<pc>648,2<k1>Siva (sections = [7])
+115421 old <P>{%śivapriya%} <ab>m.</ab> cristal. || AEschynomene grandiflora, <ab>bot.</ab> -- <ab>F.</ab>
+;
+115421 new <P>{%śivapriya%} <ab>m.</ab> cristal. || Æschynomene grandiflora, <ab>bot.</ab> -- <ab>F.</ab>
+; ========================================================
+; <L>16820<pc>648,2<k1>Siva (sections = [7])
+115422 old <s1 slp1="durgA">Durgā</s1>. -- <ab>N.</ab> graine d'elaeocarpus.
+;
+115422 new <s1 slp1="durgA">Durgā</s1>. -- <ab>N.</ab> graine d'elæocarpus.
+; ========================================================
+; <L>16820<pc>648,2<k1>Siva (sections = [7])
+115424 old <P>{%śivamallī%} <ab>f.</ab> aeschynomene grandiflora, <ab>bot.</ab>
+;
+115424 new <P>{%śivamallī%} <ab>f.</ab> æschynomene grandiflora, <ab>bot.</ab>
+; ========================================================
+; <L>16820<pc>648,2<k1>Siva (sections = [7])
+115437 old <P>{%śivacekhara%} <ab>m.</ab> la lune. || AEschynomene grandiflora, <ab>bot.</ab>
+;
+115437 new <P>{%śivacekhara%} <ab>m.</ab> la lune. || Æschynomene grandiflora, <ab>bot.</ab>
+; ========================================================
+; <L>16820<pc>648,2<k1>Siva (sections = [7])
+115439 old <P>{%śivākṣa%} <ab>n.</ab> {%(akṣa)%} graine d'elaeocarpus.
+;
+115439 new <P>{%śivākṣa%} <ab>n.</ab> {%(akṣa)%} graine d'elæocarpus.
+; ========================================================
+; <L>16880<pc>651,1<k1>Suka (sections = [7])
+115911 old <P>{%śukanāsa%} <ab>m.</ab> bignonia indica; aeschynomene <lbinfo n="4"/> sesban; <ab>bot.</ab>
+;
+115911 new <P>{%śukanāsa%} <ab>m.</ab> bignonia indica; æschynomene <lbinfo n="4"/> sesban; <ab>bot.</ab>
+; ========================================================
+; <L>16910<pc>653,1<k1>SuBa (sections = [2])
+116220 old <P>{%śubhakṛtsna%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 15e ordre, <lbinfo n="4"/> <ab>Bd.</ab>
+;
+116220 new <P>{%śubhakṛtsna%} <ab>m.</ab> Au <ab>pl.</ab> les dieux du 15ᵉ ordre, <lbinfo n="4"/> <ab>Bd.</ab>
+; ========================================================
+; <L>16911<pc>653,1<k1>SuBra (sections = [2])
+116253 old <P>{%śubhrakṛt%} <ab>m.</ab> {%(kṛ)%} la 36e année du cycle indien.
+;
+116253 new <P>{%śubhrakṛt%} <ab>m.</ab> {%(kṛ)%} la 36ᵉ année du cycle indien.
+; ========================================================
+; <L>16941<pc>654,2<k1>SUdra (sections = [2])
+116460 old {#SUdra#}¦ {%śūdra%} <ab>m.</ab> homme de la 4e caste, non <s1 slp1="Arya">ārya</s1>. -- <ab>F.</ab>
+;
+116460 new {#SUdra#}¦ {%śūdra%} <ab>m.</ab> homme de la 4ᵉ caste, non <s1 slp1="Arya">ārya</s1>. -- <ab>F.</ab>
+; ========================================================
+; <L>16994<pc>657,1<k1>SElAlin (sections = [7])
+116898 old danseur, histrion. || Par <ab>ext.</ab> voleur, <lbinfo n="5"/> escroc. || AEgle marmelos, <ab>bot.</ab>
+;
+116898 new danseur, histrion. || Par <ab>ext.</ab> voleur, <lbinfo n="5"/> escroc. || Ægle marmelos, <ab>bot.</ab>
+; ========================================================
+; <L>17013<pc>657,2<k1>SoBakft (sections = [2])
+117031 old {#SoBakft#}¦ {%śobhakṛt%} <ab>m.</ab> {%(śubh; kṛ)%} la 36e année <lbinfo n="3"/>
+;
+117031 new {#SoBakft#}¦ {%śobhakṛt%} <ab>m.</ab> {%(śubh; kṛ)%} la 36ᵉ année <lbinfo n="3"/>
+; ========================================================
+; <L>17014<pc>657,2<k1>SoBayAmi (sections = [1])
+117041 old -- <ab>S.</ab> <ab>m.</ab> le 5o <s1 slp1="yoga">yoga</s1> astronomique. <lbinfo n="6"/> || Planète. -- <ab>S.</ab> <ab>n.</ab> lotus.
+;
+117041 new -- <ab>S.</ab> <ab>m.</ab> le 5° <s1 slp1="yoga">yoga</s1> astronomique. <lbinfo n="6"/> || Planète. -- <ab>S.</ab> <ab>n.</ab> lotus.
+; ========================================================
+; <L>17090<pc>660,1<k1>Srava (sections = [2])
+117502 old demesticité. || Ecoulement. -- <ab>M.</ab> <ab>f.</ab> le 23e astérisme lunaire,
+;
+117502 new demesticité. || Ecoulement. -- <ab>M.</ab> <ab>f.</ab> le 23ᵉ astérisme lunaire,
+; ========================================================
+; <L>17093<pc>660,1<k1>SravizWa (sections = [2])
+117523 old nommée {%śraviṣṭhā,%} qui est le 24e astérisme lunaire et
+;
+117523 new nommée {%śraviṣṭhā,%} qui est le 24ᵉ astérisme lunaire et
+; ========================================================
+; <L>17117<pc>661,1<k1>SrI (sections = [7])
+117722 old <P>{%śrīphala%} <ab>m.</ab> aegle marmelos. -- <ab>F.</ab> [{%ī%}] phyllanthus
+;
+117722 new <P>{%śrīphala%} <ab>m.</ab> ægle marmelos. -- <ab>F.</ab> [{%ī%}] phyllanthus
+; ========================================================
+; <L>17117<pc>661,1<k1>SrI (sections = [2])
+117734 old <P>{%śrīmukha%} <ab>m.</ab> la 7e année du cycle indien.
+;
+117734 new <P>{%śrīmukha%} <ab>m.</ab> la 7ᵉ année du cycle indien.
+; ========================================================
+; <L>17117<pc>661,1<k1>SrI (sections = [2])
+117744 old <P>{%śrīrāga%} <ab>m.</ab> le 3e <s1 slp1="rAga">Rāga</s1> ou mode musical personnifié.
+;
+117744 new <P>{%śrīrāga%} <ab>m.</ab> le 3ᵉ <s1 slp1="rAga">Rāga</s1> ou mode musical personnifié.
+; ========================================================
+; <L>17117<pc>661,1<k1>SrI (sections = [7])
+117751 old les Jaenas, ❈ || Trou fart à un mur dans un mauvais dessein.
+;
+117751 new les Jaïnas, ❈ || Trou fart à un mur dans un mauvais dessein.
+; ========================================================
+; <L>17118<pc>661,2<k1>Sru (sections = [3, 2])
+117789 old {%śṛṇve%} 1re et 3e pers.]; <ab>a1.</ab> <ab>3p.</ab> {%aśrāvi;%} <ab>pp.</ab>
+;
+117789 new {%śṛṇve%} 1ʳᵉ et 3ᵉ pers.]; <ab>a1.</ab> <ab>3p.</ab> {%aśrāvi;%} <ab>pp.</ab>
+; ========================================================
+; <L>17136<pc>662,2<k1>Srotas (sections = [4])
+117939 old Loi, 1er état de l'<s1 slp1="Arya">ārya</s1>, <ab>Bd.</ab>
+;
+117939 new Loi, 1ᵉʳ état de l'<s1 slp1="Arya">ārya</s1>, <ab>Bd.</ab>
+; ========================================================
+; <L>17185<pc>664,1<k1>Sveta (sections = [2])
+118292 old || Nuage blanc. || Cheval blanc. || Cumin. || La 6e chaîne de
+;
+118292 new || Nuage blanc. || Cheval blanc. || Cumin. || La 6ᵉ chaîne de
+; ========================================================
+; <L>17189<pc>665,1<k1>za (sections = [2])
+118420 old {#za#}¦ {%ṣa%} 45e lettre et 2e sifflante de l'alphabet <lbinfo n="3"/>
+;
+118420 new {#za#}¦ {%ṣa%} 45ᵉ lettre et 2ᵉ sifflante de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>17196<pc>665,1<k1>zaw (sections = [2])
+118508 old <P>{%ṣaḍja%} <ab>m.</ab> {%(jan)%} la 4e note de la gamme indienne.
+;
+118508 new <P>{%ṣaḍja%} <ab>m.</ab> {%(jan)%} la 4ᵉ note de la gamme indienne.
+; ========================================================
+; <L>17206<pc>666,1<k1>zaz (sections = [1])
+118568 old <lang n="greek">ἕξ</lang>; <ab>goth.</ab> saihs; <ab>lith.</ab> szeszi; etc. || M § 51, 5o.
+;
+118568 new <lang n="greek">ἕξ</lang>; <ab>goth.</ab> saihs; <ab>lith.</ab> szeszi; etc. || M § 51, 5°.
+; ========================================================
+; <L>17208<pc>666,1<k1>zazWa (sections = [2])
+118595 old <lang n="greek">ἕϰτος</lang>; etc. -- <ab>S.</ab> <ab>f.</ab> [{%ī%}] le 6e jour de la quinzaine. ||
+;
+118595 new <lang n="greek">ἕϰτος</lang>; etc. -- <ab>S.</ab> <ab>f.</ab> [{%ī%}] le 6ᵉ jour de la quinzaine. ||
+; ========================================================
+; <L>17236<pc>667,1<k1>sa (sections = [2])
+118740 old {#sa#}¦ {%sa%} 46e lettre et 3e sifflante de l'alphabet <lbinfo n="3"/>
+;
+118740 new {#sa#}¦ {%sa%} 46ᵉ lettre et 3ᵉ sifflante de l'alphabet <lbinfo n="3"/>
+; ========================================================
+; <L>17251<pc>667,1<k1>sakft (sections = [2])
+118822 old revenir une fois à la vie [2e degré de l'<s1 slp1="Arya">ārya</s1>], <ab>Bd.</ab>
+;
+118822 new revenir une fois à la vie [2ᵉ degré de l'<s1 slp1="Arya">ārya</s1>], <ab>Bd.</ab>
+; ========================================================
+; <L>17331<pc>670,2<k1>saNGAta (sections = [2])
+119355 old meurtre. || Le 3e enfer <lbinfo n="3"/> brûlant.
+;
+119355 new meurtre. || Le 3ᵉ enfer <lbinfo n="3"/> brûlant.
+; ========================================================
+; <L>17378<pc>672,1<k1>saYjIva (sections = [4])
+119627 old {#saYjIva#}¦ {%sañjīva%} <ab>m.</ab> le 1er enfer brûlant.
+;
+119627 new {#saYjIva#}¦ {%sañjīva%} <ab>m.</ab> le 1ᵉʳ enfer brûlant.
+; ========================================================
+; <L>17437<pc>674,1<k1>sadA (sections = [7])
+120043 old <P>{%sadāphala%} <ab>m.</ab> cocotier; ficus glomerata; aegle marmelos;
+;
+120043 new <P>{%sadāphala%} <ab>m.</ab> cocotier; ficus glomerata; ægle marmelos;
+; ========================================================
+; <L>17517<pc>677,1<k1>sanDi (sections = [7])
+120551 old <P>{%sandhibandha%} <ab>m.</ab> kaempferia, <ab>bot.</ab>
+;
+120551 new <P>{%sandhibandha%} <ab>m.</ab> kæmpferia, <ab>bot.</ab>
+; ========================================================
+; <L>17555<pc>678,2<k1>sannyasAmi (sections = [2])
+120812 old brâhmanique du 4e ordre, pratiquant le renoncement.
+;
+120812 new brâhmanique du 4ᵉ ordre, pratiquant le renoncement.
+; ========================================================
+; <L>17568<pc>679,1<k1>saptan (sections = [1])
+120884 old <lang n="greek">ἑπτά</lang>; <ab>zd.</ab> hapta; <ab>lat.</ab> septem; etc. M § 51, 5o.
+;
+120884 new <lang n="greek">ἑπτά</lang>; <ab>zd.</ab> hapta; <ab>lat.</ab> septem; etc. M § 51, 5°.
+; ========================================================
+; <L>17568<pc>679,1<k1>saptan (sections = [2])
+120914 old <lang n="greek">ἕϐδομος</lang>; <ab>lat.</ab> septimus; <lbinfo n="6"/> etc. -- <ab>S.</ab> <ab>f.</ab> {%saptamī%} le 7e cas [le
+;
+120914 new <lang n="greek">ἕϐδομος</lang>; <ab>lat.</ab> septimus; <lbinfo n="6"/> etc. -- <ab>S.</ab> <ab>f.</ab> {%saptamī%} le 7ᵉ cas [le
+; ========================================================
+; <L>17568<pc>679,1<k1>saptan (sections = [2])
+120915 old locatif]; <lbinfo n="7"/> le 7e jour de la quinzaine.
+;
+120915 new locatif]; <lbinfo n="7"/> le 7ᵉ jour de la quinzaine.
+; ========================================================
+; <L>18186<pc>699,1<k1>sarpa (sections = [7])
+124580 old <P>{%sarpākṣa%} <ab>n.</ab> {%(akṣa)%} graine d'elaeocarpus.
+;
+124580 new <P>{%sarpākṣa%} <ab>n.</ab> {%(akṣa)%} graine d'elæocarpus.
+; ========================================================
+; <L>18190<pc>699,2<k1>sarva (sections = [2])
+124645 old -- <ab>S.</ab> <ab>m.</ab> la 21e année du cycle indien. 
+;
+124645 new -- <ab>S.</ab> <ab>m.</ab> la 21ᵉ année du cycle indien. 
+; ========================================================
+; <L>18190<pc>699,2<k1>sarva (sections = [2])
+124690 old <P>{%sarvadhārī%} <ab>f.</ab> {%(dhṛ)%} la 22e année du cycle indien.
+;
+124690 new <P>{%sarvadhārī%} <ab>f.</ab> {%(dhṛ)%} la 22ᵉ année du cycle indien.
+; ========================================================
+; <L>18190<pc>699,2<k1>sarva (sections = [7])
+124760 old <P>{%sarvasiddhi%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab>
+;
+124760 new <P>{%sarvasiddhi%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab>
+; ========================================================
+; <L>18204<pc>701,1<k1>savitf (sections = [2])
+124887 old <P>{%savitṛdaivata%} <ab>m.</ab> <s1 slp1="hastA">Hastā</s1> ou le 13e astérisme lunaire.
+;
+124887 new <P>{%savitṛdaivata%} <ab>m.</ab> <s1 slp1="hastA">Hastā</s1> ou le 13ᵉ astérisme lunaire.
+; ========================================================
+; <L>18208<pc>701,1<k1>savya (sections = [7])
+124921 old <lang n="greek">σϰαιός</lang>; <ab>lat.</ab> scaevus. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1="vizRu">Viṣṇu</s1>.
+;
+124921 new <lang n="greek">σϰαιός</lang>; <ab>lat.</ab> scævus. -- <ab>S.</ab> <ab>m.</ab> <s1 slp1="vizRu">Viṣṇu</s1>.
+; ========================================================
+; <L>18215<pc>701,2<k1>sas (sections = [1])
+124971 old 53, 1o.
+;
+124971 new 53, 1°.
+; ========================================================
+; <L>18312<pc>705,1<k1>saMskaromi (sections = [2])
+125603 old <P>{%saṃskārarūpa%} <ab>n.</ab> la 2e forme d'<s1 slp1="agni">Agni</s1>, celle qu'il revêt
+;
+125603 new <P>{%saṃskārarūpa%} <ab>n.</ab> la 2ᵉ forme d'<s1 slp1="agni">Agni</s1>, celle qu'il revêt
+; ========================================================
+; <L>18391<pc>708,2<k1>sADya (sections = [2])
+126144 old parfait, <ab>np.</ab> d'une classe de personnages célestes. || Le 22e <s1 slp1="yoga">yoga</s1>
+;
+126144 new parfait, <ab>np.</ab> d'une classe de personnages célestes. || Le 22ᵉ <s1 slp1="yoga">yoga</s1>
+; ========================================================
+; <L>18391<pc>708,2<k1>sADya (sections = [2])
+126150 old <P>{%sādhyasiddhipāda%} <ab>m.</ab> le jugement [4e partie d'une instance
+;
+126150 new <P>{%sādhyasiddhipāda%} <ab>m.</ab> le jugement [4ᵉ partie d'une instance
+; ========================================================
+; <L>18487<pc>711,1<k1>sArpa (sections = [2])
+126660 old {%sārpī%} le 9e astérisme lunaire.
+;
+126660 new {%sārpī%} le 9ᵉ astérisme lunaire.
+; ========================================================
+; <L>18547<pc>713,1<k1>sidDa (sections = [2])
+127097 old  surnaturels. || Le 21e <s1 slp1="yoga">yoga</s1> astronomique. 
+;
+127097 new  surnaturels. || Le 21ᵉ <s1 slp1="yoga">yoga</s1> astronomique. 
+; ========================================================
+; <L>18548<pc>713,2<k1>sidDi (sections = [2])
+127139 old surnaturelles. || Le 16e <s1 slp1="yoga">yoga</s1> astronomique.
+;
+127139 new surnaturelles. || Le 16ᵉ <s1 slp1="yoga">yoga</s1> astronomique.
+; ========================================================
+; <L>18611<pc>715,2<k1>sIman (sections = [2])
+127552 old celui du 4e, du 6e et du 8e mois de la grossesse, où les
+;
+127552 new celui du 4ᵉ, du 6ᵉ et du 8ᵉ mois de la grossesse, où les
+; ========================================================
+; <L>18660<pc>717,2<k1>sutala (sections = [2])
+127872 old construction]. || Le 6e enfer.
+;
+127872 new construction]. || Le 6ᵉ enfer.
+; ========================================================
+; <L>18673<pc>717,2<k1>sudarSana (sections = [2])
+127933 old dieux du 22e ordre, <ab>Bd.</ab> -- <ab>S.</ab> <ab>n.</ab> ou <ab>f.</ab> [{%ī%}] la cité d'<s1 slp1="indra">Indra</s1>,
+;
+127933 new dieux du 22ᵉ ordre, <ab>Bd.</ab> -- <ab>S.</ab> <ab>n.</ab> ou <ab>f.</ab> [{%ī%}] la cité d'<s1 slp1="indra">Indra</s1>,
+; ========================================================
+; <L>18687<pc>718,1<k1>sudfS (sections = [2])
+128002 old || Au <ab>pl.</ab> les dieux du 21e ordre, <ab>Bd.</ab>
+;
+128002 new || Au <ab>pl.</ab> les dieux du 21ᵉ ordre, <ab>Bd.</ab>
+; ========================================================
+; <L>18701<pc>718,2<k1>sunAlaka (sections = [7])
+128105 old {#sunAlaka#}¦ {%sunālaka%} <ab>m.</ab> aeschynomène.
+;
+128105 new {#sunAlaka#}¦ {%sunālaka%} <ab>m.</ab> æschynomène.
+; ========================================================
+; <L>18720<pc>719,2<k1>supUra (sections = [7])
+128217 old <P>{%supūraka%} <ab>m.</ab> aeschynomène, <ab>bot.</ab>
+;
+128217 new <P>{%supūraka%} <ab>m.</ab> æschynomène, <ab>bot.</ab>
+; ========================================================
+; <L>18742<pc>720,1<k1>suBadra (sections = [7])
+128335 old <P>{%subhadraka%} <ab>m.</ab> aegle marmelos, <ab>bot.</ab> -- <ab>N.</ab> char des dieux.
+;
+128335 new <P>{%subhadraka%} <ab>m.</ab> ægle marmelos, <ab>bot.</ab> -- <ab>N.</ab> char des dieux.
+; ========================================================
+; <L>18755<pc>720,2<k1>sumanas (sections = [7])
+128403 old caesalpinia bonduc; <ab>bot.</ab> -- <ab>S.</ab> <ab>m.</ab> [ou <ab>pl.</ab> f.] fleur, en <ab>gén.</ab> -- <ab>F.</ab> <ab>sg.</ab>
+;
+128403 new cæsalpinia bonduc; <ab>bot.</ab> -- <ab>S.</ab> <ab>m.</ab> [ou <ab>pl.</ab> f.] fleur, en <ab>gén.</ab> -- <ab>F.</ab> <ab>sg.</ab>
+; ========================================================
+; <L>18790<pc>721,2<k1>surapriya (sections = [7])
+128597 old <s1 slp1="bfhaspati">Bṛhaspati</s1>. || Elaeocarpus, <lbinfo n="4"/> <ab>bot.</ab>
+;
+128597 new <s1 slp1="bfhaspati">Bṛhaspati</s1>. || Elæocarpus, <lbinfo n="4"/> <ab>bot.</ab>
+; ========================================================
+; <L>18831<pc>723,1<k1>surezwa (sections = [7])
+128818 old {#surezwa#}¦ {%sureṣṭa%} <ab>m.</ab> {%(iṣṭa)%} aeschynomene grandiflora;
+;
+128818 new {#surezwa#}¦ {%sureṣṭa%} <ab>m.</ab> {%(iṣṭa)%} æschynomene grandiflora;
+; ========================================================
+; <L>18848<pc>723,2<k1>suvasanta (sections = [7])
+128927 old <P>{%suvasantaka%} <ab>m.</ab> la fête du printemps. || Gaertnera racemosa,
+;
+128927 new <P>{%suvasantaka%} <ab>m.</ab> la fête du printemps. || Gærtnera racemosa,
+; ========================================================
+; <L>19077<pc>731,2<k1>sOBAgya (sections = [2])
+130385 old 4e <s1 slp1="yoga">yoga</s1> astronomique. || Minium. <lbinfo n="5"/>
+;
+130385 new 4ᵉ <s1 slp1="yoga">yoga</s1> astronomique. || Minium. <lbinfo n="5"/>
+; ========================================================
+; <L>19185<pc>735,2<k1>strI (sections = [1])
+131091 old § 110, 2o.
+;
+131091 new § 110, 2°.
+; ========================================================
+; <L>19228<pc>737,2<k1>sTUla (sections = [7])
+131500 old <P>{%sthūlapuṣpa%} <ab>m.</ab> aeschynomène. -- <ab>F.</ab> <ab>esp.</ab> de clitoria, <ab>bot.</ab>
+;
+131500 new <P>{%sthūlapuṣpa%} <ab>m.</ab> æschynomène. -- <ab>F.</ab> <ab>esp.</ab> de clitoria, <ab>bot.</ab>
+; ========================================================
+; <L>19384<pc>743,2<k1>sva (sections = [2])
+132532 old {#sva#}¦ {%sva,%} pronom de la 3e pers. [au commencement <lbinfo n="9"/> des
+;
+132532 new {#sva#}¦ {%sva,%} pronom de la 3ᵉ pers. [au commencement <lbinfo n="9"/> des
+; ========================================================
+; <L>19477<pc>747,1<k1>ha (sections = [2])
+133259 old {#ha#}¦ {%ha%} 47e lettre de l'alphabet sanscrit; elle est souvent
+;
+133259 new {#ha#}¦ {%ha%} 47ᵉ lettre de l'alphabet sanscrit; elle est souvent
+; ========================================================
+; <L>19514<pc>749,1<k1>hari (sections = [2])
+133631 old Le 12e jour de la quinzaine lunaire. || Le <s1 slp1="tulasi">tulasi</s1> ou basilic sacré,
+;
+133631 new Le 12ᵉ jour de la quinzaine lunaire. || Le <s1 slp1="tulasi">tulasi</s1> ou basilic sacré,
+; ========================================================
+; <L>19514<pc>749,1<k1>hari (sections = [2])
+133659 old <P>{%hariścandra%} <ab>m.</ab> le 28e roi solaire qui, après être monté
+;
+133659 new <P>{%hariścandra%} <ab>m.</ab> le 28ᵉ roi solaire qui, après être monté
+; ========================================================
+; <L>19526<pc>750,2<k1>harza (sections = [2])
+133733 old joie. || Le 14e <s1 slp1="yoga">yoga</s1> astronomique. || Sorte de {%śrāddha;%}
+;
+133733 new joie. || Le 14ᵉ <s1 slp1="yoga">yoga</s1> astronomique. || Sorte de {%śrāddha;%}
+; ========================================================
+; <L>19549<pc>751,1<k1>hasta (sections = [2])
+133897 old milieu]. || Trompe d'éléphant. <lbinfo n="8"/> || Le 13e astérisme lunaire,
+;
+133897 new milieu]. || Trompe d'éléphant. <lbinfo n="8"/> || Le 13ᵉ astérisme lunaire,
+; ========================================================
+; <L>19556<pc>751,2<k1>hahava (sections = [2])
+133983 old {#hahava#}¦ {%hahava%} <ab>n.</ab> {%(hve)%} le 4e enfer glacé.
+;
+133983 new {#hahava#}¦ {%hahava%} <ab>n.</ab> {%(hve)%} le 4ᵉ enfer glacé.
+; ========================================================
+; <L>19663<pc>755,2<k1>huhava (sections = [2])
+134722 old {#huhava#}¦ {%huhava%} <ab>n.</ab> le 5e enfer glacé.
+;
+134722 new {#huhava#}¦ {%huhava%} <ab>n.</ab> le 5ᵉ enfer glacé.
+; ========================================================
+; <L>19679<pc>756,1<k1>hfd (sections = [7])
+134866 old <P>{%hṛdyagandha%} <ab>m.</ab> aegle marmelos. -- <ab>F.</ab> jasmin à grandes fleurs.
+;
+134866 new <P>{%hṛdyagandha%} <ab>m.</ab> ægle marmelos. -- <ab>F.</ab> jasmin à grandes fleurs.
+; ========================================================

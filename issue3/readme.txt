@@ -97,4 +97,54 @@ cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
 ================================================
 push this issue3 repository
 cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
+================================================
+corrections based on abdata.txt and odile.txt input
+# make all the changes.
+Some of the 'æ' changes will be manually revised
+python prep3.py temp_bur_2.txt change_3.txt
+ 21 changes of section type 1
+282 changes of section type 2
+ 21 changes of section type 3
+ 30 changes of section type 4
+  2 changes of section type 5
+  0 changes of section type 6
+137 changes of section type 7
+479 changes written to change_3.txt
+python updateByLine.py temp_bur_2.txt change_3.txt temp_bur_3.txt
+=================================================================
+temp_bur_4.txt manual adjustments, from Odile and Andhrabarati (duska)
+All ae changed except for
+-'kaer' (under cāru);
+-'Naerrita' under brahma;   CHANGED per text 
+-'Gaerî' under 'vṛṣākapi' which is a misprint (of the book) for 'Gaorî' (which i suggest to replace here by 'Gaorî (gaurī)' (as in French 'au' is equivalent to 'o', and it is not at all a diphtongue, that is why the author did use 'ao' for 'au' in the dict. )    PRINT CHANGE
+- zaez (under śaśa) (non latine word)
+Second list, DO NOT CHANGE:
+-the ae of ajwaen, 'aeva' (not latine)
+under 9 eva (aeva)
+Third list, DO NOT CHANGE:
+- 3 dipsāmi (lae), 'lae' which is a misprint for 'le' and should be corrected; 
+ - 4 dhava (dae), 'dae' which is a non latine word
+Under triṃśat note the misprint 'nymphaea blance' for 'nymphaea blanc'.
 
+And these two changes from AB: dusk -> duḥkh
+Trouver, rencontrer, {%sukhaṃ duskaṃ vā%} le plaisir ou la douleur;
+{%smariṣyati kaucalyāṃ suduskitām%} il ne se souviendra pas que
+
+----------------------------
+python diff_to_changes.py temp_bur_3.txt temp_bur_4.txt change_4.txt
+10 changes written to change_4.txt
+
+=================================================================
+install into csl-orig and check validity
+cp temp_bur_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bur  ../../bur
+sh xmlchk_xampp.sh bur
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+# update cologne server
+ # ok  commited changes to csl-orig. 05-10-2022.
+# return home
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
+
+=================================================================
