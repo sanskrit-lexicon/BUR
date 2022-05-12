@@ -1,0 +1,177 @@
+8774 old <P>{%alpaduskha%} <ab>a.</ab> {%(duskha)%} qui souffre peu.
+8774 new <P>{%alpaduḥkha%} <ab>a.</ab> {%(duḥkha)%} qui souffre peu.
+;-----------------
+8776 old <P>{%alpaduskhatā%} <ab>f.</ab> état de celui qui souffre peu.
+8776 new <P>{%alpaduḥkhatā%} <ab>f.</ab> état de celui qui souffre peu.
+;-----------------
+18798 old || qui a subi le changement de ḥ en sifflante, <ab>tg.</ab>
+18798 new || qui a subi le changement de {%ḥ%} en sifflante, <ab>tg.</ab>
+;-----------------
+20066 old rencontrer: {%sukhaduskham%} le bonheur et le malheur. 
+20066 new rencontrer: {%sukhaduḥkham%} le bonheur et le malheur. 
+;-----------------
+31145 old fait son temps, étant mort; || {%dhanus savāṇaṃ kuru%} mets la
+31145 new fait son temps, étant mort; || {%dhanuḥ savāṇaṃ kuru%} mets la
+;-----------------
+49299 old {%punas,%} ce que j'ai fait, je le fais de nouveau, <ab>Vd.</ab> || <ab>Gr.</ab>
+49299 new {%punaḥ,%} ce que j'ai fait, je le fais de nouveau, <ab>Vd.</ab> || <ab>Gr.</ab>
+;-----------------
+50608 old faire passer <ab>qqn.</ab> 2 <ab>ac.</ab> || Sauver qqn.: {%duskhāt%} d'un malheur; {%na%}
+50608 new faire passer <ab>qqn.</ab> 2 <ab>ac.</ab> || Sauver qqn.: {%duḥkhāt%} d'un malheur; {%na%}
+;-----------------
+55980 old <P>{%dinaduskhita%} <ab>m.</ab> l'oie rougeâtre ou anas casarca.
+55980 new <P>{%dinaduḥkhita%} <ab>m.</ab> l'oie rougeâtre ou anas casarca.
+;-----------------
+57067 old {#duzKa#}¦ {%duṣkha,%} <ab>cf.</ab> {%duskha.%}
+57067 new {#duzKa#}¦ {%duṣkha,%} <ab>cf.</ab> {%duḥkha.%}
+;-----------------
+57125 old {#*duHK#}¦ {%duskh.%} {%duskhyāmi%} 4 et {%duskhayāmi%} <lbinfo n="4"/> 10;
+57125 new {#*duHK#}¦ {%duḥkh.%} {%duḥkhyāmi%} 4 et {%duḥkhayāmi%} <lbinfo n="4"/> 10;
+;-----------------
+57126 old <ab>pp.</ab> {%duskhita.%} Causer de la douleur. [Ce verbe est le dénom. de
+57126 new <ab>pp.</ab> {%duḥkhita.%} Causer de la douleur. [Ce verbe est le dénom. de
+;-----------------
+57127 old {%duskha%} qui est formé comme {%sukha.%}]
+57127 new {%duḥkha%} qui est formé comme {%sukha.%}]
+;-----------------
+57131 old {#duHKa#}¦ {%duskha%} <ab>n.</ab> {%(dus; kha%} fortune) malheur, <lbinfo n="5"/> peine;
+57131 new {#duHKa#}¦ {%duḥkha%} <ab>n.</ab> {%(dus; kha%} fortune) malheur, <lbinfo n="5"/> peine;
+;-----------------
+57132 old douleur. || Le monde, <ab>cf.</ab> {%duskhālaya.%}
+57132 new douleur. || Le monde, <ab>cf.</ab> {%duḥkhālaya.%}
+;-----------------
+57134 old <P>{%duskhatara%} (<ab>comp.</ab> de {%duskha)%} plus malheureux; <lbinfo n="8"/> plus pénible.
+57134 new <P>{%duḥkhatara%} (<ab>comp.</ab> de {%duḥkha)%} plus malheureux; <lbinfo n="8"/> plus pénible.
+;-----------------
+57136 old <P>{%duskhada%} <ab>a.</ab> {%(dā)%} qui cause de la douleur.
+57136 new <P>{%duḥkhada%} <ab>a.</ab> {%(dā)%} qui cause de la douleur.
+;-----------------
+57138 old <P>{%duskhadohyā%} <ab>f.</ab> {%(duh)%} vache difficile à traire.
+57138 new <P>{%duḥkhadohyā%} <ab>f.</ab> {%(duh)%} vache difficile à traire.
+;-----------------
+57140 old <P>{%duskham%} (<ab>ac.</ab> de {%duskha)%} péniblement.
+57140 new <P>{%duḥkham%} (<ab>ac.</ab> de {%duḥkha)%} péniblement.
+;-----------------
+57142 old <P>{%duskhayoni%} <ab>a.</ab> qui a pour origine ou pour essence la douleur.
+57142 new <P>{%duḥkhayoni%} <ab>a.</ab> qui a pour origine ou pour essence la douleur.
+;-----------------
+57144 old <P>{%duskhānta%} <ab>m.</ab> <ab>n.</ab> {%(anta)%} la fin de la souffrance. <lbinfo n="7"/>
+57144 new <P>{%duḥkhānta%} <ab>m.</ab> <ab>n.</ab> {%(anta)%} la fin de la souffrance. <lbinfo n="7"/>
+;-----------------
+57146 old <P>{%duskhārtta%} <ab>a.</ab> {%(ard)%} accablé de douleur, de chagrin, de
+57146 new <P>{%duḥkhārtta%} <ab>a.</ab> {%(ard)%} accablé de douleur, de chagrin, de
+;-----------------
+57149 old <P>{%duskhālaya%} <ab>m.</ab> {%(ālaya)%} le monde [séjour des douleurs].
+57149 new <P>{%duḥkhālaya%} <ab>m.</ab> {%(ālaya)%} le monde [séjour des douleurs].
+;-----------------
+57151 old <P>{%duskhāye%} (dénom.) éprouver de la douleur.
+57151 new <P>{%duḥkhāye%} (dénom.) éprouver de la douleur.
+;-----------------
+57155 old {#duHKita#}¦ {%duskhita%} (<ab>pp.</ab> de {%duskh)%} affligé; qui est dans la
+57155 new {#duHKita#}¦ {%duḥkhita%} (<ab>pp.</ab> de {%duḥkh)%} affligé; qui est dans la
+;-----------------
+57160 old {#duHKin#}¦ {%duskhin%} <ab>a.</ab> <ab>mms.</ab>
+57160 new {#duHKin#}¦ {%duḥkhin%} <ab>a.</ab> <ab>mms.</ab>
+;-----------------
+57164 old {#duHprApa#}¦ {%dusprāpa%} <ab>a.</ab> {%(pra; āp)%} difficile à
+57164 new {#duHprApa#}¦ {%duḥprāpa%} <ab>a.</ab> {%(pra; āp)%} difficile à
+;-----------------
+57169 old {#duHsama#}¦ {%dussama%} <ab>a.</ab> déplacé, inopportun. || À l'<ab>ac.</ab>
+57169 new {#duHsama#}¦ {%duḥsama%} <ab>a.</ab> déplacé, inopportun. || À l'<ab>ac.</ab>
+;-----------------
+57174 old {#duHsaha#}¦ {%dussaha%} <ab>a.</ab> difficile à supporter; dont le choc est
+57174 new {#duHsaha#}¦ {%duḥsaha%} <ab>a.</ab> difficile à supporter; dont le choc est
+;-----------------
+57179 old {#duHsADin#}¦ {%dussādhin%} <ab>m.</ab> gardien, portier. 
+57179 new {#duHsADin#}¦ {%duḥsādhin%} <ab>m.</ab> gardien, portier. 
+;-----------------
+57184 old {#duHsADya#}¦ {%dussādhya%} <ab>a.</ab> difficile à achever.
+57184 new {#duHsADya#}¦ {%duḥsādhya%} <ab>a.</ab> difficile à achever.
+;-----------------
+57188 old {#duHsTa#}¦ {%dusstha%} <ab>a.</ab> {%(sthā)%} qui est dans une situation
+57188 new {#duHsTa#}¦ {%duḥstha%} <ab>a.</ab> {%(sthā)%} qui est dans une situation
+;-----------------
+57200 old {#duHsparSa#}¦ {%dussparśa%} <ab>a.</ab> {%(spṛś)%} difficile ou pénible à
+57200 new {#duHsparSa#}¦ {%duḥsparśa%} <ab>a.</ab> {%(spṛś)%} difficile ou pénible à
+;-----------------
+57205 old {#duHsPowa#}¦ {%dussphoṭa%} <ab>m.</ab> sorte d'arme.
+57205 new {#duHsPowa#}¦ {%duḥsphoṭa%} <ab>m.</ab> sorte d'arme.
+;-----------------
+60156 old connaissance <lbinfo n="9"/> distincte, l'intelligence; {%duskhadhātu%} <lbinfo n="7"/> l'élément
+60156 new connaissance <lbinfo n="9"/> distincte, l'intelligence; {%duḥkhadhātu%} <lbinfo n="7"/> l'élément
+;-----------------
+63208 old Abaissé; abattu: {%duskhena%} par la douleur. || Bas, vil; ||
+63208 new Abaissé; abattu: {%duḥkhena%} par la douleur. || Bas, vil; ||
+;-----------------
+64830 old {%duskhāya%} à la douleur. || Faire grâce, pardonner:
+64830 new {%duḥkhāya%} à la douleur. || Faire grâce, pardonner:
+;-----------------
+64831 old {%duskṛtam%} <lbinfo n="5"/> un méfait.
+64831 new {%duḥkṛtam%} <lbinfo n="5"/> un méfait.
+;-----------------
+65956 old <P>{%niSśreni%} <ab>f.</ab> <ab>mms.</ab> [orthogr. vicieuse]. || Dattier sauvage.
+65956 new <P>{%niḥśreni%} <ab>f.</ab> <ab>mms.</ab> [orthogr. vicieuse]. || Dattier sauvage.
+;-----------------
+65970 old <P>{%nisśvāsa%} <ab>m.</ab> respiration; || soupir.
+65970 new <P>{%niḥśvāsa%} <ab>m.</ab> respiration; || soupir.
+;-----------------
+65999 old <P>{%niSsaraṇa%} <ab>n.</ab> sortie; départ; || porte. || Au <ab>fig.</ab> mort;
+65999 new <P>{%niḥsaraṇa%} <ab>n.</ab> sortie; départ; || porte. || Au <ab>fig.</ab> mort;
+;-----------------
+66002 old <P>{%niSsāra%} <ab>m.</ab> sortie, issue; || départ.
+66002 new <P>{%niḥsāra%} <ab>m.</ab> sortie, issue; || départ.
+;-----------------
+66004 old <P>{%niSsārayāmi%} (<ab>c.</ab> de {%sṛ)%} faire sortir; expulser. <lbinfo n="7"/>
+66004 new <P>{%niḥsārayāmi%} (<ab>c.</ab> de {%sṛ)%} faire sortir; expulser. <lbinfo n="7"/>
+;-----------------
+68470 old {%yudhi%} dans un combat. || L'emporter sur, dépasser: {%adriS kham%}
+68470 new {%yudhi%} dans un combat. || L'emporter sur, dépasser: {%adriḥ kham%}
+;-----------------
+69062 old {%duSkhena%} par la douleur.
+69062 new {%duḥkhena%} par la douleur.
+;-----------------
+69576 old <ab>fig.</ab> être roulé, être balloté: {%duskhāni <lbinfo n="5"/> ca sukhāni ca%}
+69576 new <ab>fig.</ab> être roulé, être balloté: {%duḥkhāni <lbinfo n="5"/> ca sukhāni ca%}
+;-----------------
+69794 old {%nabhaS pariśīryat%} nuage qui s'entrouvre.
+69794 new {%nabhaḥ pariśīryat%} nuage qui s'entrouvre.
+;-----------------
+70082 old {%duSkhena%} par le malheur; {%śoṇitena%} <lbinfo n="6"/> couvert de sang.
+70082 new {%duḥkhena%} par le malheur; {%śoṇitena%} <lbinfo n="6"/> couvert de sang.
+;-----------------
+70498 old {%duskam%} d'une douleur.
+70498 new {%duḥkham%} d'une douleur.
+;-----------------
+71332 old dans une stance: {%padābhedena pādānām vibhāgaS%} <lbinfo n="8"/>
+71332 new dans une stance: {%padābhedena pādānām vibhāgaḥ%} <lbinfo n="8"/>
+;-----------------
+73410 old l'âme; {%sukhaduḥkānām <lbinfo n="10"/> bhoktṛtve hetus puruṣa%}
+73410 new l'âme; {%sukhaduḥkhānām <lbinfo n="10"/> bhoktṛtve hetus puruṣa%}
+;-----------------
+78228 old caresser. || Laver, {%jalena%} avec de l'eau; || ôter, {%duskham%}
+78228 new caresser. || Laver, {%jalena%} avec de l'eau; || ôter, {%duḥkham%}
+;-----------------
+104985 old meurtrier. || Avoir conscience <lbinfo n="7"/> de, ressentir, {%duskham%} de la
+104985 new meurtrier. || Avoir conscience <lbinfo n="7"/> de, ressentir, {%duḥkham%} de la
+;-----------------
+108647 old {%dakṣiṇām%} les honoraires <lbinfo n="6"/> au prêtre; infliger, {%duskhāni%} des
+108647 new {%dakṣiṇām%} les honoraires <lbinfo n="6"/> au prêtre; infliger, {%duḥkhāni%} des
+;-----------------
+110195 old {%sukhaṃ duskhaṃ ca%} le plaisir et la douleur. || <ab>Qqf.</ab> habiter.
+110195 new {%sukhaṃ duḥkhaṃ ca%} le plaisir et la douleur. || <ab>Qqf.</ab> habiter.
+;-----------------
+117087 old {%arṇavam%} la mer; || au <ab>fig.</ab> {%duskhāni śoṣayanti śarīram%}
+117087 new {%arṇavam%} la mer; || au <ab>fig.</ab> {%duḥkhāni śoṣayanti śarīram%}
+;-----------------
+120402 old  || Au <ab>fig.</ab> user, {%duskena%} par la douleur. <lbinfo n="5"/>
+120402 new  || Au <ab>fig.</ab> user, {%duḥkhena%} par la douleur. <lbinfo n="5"/>
+;-----------------
+122676 old renaître: {%mama duskhaṃ bhūyas samupajāyate%} ma douleur
+122676 new renaître: {%mama duḥkhaṃ bhūyas samupajāyate%} ma douleur
+;-----------------
+125039 old pourra soutenir la chûte du Gange; || supporter, endurer, {%duskam%}
+125039 new pourra soutenir la chûte du Gange; || supporter, endurer, {%duḥkham%}
+;-----------------
+127699 old {#suKa#}¦ {%sukha%} <ab>a.</ab> {%(kha;%} <ab>cf.</ab> {%duskha)%} joyeux, heureux; ||
+127699 new {#suKa#}¦ {%sukha%} <ab>a.</ab> {%(kha;%} <ab>cf.</ab> {%duḥkha)%} joyeux, heureux; ||
+;-----------------

@@ -1,0 +1,12 @@
+13631 old +++	{#…#}¦ {%dinaduskhita%} <ab>m.</ab> l'oie rougeâtre ou anas casarca.
+13631 new +++	{#…#}¦ {%dinaduḥkhita%} <ab>m.</ab> l'oie rougeâtre ou anas casarca.
+;-----------------
+17401 old <L>10848<pc>401,2<k1>पर्युद्विनज्मि<k2>पर्युद्विनज्मि	{#पर्युद्विनज्मि#}¦ {%paryudvinajmi%} ({%ut; vij%}). Souffrir: {%duḥkam%} d'une douleur.	<LEND>
+17401 new <L>10848<pc>401,2<k1>पर्युद्विनज्मि<k2>पर्युद्विनज्मि	{#पर्युद्विनज्मि#}¦ {%paryudvinajmi%} ({%ut; vij%}). Souffrir: {%duḥkham%} d'une douleur.	<LEND>
+;-----------------
+28328 old <L>16093<pc>617,2<k1>वेदयामि<k2>वेदयामि	{#वेदयामि#}¦ {%vedayāmi%} (<ab>c.</ab> de {%vid%}) faire savoir, instruire, raconter à <ab>qqn.</ab>, 1. ‖ Savoir, percevoir, éprouver, {%sukhaṃ duskhaṃ ca%} le plaisir et la douleur. ‖ <ab>Qqf.</ab> habiter.	<LEND>
+28328 new <L>16093<pc>617,2<k1>वेदयामि<k2>वेदयामि	{#वेदयामि#}¦ {%vedayāmi%} (<ab>c.</ab> de {%vid%}) faire savoir, instruire, raconter à <ab>qqn.</ab>, 1. ‖ Savoir, percevoir, éprouver, {%sukhaṃ duḥkhaṃ ca%} le plaisir et la douleur. ‖ <ab>Qqf.</ab> habiter.	<LEND>
+;-----------------
+31638 old <L>17865<pc>689,1<k1>समुपजाये<k2>समुपजाये	{#समुपजाये#}¦ {%samupajāye%} ({%jan%}) naître après; ‖ renaître: {%mama duskhaṃ bhūyas samupajāyate%} ma douleur renaît plus grande.	<LEND>
+31638 new <L>17865<pc>689,1<k1>समुपजाये<k2>समुपजाये	{#समुपजाये#}¦ {%samupajāye%} ({%jan%}) naître après; ‖ renaître: {%mama duḥkhaṃ bhūyas samupajāyate%} ma douleur renaît plus grande.	<LEND>
+;-----------------

@@ -58,3 +58,40 @@ sh xmlchk_xampp.sh bur
 
 cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
 ==============================================================
+temp_bur_2.txt  manual changes to temp_bur_1a.txt
+Corrections (s to visarga)
+Based on temp_bur.AB.ver.-v3.txt, downloaded from link at
+https://github.com/sanskrit-lexicon/BUR/issues/3#issuecomment-1123358584
+
+
+python diff_to_changes.py temp_bur.AB.ver.-v2.txt temp_bur.AB.ver.-v3.txt temp_change_bur.AB_2_3.txt
+55 changes written to temp_change_bur.AB_2_3.txt
+
+temp_bur_2.txt starts out with
+  52 matches in 50 lines for "ḥ" in buffer: temp_bur_2.txt
+temp_bur.AB.ver.-v3.txt has
+  112 matches in 97 lines for "ḥ" in buffer: temp_bur.AB.ver.-v3.txt
+
+So expect about 60 changes to temp_bur_2.txt in about 50 lines.
+
+python diff_to_changes.py temp_bur_1a.txt temp_bur_2.txt change_2.txt
+ 59 changes
+
+python diff_to_changes.py temp_bur.AB.ver.-v3.txt temp_bur.AB.ver.-v3_edit.txt change_bur.Ab.ver.-v3.txt
+4 changes written to change_bur.Ab.ver.-v3.txt
+
+==============================================================
+==============================================================
+
+install into csl-orig and check validity
+cp temp_bur_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bur  ../../bur
+sh xmlchk_xampp.sh bur
+# push csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+# update cologne server
+ # ok  commited changes to csl-orig. 05-10-2022.
+# return home
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
+
