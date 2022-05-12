@@ -94,4 +94,7 @@ cd /c/xampp/htdocs/cologne/csl-orig/v02
  # ok  commited changes to csl-orig. 05-10-2022.
 # return home
 cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
+================================================
+push this issue3 repository
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
 
