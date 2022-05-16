@@ -1,0 +1,300 @@
+67 old <L>52<pc>006,2<k1>अक्षदेविन्<k2>अक्षदेविन्	{#अक्षदेविन्#}¦ {%akṣadevin%} <ab>m.</ab> ({%div%}) joueur de <ab>dés.</ab>	<LEND>
+67 new <L>52<pc>006,2<k1>अक्षदेविन्<k2>अक्षदेविन्	{#अक्षदेविन्#}¦ {%akṣadevin%} <ab>m.</ab> ({%div%}) joueur de dés.	<LEND>
+;-----------------
+89 old <L>63<pc>007,1<k1>अक्षवती<k2>अक्षवती	{#अक्षवती#}¦ {%akṣavatī%} <ab>f.</ab> (<ab>sfx.</ab> {%vat%}) jeu des <ab>dés.</ab>	<LEND>
+89 new <L>63<pc>007,1<k1>अक्षवती<k2>अक्षवती	{#अक्षवती#}¦ {%akṣavatī%} <ab>f.</ab> (<ab>sfx.</ab> {%vat%}) jeu des dés.	<LEND>
+;-----------------
+901 old <L>651<pc>024,1<k1>अनुपद्ये<k2>अनुपद्ये	{#अनुपद्ये#}¦ {%anupadye%} 4, ({%pad%}) <ab>ac.</ab> aller après, suivre; ‖ entrer dans: {%akṣān anupattum%} jeter les dés, jouer aux <ab>dés.</ab>	<LEND>
+901 new <L>651<pc>024,1<k1>अनुपद्ये<k2>अनुपद्ये	{#अनुपद्ये#}¦ {%anupadye%} 4, ({%pad%}) <ab>ac.</ab> aller après, suivre; ‖ entrer dans: {%akṣān anupattum%} jeter les dés, jouer aux dés.	<LEND>
+;-----------------
+912 old <L>662<pc>024,2<k1>अनुपृच्छामि<k2>अनुपृच्छामि	{#अनुपृच्छामि#}¦ {%anupṛcchāmi%} 6, ({%prach%}) <ab>interroger.</ab>	<LEND>
+912 new <L>662<pc>024,2<k1>अनुपृच्छामि<k2>अनुपृच्छामि	{#अनुपृच्छामि#}¦ {%anupṛcchāmi%} 6, ({%prach%}) interroger.	<LEND>
+;-----------------
+949 old <L>688<pc>025,2<k1>अनुयुञ्जे<k2>अनुयुञ्जे	{#अनुयुञ्जे#}¦ {%anuyuñje%} 7, ({%yuj%}) <ab>interroger.</ab> {%sākṣiṇas%} des témoins. ‖ Ordonner, commander.
+949 new <L>688<pc>025,2<k1>अनुयुञ्जे<k2>अनुयुञ्जे	{#अनुयुञ्जे#}¦ {%anuyuñje%} 7, ({%yuj%}) interroger. {%sākṣiṇas%} des témoins. ‖ Ordonner, commander.
+;-----------------
+1005 old <L>726<pc>026,2<k1>अनुषज्जे<k2>अनुषज्जे	{#अनुषज्जे#}¦ {%anuṣajje%} 1, ({%sajj%}) adhérer à. 1. ‖ Avoir de l'attachement pour; être lié: {%karmasu%} aux œuvres, par les œuvres.
+1005 new <L>726<pc>026,2<k1>अनुषज्जे<k2>अनुषज्जे	{#अनुषज्जे#}¦ {%anuṣajje%} 1, ({%sajj%}) adhérer à. <ab>l.</ab> ‖ Avoir de l'attachement pour; être lié: {%karmasu%} aux œuvres, par les œuvres.
+;-----------------
+1478 old <L>1065<pc>036,2<k1>अभिचोदयामि<k2>अभिचोदयामि	{#अभिचोदयामि#}¦ {%abhicodayāmi%} 10, ({%cud%}) lancer; exciter. ‖ Ordonner, proclamer. ‖ <ab>Interroger.</ab>	<LEND>
+1478 new <L>1065<pc>036,2<k1>अभिचोदयामि<k2>अभिचोदयामि	{#अभिचोदयामि#}¦ {%abhicodayāmi%} 10, ({%cud%}) lancer; exciter. ‖ Ordonner, proclamer. ‖ Interroger.	<LEND>
+;-----------------
+1539 old <L>1109<pc>038,1<k1>अभिपृच्छामि<k2>अभिपृच्छामि	{#अभिपृच्छामि#}¦ {%abhipṛcchāmi%} 6, ({%prach%}) <ab>interroger.</ab>	<LEND>
+1539 new <L>1109<pc>038,1<k1>अभिपृच्छामि<k2>अभिपृच्छामि	{#अभिपृच्छामि#}¦ {%abhipṛcchāmi%} 6, ({%prach%}) interroger.	<LEND>
+;-----------------
+2220 old <L>1539<pc>052,1<k1>अवग्रह<k2>अवग्रह	{#अवग्रह#}¦ {%avagraha%} <ab>m.</ab> ({%grah%}) obstacle, empêchement. ‖ Au <ab>fig.</ab> méprise, erreur; mépris. ‖ Temperament originel. ‖ Tmese, <ab>tg.</ab> ‖ Front de l'éléphant; troupe d'éléphants.
+2220 new <L>1539<pc>052,1<k1>अवग्रह<k2>अवग्रह	{#अवग्रह#}¦ {%avagraha%} <ab>m.</ab> ({%grah%}) obstacle, empêchement. ‖ Au <ab>fig.</ab> méprise, erreur; mépris. ‖ Temperament originel. ‖ Tmèse, <ab>tg.</ab> ‖ Front de l'éléphant; troupe d'éléphants.
+;-----------------
+2514 old <L>1763<pc>059,1<k1>अशक्त<k2>अशक्त	{#अशक्त#}¦ {%aśakta%} <ab>a.</ab> ({%śak%}) impuissant; incapable; inhabile. ‖ Impossible: {%draṣṭum aśakta%} qui ne peut pas être fait. ‖ <ab>Gr.</ab> <lang n="greek">ἄϰιϰυς</lang>.	<LEND>
+2514 new <L>1763<pc>059,1<k1>अशक्त<k2>अशक्त	{#अशक्त#}¦ {%aśakta%} <ab>a.</ab> ({%joueur de désśak%}) impuissant; incapable; inhabile. ‖ Impossible: {%draṣṭum aśakta%} qui ne peut pas être fait. ‖ <ab>Gr.</ab> <lang n="greek">ἄϰιϰυς</lang>.	<LEND>
+;-----------------
+2519 old +++	{#…#}¦ {%aśanāyāmi%} dénomin. avoir faim. -- <ab>Pp.</ab> {%aśanāyita%} affamé.	<LEND>
+2519 new +++	{#…#}¦ {%aśanāyāmi%} <ab>dénomin.</ab> avoir faim. -- <ab>Pp.</ab> {%aśanāyita%} affamé.	<LEND>
+;-----------------
+2630 old <L>1847<pc>061,2<k1>अष्टकाङ्ग<k2>अष्टकाङ्ग	{#अष्टकाङ्ग#}¦ {%aṣṭakāṅga%} <ab>m.</ab> ({%aṅga%}) table de jeu de <ab>dés.</ab>	<LEND>
+2630 new <L>1847<pc>061,2<k1>अष्टकाङ्ग<k2>अष्टकाङ्ग	{#अष्टकाङ्ग#}¦ {%aṣṭakāṅga%} <ab>m.</ab> ({%aṅga%}) table de jeu de dés.	<LEND>
+;-----------------
+2878 old <L>2009<pc>067,1<k1>आकर्ष<k2>आकर्ष	{#आकर्ष#}¦ {%ākarṣa%} <ab>m.</ab> ({%kṛṣ%}) action de tirer à soi, d'attirer. ‖ Action de tirer de l'arc; de tirer, dans un jeu de hasard, comme de jeter les <ab>dés.</ab> ‖ Table à jeu. ‖ Au <ab>fig.</ab> sens, organe des sens. ‖ Attraction, <ab>t.</ab> de physique.
+2878 new <L>2009<pc>067,1<k1>आकर्ष<k2>आकर्ष	{#आकर्ष#}¦ {%ākarṣa%} <ab>m.</ab> ({%kṛṣ%}) action de tirer à soi, d'attirer. ‖ Action de tirer de l'arc; de tirer, dans un jeu de hasard, comme de jeter les dés. ‖ Table à jeu. ‖ Au <ab>fig.</ab> sens, organe des sens. ‖ Attraction, <ab>t.</ab> de physique.
+;-----------------
+3460 old +++	{#…#}¦ {%āryāvartta%} <ab>m.</ab> ({%vṛt%}) la contrée des <s1>Arya</s1>s, entre l'<s1>Himālaya</s1> et le <s1>Vindhya</s1>, <s1>Manu</s1> <ab>I.</ab>	<LEND>
+3460 new +++	{#…#}¦ {%āryāvartta%} <ab>m.</ab> ({%vṛt%}) la contrée des <s1>Arya</s1>s, entre l'<s1>Himālaya</s1> et le <s1>Vindhya</s1>, <s1>Manu</s1> I.	<LEND>
+;-----------------
+4087 old +++	{#…#}¦ {%ugraśekharā%} <ab>f.</ab> <ab>m à m.</ab> diadême de <s1>Śiva</s1>, <ab>c-à-d.</ab> le Gange; <ab>cf.</ab> <s1>Rāmāyaṇa</s1> <ab>I.</ab>	<LEND>
+4087 new +++	{#…#}¦ {%ugraśekharā%} <ab>f.</ab> <ab>m à m.</ab> diadême de <s1>Śiva</s1>, <ab>c-à-d.</ab> le Gange; <ab>cf.</ab> <s1>Rāmāyaṇa</s1> I.	<LEND>
+;-----------------
+4133 old <L>2792<pc>095,1<k1>उच्यासम्<k2>उच्यासम्	{#उच्यासम्#}¦ {%ucyāsam%} <ab>o.</ab> <ab>a1</ab> de {%vac%}.	<LEND>
+4133 new <L>2792<pc>095,1<k1>उच्यासम्<k2>उच्यासम्	{#उच्यासम्#}¦ {%ucyāsam%} <ab>o.</ab> <ab>a1.</ab> de {%vac%}.	<LEND>
+;-----------------
+4727 old <L>3178<pc>109,2<k1>उपयुञ्जे<k2>उपयुञ्जे	{#उपयुञ्जे#}¦ {%upayuñje%} 7, ({%yuj%}) atteler, <ab>Vd.</ab>: {%upo%} {%ratheṣu pṛṣatīr ayugdhvam%} vous avez attelé à vos chars des antilopes. ‖ S'adjoindre utile: <ab>pp.</ab> {%upayukta%} utile. ‖ Dépenser: {%dhanam%} des richesses. ‖ Consommer: {%annāni%} une provision de grain; {%bhaikṣyam%} des aliments. [On trouve aussi <ab>qq.</ab> formes actives: {%upayokṣyāmi%}, {%upayokṣyati%}.]
+4727 new <L>3178<pc>109,2<k1>उपयुञ्जे<k2>उपयुञ्जे	{#उपयुञ्जे#}¦ {%upayuñje%} 7, ({%yuj%}) atteler, <ab>Vd.</ab>: {%upo%} {%ratheṣu pṛṣatīr ayugdhvam%} vous avez attelé à vos chars des antilopes. ‖ S'adjoindre [[<ab>qqn.</ab> ‖ Employer <ab>qqn.</ab> ou <ab>qqc.</ab>, le rendre]] utile: <ab>pp.</ab> {%upayukta%} utile. ‖ Dépenser: {%dhanam%} des richesses. ‖ Consommer: {%annāni%} une provision de grain; {%bhaikṣyam%} des aliments. [On trouve aussi <ab>qq.</ab> formes actives: {%upayokṣyāmi%}, {%upayokṣyati%}.]
+;-----------------
+5074 old <L>3416<pc>118,2<k1>उह्<k2>*उह्	*{#उह्#}¦ {%uh%}. {%ohāmi%} 1; <ab>p.</ab> {%uvāha%}; <ab>a1.</ab> {%auhiṣam%}.	<LEND>
+5074 new <L>3416<pc>118,2<k1>उह्<k2>*उह्	*{#उह्#}¦ {%uh%}. {%ohāmi%} 1; <ab>p.</ab> {%uvāha%}; <ab>a1.</ab> {%auhiṣam%}, [[<ab>etc.</ab> ‖ Tourmenter, persécuter; frapper.]]	<LEND>
+;-----------------
+5170 old <L>3465<pc>120,1<k1>ऋ<k2>ऋ	{#ऋ#}¦ {%ṛ%}, 7ᵉ lettre de l'alphabet, ou 4ᵉ voyelle brève; elle est propre à l'alphabet sanscrit. Elle égale {%r%} entre 2 voyelles brèves, selon les gramm. védiques; et devient soit syllabe consonnante [{%ar, ir, ur%}, <ab>etc.</ab>], soit purement semi-voyelle [{%r%}], dans le développement grammatical des mots. Dans les autres langues âryennes, elle est ordinairement représentée par {%ar, er, ir%}, {%or%}; <ab>qqf.</ab> par {%ere%} (<ab>zd.</ab>) ou par {%ra, re, ri%}; <ab>qqf.</ab> aussi l'articulation {%r%} de la voyelle {%ṛ%} y est suppléée par {%l%}.	<LEND>
+5170 new <L>3465<pc>120,1<k1>ऋ<k2>ऋ	{#ऋ#}¦ {%ṛ%}, 7ᵉ lettre de l'alphabet, ou 4ᵉ voyelle brève; elle est propre à l'alphabet sanscrit. Elle égale {%r%} entre 2 voyelles brèves, selon les <ab>gramm.</ab> védiques; et devient soit syllabe consonnante [{%ar, ir, ur%}, <ab>etc.</ab>], soit purement semi-voyelle [{%r%}], dans le développement grammatical des mots. Dans les autres langues âryennes, elle est ordinairement représentée par {%ar, er, ir%}, {%or%}; <ab>qqf.</ab> par {%ere%} (<ab>zd.</ab>) ou par {%ra, re, ri%}; <ab>qqf.</ab> aussi l'articulation {%r%} de la voyelle {%ṛ%} y est suppléée par {%l%}.	<LEND>
+;-----------------
+5659 old <L>3819<pc>134,2<k1>कटप्रू<k2>कटप्रू	{#कटप्रू#}¦ {%kaṭaprū%} <ab>m.</ab> ({%pru%}) ver; ‖ <s1>rākṣasa</s1>; ‖ une des classes de génies nommés {%vidhyādhuras%}; ‖ <s1>Śiva</s1>. ‖ Jeu des <ab>dés.</ab>	<LEND>
+5659 new <L>3819<pc>134,2<k1>कटप्रू<k2>कटप्रू	{#कटप्रू#}¦ {%kaṭaprū%} <ab>m.</ab> ({%pru%}) ver; ‖ <s1>rākṣasa</s1>; ‖ une des classes de génies nommés {%vidhyādhuras%}; ‖ <s1>Śiva</s1>. ‖ Jeu des dés.	<LEND>
+;-----------------
+6224 old <L>4135<pc>147,1<k1>कल्<k2>*कल्	*{#कल्#}¦ {%kal%}. -- <ab>I.</ab> {%kalayāmi%} 10. Aller, parcourir, <ab>ac.</ab> ‖ Compter, nombrer: {%gāvas%} des vaches. ‖ Mesurer le temps, en compter les divisions; suivre la mesure, observer le rythme. ‖ Estimer, regarder comme: {%kalayomi maṇibhūṣaṇam%} {%bahudoṣaṇam%} je compte les perles des colliers pour autant de péchés. ‖ Remarquer, observer, s'assurer [Page147-2] de <ab>qqc.</ab>, <ab>ac.</ab> ‖ Tenir, porter: {%pāṇau%} dans sa main. ‖ <ab>qqf.</ab> faire. -- II. {%kālayāmi%} 10. Compter, supputer; ‖ mesurer le temps, observer le rythme. ‖ Jeter, lancer. ‖ Dérober, ravir: {%gavāṃ%} {%sahasrāṇi%} des milliers de bœufs.	<LEND>
+6224 new <L>4135<pc>147,1<k1>कल्<k2>*कल्	*{#कल्#}¦ {%kal%}. -- I. {%kalayāmi%} 10. Aller, parcourir, <ab>ac.</ab> ‖ Compter, nombrer: {%gāvas%} des vaches. ‖ Mesurer le temps, en compter les divisions; suivre la mesure, observer le rythme. ‖ Estimer, regarder comme: {%kalayomi maṇibhūṣaṇam%} {%bahudoṣaṇam%} je compte les perles des colliers pour autant de péchés. ‖ Remarquer, observer, s'assurer [Page147-2] de <ab>qqc.</ab>, <ab>ac.</ab> ‖ Tenir, porter: {%pāṇau%} dans sa main. ‖ <ab>qqf.</ab> faire. -- II. {%kālayāmi%} 10. Compter, supputer; ‖ mesurer le temps, observer le rythme. ‖ Jeter, lancer. ‖ Dérober, ravir: {%gavāṃ%} {%sahasrāṇi%} des milliers de bœufs.	<LEND>
+;-----------------
+7038 old +++	{#…#}¦ {%kuñjara%} <ab>m.</ab> (<ab>sfx.</ab> {%ra%}) éléphant; ‖ au <ab>fig.</ab> en campos. le premier, le plus puissant: {%naratuñjara%}, comme {%nararsabha%}, {%naracardela%}. <ab>f.</ab> femelle d'éléphant. ‖ Bignonia suaveolens, <ab>bot.</ab>
+7038 new +++	{#…#}¦ {%kuñjara%} <ab>m.</ab> (<ab>sfx.</ab> {%ra%}) éléphant; ‖ au <ab>fig.</ab> en campos. le premier, le plus puissant: {%naratuñjara%}, comme {%nararsabha%}, {%naracardela%}. [[‖ Poil. cheveu. ‖ <ab>Np.</ab> de pays. -- {%kuñjarā%}]] <ab>f.</ab> femelle d'éléphant. ‖ Bignonia suaveolens, <ab>bot.</ab>
+;-----------------
+7426 old <L>4940<pc>177,1<k1>कुस्मये<k2>कुस्मये	{#कुस्मये#}¦ {%kusmaye%} 10, ({%ku; smi%}); <ab>f1.</ab> {%kusmayitāhe%}; Rire d'une façon désordonnée. ‖ Prévoir, comprendre [peut-être: sourire à la façon d'un homme qui comprend ou qui prévoit <ab>qqc.</ab>].	<LEND>
+7426 new <L>4940<pc>177,1<k1>कुस्मये<k2>कुस्मये	{#कुस्मये#}¦ {%kusmaye%} 10, ({%ku; smi%}); <ab>f1.</ab> {%kusmayitāhe%}; [[<ab>pqp.</ab> {%acukusmaye%}; <ab>gér.</ab> {%kusmayitvā%}.]] Rire d'une façon désordonnée. ‖ Prévoir, comprendre [peut-être: sourire à la façon d'un homme qui comprend ou qui prévoit <ab>qqc.</ab>].	<LEND>
+;-----------------
+9463 old <L>6022<pc>223,1<k1>गो<k2>गो	{#गो#}¦ {%go%} <ab>m.</ab> [<ab>M§</ab> 40] bœuf. ‖ Dans le <s1>Veda</s1>, tout ce qui est bon: ciel, rayon de lumière, lune, soleil, foudre. -- {%go%} <ab>m.</ab> et {%gu%} <ab>n.</ab> poils du corps. ‖ Eau. -- <ab>S.</ab> <ab>f.</ab> {%go%} vache. ‖ Dans le <s1>Veda</s1>, tout ce qui est bon: la terre, la nuée, le sacrifice, la parole sainte, l'offrande, la mère, <ab>etc.</ab> ‖ Œil. ‖ Flèche. ‖ Point cardinal. ‖ <ab>Gr.</ab> <lang n="greek">βοῦς</lang>; <ab>lat.</ab> bos; <ab>angl.</ab> cow; <ab>dan.</ab> kœ; <ab>suéd.</ab> ko; <ab>germ.</ab> kuh.
+9463 new <L>6022<pc>223,1<k1>गो<k2>गो	{#गो#}¦ {%go%} <ab>m.</ab> [M. §40] bœuf. ‖ Dans le <s1>Veda</s1>, tout ce qui est bon: ciel, rayon de lumière, lune, soleil, foudre. -- {%go%} <ab>m.</ab> et {%gu%} <ab>n.</ab> poils du corps. ‖ Eau. -- <ab>S.</ab> <ab>f.</ab> {%go%} vache. ‖ Dans le <s1>Veda</s1>, tout ce qui est bon: la terre, la nuée, le sacrifice, la parole sainte, l'offrande, la mère, <ab>etc.</ab> ‖ Œil. ‖ Flèche. ‖ Point cardinal. ‖ <ab>Gr.</ab> <lang n="greek">βοῦς</lang>; <ab>lat.</ab> bos; <ab>angl.</ab> cow; <ab>dan.</ab> kœ; <ab>suéd.</ab> ko; <ab>germ.</ab> kuh.
+;-----------------
+9516 old <L>6050<pc>224,2<k1>गोपयामि<k2>गोपयामि	{#गोपयामि#}¦ {%gopayāmi%}; <ab>pqp.</ab> {%ajūgupam%} (<ab>c.</ab> de {%gup%}) garder, protéger: {%no mitravaruṇau jūgupatam%} que <s1>Mitra</s1> et <s1>Varuṇa</s1> nous protègent, {%ātmakāraṇaṃ gopayitum%} il ne peut cacher son origine. ‖ Parler; briller [selon les gramm.].	<LEND>
+9516 new <L>6050<pc>224,2<k1>गोपयामि<k2>गोपयामि	{#गोपयामि#}¦ {%gopayāmi%}; <ab>pqp.</ab> {%ajūgupam%} (<ab>c.</ab> de {%gup%}) garder, protéger: {%no mitravaruṇau jūgupatam%} que <s1>Mitra</s1> et <s1>Varuṇa</s1> nous protègent, [[<ab>Vd.</ab> ‖ Soustraire, cacher: {%na śaknoly%}]] {%ātmakāraṇaṃ gopayitum%} il ne peut cacher son origine. ‖ Parler; briller [selon les <ab>gramm.</ab>].	<LEND>
+;-----------------
+9712 old <L>6187<pc>229,2<k1>ग्लह<k2>ग्लह	{#ग्लह#}¦ {%glaha%} <ab>m.</ab> jeu des <ab>dés.</ab>	<LEND>
+9712 new <L>6187<pc>229,2<k1>ग्लह<k2>ग्लह	{#ग्लह#}¦ {%glaha%} <ab>m.</ab> jeu des dés.	<LEND>
+;-----------------
+9955 old <L>6339<pc>236,1<k1>चङ्कुर<k2>चङ्कुर	{#चङ्कुर#}¦ {%caṅkura%} <ab>m.</ab> ({%car%} à l'aug.) char, chariot. ‖ Arbre. -- <ab>N.</ab> véhicule, en <ab>gén.</ab>	<LEND>
+9955 new <L>6339<pc>236,1<k1>चङ्कुर<k2>चङ्कुर	{#चङ्कुर#}¦ {%caṅkura%} <ab>m.</ab> ({%car%} à l'<ab>aug.</ab>) char, chariot. ‖ Arbre. -- <ab>N.</ab> véhicule, en <ab>gén.</ab>	<LEND>
+;-----------------
+9956 old <L>6340<pc>236,1<k1>चङ्क्रमण<k2>चङ्क्रमण	{#चङ्क्रमण#}¦ {%caṅkramaṇa%} <ab>a.</ab> ({%kram%} à l'aug.) qui va vite, qui avance. -- <ab>S.</ab> <ab>n.</ab> action de gagner du terrain, d'avancer promptement.	<LEND>
+9956 new <L>6340<pc>236,1<k1>चङ्क्रमण<k2>चङ्क्रमण	{#चङ्क्रमण#}¦ {%caṅkramaṇa%} <ab>a.</ab> ({%kram%} à l'<ab>aug.</ab>) qui va vite, qui avance. -- <ab>S.</ab> <ab>n.</ab> action de gagner du terrain, d'avancer promptement.	<LEND>
+;-----------------
+9961 old <L>6345<pc>236,1<k1>चङ्ग<k2>चङ्ग	{#चङ्ग#}¦ {%caṅga%} <ab>a.</ab> ({%gam%} à l'aug.) habile, adroit. ‖ Agréable, beau.	<LEND>
+9961 new <L>6345<pc>236,1<k1>चङ्ग<k2>चङ्ग	{#चङ्ग#}¦ {%caṅga%} <ab>a.</ab> ({%gam%} à l'<ab>aug.</ab>) habile, adroit. ‖ Agréable, beau.	<LEND>
+;-----------------
+9967 old <L>6351<pc>236,2<k1>चञ्चरीक<k2>चञ्चरीक	{#चञ्चरीक#}¦ {%cañcarīka%} <ab>m.</ab> ({%car%} à l'aug.) grande abeille noire.	<LEND>
+9967 new <L>6351<pc>236,2<k1>चञ्चरीक<k2>चञ्चरीक	{#चञ्चरीक#}¦ {%cañcarīka%} <ab>m.</ab> ({%car%} à l'<ab>aug.</ab>) grande abeille noire.	<LEND>
+;-----------------
+10370 old <L>6629<pc>245,2<k1>चित्<k2>*चित्	*{#चित्#}¦ {%cit%}. {%cetāmi%} 1; <ab>p.</ab> {%ciceta%}; <ab>f2.</ab> {%cetiṣyāmi%}; remarquer, observer: {%na acetīt tān%} il ne les aperçut pas; ‖ avec le <ab>g.</ab> dans le [Page246-1] <s1>Veda</s1>: {%vāyav indraś ca cetathas%} {%sutānām%}, <s1>Vāyu</s1> et <s1>Indra</s1>, tournez vos regards vers nos libations; ‖ au <ab>ps.</ab> dans le <s1>Veda</s1>: {%aceti divo duhitā%} la fille du ciel [l'aurore] a été aperçue. ‖ Connaître, savoir: {%tad indro%} {%cetali%} <s1>Indra</s1> le sait bien. ‖ Reprendre connaissance, revenir à soi. ‖ Veiller, être éveillé, être en activité. ‖ <ab>Actt.</ab> montrer, indiquer, <ab>Vd.</ab> ‖ Eveiller, rendre maître de ses sens, <ab>Vd.</ab>	<LEND>
+10370 new <L>6629<pc>245,2<k1>चित्<k2>*चित्	*{#चित्#}¦ {%cit%}. {%cetāmi%} 1; <ab>p.</ab> {%ciceta%}; <ab>f2.</ab> {%cetiṣyāmi%}; [[<ab>a1.</ab> {%acetiṣam.%} <ab>Pp.</ab> {%citta.%} Apercevoir,]] remarquer, observer: {%na acetīt tān%} il ne les aperçut pas; ‖ avec le <ab>g.</ab> dans le [Page246-1] <s1>Veda</s1>: {%vāyav indraś ca cetathas%} {%sutānām%}, <s1>Vāyu</s1> et <s1>Indra</s1>, tournez vos regards vers nos libations; ‖ au <ab>ps.</ab> dans le <s1>Veda</s1>: {%aceti divo duhitā%} la fille du ciel [l'aurore] a été aperçue. ‖ Connaître, savoir: {%tad indro%} {%cetali%} <s1>Indra</s1> le sait bien. ‖ Reprendre connaissance, revenir à soi. ‖ Veiller, être éveillé, être en activité. ‖ <ab>Actt.</ab> montrer, indiquer, <ab>Vd.</ab> ‖ Eveiller, rendre maître de ses sens, <ab>Vd.</ab>	<LEND>
+;-----------------
+11001 old +++	{#…#}¦ {%jayakolāhala%} <ab>m.</ab> <ab>esp.</ab> de jeu de <ab>dés.</ab>
+11001 new +++	{#…#}¦ {%jayakolāhala%} <ab>m.</ab> <ab>esp.</ab> de jeu de dés.
+;-----------------
+11326 old <L>7207<pc>267,1<k1>जि<k2>*जि	*{#जि#}¦ {%ji%}. {%jayāmi, jaye%} 1; <ab>p.</ab> {%jigāya%}, {%jigye%}; <ab>f2.</ab> {%jeṣyāmi, jeṣye%}; <ab>a1.</ab> {%ajaiṣam%}, {%ajeṣi%}; <ab>o.</ab> {%jīyāsam, jiṣīya%}. {@<ab>Ps.</ab>@} {%jīye%}; <ab>f2.</ab> {%jāyiṣye%}; <ab>a1.</ab> <ab>3p.</ab> {%ajāyi%}; <ab>o.</ab> {%jāyiṣīya%}; <ab>pf.</ab> {%jeya%} et {%jayya%}; <ab>pp.</ab> {%jila%}; <ab>ppf.</ab> <ab>vd.</ab> {%jigyuṣas%}. Vaincre: {%sapatnān%} les ennemis; {%na mṛlo jayate śatrūn%} un mort ne peut vaincre les ennemis; {%kena jayiṣyate yamas%} par qui <s1>Yama</s1> pourrait-il être vaincu ? ‖ Gagner la partie, battre: {%dyute%} au jeu, {%akṣeṣu%} aux <ab>dés.</ab> ‖ Conquérir: {%puram%} une ville, {%vasūni%} des richesses. ‖ L'emporter sur: {%tam buddhyā%} {%jayati%} il le surpasse en sagesse. ‖ Maîtriser, dominer: {%māyām%} détruire l'effect de la magie. ‖ A la 3ᵉ <ab>pers.</ab>: {%jayati, jayati rājā%} victoire ! victoire au roi !	<LEND>
+11326 new <L>7207<pc>267,1<k1>जि<k2>*जि	*{#जि#}¦ {%ji%}. {%jayāmi, jaye%} 1; <ab>p.</ab> {%jigāya%}, {%jigye%}; <ab>f2.</ab> {%jeṣyāmi, jeṣye%}; <ab>a1.</ab> {%ajaiṣam%}, {%ajeṣi%}; <ab>o.</ab> {%jīyāsam, jiṣīya%}. {@<ab>Ps.</ab>@} {%jīye%}; <ab>f2.</ab> {%jāyiṣye%}; <ab>a1.</ab> <ab>3p.</ab> {%ajāyi%}; <ab>o.</ab> {%jāyiṣīya%}; <ab>pf.</ab> {%jeya%} et {%jayya%}; <ab>pp.</ab> {%jila%}; <ab>ppf.</ab> <ab>vd.</ab> {%jigyuṣas%}. Vaincre: {%sapatnān%} les ennemis; {%na mṛlo jayate śatrūn%} un mort ne peut vaincre les ennemis; {%kena jayiṣyate yamas%} par qui <s1>Yama</s1> pourrait-il être vaincu ? ‖ Gagner la partie, battre: {%dyute%} au jeu, {%akṣeṣu%} aux dés. ‖ Conquérir: {%puram%} une ville, {%vasūni%} des richesses. ‖ L'emporter sur: {%tam buddhyā%} {%jayati%} il le surpasse en sagesse. ‖ Maîtriser, dominer: {%māyām%} détruire l'effect de la magie. ‖ A la 3ᵉ <ab>pers.</ab>: {%jayati, jayati rājā%} victoire ! victoire au roi !	<LEND>
+;-----------------
+11847 old <L>7612<pc>281,1<k1>तक्<k2>*तक्	*{#तक्#}¦ {%tak%}. {%takāmi%} 1; <ab>p.</ab> {%tatāka%}; <ab>f2.</ab> {%takiṣyāmi%}; supporter. ‖ Aller. ‖ Rire, <ab>cf.</ab> {%kakh%}.	<LEND>
+11847 new <L>7612<pc>281,1<k1>तक्<k2>*तक्	*{#तक्#}¦ {%tak%}. {%takāmi%} 1; <ab>p.</ab> {%tatāka%}; <ab>f2.</ab> {%takiṣyāmi%}; <ab>a1.</ab> {%atakiṣam%} et {%atākiṣam%}. Soutenir, supporter. ‖ Aller. ‖ Rire, <ab>cf.</ab> {%kakh%}.	<LEND>
+;-----------------
+11856 old <L>7619<pc>281,1<k1>तक्ष्<k2>*तक्ष्	*{#तक्ष्#}¦ {%takṣ%}. {%takṣāmi%} 1 et {%takṣṇomi%} 5; <ab>p.</ab> {%tatakṣa%}; ou {%atakṣam%}; <ab>pp.</ab> {%taṣṭa%}. <ab>Vd.</ab>, fabriquer: {%tvaṣṭā atakṣad%} {%vajram%} Twashtri fabriqua la foudre [arme d'<s1>Indra</s1>]; ‖ faire, composer: {%taṣṭā mantrās%} les hymnes sont prêts, <ab>Vd.</ab> ‖ Tailler, doler, charpenter: {%kāṣṭham%} une pièce de bois; ‖ au <ab>fig.</ab> mettre en pièces: {%anyonyaṃ tatakṣus%} ils se pourfendirent l'un l'autre.
+11856 new <L>7619<pc>281,1<k1>तक्ष्<k2>*तक्ष्	*{#तक्ष्#}¦ {%takṣ%}. {%takṣāmi%} 1 et {%takṣṇomi%} 5; <ab>p.</ab> {%tatakṣa%}; [[<ab>f2.</ab> {%takṣiṣyāmi%} et {%takṣyāmi;%} <ab>a1.</ab> {%atakṣiṣam%}]] ou {%atakṣam%}; <ab>pp.</ab> {%taṣṭa%}. <ab>Vd.</ab>, fabriquer: {%tvaṣṭā atakṣad%} {%vajram%} Twashtri fabriqua la foudre [arme d'<s1>Indra</s1>]; ‖ faire, composer: {%taṣṭā mantrās%} les hymnes sont prêts, <ab>Vd.</ab> ‖ Tailler, doler, charpenter: {%kāṣṭham%} une pièce de bois; ‖ au <ab>fig.</ab> mettre en pièces: {%anyonyaṃ tatakṣus%} ils se pourfendirent l'un l'autre.
+;-----------------
+12076 old <L>7757<pc>286,2<k1>तरित्रत्<k2>तरित्रत्	{#तरित्रत्#}¦ {%taritrat%} <ab>ppr.</ab> <ab>vd.</ab> de l'aug. de {%tṝ%}.	<LEND>
+12076 new <L>7757<pc>286,2<k1>तरित्रत्<k2>तरित्रत्	{#तरित्रत्#}¦ {%taritrat%} <ab>ppr.</ab> <ab>vd.</ab> de l'<ab>aug.</ab> de {%tṝ%}.	<LEND>
+;-----------------
+12792 old <L>8172<pc>301,1<k1>तोल<k2>तोल	{#तोल#}¦ {%tola%} <ab>m.</ab> <ab>n.</ab> ({%tul%}; <ab>sfx.</ab> {%a%}) poids d'or ou d'argent fixé légalement à 16 màshas de 5 <s1>raktikā</s1>s [en tout 6, 8 grammes] mais pratiquement à 12 mâshas des bijoutiers ou 13,6 grammes.
+12792 new <L>8172<pc>301,1<k1>तोल<k2>तोल	{#तोल#}¦ {%tola%} <ab>m.</ab> <ab>n.</ab> ({%tul%}; <ab>sfx.</ab> {%a%}) poids d'or ou d'argent fixé légalement à 16 mâshas de 5 <s1>raktikā</s1>s [en tout 6,8 grammes] mais pratiquement à 12 mâshas des bijoutiers ou 13,6 grammes.
+;-----------------
+13271 old <L>8453<pc>312,1<k1>दरिद्र<k2>दरिद्र	{#दरिद्र#}¦ {%daridra%} <ab>a.</ab> (<ab>red.</ab> de {%drā%} à l'aug.) pauvre.
+13271 new <L>8453<pc>312,1<k1>दरिद्र<k2>दरिद्र	{#दरिद्र#}¦ {%daridra%} <ab>a.</ab> (<ab>red.</ab> de {%drā%} à l'<ab>aug.</ab>) pauvre.
+;-----------------
+13342 old <L>8496<pc>314,1<k1>दविध्वत्<k2>दविध्वत्	{#दविध्वत्#}¦ {%davidhvat%} <ab>ppr.</ab> <ab>vd.</ab> de l'aug. de {%dhvṛ%}.	<LEND>
+13342 new <L>8496<pc>314,1<k1>दविध्वत्<k2>दविध्वत्	{#दविध्वत्#}¦ {%davidhvat%} <ab>ppr.</ab> <ab>vd.</ab> de l'<ab>aug.</ab> de {%dhvṛ%}.	<LEND>
+;-----------------
+13450 old <L>8572<pc>316,2<k1>दादृहाण<k2>दादृहाण	{#दादृहाण#}¦ {%dādṛhāṇa%} <ab>ppr.</ab> <ab>vd.</ab> de l'aug. de {%dṛh%}.	<LEND>
+13450 new <L>8572<pc>316,2<k1>दादृहाण<k2>दादृहाण	{#दादृहाण#}¦ {%dādṛhāṇa%} <ab>ppr.</ab> <ab>vd.</ab> de l'<ab>aug.</ab> de {%dṛh%}.	<LEND>
+;-----------------
+13840 old +++	{#…#}¦ {%dundubhi%} <ab>m.</ab> sorte de timbale. ‖ Couple, paire. ‖ <ab>Surn.</ab> de <s1>Varuṇa</s1>. ‖ <ab>Np.</ab> d'un <s1>Daitya</s1>. -- <ab>F.</ab> {%dundubhi%} et {%dundubhī%} dé à jouer; ‖ deux fois 3 au jeu de <ab>dés.</ab>	<LEND>
+13840 new +++	{#…#}¦ {%dundubhi%} <ab>m.</ab> sorte de timbale. ‖ Couple, paire. ‖ <ab>Surn.</ab> de <s1>Varuṇa</s1>. ‖ <ab>Np.</ab> d'un <s1>Daitya</s1>. -- <ab>F.</ab> {%dundubhi%} et {%dundubhī%} dé à jouer; ‖ deux fois 3 au jeu de dés.	<LEND>
+;-----------------
+13901 old <L>8862<pc>325,2<k1>दुल्<k2>*दुल्	*{#दुल्#}¦ {%dul%}. {%dolayāmi%} 10; <ab>pqp.</ab> {%adūdulam%}. Lever, soulever, brandir, lancer; ‖ jeter: {%akṣān%} les <ab>dés.</ab> -- Au <ab>moy.</ab> {%dolaye%} être ébranlé: {%matir dolkṣyate satāṃ%} {%kaloktibhis%} [Page326-1] l'esprit des gens de bien est scandalisé par un langage pervers.	<LEND>
+13901 new <L>8862<pc>325,2<k1>दुल्<k2>*दुल्	*{#दुल्#}¦ {%dul%}. {%dolayāmi%} 10; <ab>pqp.</ab> {%adūdulam%}. Lever, soulever, brandir, lancer; ‖ jeter: {%akṣān%} les dés. -- Au <ab>moy.</ab> {%dolaye%} être ébranlé: {%matir dolkṣyate satāṃ%} {%kaloktibhis%} [Page326-1] l'esprit des gens de bien est scandalisé par un langage pervers.	<LEND>
+;-----------------
+14167 old <L>8975<pc>331,1<k1>देवन<k2>देवन	{#देवन#}¦ {%devana%} <ab>n.</ab> ({%div%} briller; <ab>sfx.</ab> {%ana%}) éclat, splendeur; au <ab>fig.</ab> honneur; louange, éloge. -- ({%div%} jouer) jeu; amusement; ‖ rivalité, émulation; ‖ commerce aléatoire; affaire. ‖ Lieu de plaisir; jardin d'agrément. ‖ <ab>M.</ab> jeu de <ab>dés.</ab> ‖ <ab>F.</ab> {%devanā%} amusement, passe-temps. -- <ab>N.</ab> ({%dev%} s'affliger) lamentation, chagrin.	<LEND>
+14167 new <L>8975<pc>331,1<k1>देवन<k2>देवन	{#देवन#}¦ {%devana%} <ab>n.</ab> ({%div%} briller; <ab>sfx.</ab> {%ana%}) éclat, splendeur; au <ab>fig.</ab> honneur; louange, éloge. -- ({%div%} jouer) jeu; amusement; ‖ rivalité, émulation; ‖ commerce aléatoire; affaire. ‖ Lieu de plaisir; jardin d'agrément. ‖ <ab>M.</ab> jeu de dés. ‖ <ab>F.</ab> {%devanā%} amusement, passe-temps. -- <ab>N.</ab> ({%dev%} s'affliger) lamentation, chagrin.	<LEND>
+;-----------------
+14556 old <L>9207<pc>339,1<k1>द्विहृदया<k2>द्विहृदया	{#द्विहृदया#}¦ {%dvihṛdayā%} <ab>f.</ab> ({%hṛdaya%}) femme enceinte [qui <ab>a2</ab> cœurs, le sien et celui du fœtus, <ab>c-à-d.</ab> dont on entend les doubles pulsations].	<LEND>
+14556 new <L>9207<pc>339,1<k1>द्विहृदया<k2>द्विहृदया	{#द्विहृदया#}¦ {%dvihṛdayā%} <ab>f.</ab> ({%hṛdaya%}) femme enceinte [qui a 2 cœurs, le sien et celui du fœtus, <ab>c-à-d.</ab> dont on entend les doubles pulsations].	<LEND>
+;-----------------
+14668 old <L>9271<pc>341,2<k1>धर<k2>धर	{#धर#}¦ {%dhara%} <ab>a.</ab> ({%dhṛ%}) [à la fin des <ab>compos.</ab>] qui porte, qui tient, qui <ab>a.</ab> -- <ab>S.</ab> <ab>m.</ab> montagne. ‖ Flocon de coton. ‖ <ab>Np.</ab> d'un des 8 <s1>Vasu</s1>s. ‖ L'<s1>avatāra</s1> de <s1>Viṣṇu</s1> en tortue. -- <ab>S.</ab> <ab>f.</ab> {%dharā%} la terre. ‖ Matrice. ‖ Mœlle.
+14668 new <L>9271<pc>341,2<k1>धर<k2>धर	{#धर#}¦ {%dhara%} <ab>a.</ab> ({%dhṛ%}) [à la fin des <ab>compos.</ab>] qui porte, qui tient, qui a. -- <ab>S.</ab> <ab>m.</ab> montagne. ‖ Flocon de coton. ‖ <ab>Np.</ab> d'un des 8 <s1>Vasu</s1>s. ‖ L'<s1>avatāra</s1> de <s1>Viṣṇu</s1> en tortue. -- <ab>S.</ab> <ab>f.</ab> {%dharā%} la terre. ‖ Matrice. ‖ Mœlle.
+;-----------------
+15333 old <L>9639<pc>356,2<k1>नष्ट<k2>नष्ट	{#नष्ट#}¦ {%naṣṭa%} (<ab>pp.</ab> de {%naś%}) détruit, disparu; ‖ <ab>mort.</ab> <ab>Gr.</ab> <lang n="greek">νεϰρός</lang>; <ab>goth.</ab> naus; <ab>irl.</ab> nas.
+15333 new <L>9639<pc>356,2<k1>नष्ट<k2>नष्ट	{#नष्ट#}¦ {%naṣṭa%} (<ab>pp.</ab> de {%naś%}) détruit, disparu; ‖ mort. <ab>Gr.</ab> <lang n="greek">νεϰρός</lang>; <ab>goth.</ab> naus; <ab>irl.</ab> nas.
+;-----------------
+15532 old <L>9710<pc>360,1<k1>नासिक्य<k2>नासिक्य	{#नासिक्य#}¦ {%nāsikya%} <ab>a.</ab> (<ab>sfx.</ab> {%ya%}) nasal. -- <ab>S.</ab> <ab>n.</ab> nez. -- <ab>S.</ab> <ab>m.</ab> au <ab>du.</ab> les deux <s1>Aśvin</s1>s [mauvaise orth. de {%nāsatya%}].
+15532 new <L>9710<pc>360,1<k1>नासिक्य<k2>नासिक्य	{#नासिक्य#}¦ {%nāsikya%} <ab>a.</ab> (<ab>sfx.</ab> {%ya%}) nasal. -- <ab>S.</ab> <ab>n.</ab> nez. -- <ab>S.</ab> <ab>m.</ab> au <ab>du.</ab> les deux <s1>Aśvin</s1>s [mauvaise <ab>orth.</ab> de {%nāsatya%}].
+;-----------------
+16364 old +++	{#…#}¦ {%nedīyas%} (<ab>comp.</ab> de {%neda%} inus.) plus voisin, plus proche. -- <ab>Sup.</ab> {%nediṣṭha%} très-proche. ‖ <ab>S.</ab> <ab>m.</ab> alangium hexapetalum, <ab>bot.</ab>	<LEND>
+16364 new +++	{#…#}¦ {%nedīyas%} (<ab>comp.</ab> de {%neda%} <ab>inus.</ab>) plus voisin, plus proche. -- <ab>Sup.</ab> {%nediṣṭha%} très-proche. ‖ <ab>S.</ab> <ab>m.</ab> alangium hexapetalum, <ab>bot.</ab>	<LEND>
+;-----------------
+17516 old <P>Cl. 4, {%pāyāmi%}; <ab>p.</ab> {%papau%}, <ab>etc.</ab> Se dessécher.	<LEND>
+17516 new <P><ab>Cl.</ab> 4, {%pāyāmi%}; <ab>p.</ab> {%papau%}, <ab>etc.</ab> Se dessécher.	<LEND>
+;-----------------
+17570 old +++	{#…#}¦ {%pāṭhaśālā%} <ab>f.</ab> salle de lecture <ab>F.</ab> école, collège.
+17570 new +++	{#…#}¦ {%pāṭhaśālā%} <ab>f.</ab> salle de lecture, école, collège.
+;-----------------
+17887 old <L>11058<pc>410,2<k1>पिचु<k2>पिचु	{#पिचु#}¦ {%picu%} <ab>m.</ab> coton. ‖ Poids de 1 {%karṣa%} [18 gram. 662]. ‖ <ab>Esp.</ab> de lèpre. ‖ <ab>Np.</ab> d'un <s1>asura</s1>.
+17887 new <L>11058<pc>410,2<k1>पिचु<k2>पिचु	{#पिचु#}¦ {%picu%} <ab>m.</ab> coton. ‖ Poids de 1 {%karṣa%} [18 <ab n="gramme(s)">gram.</ab> 662]. ‖ <ab>Esp.</ab> de lèpre. ‖ <ab>Np.</ab> d'un <s1>asura</s1>.
+;-----------------
+17913 old <L>11068<pc>411,1<k1>पिञ्जर<k2>पिञ्जर	{#पिञ्जर#}¦ {%piñjara%} <ab>a.</ab> gris-jaune, jaunâtre. -- <ab>S.</ab> <ab>m.</ab> couleur jaunâtre; ‖ cheval baiclair. -- <ab>S.</ab> <ab>n.</ab> or; ‖ orpiment jaune; <ab>cf.</ab> {%piṅgala%}.	<LEND>
+17913 new <L>11068<pc>411,1<k1>पिञ्जर<k2>पिञ्जर	{#पिञ्जर#}¦ {%piñjara%} <ab>a.</ab> gris-jaune, jaunâtre. -- <ab>S.</ab> <ab>m.</ab> couleur jaunâtre; ‖ cheval baiclair. -- <ab>S.</ab> <ab>n.</ab> or; ‖ orpiment jaune; <ab>cf.</ab> {%piṅgala%}. -- Cage; ‖ cage thoracique; <ab>cf.</ab> {%pañjara%}.	<LEND>
+;-----------------
+17990 old <L>11089<pc>412,1<k1>पिन्व्<k2>*पिन्व्	*{#पिन्व्#}¦ {%pinv%} ou {%piv%}. {%pinvāmi%} 1; <ab>p.</ab> {%pipinva%}; <ab>etc.</ab> Verser, répandre: {%utsam%} la source céleste [la pluie], <ab>Vd.</ab> ‖ Au <ab>fig.</ab> donner, {%bhūmim%} la terre, <ab>Vd.</ab> ‖ Remplir: {%dhenum%} une vache [la mamelle d'une vache], [Page412-2] <ab>Vd.</ab> ‖ Au <ab>moy.</ab> être plein, être gonflé: {%payasā%} de lait, <ab>Vd.</ab> -- <ab>Cf.</ab> {%pā, pivāmi%}.	<LEND>
+17990 new <L>11089<pc>412,1<k1>पिन्व्<k2>*पिन्व्	*{#पिन्व्#}¦ {%pinv%} ou {%piv%}. {%pinvāmi%} 1; <ab>p.</ab> {%pipinva%}; <ab>etc.</ab> Verser, répandre: {%utsam%} la source céleste [la pluie], <ab>Vd.</ab> ‖ Au <ab>fig.</ab> donner, [[distribuer; {%iṣam%} l'offrande, <ab>Vd.</ab> ‖ Arroser;]] {%bhūmim%} la terre, <ab>Vd.</ab> ‖ Remplir: {%dhenum%} une vache [la mamelle d'une vache], [Page412-2] <ab>Vd.</ab> ‖ Au <ab>moy.</ab> être plein, être gonflé: {%payasā%} de lait, <ab>Vd.</ab> -- <ab>Cf.</ab> {%pā, pivāmi%}.	<LEND>
+;-----------------
+18541 old <L>11305<pc>423,1<k1>पॄ<k2>*पॄ	*{#पॄ#}¦ {%pṝ%}. {%piparmi%} 3 et {%pṛṇāmi%} 9; <ab>p.</ab> {%papāra%} et {%pariṣyāmi%}; <ab>a1.</ab> {%apārīṣam%}; <ab>o.</ab> {%puryāsam%}. {@<ab>Ps.</ab>@} {%pūrye%}; <ab>a1.</ab> <ab>3p.</ab> {%apūri%} et {%apūriṣṭa%}; <ab>pp.</ab> {%pūrṇa%} et <ab>qqf.</ab> {%pūrita%} et {%pūrta%}. Remplir: {%jalena%} d'eau, {%nisvanais%} de bruits divers. ‖ Rassasier, {%haviṣā%} de beurre sacré. ‖ Répandre, prodiguer, {%rāyas%} les biens, <ab>Vd.</ab> ‖ Protéger, défendre, {%tā aṃhasas pipṛhi%} préserve-les du mal, <ab>Vd.</ab> ‖ Faire passer <ab>qqn.</ab>, {%pāram%} à l'autre rive. ‖ <ab>Gr.</ab> <lang n="greek">πίμπλημι, πλέως</lang>; <ab>lat.</ab> plenus; <ab>lith.</ab> pilnas.	<LEND>
+18541 new <L>11305<pc>423,1<k1>पॄ<k2>*पॄ	*{#पॄ#}¦ {%pṝ%}. {%piparmi%} 3 et {%pṛṇāmi%} 9; <ab>p.</ab> {%papāra%} [[<ab>3p.</ab> <ab>pl.</ab> {%paparus%} et {%paprus%}]; <ab>f2.</ab> {%pariṣyāmi%} ]] et {%pariṣyāmi%}; <ab>a1.</ab> {%apārīṣam%}; <ab>o.</ab> {%puryāsam%}. {@<ab>Ps.</ab>@} {%pūrye%}; <ab>a1.</ab> <ab>3p.</ab> {%apūri%} et {%apūriṣṭa%}; <ab>pp.</ab> {%pūrṇa%} et <ab>qqf.</ab> {%pūrita%} et {%pūrta%}. Remplir: {%jalena%} d'eau, {%nisvanais%} de bruits divers. ‖ Rassasier, {%haviṣā%} de beurre sacré. ‖ Répandre, prodiguer, {%rāyas%} les biens, <ab>Vd.</ab> ‖ Protéger, défendre, {%tā aṃhasas pipṛhi%} préserve-les du mal, <ab>Vd.</ab> ‖ Faire passer <ab>qqn.</ab>, {%pāram%} à l'autre rive. ‖ <ab>Gr.</ab> <lang n="greek">πίμπλημι, πλέως</lang>; <ab>lat.</ab> plenus; <ab>lith.</ab> pilnas.	<LEND>
+;-----------------
+18996 old <L>11619<pc>433,1<k1>प्रतिपृच्छामि<k2>प्रतिपृच्छामि	{#प्रतिपृच्छामि#}¦ {%pratipṛcchāmi%} ({%prach%}) s'informer auprès de <ab>qqn.</ab>, <ab>interroger.</ab>	<LEND>
+18996 new <L>11619<pc>433,1<k1>प्रतिपृच्छामि<k2>प्रतिपृच्छामि	{#प्रतिपृच्छामि#}¦ {%pratipṛcchāmi%} ({%prach%}) s'informer auprès de <ab>qqn.</ab>, interroger.	<LEND>
+;-----------------
+19465 old <L>11959<pc>443,2<k1>प्रयस्यामि<k2>प्रयस्यामि	{#प्रयस्यामि#}¦ {%prayasyāmi%} ({%yas%}) s'efforcer à, <ab>d.</ab> -- <ab>Pp.</ab> {%prayasta%} assaisonné, <ab>t.</ab> de <ab>cuis.</ab>	<LEND>
+19465 new <L>11959<pc>443,2<k1>प्रयस्यामि<k2>प्रयस्यामि	{#प्रयस्यामि#}¦ {%prayasyāmi%} ({%yas%}) s'efforcer à, <ab>d.</ab> -- <ab>Pp.</ab> {%prayasta%} assaisonné, <ab>t.</ab> de cuis.	<LEND>
+;-----------------
+20120 old <L>12342<pc>457,1<k1>फक्क्<k2>*फक्क्	*{#फक्क्#}¦ {%phakk%}. {%phakkāmi%} 1; <ab>p.</ab> {%paphakka%}; <ab>a2</ab> {%aphakkam%}. Avancer lentement, ramper; ‖ agir malhonnêtement.	<LEND>
+20120 new <L>12342<pc>457,1<k1>फक्क्<k2>*फक्क्	*{#फक्क्#}¦ {%phakk%}. {%phakkāmi%} 1; <ab>p.</ab> {%paphakka%}; <ab>a2.</ab> {%aphakkam%}. Avancer lentement, ramper; ‖ agir malhonnêtement.	<LEND>
+;-----------------
+20454 old <L>12473<pc>463,2<k1>बह्ल्<k2>बह्ल्	{#बह्ल्#}¦ {%bahl%} mauvaise orth. de {%balh%} et de {%valh%}.	<LEND>
+20454 new <L>12473<pc>463,2<k1>बह्ल्<k2>बह्ल्	{#बह्ल्#}¦ {%bahl%} mauvaise <ab>orth.</ab> de {%balh%} et de {%valh%}.	<LEND>
+;-----------------
+20610 old <L>12555<pc>466,1<k1>बुध्<k2>*बुध्	*{#बुध्#}¦ {%budh%}. {%bodhāmi, bode%} 1, {%budhye%} 4 [et <ab>Vd.</ab>, {%budhnāmi%} 9]; <ab>p.</ab> {%bubodha, bubudhe%}; <ab>f2.</ab> {%bodhiṣyāmi, bodhiṣye%} et {%bhotsye%}; <ab>a.</ab> 1. {%abodhiṣam%}; <ab>a.</ab> 2. {%abudham%}. <ab>Pp.</ab> {%buddha%}. A la <ab>cl.</ab> 4, revenir à soi [du sommeil, d'un évanouissement, <ab>etc.</ab>]: {%na%} {%budhyeta me priyā%} que ma bien-aimée ne s'éveille pas. ‖ Ordt. Remarquer, observer, percevoir: {%bodha nas stomam%} fais attention à notre hymne, <ab>Vd.</ab> ‖ Apprendre, découvrir: {%tattvaṃ dhyānena%} la vérité par la réflexion; ‖ connaître <ab>qqn.</ab> savoir <ab>qqc.</ab> ‖ penser, réfléchir à, <ab>ac.</ab> -- <ab>Zd.</ab> budh; <ab>gr.</ab> <lang n="greek">πυθ [ἐπυθόμην]</lang>; <ab>lith.</ab> bundu.	<LEND>
+20610 new <L>12555<pc>466,1<k1>बुध्<k2>*बुध्	*{#बुध्#}¦ {%budh%}. {%bodhāmi, bode%} 1, {%budhye%} 4 [et <ab>Vd.</ab>, {%budhnāmi%} 9]; <ab>p.</ab> {%bubodha, bubudhe%}; <ab>f2.</ab> {%bodhiṣyāmi, bodhiṣye%} et {%bhotsye%}; <ab>a1.</ab> {%abodhiṣam%}; <ab>a2.</ab> {%abudham%}. <ab>Pp.</ab> {%buddha%}. A la <ab>cl.</ab> 4, revenir à soi [du sommeil, d'un évanouissement, <ab>etc.</ab>]: {%na%} {%budhyeta me priyā%} que ma bien-aimée ne s'éveille pas. ‖ Ordt. Remarquer, observer, percevoir: {%bodha nas stomam%} fais attention à notre hymne, <ab>Vd.</ab> ‖ Apprendre, découvrir: {%tattvaṃ dhyānena%} la vérité par la réflexion; ‖ connaître <ab>qqn.</ab> savoir <ab>qqc.</ab> ‖ penser, réfléchir à, <ab>ac.</ab> -- <ab>Zd.</ab> budh; <ab>gr.</ab> <lang n="greek">πυθ [ἐπυθόμην]</lang>; <ab>lith.</ab> bundu.	<LEND>
+;-----------------
+20707 old +++	{#…#}¦ {%brahmarṣideśa%} <ab>m.</ab> le pays des <s1>Brahmarṣi</s1>s, contrée au <ab>N.</ab> et au <ab>N.</ab> <ab>O.</ab> de Delhi.
+20707 new +++	{#…#}¦ {%brahmarṣideśa%} <ab>m.</ab> le pays des <s1>Brahmarṣi</s1>s, contrée au <ab>N.</ab> et au <ab>N. O.</ab> de Delhi.
+;-----------------
+20736 old +++	{#…#}¦ {%brahmāvartta%} <ab>n.</ab> ({%ā; vṛt%}) la Terre-Sainte [au <ab>N.</ab> <ab>O.</ab> de Delhi, entre la <s1>Sarasvatī</s1> et la <s1>Dṛṣadvatī</s1>].
+20736 new +++	{#…#}¦ {%brahmāvartta%} <ab>n.</ab> ({%ā; vṛt%}) la Terre-Sainte [au <ab>N. O.</ab> de Delhi, entre la <s1>Sarasvatī</s1> et la <s1>Dṛṣadvatī</s1>].
+;-----------------
+20887 old +++	{#…#}¦ {%bhayayāmi%} (<ab>c.</ab> de {%bhī%}) faire peur à <ab>qqn</ab> [<ab>ac.</ab>] de <ab>qqc.</ab> [<ab>i</ab>].
+20887 new +++	{#…#}¦ {%bhayayāmi%} (<ab>c.</ab> de {%bhī%}) faire peur à <ab>qqn.</ab> [<ab>ac.</ab>] de <ab>qqc.</ab> [<ab>i</ab>].
+;-----------------
+20975 old <L>12691<pc>473,1<k1>भसन्त<k2>भसन्त	{#भसन्त#}¦ {%bhasanta%} <ab>m.</ab> le temps [mauvaise orth. de {%bhavanta%}].	<LEND>
+20975 new <L>12691<pc>473,1<k1>भसन्त<k2>भसन्त	{#भसन्त#}¦ {%bhasanta%} <ab>m.</ab> le temps [mauvaise <ab>orth.</ab> de {%bhavanta%}].	<LEND>
+;-----------------
+21036 old <L>12719<pc>474,2<k1>भारत<k2>भारत	{#भारत#}¦ {%bhārata%} <ab>a.</ab> ({%bhṛ%} ou {%bharata%}) qui porte l'offrande [<ab>ép.</ab> d'<s1>Agni</s1> dans le <ab>Vd.</ab>]. -- <ab>S.</ab> <ab>m.</ab> <s1>Agni</s1>, <ab>Vd.</ab> ‖ Barde, chanteur, acteur. ‖ Descendant ou l'Inde. -- <ab>S.</ab> <ab>m.</ab> <ab>n.</ab> le <s1>Mahābhārata</s1> [? le grand-bardit ou chant des bardes]. -- <ab>S.</ab> <ab>f.</ab> {%bhāratī%} une des divinités du Saint-Sacrifice, <ab>Vd.</ab> ‖ Chant poétique, récit, discours. ‖ L'art du débit dramatique. ‖ Caille.
+21036 new <L>12719<pc>474,2<k1>भारत<k2>भारत	{#भारत#}¦ {%bhārata%} <ab>a.</ab> ({%bhṛ%} ou {%bharata%}) qui porte l'offrande [<ab>ép.</ab> d'<s1>Agni</s1> dans le <ab>Vd.</ab>]. -- <ab>S.</ab> <ab>m.</ab> <s1>Agni</s1>, <ab>Vd.</ab> ‖ Barde, chanteur, acteur. ‖ Descendant [[de <s1 slp1="Barata">Bharata</s1>. -- <ab>S.</ab> <ab>n.</ab> le <s1 slp1="Baratavarza">Bharatavarṣa</s1>]] ou l'Inde. -- <ab>S.</ab> <ab>m.</ab> <ab>n.</ab> le <s1>Mahābhārata</s1> [? le grand-bardit ou chant des bardes]. -- <ab>S.</ab> <ab>f.</ab> {%bhāratī%} une des divinités du Saint-Sacrifice, <ab>Vd.</ab> ‖ Chant poétique, récit, discours. ‖ L'art du débit dramatique. ‖ Caille.
+;-----------------
+21135 old <L>12759<pc>476,2<k1>भी<k2>*भी	*{#भी#}¦ {%bhī, bibhemi%} 3; <ab>p.</ab> {%bibhāya%}; <ab>f1.</ab> {%bhetāsmi%}; <ab>f2.</ab> {%bheṣyāmi%}; <ab>a1</ab> {%abhaiṣam%}; <ab>pp.</ab> {%bhīta%}. [On trouve {%bhais%} pour {%abhaiṣīs%} avec {%mā%}; {%bhema%} <ab>1p.</ab> <ab>pl.</ab> <ab>imp.</ab> <ab>vd.</ab>; de plus il arrive souvent que l'{%ī%} s'abrège ou se change en {%y, bibhitas, bibhyāt%}, <ab>etc.</ab>]. Craindre, <ab>ab.</ab>, <ab>g.</ab> ou i, et <ab>qqf.</ab> <ab>ac.</ab> ‖ <ab>Gr.</ab> <lang n="greek">φόϐος</lang>.	<LEND>
+21135 new <L>12759<pc>476,2<k1>भी<k2>*भी	*{#भी#}¦ {%bhī, bibhemi%} 3; <ab>p.</ab> {%bibhāya%}; <ab>f1.</ab> {%bhetāsmi%}; <ab>f2.</ab> {%bheṣyāmi%}; <ab>a1.</ab> {%abhaiṣam%}; <ab>pp.</ab> {%bhīta%}. [On trouve {%bhais%} pour {%abhaiṣīs%} avec {%mā%}; {%bhema%} <ab>1p.</ab> <ab>pl.</ab> <ab>imp.</ab> <ab>vd.</ab>; de plus il arrive souvent que l'{%ī%} s'abrège ou se change en {%y, bibhitas, bibhyāt%}, <ab>etc.</ab>]. Craindre, <ab>ab.</ab>, <ab>g.</ab> ou i, et <ab>qqf.</ab> <ab>ac.</ab> ‖ <ab>Gr.</ab> <lang n="greek">φόϐος</lang>.	<LEND>
+;-----------------
+21765 old <L>12992<pc>488,2<k1>मद्र<k2>मद्र	{#मद्र#}¦ {%madra%} <ab>m.</ab> ({%mad%}; <ab>sfx.</ab> {%ra%}) joie. ‖ <ab>Np.</ab> d'un pays dans le <ab>N.</ab> <ab>O.</ab> de l'Hindoustan; ‖ <ab>np.</ab> d'un roi de ce pays. -- <ab>F.</ab> <ab>np.</ab> de rivière.
+21765 new <L>12992<pc>488,2<k1>मद्र<k2>मद्र	{#मद्र#}¦ {%madra%} <ab>m.</ab> ({%mad%}; <ab>sfx.</ab> {%ra%}) joie. ‖ <ab>Np.</ab> d'un pays dans le <ab>N. O.</ab> de l'Hindoustan; ‖ <ab>np.</ab> d'un roi de ce pays. -- <ab>F.</ab> <ab>np.</ab> de rivière.
+;-----------------
+22505 old <L>13221<pc>501,1<k1>माणिका<k2>माणिका	{#माणिका#}¦ {%māṇikā%} <ab>f.</ab> poids de 8 <s1>pala</s1>s [597 gram.].	<LEND>
+22505 new <L>13221<pc>501,1<k1>माणिका<k2>माणिका	{#माणिका#}¦ {%māṇikā%} <ab>f.</ab> poids de 8 <s1>pala</s1>s [597 <ab n="gramme(s)">gram.</ab>].	<LEND>
+;-----------------
+22692 old <L>13320<pc>505,1<k1>माष<k2>माष	{#माष#}¦ {%māṣa%} <ab>m.</ab> haricot [phaseolus radiatus]; au <ab>fig.</ab> sorte de maladie cutanée; ‖ un niais, un idiot. ‖ Poids ordinairement égal à (1/8) de {%tola%} ou 8 {%raktikās%} [1 gram. 166].
+22692 new <L>13320<pc>505,1<k1>माष<k2>माष	{#माष#}¦ {%māṣa%} <ab>m.</ab> haricot [phaseolus radiatus]; au <ab>fig.</ab> sorte de maladie cutanée; ‖ un niais, un idiot. ‖ Poids ordinairement égal à (1/8) de {%tola%} ou 8 {%raktikās%} [1 <ab n="gramme(s)">gram.</ab> 166].
+;-----------------
+22929 old <L>13437<pc>509,2<k1>मुट्<k2>*मुट्	*{#मुट्#}¦ {%muṭ%}. {%moṭāmi%} 1, {%muṭāmi%} 6 et {%moṭayāmi%}.	<LEND>
+22929 new <L>13437<pc>509,2<k1>मुट्<k2>*मुट्	*{#मुट्#}¦ {%muṭ%}. {%moṭāmi%} 1, {%muṭāmi%} 6 et {%moṭayāmfi%}. [[10. Broyer, écraser; ‖ au <ab>fig.</ab> mépriser.]]	<LEND>
+;-----------------
+23121 old +++	{#…#}¦ {%mṛgatṛṣ, mṛgatṛṣā, mṛgatṛṣṇā%} et {%mṛgatṛṣṇikā%} un mirage, que les bêtes altérées prennent pour un lac.
+23121 new +++	{#…#}¦ {%mṛgatṛṣ, mṛgatṛṣā, mṛgatṛṣṇā%} et {%mṛgatṛṣṇikā%} [[<ab>f.</ab> ({%tṛṣ%}) vapeur du désert, produisant]] un mirage, que les bêtes altérées prennent pour un lac.
+;-----------------
+23405 old <L>13647<pc>518,2<k1>मौक्<k2>मौक्	{#मौक्#}¦ {%mauk%} <ab>3p.</ab> <ab>sg.</ab> <ab>a2</ab> <ab>vd.</ab> de {%muc%}.	<LEND>
+23405 new <L>13647<pc>518,2<k1>मौक्<k2>मौक्	{#मौक्#}¦ {%mauk%} <ab>3p.</ab> <ab>sg.</ab> <ab>a2.</ab> <ab>vd.</ab> de {%muc%}.	<LEND>
+;-----------------
+23647 old <L>13744<pc>523,2<k1>यवन<k2>यवन	{#यवन#}¦ {%yavana%} <ab>m.</ab> <ab>np.</ab> de pays au <ab>N.</ab> <ab>O.</ab> et à l'<ab>O.</ab> de l'Inde. ‖ Un homme de ce pays (? un Ionien). -- <ab>F.</ab> {%yavanī%} femme d'un <s1>Yavana</s1>.
+23647 new <L>13744<pc>523,2<k1>यवन<k2>यवन	{#यवन#}¦ {%yavana%} <ab>m.</ab> <ab>np.</ab> de pays au <ab>N. O.</ab> et à l'<ab>O.</ab> de l'Inde. ‖ Un homme de ce pays (? un Ionien). -- <ab>F.</ab> {%yavanī%} femme d'un <s1>Yavana</s1>.
+;-----------------
+23660 old <L>13753<pc>523,2<k1>यशस्<k2>यशस्	{#यशस्#}¦ {%yaśas%} <ab>n.</ab> ({%yaś%} inus.) gloire, éclat, splendeur.
+23660 new <L>13753<pc>523,2<k1>यशस्<k2>यशस्	{#यशस्#}¦ {%yaśas%} <ab>n.</ab> ({%yaś%} <ab>inus.</ab>) gloire, éclat, splendeur.
+;-----------------
+24024 old <L>13918<pc>531,1<k1>रक्तिका<k2>रक्तिका	{#रक्तिका#}¦ {%raktikā%} <ab>f.</ab> ({%rakta%}) abrus precatorius ou graine des bijoutiers. ‖ Poids de 0 <ab>gr.</ab> 146.	<LEND>
+24024 new <L>13918<pc>531,1<k1>रक्तिका<k2>रक्तिका	{#रक्तिका#}¦ {%raktikā%} <ab>f.</ab> ({%rakta%}) abrus precatorius ou graine des bijoutiers. ‖ Poids de 0 <ab n="gramme">gr.</ab> 146.	<LEND>
+;-----------------
+24246 old <L>13998<pc>535,1<k1>रम्य<k2>रम्य	{#रम्य#}¦ {%ramya%} <ab>a.</ab> ({%ram%}) agréable, charmant. -- <ab>S.</ab> <ab>m.</ab> le {%campaka%}, <ab>bot.</ab> -- <ab>S.</ab> <ab>f.</ab> {%ramyā%} la nuit. ‖ <ab>Np.</ab> de rivière. -- <ab>S.</ab> <ab>n.</ab> semence.
+24246 new <L>13998<pc>535,1<k1>रम्य<k2>रम्य	{#रम्य#}¦ {%ramya%} <ab>a.</ab> ({%ram%}) agréable, charmant. -- <ab>S.</ab> <ab>m.</ab> le {%campaka%}, <ab>bot.</ab> -- <ab>S.</ab> <ab>f.</ab> {%ramyā%} la nuit. ‖ <ab>Np.</ab> de rivière. -- <ab>S.</ab> <ab>n.</ab> semence. [[virile. ‖ Racine d'une <ab>esp.</ab> de concombre.]]
+;-----------------
+24834 old +++	{#…#}¦ {%rodhayāmi%}; <ab>pqp.</ab> {%arūrudham%} (<ab>c.</ab> de {%rudh%}) faire endiguer; {%nadīm%} une rivière; ‖ faire assiéger, {%puram%} une place forte. ‖ Etouffer: {%śoko māṃ rodhayati%} le chagrin m oppresse.
+24834 new +++	{#…#}¦ {%rodhayāmi%}; <ab>pqp.</ab> {%arūrudham%} (<ab>c.</ab> de {%rudh%}) faire endiguer; {%nadīm%} une rivière; ‖ faire assiéger, {%puram%} une place forte. ‖ Etouffer: {%śoko māṃ rodhayati%} le chagrin m'oppresse.
+;-----------------
+25230 old <L>14509<pc>554,2<k1>लुट्<k2>*लुट्	*{#लुट्#}¦ {%luṭ%}. {%loṭāmi%} 1 et {%luṭyāmi%} 4; ạ {%aluṭam%}. Rouler, s'agiter en roulant, {%pṛthivītale%} par terre.	<LEND>
+25230 new <L>14509<pc>554,2<k1>लुट्<k2>*लुट्	*{#लुट्#}¦ {%luṭ%}. {%loṭāmi%} 1 et {%luṭyāmi%} 4; <ab>a2.</ab> {%aluṭam%}. Rouler, s'agiter en roulant, {%pṛthivītale%} par terre.	<LEND>
+;-----------------
+25403 old <L>14598<pc>558,1<k1>लोलुप<k2>लोलुप	{#लोलुप#}¦ {%lolupa%} orth. vicieuse de {%lolubha%}.	<LEND>
+25403 new <L>14598<pc>558,1<k1>लोलुप<k2>लोलुप	{#लोलुप#}¦ {%lolupa%} <ab>orth.</ab> vicieuse de {%lolubha%}.	<LEND>
+;-----------------
+25405 old <L>14600<pc>558,1<k1>लोलुभ<k2>लोलुभ	{#लोलुभ#}¦ {%lolubha%} <ab>a.</ab> ({%lubh%} à l'aug.) qui désire, qui convoite.	<LEND>
+25405 new <L>14600<pc>558,1<k1>लोलुभ<k2>लोलुभ	{#लोलुभ#}¦ {%lolubha%} <ab>a.</ab> ({%lubh%} à l'<ab>aug.</ab>) qui désire, qui convoite.	<LEND>
+;-----------------
+25742 old <L>14728<pc>564,1<k1>वप्<k2>*वप्	*{#वप्#}¦ {%vap%}. {%vapāmi, vape%} 1; <ab>p.</ab> {%uvāpa; ūpe%}; <ab>f2.</ab> {%vapsyāmi, vapsye%}; <ab>a1.</ab> {%avāpsam, avapsi%}. {@<ab>Ps.</ab>@} {%upye%}; <ab>pp.</ab> {%upta%}. Semer; {%vijam vapāmi%} répandre la semence; {%vidyām%} la science; ‖ jeter, {%akṣān%} les <ab>dés.</ab> ‖ Tisser; ‖ entrelacer, tresser [? tondre], {%keśān%} les cheveux; <ab>gr.</ab> <lang n="greek">ὑφαίνω</lang>.	<LEND>
+25742 new <L>14728<pc>564,1<k1>वप्<k2>*वप्	*{#वप्#}¦ {%vap%}. {%vapāmi, vape%} 1; <ab>p.</ab> {%uvāpa; ūpe%}; <ab>f2.</ab> {%vapsyāmi, vapsye%}; <ab>a1.</ab> {%avāpsam, avapsi%}. {@<ab>Ps.</ab>@} {%upye%}; <ab>pp.</ab> {%upta%}. Semer; {%vijam vapāmi%} répandre la semence; {%vidyām%} la science; ‖ jeter, {%akṣān%} les dés. ‖ Tisser; ‖ entrelacer, tresser [? tondre], {%keśān%} les cheveux; <ab>gr.</ab> <lang n="greek">ὑφαίνω</lang>.	<LEND>
+;-----------------
+26959 old <L>15390<pc>589,2<k1>विदर्भ<k2>विदर्भ	{#विदर्भ#}¦ {%vidarbha%} <ab>m.</ab> [et <ab>f.</ab> {%ā%}] ville et district au <ab>S.</ab> <ab>O.</ab> du Bengale, répondant à peu près au Bérar. -- <ab>M.</ab> sol aride, désert.
+26959 new <L>15390<pc>589,2<k1>विदर्भ<k2>विदर्भ	{#विदर्भ#}¦ {%vidarbha%} <ab>m.</ab> [et <ab>f.</ab> {%ā%}] ville et district au <ab>S. O.</ab> du Bengale, répondant à peu près au Bérar. -- <ab>M.</ab> sol aride, désert.
+;-----------------
+27551 old <L>15752<pc>602,1<k1>विवदामि<k2>विवदामि	{#विवदामि#}¦ {%vivadāmi, vivade%}, ({%vad%}) disputer <ab>qqc.</ab> [<ab>l.</ab> ou <ab>ac.</ab>] à <ab>qqn.</ab> [<ab>i.</ab>].	<LEND>
+27551 new <L>15752<pc>602,1<k1>विवदामि<k2>विवदामि	{#विवदामि#}¦ {%vivadāmi, vivade%}, ({%vad%}) disputer <ab>qqc.</ab> [<ab>l.</ab> ou <ab>ac.</ab>] à <ab>qqn.</ab> [<ab>i</ab>].	<LEND>
+;-----------------
+28080 old <L>15997<pc>612,2<k1>वृक<k2>वृक	{#वृक#}¦ {%vṛka%} <ab>m.</ab> loup; chacal. ‖ <ab>Qqf.</ab> corneille. ‖ <ab>Qqf.</ab> térébenthine; ‖ æschynomene grandiflora; cissampelos hexandra; <ab>bot.</ab> ‖ <ab>Zd.</ab> {%vehrka%}; <ab>lith.</ab> wilkas; <ab>goth.</ab> vulfs; <ab>germ.</ab> wolf; <ab>latin</ab> vulpes <ab>(?)</ab>; <ab>etc.</ab>
+28080 new <L>15997<pc>612,2<k1>वृक<k2>वृक	{#वृक#}¦ {%vṛka%} <ab>m.</ab> loup; chacal. ‖ <ab>Qqf.</ab> corneille. ‖ <ab>Qqf.</ab> térébenthine; ‖ æschynomene grandiflora; cissampelos hexandra; <ab>bot.</ab> ‖ <ab>Zd.</ab> {%vehrka%}; <ab>lith.</ab> wilkas; <ab>goth.</ab> vulfs; <ab>germ.</ab> wolf; latin vulpes <ab>(?)</ab>; <ab>etc.</ab>
+;-----------------
+28413 old +++	{#…#}¦ {%veṣṭaṇa%} <ab>n.</ab> action d'envelopper; ‖ attitude particulière d'un danseur. ‖ Enveloppe; tiare. ‖ L'oreille externe.
+28413 new +++	{#…#}¦ {%veṣṭaṇa%} <ab>n.</ab> action d'envelopper; ‖ attitude particulière d'un danseur. ‖ Enveloppe; [[clôture, mur, <ab>etc.</ab> ‖ Turban, diadème,]] tiare. ‖ L'oreille externe.
+;-----------------
+28647 old <L>16335<pc>625,1<k1>व्ययामि<k2>व्ययामि	{#व्ययामि#}¦ {%vyayāmi, vyaye%} 1, et {%vyayayāmi%} 10 ({%vi%}; {%i%}); <ab>p.</ab> {%vavyāya, vavyaye%} <ab>etc.</ab> Aller <ab>(?)</ab> ‖ Faire aller, mettre en mouvement, {%kośān%} des trésors.
+28647 new <L>16335<pc>625,1<k1>व्ययामि<k2>व्ययामि	{#व्ययामि#}¦ {%vyayāmi, vyaye%} 1, et {%vyayayāmi%} 10 ({%vi%}; {%i%}); <ab>p.</ab> {%vavyāya, vavyaye%} <ab>etc.</ab> Aller <ab>(?)</ab> ‖ Faire aller, mettre en mouvement, [[{%akṣam%} un char, <ab>Vd.</ab> ‖ Répandre, prodiguer,]] {%kośān%} des trésors.
+;-----------------
+28871 old <L>16454<pc>630,1<k1>व्रतति<k2>व्रतति	{#व्रतति#}¦ {%vratati%} [mauvaise orth. de {%pratati%}].	<LEND>
+28871 new <L>16454<pc>630,1<k1>व्रतति<k2>व्रतति	{#व्रतति#}¦ {%vratati%} [mauvaise <ab>orth.</ab> de {%pratati%}].	<LEND>
+;-----------------
+29167 old <L>16556<pc>637,2<k1>शम्पाक<k2>शम्पाक	{#शम्पाक#}¦ {%śampāka%} mauvaise orth. de {%sampāka%}.	<LEND>
+29167 new <L>16556<pc>637,2<k1>शम्पाक<k2>शम्पाक	{#शम्पाक#}¦ {%śampāka%} mauvaise <ab>orth.</ab> de {%sampāka%}.	<LEND>
+;-----------------
+29822 old +++	{#…#}¦ {%śītala%} <ab>a.</ab> (<ab>sfx.</ab> {%la%}) froid. -- <ab>S.</ab> <ab>n.</ab> froid, froideur, froidure. ‖ Sandal; sandal blanc. ‖ Lotus. ‖ Racine d'andropogon. ‖ Storax. ‖ Sulfate de l'équinoxe du printemps. ‖ Camphre; térébenthine. ‖ Cordia myxa; champaca; marsilea quadrifolia; <ab>bot.</ab> -- <ab>S.</ab> [Page650-2] <ab>f.</ab> [{%ā%} ou {%ī%}] petite vérole. ‖ <ab>Esp.</ab> de plante [? phrynium] servant à faire des nattes.
+29822 new +++	{#…#}¦ {%śītala%} <ab>a.</ab> (<ab>sfx.</ab> {%la%}) froid. -- <ab>S.</ab> <ab>n.</ab> froid, froideur, froidure. ‖ Sandal; sandal blanc. ‖ Lotus. ‖ Racine d'andropogon. ‖ Storax. ‖ Sulfate [[de fer. ‖ Perle. -- <ab>S.</ab> <ab>m.</ab> la Lune. ‖ Cérémonie]] de l'équinoxe du printemps. ‖ Camphre; térébenthine. ‖ Cordia myxa; champaca; marsilea quadrifolia; <ab>bot.</ab> -- <ab>S.</ab> [Page650-2] <ab>f.</ab> [{%ā%} ou {%ī%}] petite vérole. ‖ <ab>Esp.</ab> de plante [? phrynium] servant à faire des nattes.
+;-----------------
+30654 old <L>17214<pc>666,1<k1>षात्वणत्विक<k2>षात्वणत्विक	{#षात्वणत्विक#}¦ {%ṣātva-ṇatvika%} <ab>a.</ab> relatif à [Page666-2] la substitution nommée {%ṣatva-ṇatv a%}.	<LEND>
+30654 new <L>17214<pc>666,1<k1>षात्वणत्विक<k2>षात्वणत्विक	{#षात्वणत्विक#}¦ {%ṣātva-ṇatvika%} <ab>a.</ab> relatif à [Page666-2] la substitution nommée {%ṣatva-ṇatva%}.	<LEND>
+;-----------------
+30760 old <L>17289<pc>668,2<k1>सङ्क्रम<k2>सङ्क्रम	{#सङ्क्रम#}¦ {%saṅkrama%} <ab>m.</ab> ({%kram%}) marche, progrès; ‖ voyage; ‖ Passage d'une montagne, dans le zodiaque.
+30760 new <L>17289<pc>668,2<k1>सङ्क्रम<k2>सङ्क्रम	{#सङ्क्रम#}¦ {%saṅkrama%} <ab>m.</ab> ({%kram%}) marche, progrès; ‖ voyage; ‖ Passage d'une montagne, [[d'une rivière, <ab>etc.</ab> ‖ Marche d'un astre]] dans le zodiaque.
+;-----------------
+31425 old <L>17726<pc>683,2<k1>समाधि<k2>समाधि	{#समाधि#}¦ {%samādhi%} <ab>f.</ab> ({%ā; dhā%}; <ab>sfx.</ab> {%i%}) dépot [Page684-1] de blé fait en vue d'une disette. ‖ Articulation du cou. ‖ Au <ab>fig.</ab> composition, conciliation; ‖ arrangement, engagement; obligation; ‖ <ab>ordint.</ab> contemplation, méditatation pieuse; par <ab>ext.</ab> silence. ‖ <ab>Qqf.</ab> figure par deux sujets de significations toutes différentes. ‖ <ab>Qqf.</ab> conclusion démontrée.
+31425 new <L>17726<pc>683,2<k1>समाधि<k2>समाधि	{#समाधि#}¦ {%samādhi%} <ab>f.</ab> ({%ā; dhā%}; <ab>sfx.</ab> {%i%}) dépot [Page684-1] de blé fait en vue d'une disette. ‖ Articulation du cou. ‖ Au <ab>fig.</ab> composition, conciliation; ‖ arrangement, engagement; obligation; ‖ <ab>ordint.</ab> contemplation, méditatation pieuse; par <ab>ext.</ab> silence. ‖ <ab>Qqf.</ab> figure [[de <ab>rhét.</ab> où un même verbe est gouverné]] par deux sujets de significations toutes différentes. ‖ <ab>Qqf.</ab> conclusion démontrée.
+;-----------------
+31581 old <L>17835<pc>687,2<k1>समुत्सृजामि<k2>समुत्सृजामि	{#समुत्सृजामि#}¦ {%samutsṛjāmi%} ({%sṛj%}) répandre, {%jalam%} de l'eau, {%mūtram%} son urine. ‖ Envoyer; chasser, {%kāmakrodhau%} le désir et l'aversion. ‖ Perdre, {%prāṇān%} la vie. ‖ Déposer.	<LEND>
+31581 new <L>17835<pc>687,2<k1>समुत्सृजामि<k2>समुत्सृजामि	{#समुत्सृजामि#}¦ {%samutsṛjāmi%} ({%sṛj%}) répandre, {%jalam%} de l'eau, {%mūtram%} son urine. ‖ Envoyer; chasser, {%kāmakrodhau%} le désir et l'aversion. ‖ Perdre, {%prāṇān%} la vie. ‖ Déposer, [[mettre <ab>qq.</ab> part, {%annam%} des aliments.]]	<LEND>
+;-----------------
+31730 old <L>17939<pc>691,2<k1>सम्पृच्छे<k2>सम्पृच्छे	{#सम्पृच्छे#}¦ {%sampṛcche%} ({%prach%}) <ab>interroger.</ab>	<LEND>
+31730 new <L>17939<pc>691,2<k1>सम्पृच्छे<k2>सम्पृच्छे	{#सम्पृच्छे#}¦ {%sampṛcche%} ({%prach%}) interroger.	<LEND>
+;-----------------
+31832 old +++	{#…#}¦ {%sambodhayāmi%} (<ab>c.</ab> de {%budh%}) faire savoir, avertir. ‖ <ab>Interroger.</ab>	<LEND>
+31832 new +++	{#…#}¦ {%sambodhayāmi%} (<ab>c.</ab> de {%budh%}) faire savoir, avertir. ‖ Interroger.	<LEND>
+;-----------------
+31862 old <L>18039<pc>694,2<k1>सम्मन्त्रये<k2>सम्मन्त्रये	{#सम्मन्त्रये#}¦ {%sammantraye%} ({%mantra%}) tenir conseil, délibérer. ‖ Consulter; <ab>interroger.</ab> ‖ Saluer.	<LEND>
+31862 new <L>18039<pc>694,2<k1>सम्मन्त्रये<k2>सम्मन्त्रये	{#सम्मन्त्रये#}¦ {%sammantraye%} ({%mantra%}) tenir conseil, délibérer. ‖ Consulter; interroger. ‖ Saluer.	<LEND>
+;-----------------
+32486 old +++	{#…#}¦ {%sādhayāmi%} (<ab>c.</ab>); <ab>pqp.</ab> {%asīṣadham%}. Achever, terminer; ‖ faire exécuter; ‖ achever <ab>qqn.</ab>, le tuer. ‖ Prendre en main; ‖ saisir, mettre comprendre. ‖ Partir, s'en aller.
+32486 new +++	{#…#}¦ {%sādhayāmi%} (<ab>c.</ab>); <ab>pqp.</ab> {%asīṣadham%}. Achever, terminer; ‖ faire exécuter; ‖ achever <ab>qqn.</ab>, le tuer. ‖ Prendre en main; ‖ saisir, mettre [[la main sur; ‖ au <ab>fig.</ab> prendre connaissance,]] comprendre. ‖ Partir, s'en aller.
+;-----------------
+33146 old <L>18791<pc>721,2<k1>सुरभि<k2>सुरभि	{#सुरभि#}¦ {%surabhi%} <ab>a.</ab> ({%rabh%}) odoriférant, qui sent bon. ‖ Au <ab>fig.</ab> agréable; beau; bon, vertueux; aimé; instruit; fameux. -- <ab>S.</ab> <ab>m.</ab> bonne odeur, parfum; ‖ substance odoriférante; ‖ muscade; résine; encens; ‖ le mois de {%caitra%}; le printemps; ‖ le champaca, {%murā%}; ‖ liqueur spiritueuse; ‖ jasmin; basilic; <ab>bot.</ab> ‖ La terre; ‖ <s1>Surabhi</s1>, la vache d'abondance; ‖ en <ab>gén.</ab> vache; ‖ une des <s1>Mātṛ</s1>s. -- <ab>S.</ab> <ab>n.</ab> soufre. ‖ Or [métal].
+33146 new <L>18791<pc>721,2<k1>सुरभि<k2>सुरभि	{#सुरभि#}¦ {%surabhi%} <ab>a.</ab> ({%rabh%}) odoriférant, qui sent bon. ‖ Au <ab>fig.</ab> agréable; beau; bon, vertueux; aimé; instruit; fameux. -- <ab>S.</ab> <ab>m.</ab> bonne odeur, parfum; ‖ substance odoriférante; ‖ muscade; résine; encens; ‖ le mois de {%caitra%}; le printemps; ‖ le champaca, [[<ab>bot.</ab> -- <ab>S.</ab> <ab>f.</ab> {%surabhi%} et {%surabhī%}, le parfum]] {%murā%}; ‖ liqueur spiritueuse; ‖ jasmin; basilic; <ab>bot.</ab> ‖ La terre; ‖ <s1>Surabhi</s1>, la vache d'abondance; ‖ en <ab>gén.</ab> vache; ‖ une des <s1>Mātṛ</s1>s. -- <ab>S.</ab> <ab>n.</ab> soufre. ‖ Or [métal].
+;-----------------
+33296 old <L>18904<pc>725,1<k1>सू<k2>*सू	*{#सू#}¦ {%sū%}. {%suvāmi%} 6; <ab>p.</ab> {%suṣāva%}; <ab>f1.</ab> {%savitāsmi%}; exciter, <ab>Vd.</ab>	<LEND>
+33296 new <L>18904<pc>725,1<k1>सू<k2>*सू	*{#सू#}¦ {%sū%}. {%suvāmi%} 6; <ab>p.</ab> {%suṣāva%}; <ab>f1.</ab> {%savitāsmi%}; [[<ab>f2.</ab> {%saviṣyāmi%}; <ab>a1.</ab> {%asāviṣam%}. Inciter,]] exciter, <ab>Vd.</ab>	<LEND>
+;-----------------
+33844 old +++	{#…#}¦ {%sthāpana%} <ab>n.</ab> action de mettre debout, de mettre en place, d'ériger, d'organiser. ‖ Maison, établissement. ‖ Abstraction mentale. hexandra, <ab>bot.</ab>	<LEND>
+33844 new +++	{#…#}¦ {%sthāpana%} <ab>n.</ab> action de mettre debout, de mettre en place, d'ériger, d'organiser. ‖ Maison, établissement. ‖ Abstraction mentale. [[<ab>F.</ab> [{%ī%}] direction de théâtre. ‖ Cissampelos]] hexandra, <ab>bot.</ab>	<LEND>
+;-----------------
+34154 old <L>19368<pc>743,1<k1>स्रंस्<k2>*स्रंस्	*{#स्रंस्#}¦ {%sraṃs%}. {%sraṃse%} 1; <ab>p.</ab> {%sasraṃse%}, <ab>etc.</ab>; <ab>pp.</ab> {%srasta%}; [<ab>a.</ab> 2. <ab>vd.</ab> {%asram%}]. Tomber. ‖ Etre ivre <ab>(?)</ab>.
+34154 new <L>19368<pc>743,1<k1>स्रंस्<k2>*स्रंस्	*{#स्रंस्#}¦ {%sraṃs%}. {%sraṃse%} 1; <ab>p.</ab> {%sasraṃse%}, <ab>etc.</ab>; <ab>pp.</ab> {%srasta%}; [<ab>a2.</ab> <ab>vd.</ab> {%asram%}]. Tomber. ‖ Etre ivre <ab>(?)</ab>.
+;-----------------

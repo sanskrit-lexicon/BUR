@@ -148,3 +148,80 @@ cd /c/xampp/htdocs/cologne/csl-orig/v02
 cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
 
 =================================================================
+temp_bur_5.txt  additional ab markup
+Sources:
+ temp_bur.AB.ver.-v3_edit.txt
+ odile1.txt
+
+Compare abbreviation frequency counts in bur.txt and AB.ver.v3
+v3_edit1: modify v3_edit for digentry to work. 
+python prep5.py temp_bur_4.txt temp_bur.AB.ver.-v3_edit1.txt prep5_bur4.txt
+135480 lines read from temp_bur_4.txt
+19775 entries found
+89372 lines read from temp_bur.AB.ver.-v3_edit1.txt
+19775 entries found
+# abbrev codes = 155, Total abbrevs = 62843
+# abbrev codes = 294, Total abbrevs = 65425
+298 keys
+298 abbreviations written to prep5_bur4.txt
+64 abbreviations occur same number of times
+234 abbreviations occur different number of times
+
+
+=================================================================
+cp temp_bur_4.txt temp_bur_5.txt
+Make changes  in temp_bur_5, one abbreviation at a time
+edit2 version. Some additions indicuated in [[x]]
+python prep5a.py '1p.' temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt unused.txt
+python prep5a.py '2p.' temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt unused.txt
+python prep5a.py '3p.' temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt unused.txt
+python prep5a.py 'a.' temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt unused.txt
+python prep5a.py 'a1.' temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt unused.txt
+python prep5a.py 'A2.' temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt unused.txt
+
+
+
+python prep5.py temp_bur_5.txt temp_bur.AB.ver.-v3_edit2.txt prep5_bur5.txt
+
+===========================================================================
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bur/pywork/burab/burab_input.txt temp_burab_input_0.txt
+vêdiq. védique
+
+from odile:
+gramm.  grammairiens
+
+tg. terme grammatical
+gram. grammaire
+L=13918 gr. in raktikA  -> <ab n="gramme(s)">gr.</ab>  (unit of mass)
+L=11058, 13221, 13320  <ab n="gramme(s)">gram.</ab> 
+
+(1/8) -> 1/8  (similarly remove parens for 8 other fractions)
+==============================================================
+
+install into csl-orig and check validity
+cp temp_bur_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bur  ../../bur
+sh xmlchk_xampp.sh bur   
+ # ok  commited changes to csl-orig. 05-10-2022.
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
+==============================================================
+python diff_to_changes.py temp_bur_4.txt temp_bur_5.txt change_5.txt
+2777 changes written to change_5.txt
+
+python diff_to_changes.py temp_bur.AB.ver.-v3_edit1.txt temp_bur.AB.ver.-v3_edit2.txt change_v3_edit1_edit2.txt
+100 changes written to change_v3_edit1_edit2.txt
+ Note especially the [[]]  (23 cases).  These had missing text. There
+ may be other similar cases, not yet detected.
+==============================================================
+install to csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/
+Then install to cologne server.
+
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
+
+==============================================================
+push this BUR repository
+==============================================================
+
+ 

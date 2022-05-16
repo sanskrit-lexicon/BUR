@@ -1,0 +1,35 @@
+
+‌Please note also some abbreviations:
+- gramm.
+1 ṛ (gramm)
+2 gopayāmi (gramm)
+
+which reference needs to be added, it stand for  'grammairiens"
+
+and
+- gram.
+but concerning 'gram.', one occurence is not for 'gramme(s)' like the other ones, it is:
+'t. de gram.' (this stands for 'terme de grammaire', that is, 'terme grammatical' which abbreviation is in fact, in the dictionary, 'tg.'
+So i suggest that either you replace this 'gram.' by 'grammaire' or you replace 't. de gram.' by 'tg.' (the best so all is coherent (in case you want to have a look to all the grammatical termes for example, you will just need to find all the 'tg.' ).
+Then, the others 'gram.' are all for 'gramme(s)'.
+
+Also about grams,
+-under raktikā
+note the wrong abbreviation 'gr.' for 'gram.' (actually the proper abbreviation for gramme is g. but this abbreviation has already been used for 'genitive' in the dict. so they used 'gram.' for gram.
+Anyway, here  'gr.' stand for 'gramme(s)' and so should be replaced by 'gram.'
+(gr. being the abbreviation for grec)
+
+I also noted under māṣa,
+(1/8)
+where the parentheses shouldn't be there
+This might be a recurent problem (but as the search engin of the website don't accept numbers (nor punctuation) i can't check.
+
+Note also under
+-tola tola m. n. (tul; sfx. a) poids d'or ou d'argent fixé légalement à 16 màshas de 5 raktikās [en tout 6, 8 grammes] mais pratiquement à 12 mâshas des bijoutiers ou 13,6 grammes.
+
+- '16 màshas' > '16 mâshas (māṣa)'
+(with '(māṣa)' in italics)
+- '6, 8' > '6,8'
+
+-under ajāta ajāta pp. nég.
+nég. is not referenced (nég. is for 'négatif' but it doesn't seem referenced in the whole dictionary, yet it is present on the abbreviations page of Burnouf; so you did not enter them all?

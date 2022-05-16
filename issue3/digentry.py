@@ -25,10 +25,13 @@ class Entry(object):
   self.Ldict[L] = self
   self.lsarr = []
   
-def init(filein):
- # slurp lines
- with codecs.open(filein,encoding='utf-8',mode='r') as f:
-  lines = [line.rstrip('\r\n') for line in f]
+def init(filein,linesin = None):
+ if linesin == None:
+  # slurp lines
+  with codecs.open(filein,encoding='utf-8',mode='r') as f:
+   lines = [line.rstrip('\r\n') for line in f]
+ else:
+  lines = linesin
  recs=[]  # list of Entry objects
  inentry = False  
  idx1 = None
