@@ -32,5 +32,8 @@ sh xmlchk_xampp.sh bur
  # ok  READY TO UPLOAD.  CHANGE display of greek in BUR and BOP.
 
 ==============================================================
+cp /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt temp_bur_2.txt
+python proof.py greek temp_bur_2.txt proof_greek.txt
+620 entries written to proof_greek.txt
 ==============================================================
 ==============================================================
