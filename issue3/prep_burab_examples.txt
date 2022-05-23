@@ -1,0 +1,1785 @@
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 1: Abbreviation abs. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2848<pc>097,2<k1>uttarAmi
+| Passer: jīvitam  la vie; et <ab>abs.</ab>: passer la vie.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 2: Abbreviation abslt. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>7451<pc>274,1<k1>jyAyas
+illeur; en lat. antiquior; || <ab>abslt.</ab> très-bon, excellent.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 3: Abbreviation Absolt. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1099<pc>037,2<k1>aBinIta
+t à; propre à, capable de. || <ab>Absolt.</ab> terminé, fini, parfait.
+;
+<L>3191<pc>110,1<k1>upalakzaye
+ir pour: satyam pour vrai. || <ab>Absolt.</ab> au ps. tan na upalakṣyale  ce
+;
+<L>9192<pc>338,2<k1>dviz
+iter contre qqn., d. et g. || <ab>Absolt.</ab> être irrité: na ābhinandati n
+;
+<L>12105<pc>448,2<k1>prasU
+1 slp1="SUdrA">śūdrā</s1>. || <ab>Absolt.</ab> avoir des enfants. || Pp. pra
+;
+<L>16481<pc>631,1<k1>Sak
+session de qqc., g. ou ac. || <ab>Absolt.</ab> au ps. st'īyatām, yadi śakyat
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 4: Abbreviation absolt. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6998<pc>258,2<k1>jan
+ent pas à la vie. || Naître,  <ab>absolt.</ab>: na jāyate mṛyale vā kadācit 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 5: Abbreviation abst. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>17532<pc>677,2<k1>sannahyAmi
+er, carmeṇa d'un bouclier; || <ab>abst.</ab> revêtir son armure, Actt. att
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 6: Abbreviation Abst. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5268<pc>192,2<k1>kruD
+S'irriter contre, d. ou g. || <ab>Abst.</ab> se mettre en colère.
+;
+<L>14929<pc>572,2<k1>vah
+r, kanyām une jeune fille. || <ab>Abst.</ab> avancer, aller, marcher: tasy
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 7: Abbreviation acc. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8378<pc>309,2<k1>dat
+dat¦ dat m. [nom. dan; <ab>acc.</ab> dantam] dent; cf. danta.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 8: Abbreviation adj. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16528<pc>635,2<k1>Sata
+ fois et plus.  <P>śataguṇita <ab>adj.</ab> (guṇa) cent fois répété.  <P>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 9: Abbreviation Adjectt. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6167<pc>228,2<k1>grAma
+n gén. chef, surintendant. || <ab>Adjectt.</ab> premier, supérieur;  || qui n
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 10: Abbreviation Adjt. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2512<pc>083,2<k1>ASrita
+s six āśrayas ou sens, Bd. || <ab>Adjt.</ab> qui cherche un refuge, une pr
+;
+<L>2517<pc>084,1<k1>ASvayuja
+a</s1>, septembre-octobre. -- <ab>Adjt.</ab> qui se rapporte à ce mois. --
+;
+<L>2564<pc>085,2<k1>Asya
+ouche, visage. || Lat. os. -- <ab>Adjt.</ab> relatif à la bouche ou au vis
+;
+<L>5922<pc>218,2<k1>guRa
+ slp1="budDa">Buddha</s1>. -- <ab>Adjt.</ab> doué de toutes les qualités. 
+;
+<L>7646<pc>282,1<k1>tata
+tata¦ tata pp. ps. de tan. || <ab>Adjt.</ab> diffus, répandu, déployé; lar
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 11: Abbreviation adjt. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1263<pc>042,1<k1>aByucCrayAmi
+ le haut; qui s'est élevé; || <ab>adjt.</ab> élevé.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 12: Abbreviation Adv. occurs 25 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>173<pc>010,2<k1>acCa
+cha a. clair, transparent. || <ab>Adv.</ab> vis-à-vis.  -- S. m. ours; ||
+;
+<L>302<pc>014,1<k1>atimAtra
+atimātra a. (mā) démesuré. || <ab>Adv.</ab> atimātram démesurément.
+;
+<L>661<pc>024,2<k1>anupUrva
+dans l'ordre, ou en ordre. -- <ab>Adv.</ab> anupūrveṇa, en ordre, par ran
+;
+<L>1509<pc>051,1<k1>alpa
+lpa¦ alpa a. petit, exigu. || <ab>Adv.</ab> peu.  <P>alpaka a. petit, exi
+;
+<L>1644<pc>055,2<k1>avaSya
+é; inévitable, nécessaire. || <ab>Adv.</ab> avaśyam nécessairement.  <P>a
+;
+<L>2695<pc>091,1<k1>izwa
+autres cérémonies pieuses. -- <ab>Adv.</ab> iṣṭam (iṣ 6) selon le désir d
+;
+<L>2743<pc>093,1<k1>Izat
+Izat¦ īṣat ppr. de īṣ. -- <ab>Adv.</ab> peu, très peu,  surtout au co
+;
+<L>3308<pc>114,1<k1>upAMSu
+n de prières à voix basse. -- <ab>Adv.</ab> en secret; mystérieusement; à
+;
+<L>3372<pc>116,2<k1>ullAsa
+e. -- Pp. ullāsita joyeux. || <ab>Adv.</ab> ullāsitam gaîment.
+;
+<L>3537<pc>124,2<k1>ekapada
+n ne peut marcher qu'un].  -- <ab>Adv.</ab> ekapadam  en même temps, en c
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 13: Abbreviation Advt. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>967<pc>034,1<k1>api
+api¦ api pfx. sur. || <ab>Advt.</ab> aussi, encore, même; mais; qu
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 14: Abbreviation afghan. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5869<pc>216,2<k1>giri
+ladie des yeux. || Zd. gairi; <ab>afghan.</ab> ghur.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 15: Abbreviation anc. germ. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8950<pc>329,1<k1>dF
+uper. || Gr. δέρω; ang. tear; <ab>anc. germ.</ab> zar; germ. zehre.  <P>Ps. dīr
+;
+<L>9557<pc>353,2<k1>naBa
+r. νέφος; lat. nebula, nubes; <ab>anc. germ.</ab> nibul.  <P>nabhaścakṣus m. le
+;
+<L>10334<pc>380,2<k1>nO
+) navire. || Angl. sax. naca; <ab>anc. germ.</ab> nacho.  <P>naukādaṇḍa m. rame
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 16: Abbreviation Ancien germ. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5779<pc>213,2<k1>garva
+garva¦ garva m. orgueil. || <ab>Ancien germ.</ab> gelf; lith. garbê.  <P>garvar
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 17: Abbreviation ancien germ. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1989<pc>066,1<k1>aMSa
+paule. Cf. aṃsa. Lat. axilla; <ab>ancien germ.</ab> ahsala.  <P>aṃśala a. vigoure
+;
+<L>3359<pc>116,1<k1>ulUka
+>. || Lat. ulula; germ. eule; <ab>ancien germ.</ab> uwila, ûla; angl. owl; fr. hu
+;
+<L>3442<pc>119,1<k1>UrRA
+na; russe vòlna; goth. vulla; <ab>ancien germ.</ab> wolla; lat. villus, vellus.  
+;
+<L>4546<pc>162,1<k1>kAs
+ble. Cf. kaś. || Lith. kôstu; <ab>ancien germ.</ab> huosto.
+;
+<L>4984<pc>179,1<k1>kf
+ίνω, ϰράτος, etc. Κρόνος (?); <ab>ancien germ.</ab> karawam, préparer; irland. ca
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 18: Abbreviation ang. occurs 22 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>3885<pc>137,1<k1>katara
+| Gr. πότερος; goth. hvathar; <ab>ang.</ab> whether; lat.(?) uter. 
+;
+<L>3963<pc>140,1<k1>kapi
+ς, ϰεῖπος; germ. ancien affo; <ab>ang.</ab> ape.  <P>kapikacchu f., kapik
+;
+<L>7299<pc>269,2<k1>jIv
+| Lat. vivo; germ. leben (?); <ab>ang.</ab> live (?).
+;
+<L>8347<pc>307,1<k1>tvam
+lat. tu; goth. thu; germ. du; <ab>ang.</ab> thou; etc. || M§ 61.
+;
+<L>8438<pc>311,2<k1>dam
+ || Gr. δάμνημι; lat. domare; <ab>ang.</ab> tame.
+;
+<L>8439<pc>311,2<k1>dam
+e maison, dame. || Gr. δάμαρ; <ab>ang.</ab> dam; fr. dame (lat. domina).
+;
+<L>8950<pc>329,1<k1>dF
+échirer; couper. || Gr. δέρω; <ab>ang.</ab> tear; anc. germ. zar; germ. z
+;
+<L>9150<pc>337,1<k1>dvi
+at. duo, bi; zd. bi; irl. do; <ab>ang.</ab> two; lith. du; goth. twai; et
+;
+<L>9708<pc>360,1<k1>nAsA
+. || Lat. nasus; lith. nosis; <ab>ang.</ab> nose; irl. neas.  <P>nāsāchin
+;
+<L>10442<pc>387,1<k1>pad
+ποῦς, ποδός; lat. pes. pedis; <ab>ang.</ab> foot, etc.  <P>pada n. pied; 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 19: Abbreviation Ang. occurs 9 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6511<pc>242,2<k1>cAwa
+argent qu'on lui a confié. || <ab>Ang.</ab> cheat.
+;
+<L>6848<pc>253,2<k1>Cad
+raits, accablé de flèches. || <ab>Ang.</ab> shade, shadow; gr. σϰοτός; ir
+;
+<L>7486<pc>276,1<k1>Jampa
+ cahot; action  de plonger || <ab>Ang.</ab> jump.  <P>jhampāka et jhampār
+;
+<L>8078<pc>297,2<k1>tusta
+usta n. poussière, poudre. || <ab>Ang.</ab> dust.
+;
+<L>8122<pc>299,1<k1>tfzita
+. -- S. n. soif. || Désir. || <ab>Ang.</ab> thirst.  <P>tṛṣitottarā f. ma
+;
+<L>10809<pc>400,1<k1>parRa
+ṇī pistia stratiotes, bot. -- <ab>Ang.</ab> fern.  <P>parṇakhaṇḍa m. arbr
+;
+<L>13010<pc>490,2<k1>manu
+s1 slp1="manu">Manu</s1>]. || <ab>Ang.</ab> man; lat. hominis, femina; et
+;
+<L>19514<pc>749,1<k1>hari
+| Sorte de metre poétique. || <ab>Ang.</ab> green.  <P>hariṇanartaka m. d
+;
+<L>19768<pc>759,2<k1>hlAd
+'égayer, s'amuser avec, 1. || <ab>Ang.</ab> glad.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 20: Abbreviation Angl. sax. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>10334<pc>380,2<k1>nO
+naukā f. (sfx. ka) navire. || <ab>Angl. sax.</ab> naca; anc. germ. nacho.  <P>n
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 21: Abbreviation anglo sax. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16524<pc>635,2<k1>SaRa
+s; lith. kanâpê; irl. canaib; <ab>anglo sax.</ab> hœnep; angl. hemp; germ. hanf
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 22: Abbreviation Anglosaxon occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2905<pc>099,1<k1>uda
+ans paludis, und dans arundo. <ab>Anglosaxon</ab>  ydhu. Slav. voda. Germ. anci
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 23: Abbreviation aor. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>360<pc>015,2<k1>ad
+ p. āda; f2. atsyāmi; point d'<ab>aor.</ab> Ps. adye, manger; || consomme
+;
+<L>5815<pc>215,1<k1>gA
+ et gāt, 3p. pl. agan et gus; <ab>aor.</ab> conjf. geṣam et geyam. || Gr.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 24: Abbreviation Aor. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4984<pc>179,1<k1>kf
+t kṛdhvam; du. 2p. kṛtam.  <P><ab>Aor.</ab> conj. sg. 3p. karat, karati o
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 25: Abbreviation arab. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4403<pc>157,2<k1>kArava
+w; germ. raben (pour kraben); <ab>arab.</ab> ghorāb.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 26: Abbreviation arith. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16407<pc>628,1<k1>vyAvakalana
+ sfx. ana) soustraction, t. d'<ab>arith.</ab>  <P>vyāvakalita a. soustrait,
+;
+<L>17271<pc>668,1<k1>saNkala
+P>saṅkalana n. addition, t. d'<ab>arith.</ab> || Collection,  réunion; enta
+;
+<L>19492<pc>748,1<k1>hata
+appé; tué. || Multiplié, t. d'<ab>arith.</ab> -- S. n. coup, meurtre. || Mu
+;
+<L>19575<pc>752,2<k1>hAra
+|| Science. || Diviseur, t. d'<ab>arith.</ab>  <P>hārayāmi (c. de hṛ) faire
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 27: Abbreviation arithm. occurs 4 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>13383<pc>507,1<k1>miSra
+) mélange; || addition,  t. d'<ab>arithm.</ab>  <P>miśrita (pp. de miśr) mél
+;
+<L>14801<pc>566,2<k1>varga
+ction. || Nombre  carré, t. d'<ab>arithm.</ab>
+;
+<L>19500<pc>748,2<k1>hana
+. || La multiplication,  t. d'<ab>arithm.</ab>
+;
+<L>19513<pc>749,1<k1>hara
+ || Ane. || La division, t. d'<ab>arithm.</ab> || Gr. χείρ.  <P>haraka m. ce
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 28: Abbreviation astron. occurs 4 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6154<pc>228,1<k1>graha
+p1="rAhu">Rāhu</s1>; nœud, en <ab>astron.</ab> || Planète, en gén. || Np. d'
+;
+<L>8154<pc>300,2<k1>tEtila
+. (titila) un des 7 kāraṇas,  <ab>astron.</ab> || M. Rhinocéros.
+;
+<L>9476<pc>349,2<k1>Druva
+ce entre deux positions, t. d'<ab>astron.</ab> || Le ciel. -- S. m. l'étoile
+;
+<L>17117<pc>661,1<k1>SrI
+s1>. || Cercle terrestre  [en <ab>astron.</ab>].  <P>śrīja m. (jan) <s1 slp1
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 29: Abbreviation Aug. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>15111<pc>580,1<k1>vAvasmi
+e vas) demeurer longtemps. || <ab>Aug.</ab> de vas 2.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 30: Abbreviation auj. occurs 29 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1363<pc>046,1<k1>ayoDya
+- S. f. ayodhyā np. de ville, <ab>auj.</ab> Aoude, Oude.
+;
+<L>1902<pc>063,1<k1>asiknI
+césinès, affluent de l'Indus, <ab>auj.</ab> le Chenab. || Servante de gyn
+;
+<L>2641<pc>088,2<k1>indu
+) np. de rivière, la narmadā, <ab>auj.</ab> Nerbudda.  <P>induputra m. bu
+;
+<L>2643<pc>088,2<k1>indra
+indraprastha m. np. de ville, <ab>auj.</ab> un des quartiers de Delhi.  <
+;
+<L>4080<pc>144,2<k1>karRa
+apura n. (pura) np. de ville, <ab>auj.</ab> Bhagalpour.  <P>karṇapūra m. 
+;
+<L>4468<pc>159,2<k1>kAlaYjara
+ célèbre dans le Bundelkhand, <ab>auj.</ab> Callinjer; || le pays environ
+;
+<L>4835<pc>173,1<k1>kuru
+<s1 slp1="pARqu">Pāṇḍu</s1>s: <ab>auj.</ab> le pays de Delhi.  <P>kurujāṅ
+;
+<L>5061<pc>184,2<k1>kedAra
+lp1="himAlaya">Himālaya</s1>, <ab>auj.</ab> le Cêdâr. 
+;
+<L>5272<pc>192,2<k1>krumu
+'un des affluents de l'Indus, <ab>auj.</ab> le Kouroum.
+;
+<L>5995<pc>221,2<k1>gfDra
+lp1="rAjagfha">Rājagṛha</s1>, <ab>auj.</ab> Giddore.   <P>gṛdhranakhī f. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 31: Abbreviation bret. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8503<pc>314,1<k1>daSan
+ lith. deszim; irland. deagh; <ab>bret.</ab> dek; etc.
+;
+<L>10388<pc>384,1<k1>paYcan
+q. || Lith. penki; gr. πέντε; <ab>bret.</ab> pemp; goth. fimf; lat. quinqu
+;
+<L>11167<pc>415,2<k1>putra
+le. -- F. putrī fille. || Cf. <ab>bret.</ab> paotr; lat. puer.  <P>putraka
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 32: Abbreviation Breton occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6547<pc>244,1<k1>cAru
+bfhaspati">Bṛhaspati</s1>. || <ab>Breton</ab>: kaer.  <P>cārughoṇa a. qui a
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 33: Abbreviation breton. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1968<pc>065,1<k1>aham
+go; gr. ἐγὼν, ἐγώ; germ. ich; <ab>breton.</ab> am.  <P>ahaṅkāra m. (kṛ) le m
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 34: Abbreviation C. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2334<pc>078,1<k1>AyasyAmi
+orts; || dépérir, languir. -- <ab>C.</ab> tourmenter.
+;
+<L>2675<pc>090,1<k1>ilA
+<s1 slp1="manu">Manu</s1>. || <ab>C.</ab> iḷā.  <P>ilāvṛta n. (vṛt) le 
+;
+<L>2685<pc>090,2<k1>iv
+*iv¦ iv. <ab>C.</ab> iṃv.
+;
+<L>14652<pc>560,2<k1>vaj
+<P> -- vājayāmi 10. Aller. -- <ab>C.</ab> de vaj. Faire aller, préparer
+;
+<L>16523<pc>635,2<k1>SaR
+aṇāmi 1. Aller. || Donner. -- <ab>C.</ab> śaṇayāmi.
+;
+<L>16731<pc>644,1<k1>SAyayAmi
+āyayāmi c. de śi et de śo. || <ab>C.</ab> de śī, faire que qqn. ou qqc.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 35: Abbreviation ch. occurs 45 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1503<pc>051,1<k1>alIka
+ fausseté, mensonge; || toute <ab>ch.</ab> désagréable. || Air, atmosphè
+;
+<L>1856<pc>062,1<k1>as
+āsi. Jeter, lancer, ac. de la <ab>ch.</ab>, d. ou l. de la pers. || Reje
+;
+<L>2553<pc>085,1<k1>Astara
+tendre, de déployer. || Toute <ab>ch.</ab> étendue: couverture, tapis; c
+;
+<L>2827<pc>096,2<k1>utkalikA
+ton de fleur. || Regret d'une <ab>ch.</ab> perdue; anxiété.
+;
+<L>4592<pc>164,1<k1>kim
+ g. de la pers. et l'i. de la <ab>ch.</ab> que fait? qu'importe? -- kim 
+;
+<L>4896<pc>175,2<k1>kuSala
+ vertueux. [Cet a. se dit des <ab>ch.</ab> comme des personnes].  -- S. 
+;
+<L>4906<pc>176,1<k1>kuSita
+;  mêlé d'eau ou de qq. autre <ab>ch.</ab>
+;
+<L>5315<pc>194,2<k1>kva
+on porte sur 2 pers. ou sur 2 <ab>ch.</ab>, celle qui l'emporte sur l'au
+;
+<L>5438<pc>199,1<k1>kzema
+e bon augure  [en parlant des <ab>ch.</ab>]. -- S. m. n. bonheur,  prosp
+;
+<L>5922<pc>218,2<k1>guRa
+es.  || Examen critique d'une <ab>ch.</ab> || Prologue  d'un drame.  <P>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 36: Abbreviation comm. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9675<pc>358,2<k1>nAnA
+nAnA¦ nānā indéc. [au <ab>comm.</ab> des composés]  non unique, no
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 37: Abbreviation Comp. occurs 7 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>816<pc>029,2<k1>anya
+re. Gr. ἄλλος; lat. alius. || <ab>Comp.</ab> anyatara l'autre [entre deux]
+;
+<L>2813<pc>096,1<k1>ut
+t; 2° mouvement pour ôter. -- <ab>Comp.</ab> uttara; sup. uttama.
+;
+<L>3343<pc>115,2<k1>uru
+rvī] large, caste étendu.  -- <ab>Comp.</ab> varīyas; sup. variṣṭha. M§ 49
+;
+<L>3515<pc>123,2<k1>eka
+u dernier].   [Page124-1]  -- <ab>Comp.</ab> ekatara; sup. ekatama. M§ 51.
+;
+<L>3920<pc>138,2<k1>kana
+ana¦ kana a. [inusité] petit. <ab>Comp.</ab> kanīyas; sup. kaniṣṭha.
+;
+<L>5950<pc>220,1<k1>guru
+l'instituteur et sa femme. -- <ab>Comp.</ab> garīyas; sup. gariṣṭha.  -- L
+;
+<L>10347<pc>381,1<k1>nyasAmi
+sur le sol. -- Pp. nyasta. || <ab>Comp.</ab> nyastatara plus bas de ton, t
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 38: Abbreviation compar. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>258<pc>013,1<k1>aRIyas
+aRIyas¦ aṇīyas <ab>compar.</ab> de aṇu.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 39: Abbreviation conjug. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6931<pc>256,2<k1>jakzimi
+jakzimi¦ jakṣimi 2. [même <ab>conjug.</ab>] (red. de has). Rire.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 40: Abbreviation Crét. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>14930<pc>572,2<k1>vaha
+vahā cours d'eau, rivière. || <ab>Crét.</ab> βαῖγες; gr. αἶγες, αἰγίς, Αἰγ
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 41: Abbreviation dan. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6022<pc>223,1<k1>go
+r. βοῦς; lat. bos; angl. cow; <ab>dan.</ab> kœ; suéd. ko; germ. kuh.  <P>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 42: Abbreviation dat. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6654<pc>247,1<k1>cira
+s nuits, un long temps. || Au <ab>dat.</ab> cirarātrāya adv. longtemps.  
+;
+<L>11280<pc>421,2<k1>pfc
+ qqc. [i., g. ou ac.] à qqn. [<ab>dat.</ab> ou ac.]. -- parcayāmi 10; uni
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 43: Abbreviation den. occurs 26 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1503<pc>051,1<k1>alIka
+sphère. || Front.  <P>alīkāye <ab>den.</ab> être trompé, être dupé.
+;
+<L>2664<pc>090,1<k1>irajyAmi
+irajyAmi¦ irajyāmi <ab>den.</ab> (rāj?) dominer,  g. || Servir
+;
+<L>2667<pc>090,1<k1>irasyAmi
+irasyAmi¦ irasyāmi <ab>den.</ab> (irā) détracter; calomnier; e
+;
+<L>2672<pc>090,1<k1>iryAmi
+iryAmi¦ iryāmi <ab>den.</ab> (irā) détracter, calomnier;  
+;
+<L>2694<pc>091,1<k1>izu
+(dhā) carquois.  <P>iṣudhyāmi <ab>den.</ab> être archer; viser; || au fig
+;
+<L>2731<pc>092,2<k1>IryAmi
+IryAmi¦ īryāmi <ab>den.</ab> de īr, porter envie. || Excit
+;
+<L>2900<pc>099,1<k1>utsuka
+suka, samutsuka.  <P>utsukāye <ab>den.</ab> concevoir un désir, un regret
+;
+<L>2921<pc>099,2<k1>udanya
+if.  [Page100-1]  <P>udanyāmi <ab>den.</ab> avoir soif.  <P>udanvat m. me
+;
+<L>3056<pc>104,2<k1>unmanas
+nt.  [Page105-1]  <P>unmanāye <ab>den.</ab> être hors de soi-même.
+;
+<L>3066<pc>105,1<k1>unmUlayAmi
+unmUlayAmi¦ unmūlayāmi <ab>den.</ab> (mūla) déraciner, arracher: v
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 44: Abbreviation dénom. occurs 107 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5716<pc>210,1<k1>gadgada
+adhvani m. mms.  <P>gadgadye [<ab>dénom.</ab>] balbutier [de plaisir ou de 
+;
+<L>6412<pc>238,2<k1>canas
+t, nourriture.  <P>canasyāmi (<ab>dénom.</ab>) désirer des aliments, Vd.
+;
+<L>6427<pc>239,2<k1>capala
+ilité d'esprit.  <P>capalāye (<ab>dénom.</ab>) devenir inconstant ou mobile
+;
+<L>6443<pc>240,1<k1>cara
+au pied armé].  <P>caraṇyāmi (<ab>dénom.</ab> de caraṇa) aller.
+;
+<L>6637<pc>246,1<k1>citra
+la m. paon.  <P>citrayāmi 10 (<ab>dénom.</ab> de citra) et citrāyāmi.  Pein
+;
+<L>6640<pc>246,2<k1>citrIye
+citrIye¦ citrīye (<ab>dénom.</ab> de citra) s'étonner,  admirer
+;
+<L>6654<pc>247,1<k1>cira
+ milan, oiseau.  <P>cirayāmi (<ab>dénom.</ab> de cira) tarder, être lent. |
+;
+<L>6669<pc>248,1<k1>cihna
+utescens, bot.  <P>cihnayāmi (<ab>dénom.</ab> de cihna) marquer; noter.
+;
+<L>6732<pc>249,2<k1>curaRyAmi
+curaRyAmi¦ curaṇyāmi (<ab>dénom.</ab> de curaṇa)  voler, dérober.
+;
+<L>6859<pc>254,1<k1>Canda
+t. suasponte.  <P>chandayāmi (<ab>dénom.</ab>) donner spontanément:  offrir
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 45: Abbreviation dénomin. occurs 8 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1765<pc>059,1<k1>aSana
+śanāyā f. faim.  <P>aśanāyāmi <ab>dénomin.</ab> avoir faim. -- Pp. aśanāyita 
+;
+<L>1795<pc>059,2<k1>aSnItapibatIyAmi
+apibatIyAmi¦ aśnītapibatīyāmi <ab>dénomin.</ab> (aś-pā) je dis: mangez, buvez
+;
+<L>1836<pc>061,1<k1>aSvasyAmi
+aSvasyAmi¦ aśvasyāmi <ab>dénomin.</ab> (aśva) désirer le cheval, l'é
+;
+<L>1837<pc>061,1<k1>aSvAyAmi
+aSvAyAmi¦ aśvāyāmi <ab>dénomin.</ab> (aśva) désirer des chevaux.
+;
+<L>1953<pc>064,2<k1>asrAye
+asrAye¦ asrāye <ab>dénomin.</ab> (asra) pleurer. 
+;
+<L>4386<pc>156,2<k1>kAmyA
+r, souhait, vœu.  <P>kāmyāmi (<ab>dénomin.</ab>) Désirer; cf. kam.
+;
+<L>4713<pc>168,2<k1>kuwumb
+rge. [Ce verbe semble être le <ab>dénomin.</ab> du mot suivant.]
+;
+<L>6105<pc>226,1<k1>gozW
+. [Ce verbe est sans doute le <ab>dénomin.</ab> de goṣṭha.]
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 46: Abbreviation dériv. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8972<pc>329,2<k1>deva
+c un dieu.  <P>devasāyuja a. (<ab>dériv.</ab> du précéd.) qui tient de la n
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 47: Abbreviation distr. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>14685<pc>562,1<k1>vatsa
+ville dans le nord de l'Inde [<ab>distr.</ab> de Gorakpour].  <P>vatsabandh
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 48: Abbreviation dor. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8347<pc>307,1<k1>tvam
+tava] toi, tu. || Gr. τύ, σύ; <ab>dor.</ab> τύνη; lat. tu; goth. thu; ger
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 49: Abbreviation Du. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1840<pc>061,1<k1>aSvin
+aSvin¦ aśvin m. cavalier. -- <ab>Du.</ab> aśvinau,  les deux Cavaliers 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 50: Abbreviation E. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>18153<pc>698,1<k1>saras
+i se perd dans les sables à l'<ab>E.</ab> de Delhi; || en gén. rivière.
+;
+<L>19442<pc>746,1<k1>svasti
+ et à l'O., avec l'entrée à l'<ab>E.</ab> || Diagramme  mystique de bon
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 51: Abbreviation Ep. occurs 16 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2739<pc>092,2<k1>ISa
+¦ īśa m. maître; seigneur. || <ab>Ep.</ab> de <s1 slp1="Siva">Śiva</s1>.
+;
+<L>3400<pc>117,1<k1>uzarbuDa
+ore] le feu, le feu sacré. || <ab>Ep.</ab> des dieux.
+;
+<L>4234<pc>150,2<k1>kavi
+ instruit. -- S. m. poète. || <ab>Ep.</ab> du soleil comme décorateur du
+;
+<L>4295<pc>153,1<k1>kAkutsTa
+prince, chef, roi, en gén. || <ab>Ep.</ab> de <s1 slp1="rAma">Rāma</s1>.
+;
+<L>6226<pc>231,1<k1>Gana
+ (vah) porté sur un nuage. || <ab>Ep.</ab> de plusieurs grands dieux.  <
+;
+<L>7269<pc>268,2<k1>jizRu
+(ji; sfx. snu) victorieux. || <ab>Ep.</ab> de <s1 slp1="vizRu">Viṣṇu</s1
+;
+<L>8222<pc>303,1<k1>trikAya
+ (kāya) qui a trois corps. || <ab>Ep.</ab> du <s1 slp1="budDa">Buddha</s
+;
+<L>8223<pc>303,1<k1>trikAla
+rois temps, qui sait tout. || <ab>Ep.</ab> du <s1 slp1="budDa">Buddha</s
+;
+<L>8288<pc>305,1<k1>trivft
+; || triangulaire (?), Vd. || <ab>Ep.</ab> d'une portion du <s1 slp1="sA
+;
+<L>8972<pc>329,2<k1>deva
+devavrata a. dévot, pieux. || <ab>Ep.</ab> de <s1 slp1="BIzma">Bhīṣma</s
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 52: Abbreviation etc. occurs 1161 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>96<pc>008,1<k1>agira
+ marcheur: le soleil; le feu, <ab>etc.</ab>
+;
+<L>101<pc>008,1<k1>agni
+urnom des dieux, des prêtres, <ab>etc.</ab> || Plumbago zeylanica, anarca
+;
+<L>102<pc>008,2<k1>agra
+d'un para. || Gr. ἀϰή, ἄϰρος, <ab>etc.</ab> Lat. acus, acutus.  <P>agraka
+;
+<L>210<pc>011,2<k1>ajina
+) peau de chèvre, d'antilope, <ab>etc.</ab>  <P>ajinapatrā f. (patra aile
+;
+<L>274<pc>013,2<k1>atas
+'élevant, atas param au delà, <ab>etc.</ab>
+;
+<L>279<pc>013,2<k1>atikrama
+arlant de l'heure, de la vie, <ab>etc.</ab>
+;
+<L>317<pc>014,2<k1>ativikawa
+x, en parlant d'un éléphant,  <ab>etc.</ab>
+;
+<L>427<pc>017,2<k1>aDitizWAmi
+rlant d'un état. d'une ville, <ab>etc.</ab> || Occuper, embrasser:  ekena
+;
+<L>484<pc>019,1<k1>an
+. ἄημι, ἄνεμος; lat. animus,  <ab>etc.</ab>
+;
+<L>496<pc>019,2<k1>anata
+rlant d'un son, d'une lettre, <ab>etc.</ab>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 53: Abbreviation F1. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8546<pc>315,2<k1>dA
+us. P. dadau, dade et dadade. <ab>F1.</ab> dātāsmi. F2. dāsyāmi. A2. adā
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 54: Abbreviation F2. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8546<pc>315,2<k1>dA
+ dade et dadade. F1. dātāsmi. <ab>F2.</ab> dāsyāmi. A2. adām, 3p. pl. ad
+;
+<L>12784<pc>477,2<k1>BU
+ babhūyāt; ppf. vd. babhūvas. <ab>F2.</ab> bhaviṣyāmi,  bhaviṣye. A2. ab
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 55: Abbreviation Fr. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5502<pc>202,1<k1>KaRqa
+tion, chapitre d'un livre. || <ab>Fr.</ab> candi.  <P>khaṇḍaka m. rognur
+;
+<L>6287<pc>233,2<k1>GoRA
+f. nez; || naseaux; groin. || <ab>Fr.</ab> groin. Cf. ghrāṇa.  <P>ghoṇin
+;
+<L>6352<pc>236,2<k1>caYcala
+ hésiter; être inconstant. || <ab>Fr.</ab> chanceler.
+;
+<L>12874<pc>482,2<k1>BrAnta
+ndi, qui a reçu le branle. || <ab>Fr.</ab> brandir, branle, etc.
+;
+<L>12877<pc>482,2<k1>BrAS
+; etc. Briller; cf. bhrāj. || <ab>Fr.</ab> braise, brasier.  <P>bhrāśayā
+;
+<L>19196<pc>736,1<k1>sTala
+ tente, pavillon de toile. || <ab>Fr.</ab> stalle.  <P>sthalapadma n. hi
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 56: Abbreviation franç. occurs 4 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1851<pc>061,2<k1>azwan
+uni; germ. acht; angl. eight; <ab>franç.</ab> huit.  <P>aṣṭapada m. stance 
+;
+<L>2139<pc>071,2<k1>Atman
+4; || proche parent, comme en <ab>franç.</ab> les miens, les tiens, les sie
+;
+<L>4707<pc>168,1<k1>kuwi
+te; cf. kuṭa. || Germ. hütte; <ab>franç.</ab> hutte.
+;
+<L>6153<pc>228,1<k1>grah
+; germ. greifen; gr. γριπίζω; <ab>franç.</ab> griffe. Cf. grabh.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 57: Abbreviation gaël. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>3446<pc>119,1<k1>UrdDa
+te. || Lat. arduus; g. ὀρθός; <ab>gaël.</ab> ard.  <P>ūrddhvaka et ūrddhak
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 58: Abbreviation géom. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16107<pc>618,1<k1>veDa
+ Hauteur ou profondeur, t. de <ab>géom.</ab> || Mesure du temps égale à 1/
+;
+<L>18139<pc>697,2<k1>sara
+irectrice du mouvement, t. de <ab>géom.</ab> || Liqueur spiritueuse; rhum;
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 59: Abbreviation Gér. occurs 9 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>331<pc>015,1<k1>atIta
+de atyemi: trépassé, mort. -- <ab>Gér.</ab> atītya, ayant passé au traver
+;
+<L>5235<pc>191,1<k1>kram
+e;  f2. kraṃsye; a1. akraṃsi. <ab>Gér.</ab> kramitvā,  krāntvā et krantvā
+;
+<L>8546<pc>315,2<k1>dA
+p. adita; o. deyāsam, dāsīya. <ab>Gér.</ab> datvā [en compos. dāya], vd. 
+;
+<L>11476<pc>429,1<k1>prajakzimi
+ prajakṣimi (jakṣ) manger. || <ab>Gér.</ab> prajagdhya.
+;
+<L>12082<pc>447,2<k1>prasace
+r, marcher devant, ac. Vd. || <ab>Gér.</ab> prasakṣvā.
+;
+<L>13000<pc>490,1<k1>man
+II. Vd. manmi, maṃsi, etc. 2. <ab>Gér.</ab> manitvā et matvā. Pp. mata. P
+;
+<L>13491<pc>511,2<k1>muh
+yāmi et mokṣyāmi; a2. amuham. <ab>Gér.</ab> mohitvā, muhitvā, mugdhvā et 
+;
+<L>14806<pc>567,1<k1>varjayAmi
+a privé de, exempt de, ab. -- <ab>Gér.</ab> varjayitvā excepté, hormis, a
+;
+<L>19206<pc>736,2<k1>sTApayAmi
+é; assuré, certain, réglé. || <ab>Gér.</ab> sthāpayitvā en laissant de cô
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 60: Abbreviation ger. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4915<pc>176,1<k1>kuz
+i; a1. akoṣiṣam  [Page176-2]  <ab>ger.</ab> koṣitvā; pp. kuṣita. Extraire
+;
+<L>8023<pc>295,2<k1>tud
+totsye; a1. atautsam, atutsi; <ab>ger.</ab> tuttvā; pp. tunna. Battre, fr
+;
+<L>13394<pc>507,2<k1>mI
+o. mīyāsam, māsīya; pp. mīta; <ab>ger.</ab> mītvā [en compos. māya]. Renv
+;
+<L>14898<pc>571,1<k1>vas
+mi; a1. avātsam; inf. vastum; <ab>ger.</ab> uṣitvā et uṣṭvā; pp. uṣita; p
+;
+<L>16066<pc>616,2<k1>ve
+e. || Lat. vieo; angl. weave; <ab>ger.</ab> weben. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 61: Abbreviation Germ. anc. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9125<pc>336,1<k1>druh
+tenter un acte malfaisant. || <ab>Germ. anc.</ab> trug; lat. trux, atrox.
+;
+<L>19254<pc>738,2<k1>snuzA
+e-fille, bru. || Euphorbe. || <ab>Germ. anc.</ab> snura; slav. anc. snocha; lat
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 62: Abbreviation germ. anc. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9552<pc>353,2<k1>napAt
+t m. vd. fils. || Lat. nepos; <ab>germ. anc.</ab> nefo; fr. neveu; perse, napa.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 63: Abbreviation Germ. ancien occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2905<pc>099,1<k1>uda
+Anglosaxon  ydhu. Slav. voda. <ab>Germ. ancien</ab>, wanden; germ. wasser; angl. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 64: Abbreviation germ. ancien occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>3963<pc>140,1<k1>kapi
+a</s1>. -- Gr. ϰῆπος, ϰεῖπος; <ab>germ. ancien</ab> affo; ang. ape.  <P>kapikacch
+;
+<L>5242<pc>191,2<k1>kravya
+r. ϰρέας lat. caro (? cruor); <ab>germ. ancien</ab>, hrêo; lith. kraujas, sang; i
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 65: Abbreviation i occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12650<pc>471,2<k1>Baya
+re peur à qqn. [ac.] de qqc. [<ab>i</ab>].  <P>bhayahartṛ a. (hṛ; sfx.
+;
+<L>15752<pc>602,1<k1>vivadAmi
+ter  qqc. [l. ou ac.] à qqn. [<ab>i</ab>].
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 66: Abbreviation I. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1926<pc>064,1<k1>asfj
+sṛj n. sang. Cf. asan, asāni. <ab>I.</ab> asṛñji.  <P>asṛpāṭa m. f. (pa
+;
+<L>12222<pc>452,2<k1>prAya
+able. -- N. péché, faute.  -- <ab>I.</ab> prāyeṇa ordinairement.  <P>pr
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 67: Abbreviation Imp. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2505<pc>083,2<k1>ASoSucAmi
+) Vd. éclairer, illuminer. -- <ab>Imp.</ab> āśuśugdhi.
+;
+<L>2518<pc>084,1<k1>ASvasimi
+pirer, reprendre ses sens. -- <ab>Imp.</ab> āśvasihi calmetoi.  -- Pp. āś
+;
+<L>4984<pc>179,1<k1>kf
+, akarta ou akrata, akran. -- <ab>Imp.</ab> sg. 1p. karāṇi, 2p. kṛdhi, kṛ
+;
+<L>5732<pc>211,2<k1>gam
+amema, 1p. pl. moy. gamemahi. <ab>Imp.</ab> 3p. pl. gamantu. A2. 1p. pl. 
+;
+<L>9290<pc>343,1<k1>DA
+s.  <P>VÊD. Act. pr. dhāmi 1. <ab>Imp.</ab> 2p. sg. dhā, daddhi et dhiṣva
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 68: Abbreviation impers. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12784<pc>477,2<k1>BU
+vas et bhūs; o. bhūyāsam. Ps. <ab>impers.</ab> bhūyate; a2. abhāvi; pp. bhūt
+;
+<L>16852<pc>649,2<k1>SI
+f2. śayiṣye; a1. aśayiṣi [3p. <ab>impers.</ab> aśāyi]; pp. śayita. Etre éten
+;
+<L>17810<pc>686,2<k1>samIhe
+um d'aller au ciel. || Au ps. <ab>impers.</ab> samīhe.
+;
+<L>19200<pc>736,1<k1>sTA
+yāsam, sthāsīya. Ps. sthīyate <ab>impers.</ab>; pp. sthita. Se tenir debout,
+;
+<L>19221<pc>737,2<k1>sTIyate
+sTIyate¦ sthīyate ps. <ab>impers.</ab> de sthā.
+;
+<L>19252<pc>738,2<k1>snu
+hi: snave; a1. asnoṣi. || Ps. <ab>impers.</ab> snūyate, etc. Couler, dégoutt
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 69: Abbreviation Impf. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>484<pc>019,1<k1>an
+*an¦ an. anīmi 2 et anye 4. <ab>Impf.</ab> ānam; p. āna; a1. āniṣam. Sou
+;
+<L>743<pc>027,2<k1>anUttizWAmi
+ā) ac. se lever après qqn. -- <ab>Impf.</ab> anūdaliṣṭham.
+;
+<L>5732<pc>211,2<k1>gam
+3p. pl. gantu, 2p. du. gatam. <ab>Impf.</ab> 3p. sg. [avec ā] āgan, 2p. sg
+;
+<L>8546<pc>315,2<k1>dA
+ vd. dātu; o. dadyām, dadīya. <ab>Impf.</ab> 3p. pl. adadus. P. dadau, dad
+;
+<L>9290<pc>343,1<k1>DA
+ana; 3p. dadhatu et dadhantu. <ab>Impf.</ab> 3p. dadhāt et dadhat. A2. 3p.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 70: Abbreviation Ind. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4984<pc>179,1<k1>kf
+. cakrā.  [Page179-2]  <P>A2. <ab>Ind.</ab> sg. akaram, kar, akar; pl. ka
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 71: Abbreviation Indéc. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>19408<pc>744,1<k1>svaDA
+|| la svadhā personnifiée. -- <ab>Indéc.</ab> exclamation de ceux qui prése
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 72: Abbreviation Inf. occurs 4 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5732<pc>211,2<k1>gam
+g. agmata,  1p. pl. agasmahi. <ab>Inf.</ab> gamadhyai.  <P>Classe 2. Pr. 
+;
+<L>9290<pc>343,1<k1>DA
+pl. dhāsus; o. 1p. pl. dhema. <ab>Inf.</ab> dhiyadhyai. -- Moy. Pr. 2p. d
+;
+<L>14929<pc>572,2<k1>vah
+ pp. ūḍha, voḍha; ppr. uhyal. <ab>Inf.</ab> Vd. volhave. Porter, pṛṣṭheṇa
+;
+<L>17754<pc>684,2<k1>samArohAmi
+r, girim sur une montagne. || <ab>Inf.</ab> samāroḍhum.  <P>samāropayāmi 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 73: Abbreviation Interj. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8752<pc>321,2<k1>dizwi
+i. de diṣṭi) heureusement. || <ab>Interj.</ab> quel bonheur! 
+;
+<L>19479<pc>747,2<k1>ha
+ha¦ ha partic. explétive. || <ab>Interj.</ab> pour appeler, pour exprimer d
+;
+<L>19606<pc>753,1<k1>hi
+ hi [conj.] car, en effet, -- <ab>Interj.</ab> ah! oh!
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 74: Abbreviation Interrog. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9682<pc>359,1<k1>nAma
+<s1 slp1="nala">Nala</s1>. || <ab>Interrog.</ab>:  ko nāma qui? nanu nāma est-
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 75: Abbreviation interrog. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4227<pc>150,2<k1>kavara
+kavara¦ kavara a. (ka <ab>interrog.</ab> vṛ choisir) mêlé, confus, emb
+;
+<L>4243<pc>150,2<k1>kavozRa
+kavozRa¦ kavoṣṇa a. (ku <ab>interrog.</ab>; uṣṇa) tiède. -- S. n. tiédeu
+;
+<L>4283<pc>152,1<k1>kA
+kA¦ kā forme de l'a. <ab>interrog.</ab> kas, employée  au commencemen
+;
+<L>4656<pc>166,1<k1>ku
+ forme irrégulière tirée de l'<ab>interrog.</ab> kas, kā, kim; il indique mépr
+;
+<L>4979<pc>179,1<k1>kUvara
+kUvara¦ kūvara a. (kū <ab>interrog.</ab> vṛ choisir) agréable, beau.
+;
+<L>10269<pc>378,2<k1>nu
+nu¦ nu adv. [M§ 102] partic. <ab>interrog.</ab> qui se place après kim et na.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 76: Abbreviation inus. occurs 8 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8705<pc>320,1<k1>diDizApya
+Apya¦ didhiṣāpya m. [pf. de l'<ab>inus.</ab>  <P>didhiṣāpayāmi (dhā)] ami 
+;
+<L>9509<pc>351,1<k1>naktam
+naktam¦ naktam adv. (ac. de l'<ab>inus.</ab> nakta) pendant la nuit. || La
+;
+<L>10292<pc>379,2<k1>ned
+s.  <P>nedīyas (comp. de neda <ab>inus.</ab>) plus voisin, plus proche. --
+;
+<L>10895<pc>403,1<k1>paScAt
+paScAt¦ paścāt adv. (de l'<ab>inus.</ab> paśca) derrière, en arrière; 
+;
+<L>12252<pc>453,2<k1>prAha
+prAha¦ prāha (3p. sg. p. de l'<ab>inus.</ab> prāhāmi)  il dit, il professa
+;
+<L>13753<pc>523,2<k1>yaSas
+yaSas¦ yaśas n. (yaś <ab>inus.</ab>) gloire, éclat, splendeur.  <
+;
+<L>14567<pc>556,2<k1>lelAyAmi
+lelAyAmi¦ lelāyāmi 10 (<ab>inus.</ab> lelā). Briller,  étinceler, r
+;
+<L>16542<pc>636,2<k1>SanEs
+SanEs¦ śanais adv. (de l'<ab>inus.</ab> śana) lentement,  peu à peu. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 77: Abbreviation irrég. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12475<pc>463,2<k1>baMhizWa
+baMhizWa¦ baṃhiṣṭha sup. <ab>irrég.</ab> de bahu ou bahula.
+;
+<L>15294<pc>586,1<k1>viC
+*viC¦ vich. vicchāyāmi 6 [<ab>irrég.</ab>]; p. viviccha; etc. Aller; s'
+;
+<L>15804<pc>603,2<k1>vivyAsa
+vivyAsa¦ vivyāsa p. <ab>irrég.</ab> de vyasyāmi.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 78: Abbreviation isl. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>19469<pc>747,1<k1>svid
+erm. schwizzen;  angl. sweat; <ab>isl.</ab> sviti; etc.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 79: Abbreviation island. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4984<pc>179,1<k1>kf
+am, préparer; irland. caraim, <ab>island.</ab> gerdh, action; osq. cerus.
+;
+<L>6000<pc>222,1<k1>gfha
+ épouse. || Germ. (?) kirche; <ab>island.</ab> kyrkia; angl. church.  <P>gṛh
+;
+<L>6758<pc>250,2<k1>cUz
+sugere, succus; germ. saugen; <ab>island.</ab> siuga.  <P>cūṣayāmi (c. de cū
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 80: Abbreviation jurisp. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16354<pc>626,1<k1>vyasyAmi
+défense sans précision, t. de <ab>jurisp.</ab>  <P>vyastāra n. la sortie de 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 81: Abbreviation jurispr. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12786<pc>478,1<k1>BUta
+kāśa</s1>]. || Le fait, t. de <ab>jurispr.</ab> || Gr. φυτόν.  <P>bhūtakeśa m
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 82: Abbreviation kilog. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12651<pc>471,2<k1>Bara
+pala">pala</s1>s [environ 150 <ab>kilog.</ab>]. Gr. βάρος.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 83: Abbreviation Lit. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2847<pc>097,1<k1>uttara
+ᵉ astérisme lunaire, nommé le <ab>Lit.</ab>  <P>uttarabhādrapad f. le 27ᵉ
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 84: Abbreviation lit. occurs 16 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2553<pc>085,1<k1>Astara
+e: couverture, tapis; couche, <ab>lit.</ab>
+;
+<L>3251<pc>112,1<k1>upastfRomi
+re sous, préparer: śayanam un <ab>lit.</ab> -- Pp. upastirṇa. Lat. subste
+;
+<L>3755<pc>131,2<k1>OSIra
+ || Siége, chaise, tabouret;  <ab>lit.</ab>
+;
+<L>4718<pc>168,2<k1>kuwwAra
+offe de laine; couverture  de <ab>lit.</ab>
+;
+<L>4812<pc>172,1<k1>kumBa
+peu plus d'un hectolitre [109 <ab>lit.</ab>]. || Le Verseau,  signe du zo
+;
+<L>4880<pc>175,1<k1>kulya
+esure de 8 droṇas [environ 43 <ab>lit.</ab>].
+;
+<L>5426<pc>198,2<k1>kzura
+ vache. || Pieds d'un bois de <ab>lit.</ab> || Barleria longifolia et tri
+;
+<L>5616<pc>205,2<k1>Kura
+| Sabot de cheval; || Pied de <ab>lit.</ab> || Sorte de parfum. || Cf. kṣ
+;
+<L>7807<pc>288,1<k1>talpa
+talpa¦ talpa m. n. <ab>lit.</ab> || Etage supérieur, belvédère
+;
+<L>9834<pc>363,2<k1>nipaWa
+a m. (paṭh) qui parcourt; qui <ab>lit.</ab>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 85: Abbreviation méd. occurs 18 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>261<pc>013,1<k1>aRqa
+estis, scrotum, sperma, t. de <ab>méd.</ab> || le sac du musc.  <P>aṇḍaka
+;
+<L>310<pc>014,2<k1>atiroga
+consomption, phthisie,  t. de <ab>méd.</ab>
+;
+<L>2033<pc>068,1<k1>AkzipAmi
+. || Flatuosité, vents, t. de <ab>méd.</ab>
+;
+<L>2924<pc>100,1<k1>udara
+ī f. enflure du ventre, t. de <ab>méd.</ab>  <P>udaragranthi m. (granthi)
+;
+<L>3945<pc>139,1<k1>kandasaYjYa
+norrhagie ou prolapsus, t. de <ab>méd.</ab> 
+;
+<L>4365<pc>156,1<k1>kAmAri
+gue  antiaphrodisiaque, t. de <ab>méd.</ab>
+;
+<L>4827<pc>173,1<k1>kuraRqa
+ cette partie du corps, t. de <ab>méd.</ab>
+;
+<L>4970<pc>178,2<k1>kUrca
+rincipaux  médicaments, t. de <ab>méd.</ab>  <P>kūrcikā f. brosse ou pinc
+;
+<L>9805<pc>363,1<k1>nidrA
+me,  humeur somnolente, t. de <ab>méd.</ab>
+;
+<L>10387<pc>383,2<k1>paYca
+la n. les cinq racines, t. de <ab>méd.</ab>  <P>pañcarasā f. phyllanthus 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 86: Abbreviation mold. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>15845<pc>605,1<k1>viSpati
+i</s1>. || Lith. wiesz-patis; <ab>mold.</ab> hospodar, etc.; gr. δεσπότης 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 87: Abbreviation moy occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9665<pc>358,1<k1>nAT
+ier qqn. || Demander qqc. [au <ab>moy</ab>]. || Etre le maître. || Qqf. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 88: Abbreviation N. E. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>11841<pc>439,2<k1>pradiS
+Au pl. les 4 points du N. O., <ab>N. E.</ab>,  S. O., S. E.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 89: Abbreviation N. O. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>11841<pc>439,2<k1>pradiS
+naux]. Au pl. les 4 points du <ab>N. O.</ab>, N. E.,  S. O., S. E.
+;
+<L>12600<pc>467,2<k1>brahma
+i</s1>s,  contrée au N. et au <ab>N. O.</ab> de Delhi.  <P>brahmaloka m. l
+;
+<L>12992<pc>488,2<k1>madra
+oie. || Np. d'un pays dans le <ab>N. O.</ab> de l'Hindoustan;  || np. d'un
+;
+<L>13744<pc>523,2<k1>yavana
+ana¦ yavana m. np. de pays au <ab>N. O.</ab> et à l'O. de l'Inde. || Un ho
+;
+<L>16911<pc>653,1<k1>SuBra
+antī f. l'éléphant femelle du <ab>N. O.</ab>  <P>śubhrarasmi m. le Soleil.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 90: Abbreviation N.-E. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>8940<pc>328,2<k1>dfSad
+fx. vat) np. d'une rivière au <ab>N.-E.</ab> de Delhi, formant la limite o
+;
+<L>18726<pc>719,2<k1>supratIka
+iva">Śiva</s1>; l'éléphant du <ab>N.-E.</ab>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 91: Abbreviation N.-O. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>10890<pc>403,1<k1>pavitra
+aire. || Np. d'une rivière au <ab>N.-O.</ab> de Hardwâr.  <P>pavitraka n. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 92: Abbreviation n.-o. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>7192<pc>266,2<k1>jAla
+ara m. (dhṛ) np. d'un pays au <ab>n.-o.</ab> de l'Inde. [Lahore, Cachemire
+;
+<L>18269<pc>703,2<k1>sahya
+ m. la chaîne de montagnes du <ab>n.-o.</ab> de l'Inde d'où descend la <s1
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 93: Abbreviation nom. occurs 20 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5262<pc>192,2<k1>kruYc
+kruYc¦ kruñc m. f. [<ab>nom.</ab> kruṅ] courlis, esp. d'oiseau.
+;
+<L>8378<pc>309,2<k1>dat
+dat¦ dat m. [<ab>nom.</ab> dan; acc. dantam] dent; cf. d
+;
+<L>8727<pc>320,2<k1>div
+div¦ div f. [<ab>nom.</ab> sg. dyaus; pl. divas; du. div
+;
+<L>9162<pc>338,1<k1>dvidat
+dvidat¦ dvidat a. (<ab>nom.</ab> dvidan) qui a deux dents; lat
+;
+<L>9641<pc>356,2<k1>nas
+nas¦ nas f. [<ab>nom.</ab> nās] nez.  <P>nasā f. nez.  <
+;
+<L>11181<pc>416,2<k1>pur
+pur¦ pur f. ville [<ab>nom.</ab> pūr].
+;
+<L>11245<pc>419,2<k1>puMs
+puMs¦ puṃs. m. [<ab>nom.</ab> pumān, M§ 112, 3°] mâle; homm
+;
+<L>12600<pc>467,2<k1>brahma
+yu</s1>s] Vd.  <P>brahman m. [<ab>nom.</ab> brahmā] <s1 slp1="brahmA">Bra
+;
+<L>12755<pc>476,1<k1>Bizaj
+Bizaj¦ bhiṣaj m. [<ab>nom.</ab> bhiṣak] médecin (? pour abhiṣ
+;
+<L>13841<pc>527,1<k1>yuj
+yuj¦ yuj m. [<ab>nom.</ab> yuk] un sage uni par le <s1 s
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 94: Abbreviation O. occurs 4 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>11915<pc>442,1<k1>praBAsa
+un lieu de pèlerinage  dans l'<ab>O.</ab> de l'Inde.  <P>prabhāse (bhās
+;
+<L>12139<pc>449,2<k1>prahAsa
+'un lieu de pèlerinage dans l'<ab>O.</ab> de l'Inde.  <P>prahāsin m. ac
+;
+<L>13744<pc>523,2<k1>yavana
+. np. de pays au N. O. et à l'<ab>O.</ab> de l'Inde. || Un homme de ce 
+;
+<L>19442<pc>746,1<k1>svasti
+ portique au N., au S. et à l'<ab>O.</ab>, avec l'entrée à l'E. || Diag
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 95: Abbreviation onomat. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16859<pc>650,2<k1>SItkAra
+śītkāra m. et śītkṛta n. (śīt <ab>onomat.</ab>; kṛ) son par lequel on exprim
+;
+<L>16938<pc>654,1<k1>SUka
+. ra m à m. hérissé; ou de śū <ab>onomat.</ab> et kṛ) porc. -- F. [ī] truie.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 96: Abbreviation opp. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>18948<pc>727,1<k1>sUrya
+me.  <P>sūryakāla m. le jour [<ab>opp.</ab> à la nuit].  [Page727-2]  <P>
+;
+<L>19413<pc>744,1<k1>svanusTita
+; sthā) de bonne qualité [par <ab>opp.</ab> à viguṇa]. 
+;
+<L>19621<pc>753,2<k1>hiRqIra
+hiRqIra¦ hiṇḍīra m. homme [<ab>opp.</ab> à femme]; mâle. || Aliment st
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 97: Abbreviation ord. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>13164<pc>496,2<k1>mahA
+mahāsatī f. femme excellente [<ab>ord.</ab> qui se brûle au bûcher de son
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 98: Abbreviation ordt. occurs 10 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>7869<pc>290,1<k1>tAmra
+de lèpre. -- S. f. clepsydre [<ab>ordt.</ab> de cuivre]. -- S. n. cuivre  
+;
+<L>8379<pc>309,2<k1>datta
+a fin des np., ce mot désigne <ab>ordt.</ab> des personnes de la 3ᵉ caste.
+;
+<L>10526<pc>391,1<k1>parikaTA
+ parikathā f. (kath) histoire <ab>ordt.</ab> fictive, récit, fable, légend
+;
+<L>11473<pc>428,2<k1>pracyavAmi
+ pracucyuve l'enfant  naquit [<ab>ordt.</ab> par avortement]. || Se détach
+;
+<L>11961<pc>443,2<k1>prayAga
+nt sacré de deux rivières; || <ab>ordt.</ab> le confluent du Gange et de l
+;
+<L>15995<pc>612,2<k1>vf
+rya et vṛtya.  <P>I. Choisir [<ab>ordt.</ab> 9], patim un mari; agniṃ dūta
+;
+<L>16479<pc>631,1<k1>Sa
+, au k, cz, sz lithuanien, et <ab>ordt.</ab> à l'h gothique  et germanique
+;
+<L>16497<pc>632,1<k1>Saktu
+Saktu¦ śaktu m. n. [<ab>ordt.</ab> au pl.] Vd. orge; || farine d
+;
+<L>17999<pc>693,1<k1>samprahfzyAmi
+) se réjouir. || Se hérisser [<ab>ordt.</ab> de plaisir].  <P>sampraharṣay
+;
+<L>19680<pc>756,2<k1>hfz
+hṛṣita et hrṣṭa. Se hérisser [<ab>ordt.</ab> de joie, qqf. de terreur, d'é
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 99: Abbreviation orth. occurs 8 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9710<pc>360,1<k1>nAsikya
+"aSvin">Aśvin</s1>s [mauvaise <ab>orth.</ab> de nāsatya].  <P>nāsikyaka n.
+;
+<L>10822<pc>400,2<k1>paryanya
+paryanya¦ paryanya [<ab>orth.</ab> vicieuse de parjanya]. 
+;
+<L>12473<pc>463,2<k1>bahl
+bahl¦ bahl mauvaise <ab>orth.</ab> de balh et de valh.
+;
+<L>12691<pc>473,1<k1>Basanta
+hasanta m. le temps [mauvaise <ab>orth.</ab> de bhavanta].
+;
+<L>14598<pc>558,1<k1>lolupa
+lolupa¦ lolupa <ab>orth.</ab> vicieuse de lolubha.
+;
+<L>16454<pc>630,1<k1>vratati
+vratati¦ vratati [mauvaise <ab>orth.</ab> de pratati]. 
+;
+<L>16477<pc>630,2<k1>vlekz
+*vlekz¦ vlekṣ [<ab>orth.</ab> vicieuse de prekṣ] (pra; īkṣ)
+;
+<L>16556<pc>637,2<k1>SampAka
+SampAka¦ śampāka mauvaise <ab>orth.</ab> de sampāka.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 100: Abbreviation osq. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4984<pc>179,1<k1>kf
+araim, island. gerdh, action; <ab>osq.</ab> cerus.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 101: Abbreviation P. occurs 6 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1856<pc>062,1<k1>as
+ asyāmi 4; p. āsa; pp. asita. <ab>P.</ab> asye; a1. āsi. Jeter, lancer,
+;
+<L>2146<pc>072,1<k1>Adam
+Adam¦ ādam impf. de ad. -- <ab>P.</ab> āda.
+;
+<L>4984<pc>179,1<k1>kf
+IQUES: Pr. sg. 2p. karṣi.  <P><ab>P.</ab> pl. 1p. cakṛma 2p. cakrā.  [P
+;
+<L>6828<pc>252,2<k1>cyu
+uve;  f2. cyoṣye; a1. acyoṣi. <ab>P.</ab> vd. cicyuṣe.  Tomber: nabhaśc
+;
+<L>8546<pc>315,2<k1>dA
+dadīya. Impf. 3p. pl. adadus. <ab>P.</ab> dadau, dade et dadade. F1. dā
+;
+<L>12784<pc>477,2<k1>BU
+mp. 2p. vd. bodhi, 3p. bhūtu. <ab>P.</ab> babhūva, babhūve; o. vd. 3p. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 102: Abbreviation Part. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4984<pc>179,1<k1>kf
+.  <P>Aor. ps. 1p. akāri.  <P><ab>Part.</ab> ppf. act. cakrāṇa; a2. krāṇa;
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 103: Abbreviation partic. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6411<pc>238,2<k1>cana
+cana¦ cana <ab>partic.</ab> indéc. qui se trouve à la fin
+;
+<L>10269<pc>378,2<k1>nu
+nu¦ nu adv. [M§ 102] <ab>partic.</ab> interrog. qui se place après 
+;
+<L>19328<pc>741,1<k1>sma
+sma¦ sma <ab>partic.</ab> explétive; ajoutée au présent
+;
+<L>19468<pc>747,1<k1>svit
+svit¦ svit, <ab>partic.</ab> qui se place après les adject
+;
+<L>19479<pc>747,2<k1>ha
+ha¦ ha <ab>partic.</ab> explétive. || Interj. pour ap
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 104: Abbreviation Passivt. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2158<pc>073,1<k1>Adfta
+ observe, par ex. une loi. -- <ab>Passivt.</ab> observé, exécuté; respecté.
+;
+<L>7861<pc>289,2<k1>tApin
+qui tourmente  et consume. || <ab>Passivt.</ab> consumé par le tourment, par 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 105: Abbreviation Passt. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12105<pc>448,2<k1>prasU
+elle met au monde un fils. || <ab>Passt.</ab> naître: niṣādāt d'un père <s1
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 106: Abbreviation pers. occurs 17 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1856<pc>062,1<k1>as
+ac. de la ch., d. ou l. de la <ab>pers.</ab> || Rejeter, repousser,  ôter,
+;
+<L>4592<pc>164,1<k1>kim
+on.  -- kim, avec le g. de la <ab>pers.</ab> et l'i. de la ch. que fait? q
+;
+<L>5315<pc>194,2<k1>kva
+d l'interrogation porte sur 2 <ab>pers.</ab> ou sur 2 ch., celle qui l'emp
+;
+<L>5350<pc>195,2<k1>kzam
+ faire grâce avec le g. de la <ab>pers.</ab>: tan me kṣantum arhasi veuill
+;
+<L>5659<pc>206,2<k1>KyA
+ qqc. à qqn. avec le g. de la <ab>pers.</ab> || Raconter; célébrer. 
+;
+<L>5662<pc>207,2<k1>KyApayAmi
+ qqc. à qqn. avec le g. de la <ab>pers.</ab>
+;
+<L>6720<pc>249,1<k1>cud
+ faire qqc. [avec l'ac. de la <ab>pers.</ab> et le l. ou le d. de la ch.].
+;
+<L>7207<pc>267,1<k1>ji
+fect de la magie.  || À la 3ᵉ <ab>pers.</ab>: jayati, jayati rājā victoire
+;
+<L>10635<pc>394,2<k1>paripfcCAmi
+ou ac. de la ch. et ab. de la <ab>pers.</ab> 
+;
+<L>11613<pc>433,1<k1>pratipAdayAmi
+; || dire, annoncer, 1. de la <ab>pers.</ab>  <P>pratipādana n. action de 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 107: Abbreviation Pers. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>16954<pc>655,1<k1>SfkAla
+. || Qqf. fuite, retraite. || <ab>Pers.</ab> shaghâl;  fr. chacal.  <P>śṛg
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 108: Abbreviation Pf. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5659<pc>206,2<k1>KyA
+. akhyanta. -- Pp. khyāta. -- <ab>Pf.</ab> khyātavya et khyeya.  <P>Nomm
+;
+<L>10567<pc>392,2<k1>paricinomi
+ètre reconnu,  être connu. || <ab>Pf.</ab> ps. pariceya.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 109: Abbreviation Pl. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>847<pc>030,2<k1>ap
+*ap¦ ap f. [inusité au sg. -- <ab>Pl.</ab> āpas: M§ 112]. Eau. || Lat. a
+;
+<L>868<pc>031,1<k1>apatya
+patya (pati)] descendance. || <ab>Pl.</ab> apatyāni, descendants,  enfan
+;
+<L>3277<pc>113,1<k1>upANga
+ sandal et appelée tilaka. || <ab>Pl.</ab> upāṅgās traités annexes des a
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 110: Abbreviation PP. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>10132<pc>374,1<k1>nizkAsayAmi
+e kas). Chasser, expulser; || <ab>PP.</ab> niṣkāsita.
+;
+<L>10776<pc>399,1<k1>parItta
+parItta¦ parītta <ab>PP.</ab> de paridadāmi.  <P>parīttaśub
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 111: Abbreviation Ppf. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5732<pc>211,2<k1>gam
+ [qui est aussi l'impf. vd.]. <ab>Ppf.</ab> jagmivas et jaganvas; gér. ga
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 112: Abbreviation Ppr. occurs 8 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>380<pc>016,1<k1>adfSyat
+ps. de dṛś, pour adṛśyata. -- <ab>Ppr.</ab> ps. nég. Qu'on ne voit pas; i
+;
+<L>2646<pc>089,2<k1>inD
+ndhiṣi. Ps. idhye; pp. iddha. <ab>Ppr.</ab> act. vd. indhāna; pp. ps. vd.
+;
+<L>6453<pc>240,2<k1>carIkarImi
+i et carīkarmi aug. de kṛ. || <ab>Ppr.</ab> vd. carīkrat faisant souvent.
+;
+<L>7431<pc>273,2<k1>johomi
+s sacré: devān  les dieux. || <ab>Ppr.</ab> johuvat.
+;
+<L>8546<pc>315,2<k1>dA
+n compos. dāya], vd. datvāya. <ab>Ppr.</ab> dadat.  <P>Ps. dīye; p. dade,
+;
+<L>13638<pc>518,1<k1>moda
+ṇa le riz de beurre fondu. -- <ab>Ppr.</ab> modayantī f. jasmin d'Arabie;
+;
+<L>16148<pc>619,2<k1>veh
+S'appliquer, s'efforcer.   -- <ab>Ppr.</ab> f. vehatī vache qui avorte.  
+;
+<L>17925<pc>691,1<k1>sampaSyAmi
+n soi-même. || Apercevoir. || <ab>Ppr.</ab> sampaśyat, présent, témoin  o
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 113: Abbreviation pps. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>6974<pc>258,1<k1>jajYAnas
+jajYAnas¦ jajñānas (<ab>pps.</ab> de jan 4) né.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 114: Abbreviation Pqp. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>3038<pc>104,1<k1>und
+  <P>undayāmi c. mouiller. -- <ab>Pqp.</ab> aundidam.  <P>undidiṣāmi dés.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 115: Abbreviation prâkrit occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>4637<pc>165,2<k1>kIdfS
+ || Gr. πηλίϰος; lat. qualis [<ab>prâkrit</ab> kerisa]; goth. hwêleiks; germ
+;
+<L>7659<pc>283,1<k1>tatsama
+te analogue au sanscrit et au <ab>prâkrit</ab>, tg.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 116: Abbreviation prépos. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>15469<pc>592,2<k1>vinA
+vinA¦ vinā (<ab>prépos.</ab>) sans, i. ou ac.  <P>vinākṛta
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 117: Abbreviation Qpf. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>15909<pc>608,2<k1>visarga
+nale de l'orbite solaire.  || <ab>Qpf.</ab> émission de lumière, éclat.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 118: Abbreviation qqn occurs 11 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>676<pc>025,1<k1>anuBAzAmi
+ubhāṣāmi 1, (bhāṣ) dire après <ab>qqn</ab>; être du même avis. || Confes
+;
+<L>680<pc>025,1<k1>anumata
+man) penser après ou d'après  <ab>qqn</ab>; s'accorder; || consentir, ap
+;
+<L>682<pc>025,1<k1>anumaraRa
+. (mṛ) action de mourir après <ab>qqn</ab>; la mort volontaire des veuve
+;
+<L>689<pc>025,2<k1>anurakta
+anurakta pp. (rañj) attaché à <ab>qqn</ab>; dévoué à; livré à; 1. ac. ou
+;
+<L>690<pc>025,2<k1>anurajyAmi
+<P>anurañjayāmi c. s'attacher <ab>qqn</ab>; se le rendre dévoué.  <P>anu
+;
+<L>705<pc>026,1<k1>anuvadAmi
+uvadāmi 1, (vad) dire d'après <ab>qqn</ab>; répéter en imitant; || contr
+;
+<L>3109<pc>107,1<k1>upatizWAmi
+ tenir auprès, ac. || Aborder <ab>qqn</ab>; l'entourer, lui faire cortég
+;
+<L>5385<pc>197,1<k1>kziti
+ corps. -- N. action de jeter <ab>qqn</ab> à terre: tvāṃ karomi kṣitivar
+;
+<L>5781<pc>213,2<k1>garh
+ction. || Mépriser, dédaigner <ab>qqn</ab> ou qqc. || Cf. galh.
+;
+<L>10066<pc>371,2<k1>nivartAmi
+nir. || Ramener. || Faire que <ab>qqn</ab> s'abstienne, renonce ou refus
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 119: Abbreviation qqs occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5895<pc>217,2<k1>gIta
+, poëme. -- S. f. gītā nom de <ab>qqs</ab> chants particuliers, surtout 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 120: Abbreviation qqs. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5693<pc>209,1<k1>gaRqa
+océros; || héros [à la fin de <ab>qqs.</ab> composés]; || personnages inf
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 121: Abbreviation rac. occurs 9 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5943<pc>219,2<k1>gup
+*gup¦ gup. [<ab>rac.</ab> douteuse; cf. gopa]. gopāyāmi
+;
+<L>5986<pc>221,2<k1>gf
+*gf¦ gṛ. <ab>rac.</ab> de jāgṛ veiller.
+;
+<L>6279<pc>233,1<k1>GfRR
+isir; cf. ghuṇṇ, ghṇṇ. [Cette <ab>rac.</ab> paraît être une altération de
+;
+<L>6656<pc>247,2<k1>ciri
+apper, blesser,  tuer. [Cette <ab>rac.</ab> paraît être un développement 
+;
+<L>8317<pc>306,1<k1>trE
+ bhayāt de la terreur. [Cette <ab>rac.</ab> paraît venir de tṝ.]
+;
+<L>8362<pc>308,2<k1>TuD
+uD¦ thudh. thudhyāmi 4 [cette <ab>rac.</ab> paraît être une mauvaise orth
+;
+<L>9541<pc>353,1<k1>naD
+naD¦ nadh autre forme de la <ab>rac.</ab> nah.
+;
+<L>18911<pc>725,2<k1>sUc
+évoiler, faire savoir. [Cette <ab>rac.</ab> est composée de su, vac; cf. 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 122: Abbreviation rhét. occurs 4 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>17157<pc>663,1<k1>Sleza
+iation. || Equivoque, fig. de <ab>rhét.</ab>  <P>śleṣayāmi; pqp. aśiśliṣam
+;
+<L>17585<pc>679,2<k1>sama
+amā année. -- S. n. figure de <ab>rhét.</ab> par laquelle on compare deux 
+;
+<L>17726<pc>683,2<k1>samADi
+. silence. || Qqf. figure  de <ab>rhét.</ab> où un même verbe est gouverné
+;
+<L>18264<pc>703,2<k1>sahokti
+ition de circonstances, t. de <ab>rhét.</ab>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 123: Abbreviation rhétor. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>12136<pc>449,2<k1>prahasAmi
+|| moquerie; || ironie, t. de <ab>rhétor.</ab>  <P>prahasantī f. jasmin d'Ar
+;
+<L>16293<pc>624,1<k1>vyatireka
+alogie incomplète  [figure de <ab>rhétor.</ab>].
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 124: Abbreviation S. E. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>11841<pc>439,2<k1>pradiS
+ints du N. O., N. E.,  S. O., <ab>S. E.</ab>
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 125: Abbreviation S. O. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>11841<pc>439,2<k1>pradiS
+es 4 points du N. O., N. E.,  <ab>S. O.</ab>, S. E.
+;
+<L>15390<pc>589,2<k1>vidarBa
+t f. ā] ville et district  au <ab>S. O.</ab> du Bengale, répondant à peu p
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 126: Abbreviation scandin. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1457<pc>049,2<k1>arya
+nn [Arminius]; angl. Ireland; <ab>scandin.</ab> les Ases; etc. -- F. aryā et 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 127: Abbreviation Sf. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5284<pc>193,1<k1>kroDa
+. ana) irascible, emporté. -- <ab>Sf.</ab> femme querelleuse, mégère.  <
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 128: Abbreviation sf. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>152<pc>010,1<k1>aNgAra
+ f. réchaud.  <P>aṅgārikā f. (<ab>sf.</ab> ikā) bourgeon ou bouton du ki
+;
+<L>3059<pc>105,1<k1>unmAdyAmi
+éraisonner.  <P>unmādavat a. (<ab>sf.</ab> vat) qui est comme un fou; qu
+;
+<L>4559<pc>162,2<k1>kAhala
+ala¦ kāhala a. (kā; ah aller; <ab>sf.</ab> ala) qui s'étend au loin, lar
+;
+<L>5894<pc>217,2<k1>gizRa
+gizRa¦ giṣṇa m. (gai; <ab>sf.</ab> sna) chanteur. || Chantre du 
+;
+<L>5974<pc>221,1<k1>gUTa
+gUTa¦ gūtha m. (<ab>sf.</ab> tha) excrément, ordure.  <P>g
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 129: Abbreviation Signif. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>1513<pc>051,2<k1>av
+Aimer, désirer. Lat. aveo. -- <ab>Signif.</ab> rares: aller, aller vers; ent
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 130: Abbreviation Slav. occurs 5 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2905<pc>099,1<k1>uda
+ans arundo. Anglosaxon  ydhu. <ab>Slav.</ab> voda. Germ. ancien, wanden; g
+;
+<L>3711<pc>130,2<k1>ozWa
+tion prâkrite, de avastha. || <ab>Slav.</ab> ûsta; lat. ostium. -- S. f. o
+;
+<L>7322<pc>270,2<k1>jIvita
+. vivant. -- S. n. la vie. || <ab>Slav.</ab> schivot; lat. vita [pour vivi
+;
+<L>12376<pc>459,1<k1>Pena
+ m. écume; || os de sèche. || <ab>Slav.</ab> pjena.  <P>phenaka m. os de s
+;
+<L>14904<pc>571,2<k1>vasanta
+du printemps. || Diarrhée. || <ab>Slav.</ab> vesna; cf. lat. ver, gr. ἔαρ.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 131: Abbreviation slav. anc. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>19254<pc>738,2<k1>snuzA
+uphorbe. || Germ. anc. snura; <ab>slav. anc.</ab> snocha; lat. nurus; gr. νυός.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 132: Abbreviation suéd. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5934<pc>219,1<k1>guD
+utis; germ. haut; angl. hide; <ab>suéd.</ab> hud. 
+;
+<L>6022<pc>223,1<k1>go
+lat. bos; angl. cow; dan. kœ; <ab>suéd.</ab> ko; germ. kuh.  <P>gokaṇṭaka 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 133: Abbreviation Sup. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>816<pc>029,2<k1>anya
+ germ. ander; angl. other. || <ab>Sup.</ab> anyatama l'autre [entre plusi
+;
+<L>10292<pc>379,2<k1>ned
+ plus voisin, plus proche. -- <ab>Sup.</ab> nediṣṭha très-proche. || S. m
+;
+<L>19230<pc>738,1<k1>sTeyas
+le; || durable, permanent. -- <ab>Sup.</ab> stheṣṭha.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 134: Abbreviation Sur. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>7562<pc>279,1<k1>qa
+eu sous les eaux. || Peur. || <ab>Sur.</ab> de <s1 slp1="Siva">Śiva</s1>.
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 135: Abbreviation synon. occurs 2 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>5077<pc>185,2<k1>keSa
+="varuRa">Varuṇa</s1>; || np. <ab>synon.</ab> de keśin.  <P>keśakalāpa m. c
+;
+<L>6999<pc>259,1<k1>jana
+homme, un malheureux. || Qqf. <ab>synon.</ab> de janaloka. ||  À la fin des
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 136: Abbreviation Tg. occurs 3 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>2825<pc>096,1<k1>utkarzAmi
+ce, supériorité. || Excès. || <ab>Tg.</ab> addition: ekotkarṣa addition 
+;
+<L>2923<pc>100,1<k1>udaya
+prospérité, haute fortune. -- <ab>Tg.</ab> [à la fin des composés] suivi
+;
+<L>3258<pc>112,2<k1>upasTita
+he. || Propre, écuré, net. || <ab>Tg.</ab> se dit d'un mot suivi de iti;
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 137: Abbreviation VÊD. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>9290<pc>343,1<k1>DA
+. dare qqf. et en compos.  <P><ab>VÊD.</ab> Act. pr. dhāmi 1. Imp. 2p. sg
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 138: Abbreviation Z. occurs 1 time
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>19422<pc>744,2<k1>svar
+mystique bhūr bhuvas svar. || <ab>Z.</ab> hware [le soleil]; lat. sol; 
+;
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+; Case 139: Abbreviation Zd. occurs 28 times
+; """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+<L>759<pc>028,1<k1>antar
+e; sous; séparément, sans. || <ab>Zd.</ab> antare; lat. inter; gr. ἐντός
+;
+<L>1276<pc>042,2<k1>aBra
+hṛ) nuage. || Or. || Talc. || <ab>Zd.</ab> âbereta; lat. imber, umbra; g
+;
+<L>1817<pc>060,2<k1>aSva
+erdue aś aller, gr. ἰϰνέομαι] <ab>Zd.</ab> aspa; lith. aszwa; lat. equus
+;
+<L>1919<pc>063,2<k1>asura
+p1="kaSyapa">Kaśyapa</s1>. || <ab>Zd.</ab> Ahura, Ahuramazda; gr. Ὀρομάσ
+;
+<L>3069<pc>105,1<k1>upa
+re pareille, ressemblance. -- <ab>Zd.</ab> upa; gr. ὑπό; lat. sub; got. 
+;
+<L>3186<pc>110,1<k1>upari
+us, au-dessus, par-dessus. || <ab>Zd.</ab> upairi; gr. ὺπέρ; lat. super;
+;
+<L>3330<pc>114,2<k1>uBa
+el ubhau, ubhe] tous deux. || <ab>Zd.</ab> uba; slav. oba; lith. abbù; g
+;
+<L>3630<pc>127,1<k1>eva
+ule est souvent explétive. || <ab>Zd.</ab> aeva. 
+;
+<L>4531<pc>161,2<k1>kAvyauSanas
+mitifs de la race âryenne. || <ab>Zd.</ab> Kava-Uś, le Kâus des Persans.
+;
+<L>5343<pc>195,2<k1>kzattra
+"kzatriya">kṣatriya</s1>s. || <ab>Zd.</ab> kṣathra.  <P>kṣattrabandhu a.
+;

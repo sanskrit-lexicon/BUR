@@ -223,5 +223,44 @@ cd /c/xampp/htdocs/sanskrit-lexicon/bur/issue3
 ==============================================================
 push this BUR repository
 ==============================================================
-
+prepare for tooltips.
+python prep_burab.py temp_burab_input_0.txt prep5_bur5.txt prep_burab.txt
  
+output is a form similar to burab_input, with adaptations for
+filling in the unknown tooltips.
+
+temp_bur_6.txt some adjustments
+<ab>vêdiq.</ab> -> <ab>védiq.</ab>
+python prep_burab.py temp_burab_input_0.txt prep5_bur5.txt prep_burab.txt
+
+cp temp_burab_input_0.txt temp_burab_input_1.txt
+
+temp_burab_input_1.txt
+ The following removed from temp_burab_input_1
+A2 <id>A2</id> <disp>aoriste 2nd</disp> NOTE: All are now 'A2.' (with period)
+c.-à-d. <id>c.-à-d.</id> <disp>c’est-à-dire</disp> NOTE: All are now 'c-à-d.'
+cond. <id>cond.</id> <disp>conditionnel</disp>
+gal. <id>gal.</id> <disp>gaëlique</disp>
+m. à m. <id>m. à m.</id> <disp>mot à mot</disp> NOTE: All are now 'm à m.'
+ 
+neg. <id>neg.</id> <disp>negatif</disp>: NOTE: Now  <id>nég.</id> <disp>négatif</disp>
+pron. <id>pron.</id> <disp>pronom</disp>
+ppt. <id>ppt.</id> <disp>proprement</disp>
+s-ent. <id>s-ent.</id> <disp>sous-entendu</disp>
+subj. <id>subj.</id> <disp>subjonctif</disp>
+-----------------------------------
+UNRESOLVED: Ep.and 'Ép.' 
+Ép. <id>Ép.</id> <disp>épithète</disp>
+  Ép. does not currently appear in bur.txt
+Add 'Ep. <id>Ep.</id> <disp></disp>' to burab.
+  There are 16 'Ep.' (no accent).  Should these be 'Ép.'?
+
+
+python prep5.py temp_bur_6.txt temp_bur.AB.ver.-v3_edit3.txt prep5_bur6.txt
+
+with preliminary changes, rerun
+python prep_burab.py temp_burab_input_1.txt prep5_bur6.txt prep_burab.txt
+check1 warning: Ép. <id>Ép.</id> <disp>épithète</disp>
+check1 identifies 1 problems
+
+python prep_burab_examples.py prep_burab.txt temp_bur_6.txt prep_burab_examples.txt
