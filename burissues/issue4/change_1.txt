@@ -13,3 +13,63 @@
 ;
 11970 new <lang n="greek">ἄγος</lang>.
 ;---------------------------------------------------
+; <L>2649<pc>089,2<k1>iBa<k2>iBa
+15793 old <lang n="greek">ἐλέας</lang>, avec l'article sémitique {%al;%} <ab>lat.</ab> ebur; <ab>fr.</ab> ivoire.
+;
+15793 new <lang n="greek">ἐλέφας</lang>, avec l'article sémitique {%al;%} <ab>lat.</ab> ebur; <ab>fr.</ab> ivoire.
+;---------------------------------------------------
+; <L>3186<pc>110,1<k1>upari<k2>upari
+19374 old <lang n="greek">ὺπέρ</lang>; <ab>lat.</ab> super; <ab>got.</ab> ufar; <ab>germ.</ab> über; <ab>angl.</ab> upon.
+;
+19374 new <lang n="greek">ὑπέρ</lang>; <ab>lat.</ab> super; <ab>got.</ab> ufar; <ab>germ.</ab> über; <ab>angl.</ab> upon.
+;---------------------------------------------------
+; <L>3192<pc>110,1<k1>upalaBAmi<k2>upalaBAmi
+19419 old <lang n="greek">ὐπολαμαμϐάνω</lang>.
+;
+19419 new <lang n="greek">ὐπολαμϐάνω</lang>.
+;---------------------------------------------------
+; <L>3192<pc>110,1<k1>upalaBAmi<k2>upalaBAmi
+19427 old <lang n="greek">ὑπὸληψις</lang>.
+;
+19427 new <lang n="greek">ὑπόληψις</lang>.
+;---------------------------------------------------
+; <L>3442<pc>119,1<k1>UrRA<k2>UrRA
+20974 old <lang n="greek">ἄρος, ἄριον</lang>, <ab>etc.</ab>
+;
+20974 new <lang n="greek">ἔρος, ἔριον</lang>, <ab>etc.</ab>
+;---------------------------------------------------
+; <L>5273<pc>192,2<k1>kruS<k2>*kruS
+33393 old <lang n="greek">ϰρώζω, ϰραυγή</lang>; <ab>lat.</ab> crocio.
+;
+33393 new <lang n="greek">ϰρώζω, ϰράζω, ϰραυγή</lang>; <ab>lat.</ab> crocio.
+;---------------------------------------------------
+; <L>6308<pc>234,2<k1>ca<k2>ca
+40679 old {%t,%} à φ et même à {%s.%} L'articulation palatale de {#ca#}
+;
+40679 new {%t,%} à <lang n="greek">φ</lang> et même à {%s.%} L'articulation palatale de {#ca#}
+;---------------------------------------------------
+; <L>6419<pc>238,2<k1>candra<k2>candra
+41410 old <ab>gr.</ab> <lang n="greek">Σανδράϰσττος</lang>.
+;
+41410 new <ab>gr.</ab> <lang n="greek">Σανδράϰοττος</lang>.
+;---------------------------------------------------
+; <L>6915<pc>256,1<k1>Ceda<k2>Ceda
+44542 old <lang n="greek">σχὶδη</lang>.
+;
+44542 new <lang n="greek">σχίδη</lang>.
+;---------------------------------------------------
+; <L>7000<pc>259,1<k1>janaka<k2>janaka
+45049 old <lang n="greek">γναιϰός</lang> [<ab>g.</ab> de
+;
+45049 new <lang n="greek">γυναιϰός</lang> [<ab>g.</ab> de
+;---------------------------------------------------
+; <L>7062<pc>261,1<k1>jaras<k2>jaras
+45473 old <lang n="greek">λῆρας</lang>.
+;
+45473 new <lang n="greek">γῆρας</lang>.
+;---------------------------------------------------
+; <L>7249<pc>268,1<k1>jijYAsA<k2>jijYAsA
+46765 old <lang n="greek">γιγνώσσϰω</lang>.
+;
+46765 new <lang n="greek">γιγνώσϰω</lang>.
+;---------------------------------------------------
