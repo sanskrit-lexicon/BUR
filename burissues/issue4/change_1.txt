@@ -1,0 +1,15 @@
+; <L>68<pc>007,1<k1>akzi<k2>akzi
+394 old <lang n="greek">ἄϰϰος</lang>;  <ab>lat.</ab> oculus.
+;
+394 new <lang n="greek">ὄϰϰος</lang>;  <ab>lat.</ab> oculus.
+;---------------------------------------------------
+; <L>1863<pc>062,1<k1>asat<k2>asat
+10799 old <lang n="greek">τὸ μή ὄν</lang>; le mal métaphysique; <lbinfo n="9"/> le mal moral.
+;
+10799 new <lang n="greek">τὸ μὴ ὄν</lang>; le mal métaphysique; <lbinfo n="9"/> le mal moral.
+;---------------------------------------------------
+; <L>2049<pc>068,2<k1>Agas<k2>Agas
+11970 old <lang n="greek">ἄλος</lang>.
+;
+11970 new <lang n="greek">ἄγος</lang>.
+;---------------------------------------------------

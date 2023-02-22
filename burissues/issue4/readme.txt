@@ -28,7 +28,7 @@ cp temp_bur_0.txt temp_bur_1.txt
 # *************************************************************************
 This is the main task.
 edit temp_bur_1.txt.
-Greek text is identified by '<lang n="greek">X</greek>'.
+Greek text is identified by '<lang n="greek">X</lang>'.
 There are 669 instances in 665 lines of temp_bur_1.txt.
 
 For each such instance:
