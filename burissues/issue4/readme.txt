@@ -67,6 +67,7 @@ Notes:
 # Jim makes a local copy temp_bur_0.txt just as Anna did.
 # Use updateByLine.py program to create temp_bur_1.txt
 python updateByLine.py temp_bur_0.txt change_1.txt temp_bur_1.txt
+15 change transactions from change_1.txt  02-22-2023
 
 # install into csl-orig
 # a. copy to csl-orig
@@ -85,7 +86,7 @@ sh xmlchk_xampp.sh bur
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull
 git add .  # v02/bur/bur.txt
-git commit -m "bur. Misc corrections.
+git commit -m "bur. Misc Greek corrections.
  Ref: https://github.com/sanskrit-lexicon/BUR/issues/4"
 git push
 ----------------------------------------------------
