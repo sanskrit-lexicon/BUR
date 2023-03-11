@@ -1,0 +1,95 @@
+; <L>7697<pc>284,2<k1>tap<k2>*tap
+49507 old <lang n="greek">τανυτέφρα</lang> (?.
+;
+49507 new <lang n="greek">τέφρα</lang> (?).
+;---------------------------------------------------
+; <L>8107<pc>298,2<k1>tfp<k2>*tfp
+52168 old || <ab>Gr.</ab> <lang n="greek">πέρπω; τρέφω</lang><ab>(?)</ab>.
+;
+52168 new || <ab>Gr.</ab> <lang n="greek">τέρπω; τρέφω</lang><ab>(?)</ab>.
+;---------------------------------------------------
+; <L>8119<pc>299,1<k1>tfz<k2>*tfz
+52231 old <lang n="greek">τέρσς</lang>, <ab>etc.</ab>; <ab>lat.</ab> torreo <ab>(?)</ab>; <ab>germ.</ab> durst; <ab>goth.</ab> thars.
+;
+52231 new <lang n="greek">τέρσω</lang>, <ab>etc.</ab>; <ab>lat.</ab> torreo <ab>(?)</ab>; <ab>germ.</ab> durst; <ab>goth.</ab> thars.
+;---------------------------------------------------
+; <L>8237<pc>303,2<k1>tritaya<k2>tritaya
+53009 old <lang n="greek">τρίος</lang>; <ab>lat.</ab> tertius. -- <ab>S.</ab> <ab>n.</ab> le nombre trois; triade, trinité.
+;
+53009 new <lang n="greek">τρίτος</lang>; <ab>lat.</ab> tertius. -- <ab>S.</ab> <ab>n.</ab> le nombre trois; triade, trinité.
+;---------------------------------------------------
+; <L>8539<pc>315,1<k1>daMS<k2>*daMS
+55029 old <lang n="greek">δάϰυω</lang> <ab>lat.</ab> lacero <ab>(?)</ab>.
+;
+55029 new <lang n="greek">δάϰνω</lang> <ab>lat.</ab> lacero <ab>(?)</ab>.
+;---------------------------------------------------
+; <L>10525<pc>391,1<k1>pari<k2>pari
+68664 old <lang n="greek">περί</lang>.
+;
+68664 new <lang n="greek">περὶ</lang>.
+;---------------------------------------------------
+; <L>13071<pc>493,1<k1>marakata<k2>marakata
+87386 old <lang n="greek">λάραγδος</lang>.
+;
+87386 new <lang n="greek">μάραγδος</lang>.
+;---------------------------------------------------
+; <L>13120<pc>495,1<k1>malina<k2>malina
+87747 old <lang n="greek">μέλανος</lang>; <ab>lith.</ab> mêlinâs. <lbinfo n="4"/>
+;
+87747 new <lang n="greek">μέλας μέλανος</lang>; <ab>lith.</ab> mêlinâs. <lbinfo n="4"/>
+;---------------------------------------------------
+; <L>13392<pc>507,2<k1>mih<k2>*mih
+90044 old <lang n="greek">όμιχέω</lang>.
+;
+90044 new <lang n="greek">ὀμιχέω</lang>.
+;---------------------------------------------------
+; <L>13393<pc>507,2<k1>miha<k2>miha
+90051 old <lang n="greek">ὀμίχλν</lang>.
+;
+90051 new <lang n="greek">ὀμίχλη</lang>.
+;---------------------------------------------------
+; <L>13502<pc>512,1<k1>mUra<k2>mUra
+90877 old <lang n="greek">μώρός</lang>.
+;
+90877 new <lang n="greek">μωρός</lang>.
+;---------------------------------------------------
+; <L>13663<pc>519,1<k1>mnA<k2>*mnA
+92156 old <lang n="greek">μνάοραι</lang>.
+;
+92156 new <lang n="greek">μνάομαι</lang>.
+;---------------------------------------------------
+; <L>14208<pc>544,1<k1>ruz<k2>ruz
+96657 old <lang n="greek">μύσσα</lang>.
+;
+96657 new <lang n="greek">λύσσα</lang>.
+;---------------------------------------------------
+; <L>14880<pc>570,2<k1>vaS<k2>*vaS
+101521 old <lang n="greek">ἕϰωυ</lang> = {%vaśat.%}
+;
+101521 new <lang n="greek">ἕϰων</lang> = {%vaśat.%}
+;---------------------------------------------------
+; <L>14899<pc>571,2<k1>vas<k2>*vas
+101659 old <lang n="greek">ἕννμι</lang> [pour
+;
+101659 new <lang n="greek">ἕννυμι</lang> [pour
+;---------------------------------------------------
+; <L>16479<pc>631,1<k1>Sa<k2>Sa
+112566 old plusieurs cas. {#Sa#} {%śa%} répond au <lang n="greek">χ</lang> grec, au {%c%} et <ab>qqf.</ab> à
+;
+112566 new plusieurs cas. {#Sa#} {%śa%} répond au <lang n="greek">ϰ</lang> grec, au {%c%} et <ab>qqf.</ab> à
+;---------------------------------------------------
+; <L>16606<pc>639,2<k1>Saru<k2>Saru
+113733 old <lang n="greek">ϰερραυνός</lang>.
+;
+113733 new <lang n="greek">ϰεραυνός</lang>.
+;---------------------------------------------------
+; <L>17583<pc>679,2<k1>sam<k2>sam
+121019 old <lang n="greek">σύν</lang>; <ab>lat.</ab> cum.
+;
+121019 new <lang n="greek">σὐν</lang>; <ab>lat.</ab> cum.
+;---------------------------------------------------
+; <L>19422<pc>744,2<k1>svar<k2>svar
+132768 old <ab>gr.</ab> ? <lang n="greek">σέλας</lang>, ? <lang n="greek">ούρανός</lang>
+;
+132768 new <ab>gr.</ab> ? <lang n="greek">σέλας</lang>, ? <lang n="greek">οὐρανός</lang>
+;---------------------------------------------------

@@ -98,3 +98,19 @@ grep 'bur ' redo_cologne_all.sh
 sh generate_dict.sh bur  ../../BURScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/BUR/burissues/issue4
 ----------------------------------------------------
+# *************************************************************************
+# 03-10-2023
+Anna submits revised completed change_1.txt.
+Jim
+1. separate out the new changes into change_2.txt  (and remove the
+   new changes from change_1.txt.
+2. Get new version of temp_bur_0.txt from csl-orig
+
+python updateByLine.py temp_bur_0.txt change_2.txt temp_bur_2.txt
+19 change transactions from change_1.txt
+
+3. cp temp_bur_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt
+
+4. Follow The above installation instructions, starting with
+ '# b. Recreate local displays'.
+*************************************************************************
