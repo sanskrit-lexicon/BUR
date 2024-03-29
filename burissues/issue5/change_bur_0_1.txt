@@ -1,0 +1,110 @@
+; <L>838<pc>030,1<k1>anvAsmi<k2>anvAsmi
+4780 old s'installer, s'établir <ab>qq.</ab> <ab>part.</ab>
+;
+4780 new s'installer, s'établir <ab>qq.</ab> part.
+;---------------------------------------------------
+; <L>2751<pc>093,1<k1>u<k2>u
+16453 old {#u#}¦ {%u,%} <ab>part.</ab> enclitique qui, dans le <s1 slp1="veda">Veda</s1>, s'ajoute aux
+;
+16453 new {#u#}¦ {%u,%} <ab n="particule">part.</ab> enclitique qui, dans le <s1 slp1="veda">Veda</s1>, s'ajoute aux
+;---------------------------------------------------
+; <L>3582<pc>126,1<k1>ekEka<k2>ekEka
+21998 old <P>{%ekaikaśas%} <ab>adv.</ab> un à un; chacun à <ab>part.</ab>
+;
+21998 new <P>{%ekaikaśas%} <ab>adv.</ab> un à un; chacun à part.
+;---------------------------------------------------
+; <L>4758<pc>170,1<k1>kutra<k2>kutra
+29579 old <P>{%kutracit%} <ab>adv.</ab> quelque <ab>part.</ab>
+;
+29579 new <P>{%kutracit%} <ab>adv.</ab> quelque part.
+;---------------------------------------------------
+; <L>4984<pc>179,1<k1>kf<k2>*kf
+31129 old <P>{@<ab>Aor.</ab> <ab>conj.</ab>@} <ab>sg.</ab> <ab>3p.</ab> {%karat, karati%} ou {%karate;%} <lbinfo n="7"/> <ab>pl.</ab> <ab>1p.</ab>
+;
+31129 new <P>{@<ab>Aor.</ab> <ab>conjf.</ab>@} <ab>sg.</ab> <ab>3p.</ab> {%karat, karati%} ou {%karate;%} <lbinfo n="7"/> <ab>pl.</ab> <ab>1p.</ab>
+;---------------------------------------------------
+; <L>4984<pc>179,1<k1>kf<k2>*kf
+31130 old {%karāma;%} <ab>du.</ab> <ab>2p.</ab> {%karatam%} et {%kṛthas,%} 3ᵉ <ab>p.</ab>
+;
+31130 new {%karāma;%} <ab>du.</ab> <ab>2p.</ab> {%karatam%} et {%kṛthas,%} 3ᵉ <ab n="personne">p.</ab>
+;---------------------------------------------------
+; <L>4984<pc>179,1<k1>kf<k2>*kf
+31135 old <P>{@<ab>Part.</ab>@} <ab>ppf.</ab> <ab>act.</ab> {%cakrāṇa;%} <ab>a2.</ab> {%krāṇa;%} <ab>pp.</ab> <ab>ps.</ab>
+;
+31135 new <P>{@<ab n="Participe">Part.</ab>@} <ab>ppf.</ab> <ab>act.</ab> {%cakrāṇa;%} <ab>a2.</ab> {%krāṇa;%} <ab>pp.</ab> <ab>ps.</ab>
+;---------------------------------------------------
+; <L>5317<pc>194,2<k1>kvacit<k2>kvacit
+33709 old {#kvacit#}¦ {%kvacit%} <ab>adv.</ab> (<ab>sfx.</ab> {%cit)%} quelque <ab>part.</ab> ||
+;
+33709 new {#kvacit#}¦ {%kvacit%} <ab>adv.</ab> (<ab>sfx.</ab> {%cit)%} quelque part. ||
+;---------------------------------------------------
+; <L>6628<pc>245,2<k1>cit<k2>cit
+42704 old {#cit#}¦ {%cit,%} <ab>part.</ab> enclitique <ab>indéc.</ab> qui se place à la fin de
+;
+42704 new {#cit#}¦ {%cit,%} <ab n="particule">part.</ab> enclitique <ab>indéc.</ab> qui se place à la fin de
+;---------------------------------------------------
+; <L>12674<pc>472,2<k1>Bava<k2>Bava
+83679 old vous [<ab>t.</ab> de respect, avec le verbe à la 3ᵉ <ab>p.</ab>] <ab>M§</ab> 114.
+;
+83679 new vous [<ab>t.</ab> de respect, avec le verbe à la 3ᵉ <ab n="personne">p.</ab>] <ab>M§</ab> 114.
+;---------------------------------------------------
+; <L>12699<pc>473,2<k1>BAga<k2>BAga
+83867 old {#BAga#}¦ {%bhāga%} <ab>m.</ab> {%(bhaj)%} portion, <ab>part.</ab> || Destinée, <lbinfo n="6"/>
+;
+83867 new {#BAga#}¦ {%bhāga%} <ab>m.</ab> {%(bhaj)%} portion, part. || Destinée, <lbinfo n="6"/>
+;---------------------------------------------------
+; <L>12705<pc>473,2<k1>BAj<k2>BAj
+83909 old <P>{%bhājana%} <ab>n.</ab> partage, distribution; || <ab>part.</ab> || vase <ab>qconque</ab>
+;
+83909 new <P>{%bhājana%} <ab>n.</ab> partage, distribution; || part. || vase <ab>qconque</ab>
+;---------------------------------------------------
+; <L>15163<pc>581,1<k1>vAha<k2>vAha
+103598 old une route; || faire que <ab>qqn.</ab> se porte <ab>qq.</ab> <ab>part.</ab> || <ab>Qqf.</ab> aller voir,
+;
+103598 new une route; || faire que <ab>qqn.</ab> se porte <ab>qq.</ab> part. || <ab>Qqf.</ab> aller voir,
+;---------------------------------------------------
+; <L>15357<pc>588,1<k1>vitarAmi<k2>vitarAmi
+104836 old {%te%} je te donne ta <ab>part.</ab>
+;
+104836 new {%te%} je te donne ta part.
+;---------------------------------------------------
+; <L>15595<pc>596,2<k1>viBajAmi<k2>viBajAmi
+106389 old <P>{%vibhakti%} <ab>f.</ab> partage; || <ab>part.</ab> || Déclinaison, <lbinfo n="4"/> <ab>tg.</ab>
+;
+106389 new <P>{%vibhakti%} <ab>f.</ab> partage; || part. || Déclinaison, <lbinfo n="4"/> <ab>tg.</ab>
+;---------------------------------------------------
+; <L>15788<pc>603,1<k1>vivinacmi<k2>vivinacmi
+107599 old {#vivinacmi#}¦ {%vivinacmi%} {%(vic)%} séparer, mettre à <ab>part.</ab> ||
+;
+107599 new {#vivinacmi#}¦ {%vivinacmi%} {%(vic)%} séparer, mettre à part. ||
+;---------------------------------------------------
+; <L>15890<pc>607,2<k1>vizwala<k2>vizwala
+108452 old {#vizwala#}¦ {%viṣṭala%} <ab>n.</ab> {%(sthala)%} neu retiré, place à <ab>part.</ab>
+;
+108452 new {#vizwala#}¦ {%viṣṭala%} <ab>n.</ab> {%(sthala)%} neu retiré, place à part.
+;---------------------------------------------------
+; <L>15995<pc>612,2<k1>vf<k2>*vf
+109290 old {%avaram%} [2ᵉ et 3ᵉ <ab>p.</ab> {%avar%}]. {@<ab>Ps.</ab>@} {%vriye;%} <ab>a1.</ab> 3
+;
+109290 new {%avaram%} [2ᵉ et 3ᵉ <ab n="personne">p.</ab> {%avar%}]. {@<ab>Ps.</ab>@} {%vriye;%} <ab>a1.</ab> 3
+;---------------------------------------------------
+; <L>16003<pc>613,1<k1>vfj<k2>*vfj
+109400 old {%vavarja;%} [<ab>a2.</ab> <ab>vd.</ab> 2ᵉ et 3ᵉ <ab>p.</ab> {%varg%}] <ab>etc.</ab> ||
+;
+109400 new {%vavarja;%} [<ab>a2.</ab> <ab>vd.</ab> 2ᵉ et 3ᵉ <ab n="personne">p.</ab> {%varg%}] <ab>etc.</ab> ||
+;---------------------------------------------------
+; <L>17393<pc>672,2<k1>saRqIna<k2>saRqIna
+119713 old <ab>part.</ab>
+;
+119713 new part.
+;---------------------------------------------------
+; <L>19391<pc>743,2<k1>svagata<k2>svagata
+132567 old {#svagata#}¦ {%svagata%} <ab>a.</ab> {%(sva; gam)%} à part soi; pris à <ab>part.</ab>
+;
+132567 new {#svagata#}¦ {%svagata%} <ab>a.</ab> {%(sva; gam)%} à part soi; pris à part.
+;---------------------------------------------------
+; <L>19749<pc>759,1<k1>hrita<k2>hrita
+135335 old pris, emporté; || partagé. -- <ab>S.</ab> <ab>n.</ab> portion, <lbinfo n="5"/> <ab>part.</ab>
+;
+135335 new pris, emporté; || partagé. -- <ab>S.</ab> <ab>n.</ab> portion, <lbinfo n="5"/> part.
+;---------------------------------------------------

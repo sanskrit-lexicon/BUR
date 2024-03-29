@@ -1,0 +1,294 @@
+(?)	<id>(?)</id> <disp>douteux</disp>
+1p.	<id>1p.</id> <disp>1re personne</disp>
+2p.	<id>2p.</id> <disp>2e personne</disp>
+3p.	<id>3p.</id> <disp>3e personne</disp>
+a.	<id>a.</id> <disp>adjectif</disp>
+A.	<id>A.</id> <disp>Adjectif</disp>
+a1.	<id>a1.</id> <disp>aoriste 1er</disp>
+A2	<id>A2</id> <disp>aoriste 2nd</disp>
+a2.	<id>a2.</id> <disp>aoriste 2nd</disp>
+A2.	<id>A2.</id> <disp>aoriste 2nd</disp>
+ab.	<id>ab.</id> <disp>ablatif</disp>
+Ab.	<id>Ab.</id> <disp>Ablatif</disp>
+abs.	<id>abs.</id> <disp>absolutif</disp>
+abslt.	<id>abslt.</id> <disp>absolutif</disp> TODO <count>1</count> DONE
+Absolt.	<id>Absolt.</id> <disp>absolutif</disp> TODO <count>5</count> DONE
+absolt.	<id>absolt.</id> <disp>absolutif</disp> TODO <count>1</count> DONE
+Abst.	<id>Abst.</id> <disp>abstrait</disp> TODO <count>2</count> DONE
+abst.	<id>abst.</id> <disp>abstrait</disp> TODO <count>1</count> DONE
+ac.	<id>ac.</id> <disp>accusatif</disp>
+Ac.	<id>Ac.</id> <disp>Accusatif</disp>
+acc.	<id>acc.</id> <disp>accusatif</disp>
+act.	<id>act.</id> <disp>actif</disp>
+Act.	<id>Act.</id> <disp>actif</disp>
+Actt.	<id>Actt.</id> <disp>activement</disp>
+actt.	<id>actt.</id> <disp>activement</disp>
+adj.	<id>adj.</id> <disp>adjectif</disp> TODO <count>1</count> DONE
+Adjectt.	<id>Adjectt.</id> <disp>adjectivement</disp> TODO <count>1</count> DONE
+adjt.	<id>adjt.</id> <disp>adjectivement</disp> TODO <count>1</count> DONE
+Adjt.	<id>Adjt.</id> <disp>adjectivement</disp> TODO <count>6</count> DONE
+adv.	<id>adv.</id> <disp>adverbe</disp>
+Adv.	<id>Adv.</id> <disp>adverbe</disp>
+advt.	<id>advt.</id> <disp>adverbialement</disp>
+Advt.	<id>Advt.</id> <disp>adverbialement</disp>
+afghan.	<id>afghan.</id> <disp>langue afghane</disp> TODO <count>1</count> DONE
+anat.	<id>anat.</id> <disp>anatomie</disp>
+anc. germ.	<id>anc. germ.</id> <disp>ancien langue allemande</disp> TODO <count>3</count> DONE
+ancien germ.	<id>ancien germ.</id> <disp>ancien langue allemande</disp> TODO <count>5</count> DONE
+Ancien germ.	<id>Ancien germ.</id> <disp>Ancien langue allemande</disp> TODO <count>1</count> DONE
+ang.	<id>ang.</id> <disp>langue anglaise</disp> TODO <count>22</count> DONE
+Ang.	<id>Ang.</id> <disp>langue anglaise</disp> TODO <count>9</count> DONE
+angl.	<id>angl.</id> <disp>anglais</disp>
+Angl.	<id>Angl.</id> <disp>anglais</disp>
+Angl. sax.	<id>Angl. sax.</id> <disp>anglo-saxon</disp> TODO <count>1</count> DONE
+anglo sax.	<id>anglo sax.</id> <disp>anglo-saxon</disp> TODO <count>1</count> DONE
+Anglosaxon	<id>Anglosaxon</id> <disp>anglo-saxon</disp> TODO <count>1</count> DONE
+aor.	<id>aor.</id> <disp>aoriste</disp>
+Aor.	<id>Aor.</id> <disp>aoriste</disp>
+arab.	<id>arab.</id> <disp>langue arabe</disp> TODO <count>1</count> DONE
+arith.	<id>arith.</id> <disp>arithmétique</disp> TODO <count>5</count> DONE
+astr.	<id>astr.</id> <disp>astronomie</disp>
+astron.	<id>astron.</id> <disp>astronomie</disp> TODO <count>4</count> DONE
+aug.	<id>aug.</id> <disp>augmentatif</disp>
+Aug.	<id>Aug.</id> <disp>augmentatif</disp>
+auj.	<id>auj.</id> <disp>aujourd'hui</disp> TODO <count>29</count> DONE
+bd.	<id>bd.</id> <disp>bouddhique</disp>
+Bd.	<id>Bd.</id> <disp>bouddhique</disp>
+bot.	<id>bot.</id> <disp>botanique</disp>
+bret.	<id>bret.</id> <disp>langue bretonne</disp> TODO <count>3</count> DONE
+Breton	<id>Breton</id> <disp>Langue bretonne</disp> TODO <count>1</count> DONE
+breton.	<id>breton.</id> <disp>langue bretonne</disp> TODO <count>1</count> DONE
+c-à-d.	<id>c-à-d.</id> <disp>c’est-à-dire</disp>
+c.	<id>c.</id> <disp>causatif</disp>
+C.	<id>C.</id> <disp>causatif</disp>
+c.-à-d.	<id>c.-à-d.</id> <disp>c’est-à-dire</disp>
+cf.	<id>cf.</id> <disp>comparez; confer</disp>
+Cf.	<id>Cf.</id> <disp>Comparez; Confer</disp>
+ch.	<id>ch.</id> <disp>chose</disp>
+Cl.	<id>Cl.</id> <disp>classe</disp>
+cl.	<id>cl.</id> <disp>classe</disp>
+comm.	<id>comm.</id> <disp>commencement</disp> TODO <count>1</count> DONE
+comp.	<id>comp.</id> <disp>comparatif</disp>
+Comp.	<id>Comp.</id> <disp>comparatif</disp>
+compar.	<id>compar.</id> <disp>comparatif</disp>
+compos.	<id>compos.</id> <disp>composition, composés</disp>
+composit.	<id>composit.</id> <disp>composition</disp>
+cond.	<id>cond.</id> <disp>conditionnel</disp>
+conj.	<id>conj.</id> <disp>conjonction</disp>
+conjf.	<id>conjf.</id> <disp>conjonctif</disp>
+conjug.	<id>conjug.</id> <disp>conjugaison</disp> TODO <count>1</count> DONE
+Crét.	<id>Crét.</id> <disp>langue de Crète</disp> TODO <count>1</count> DONE
+d.	<id>d.</id> <disp>datif</disp>
+dan.	<id>dan.</id> <disp>langue du Danemark</disp> TODO <count>1</count> DONE
+dat.	<id>dat.</id> <disp>datif</disp>
+distr.	<id>distr.</id> <disp>district</disp> TODO <count>1</count> DONE
+dor.	<id>dor.</id> <disp>langue dorienne</disp> TODO <count>1</count> DONE
+du.	<id>du.</id> <disp>duel</disp>
+Du.	<id>Du.</id> <disp>duel</disp>
+dém.	<id>dém.</id> <disp>démonstratif</disp>
+dén.	<id>dén.</id> <disp>(verbe) dénominatif/issu d’un nom</disp> TODO <count>101</count> DONE
+dénom.	<id>dénom.</id> <disp>(verbe) dénominatif/issu d’un nom</disp>
+dénomin.	<id>dénomin.</id> <disp>(verbe) dénominatif/issu d’un nom</disp> TODO <count>8</count> DONE
+dériv.	<id>dériv.</id> <disp>dérivé</disp> TODO <count>1</count> DONE
+dés.	<id>dés.</id> <disp>désidératif</disp>
+Dés.	<id>Dés.</id> <disp>désidératif</disp>
+E.	<id>E.</id> <disp>Est</disp> TODO <count>2</count> DONE
+esp.	<id>esp.</id> <disp>espèce</disp>
+Esp.	<id>Esp.</id> <disp>Espèce</disp>
+etc.	<id>etc.</id> <disp>et cetera : « et le reste »</disp>
+ex.	<id>ex.</id> <disp>exemple</disp>
+ext.	<id>ext.</id> <disp>extension</disp>
+f.	<id>f.</id> <disp>féminin</disp>
+F.	<id>F.</id> <disp>Féminin</disp>
+f1.	<id>f1.</id> <disp>futur 1er</disp>
+F1.	<id>F1.</id> <disp>futur 1er</disp>
+f2.	<id>f2.</id> <disp>futur 2d</disp>
+F2.	<id>F2.</id> <disp>futur 2d</disp>
+fig.	<id>fig.</id> <disp>figuré</disp>
+fr.	<id>fr.</id> <disp>français</disp>
+Fr.	<id>Fr.</id> <disp>français</disp>
+franç.	<id>franç.</id> <disp>français </disp> TODO <count>4</count> DONE
+g.	<id>g.</id> <disp>génitif</disp>
+G.	<id>G.</id> <disp>Génitif</disp>
+gal.	<id>gal.</id> <disp>gaëlique</disp>
+gaël.	<id>gaël.</id> <disp>gaëlique</disp> TODO <count>1</count> DONE
+ger.	<id>ger.</id> <disp>gérondif</disp> TODO <count>5</count> DONE
+germ.	<id>germ.</id> <disp>germanique</disp>
+Germ.	<id>Germ.</id> <disp>germanique</disp>
+Germ. anc.	<id>Germ. anc.</id> <disp>ancien langue allemande</disp> TODO <count>2</count> DONE
+germ. anc.	<id>germ. anc.</id> <disp>ancien langue allemande</disp> TODO <count>1</count> DONE
+Germ. ancien	<id>Germ. ancien</id> <disp>ancien langue allemande</disp> TODO <count>1</count> DONE
+germ. ancien	<id>germ. ancien</id> <disp>ancien langue allemande</disp> TODO <count>2</count> DONE
+got.	<id>got.</id> <disp>gothique</disp>
+goth.	<id>goth.</id> <disp>gothique</disp>
+Goth.	<id>Goth.</id> <disp>gothique</disp>
+gr.	<id>gr.</id> <disp>grec</disp>
+Gr.	<id>Gr.</id> <disp>Grec</disp>
+gram.	<id>gram.</id> <disp>grammaire</disp> TODO <count>2</count> DONE
+gramm.	<id>gramm.</id> <disp>grammaire (vocabulaire des grammairiens indiens)</disp>
+gén.	<id>gén.</id> <disp>général</disp>
+géom.	<id>géom.</id> <disp>géométrie</disp> TODO <count>3</count> DONE
+gér.	<id>gér.</id> <disp>gérondif</disp>
+Gér.	<id>Gér.</id> <disp>gérondif</disp>
+i	<id>i</id> <disp>géométrie</disp> TODO <count>2</count> DONE
+i.	<id>i.</id> <disp>instrumental</disp>
+I.	<id>I.</id> <disp>instrumental</disp>
+imp.	<id>imp.</id> <disp>impératif</disp>
+Imp.	<id>Imp.</id> <disp>impératif</disp>
+impers.	<id>impers.</id> <disp>impersonnel</disp>
+impf.	<id>impf.</id> <disp>imparfait</disp>
+Impf.	<id>Impf.</id> <disp>imparfait</disp>
+ind.	<id>ind.</id> <disp>indicatif</disp>
+Ind.	<id>Ind.</id> <disp>indicatif</disp>
+indéc.	<id>indéc.</id> <disp>indéclinable</disp>
+Indéc.	<id>Indéc.</id> <disp>indéclinable</disp>
+indécl.	<id>indécl.</id> <disp>indéclinable</disp>
+inf.	<id>inf.</id> <disp>infinitif</disp>
+Inf.	<id>Inf.</id> <disp>infinitif</disp>
+interj.	<id>interj.</id> <disp>interjection</disp>
+Interj.	<id>Interj.</id> <disp>interjection</disp>
+interrog.	<id>interrog.</id> <disp>interrogatif</disp> TODO <count>6</count> DONE
+Interrog.	<id>Interrog.</id> <disp>interrogatif</disp> TODO <count>1</count> DONE
+inus.	<id>inus.</id> <disp>inusité</disp>
+Irl.	<id>Irl.</id> <disp>irlandais</disp>
+irl.	<id>irl.</id> <disp>irlandais</disp>
+irland.	<id>irland.</id> <disp>irlandais</disp>
+Irland.	<id>Irland.</id> <disp>Irlandais</disp>
+irrég.	<id>irrég.</id> <disp>irrégulier</disp> TODO <count>3</count> DONE
+isl.	<id>isl.</id> <disp>langue islandaise</disp> TODO <count>1</count> DONE
+island.	<id>island.</id> <disp>langue islandaise</disp> TODO <count>3</count> DONE
+jurisp.	<id>jurisp.</id> <disp>jurisprudence</disp> TODO <count>1</count> DONE
+jurispr.	<id>jurispr.</id> <disp>jurisprudence</disp> TODO <count>1</count> DONE
+kilog.	<id>kilog.</id> <disp>kilogramme</disp> TODO <count>1</count> DONE
+l.	<id>l.</id> <disp>locatif</disp>
+L.	<id>L.</id> <disp>locatif</disp>
+lat.	<id>lat.</id> <disp>latin</disp>
+Lat.	<id>Lat.</id> <disp>latin</disp>
+lith.	<id>lith.</id> <disp>lithuanien</disp>
+Lith.	<id>Lith.</id> <disp>lithuanien</disp>
+logiq.	<id>logiq.</id> <disp>logique</disp>
+m à m.	<id>m à m.</id> <disp>mot à mot</disp>
+m.	<id>m.</id> <disp>masculin</disp>
+M.	<id>M.</id> <disp>Masculin</disp>
+m. à m.	<id>m. à m.</id> <disp>mot à mot</disp>
+mms.	<id>mms.</id> <disp>même signification</disp>
+Mms.	<id>Mms.</id> <disp>Même signification</disp>
+mold.	<id>mold.</id> <disp>langue moldave</disp> TODO <count>1</count> DONE
+moy	<id>moy</id> <disp>moyen</disp> TODO <count>1</count> DONE ?
+moy.	<id>moy.</id> <disp>moyen</disp>
+Moy.	<id>Moy.</id> <disp>Moyen</disp>
+M§	<id>M§</id> <disp>voir notre Méthode sanscrite, paragraphe</disp>
+M§§	<id>M§§</id> <disp>voir notre Méthode sanscrite, paragraphes</disp>
+méd.	<id>méd.</id> <disp>médecine</disp> TODO <count>18</count> DONE
+n.	<id>n.</id> <disp>neutre</disp>
+N.	<id>N.</id> <disp>Neutre</disp>
+N. E.	<id>N. E.</id> <disp>nord-est</disp> TODO <count>1</count> DONE
+N. O.	<id>N. O.</id> <disp>nord-ouest</disp> TODO <count>6</count> DONE
+N.-E.	<id>N.-E.</id> <disp>nord-est</disp> TODO <count>2</count> DONE
+N.-O.	<id>N.-O.</id> <disp>nord-ouest</disp>
+n.-o.	<id>n.-o.</id> <disp>nord-ouest</disp> TODO <count>2</count> DONE
+nom.	<id>nom.</id> <disp>nominatif.</disp>
+np.	<id>np.</id> <disp>nom propre</disp>
+Np.	<id>Np.</id> <disp>Nom propre</disp>
+nég.	<id>nég.</id> <disp>négatif</disp>
+o.	<id>o.</id> <disp>optatif</disp>
+O.	<id>O.</id> <disp>optatif</disp>
+onomat.	<id>onomat.</id> <disp>onomatopée</disp>
+opp.	<id>opp.</id> <disp>opposé</disp> TODO <count>3</count> DONE
+oppos.	<id>oppos.</id> <disp>opposition</disp>
+ord.	<id>ord.</id> <disp>ordinairement</disp>
+ordint.	<id>ordint.</id> <disp>ordinairement</disp>
+ordt.	<id>ordt.</id> <disp>ordinairement</disp> TODO <count>10</count> DONE
+orth.	<id>orth.</id> <disp>orthographe</disp>
+orthog.	<id>orthog.</id> <disp>orthographe</disp>
+orthogr.	<id>orthogr.</id> <disp>orthographe</disp>
+osq.	<id>osq.</id> <disp>langue osque</disp> TODO <count>1</count> DONE
+p.	<id>p.</id> <disp>parfait</disp>
+P.	<id>P.</id> <disp>Parfait</disp>
+partic.	<id>partic.</id> <disp>participe</disp>
+Passivt.	<id>Passivt.</id> <disp>passivement</disp> TODO <count>2</count> DONE
+Passt.	<id>Passt.</id> <disp>passivement</disp> TODO <count>1</count> DONE
+pers.	<id>pers.</id> <disp>personne</disp>
+Pers.	<id>Pers.</id> <disp>personne</disp>
+pf.	<id>pf.</id> <disp>participe futur</disp>
+Pf.	<id>Pf.</id> <disp>participe futur</disp>
+pfx.	<id>pfx.</id> <disp>préfixe</disp>
+pl.	<id>pl.</id> <disp>pluriel</disp>
+Pl.	<id>Pl.</id> <disp>pluriel</disp>
+polon.	<id>polon.</id> <disp>polonais</disp>
+pp.	<id>pp.</id> <disp>participe passé</disp>
+Pp.	<id>Pp.</id> <disp>Participe passé</disp>
+PP.	<id>PP.</id> <disp>participe passé</disp>
+ppf.	<id>ppf.</id> <disp>participe parfait</disp>
+Ppf.	<id>Ppf.</id> <disp>participe parfait</disp>
+ppr.	<id>ppr.</id> <disp>participe présent</disp>
+Ppr.	<id>Ppr.</id> <disp>participe présent</disp>
+pps.	<id>pps.</id> <disp>participe parfait</disp> TODO <count>1</count> DONE
+ppt.	<id>ppt.</id> <disp>proprement</disp>
+pqp.	<id>pqp.</id> <disp>plus-que-parfait</disp>
+Pqp.	<id>Pqp.</id> <disp>plus-que-parfait</disp>
+Pr.	<id>Pr.</id> <disp>Présent</disp>
+pr.	<id>pr.</id> <disp>présent</disp>
+priv.	<id>priv.</id> <disp>privatif</disp>
+pron.	<id>pron.</id> <disp>pronom</disp>
+prâkrit	<id>prâkrit</id> <disp>langue prakrit</disp> TODO <count>2</count> DONE
+prép.	<id>prép.</id> <disp>préposition</disp>
+prépos.	<id>prépos.</id> <disp>préposition</disp> TODO <count>1</count> DONE
+ps.	<id>ps.</id> <disp>passif</disp>
+Ps.	<id>Ps.</id> <disp>passif</disp>
+qconque	<id>qconque</id> <disp>quelconque</disp>
+qconque.	<id>qconque.</id> <disp>quelconque</disp>
+qconques	<id>qconques</id> <disp>quelconques</disp>
+Qpf.	<id>Qpf.</id> <disp>quelquefois</disp> TODO <count>1</count> DONE
+qq.	<id>qq.</id> <disp>quelques(s)</disp>
+qqc.	<id>qqc.</id> <disp>quelque chose</disp>
+qqf.	<id>qqf.</id> <disp>quelquefois</disp>
+Qqf.	<id>Qqf.</id> <disp>quelquefois</disp>
+qqn	<id>qqn</id> <disp>quelqu’un</disp> TODO <count>11</count> DONE
+qqn.	<id>qqn.</id> <disp>quelqu’un</disp>
+qqs	<id>qqs</id> <disp>quelques</disp> TODO <count>1</count> DONE
+qqs.	<id>qqs.</id> <disp>quelques</disp> TODO <count>1</count> DONE
+rac.	<id>rac.</id> <disp>racine</disp> TODO <count>9</count> DONE
+red.	<id>red.</id> <disp>redoublement</disp>
+rhét.	<id>rhét.</id> <disp>rhétorique</disp>
+rhétor.	<id>rhétor.</id> <disp>rhétorique</disp> TODO <count>2</count> DONE
+s-ent.	<id>s-ent.</id> <disp>sous-entendu</disp>
+s.	<id>s.</id> <disp>substantif</disp>
+S.	<id>S.</id> <disp>substantif</disp>
+S. E.	<id>S. E.</id> <disp>sud-est</disp> TODO <count>1</count> DONE
+S. O.	<id>S. O.</id> <disp>sud-ouest</disp> TODO <count>2</count> DONE
+sax.	<id>sax.</id> <disp>saxon</disp>
+scandin.	<id>scandin.</id> <disp>langue scandinave</disp> TODO <count>1</count> DONE
+sf.	<id>sf.</id> <disp>suffixe</disp> TODO <count>5</count> DONE
+Sf.	<id>Sf.</id> <disp>suffixe</disp> TODO <count>1</count> DONE
+sfx.	<id>sfx.</id> <disp>suffixe</disp>
+sg.	<id>sg.</id> <disp>singulier</disp>
+Signif.	<id>Signif.</id> <disp>significations</disp> TODO <count>1</count> DONE
+slav.	<id>slav.</id> <disp>slave</disp>
+Slav.	<id>Slav.</id> <disp>slave</disp>
+slav. anc.	<id>slav. anc.</id> <disp>slave ancien</disp> TODO <count>1</count> DONE
+subj.	<id>subj.</id> <disp>subjonctif</disp>
+sup.	<id>sup.</id> <disp>superlatif</disp>
+Sup.	<id>Sup.</id> <disp>superlatif</disp>
+Sur.	<id>Sur.</id> <disp>Surnom</disp> TODO <count>1</count> DONE
+surn.	<id>surn.</id> <disp>surnom</disp>
+Surn.	<id>Surn.</id> <disp>Surnom</disp>
+suéd.	<id>suéd.</id> <disp>suédoise</disp> TODO <count>2</count> DONE
+sync.	<id>sync.</id> <disp>syncope</disp>
+synon.	<id>synon.</id> <disp>synonyme </disp> TODO <count>2</count> DONE
+t.	<id>t.</id> <disp>terme</disp>
+t. d'arithm.	<id>t. d'arithm.</id> <disp>terme d’arithmétique</disp>
+tg.	<id>tg.</id> <disp>terme grammatical</disp>
+Tg.	<id>Tg.</id> <disp>terme grammatical</disp>
+th.	<id>th.</id> <disp>thème</disp>
+tr.	<id>tr.</id> <disp>très</disp>
+v.	<id>v.</id> <disp>vocatif</disp>
+Vd.	<id>Vd.</id> <disp>Véda, védique</disp>
+vd.	<id>vd.</id> <disp>védique</disp>
+VÊD.	<id>VÊD.</id> <disp>védique</disp> TODO <count>1</count> DONE
+vêdiq.	<id>vêdiq.</id> <disp>védique</disp> TODO <count>1</count> DONE
+Z.	<id>Z.</id> <disp>Zend</disp> TODO <count>1</count> DONE
+zd.	<id>zd.</id> <disp>zend</disp>
+Zd.	<id>Zd.</id> <disp>zend</disp>
+ép.	<id>ép.</id> <disp>épithète</disp>
+Ép.	<id>Ép.</id> <disp>épithète</disp>

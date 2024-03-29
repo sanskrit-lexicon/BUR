@@ -1,0 +1,125 @@
+; <L>1503<pc>051,1<k1>alIka<k2>alIka
+8733 old <P>{%alīkāye%} <ab>den.</ab> être trompé, être dupé.
+;
+8733 new <P>{%alīkāye%} <ab>dén.</ab> être trompé, être dupé.
+;---------------------------------------------------
+; <L>2664<pc>090,1<k1>irajyAmi<k2>irajyAmi
+15878 old {#irajyAmi#}¦ {%irajyāmi%} <ab>den.</ab> {%(rāj?)%} dominer, <lbinfo n="4"/> <ab>g.</ab> ||
+;
+15878 new {#irajyAmi#}¦ {%irajyāmi%} <ab>dén.</ab> {%(rāj?)%} dominer, <lbinfo n="4"/> <ab>g.</ab> ||
+;---------------------------------------------------
+; <L>2667<pc>090,1<k1>irasyAmi<k2>irasyAmi
+15892 old {#irasyAmi#}¦ {%irasyāmi%} <ab>den.</ab> {%(irā)%} détracter; calomnier;
+;
+15892 new {#irasyAmi#}¦ {%irasyāmi%} <ab>dén.</ab> {%(irā)%} détracter; calomnier;
+;---------------------------------------------------
+; <L>2672<pc>090,1<k1>iryAmi<k2>iryAmi
+15922 old {#iryAmi#}¦ {%iryāmi%} <ab>den.</ab> {%(irā)%} détracter, calomnier; <lbinfo n="8"/>
+;
+15922 new {#iryAmi#}¦ {%iryāmi%} <ab>dén.</ab> {%(irā)%} détracter, calomnier; <lbinfo n="8"/>
+;---------------------------------------------------
+; <L>2694<pc>091,1<k1>izu<k2>izu
+16048 old <P>{%iṣudhyāmi%} <ab>den.</ab> être archer; viser; || au <ab>fig.</ab> rechercher,
+;
+16048 new <P>{%iṣudhyāmi%} <ab>dén.</ab> être archer; viser; || au <ab>fig.</ab> rechercher,
+;---------------------------------------------------
+; <L>2731<pc>092,2<k1>IryAmi<k2>IryAmi
+16300 old {#IryAmi#}¦ {%īryāmi%} <ab>den.</ab> de {%īr,%} porter envie. || Exciter,
+;
+16300 new {#IryAmi#}¦ {%īryāmi%} <ab>dén.</ab> de {%īr,%} porter envie. || Exciter,
+;---------------------------------------------------
+; <L>2900<pc>099,1<k1>utsuka<k2>utsuka
+17507 old <P>{%utsukāye%} <ab>den.</ab> concevoir un désir, un regret. <lbinfo n="5"/>
+;
+17507 new <P>{%utsukāye%} <ab>dén.</ab> concevoir un désir, un regret. <lbinfo n="5"/>
+;---------------------------------------------------
+; <L>2921<pc>099,2<k1>udanya<k2>udanya
+17636 old <P>{%udanyāmi%} <ab>den.</ab> avoir soif.
+;
+17636 new <P>{%udanyāmi%} <ab>dén.</ab> avoir soif.
+;---------------------------------------------------
+; <L>3056<pc>104,2<k1>unmanas<k2>unmanas
+18513 old <P>{%unmanāye%} <ab>den.</ab> être hors de soi-même.
+;
+18513 new <P>{%unmanāye%} <ab>dén.</ab> être hors de soi-même.
+;---------------------------------------------------
+; <L>3066<pc>105,1<k1>unmUlayAmi<k2>unmUlayAmi
+18584 old {#unmUlayAmi#}¦ {%unmūlayāmi%} <ab>den.</ab> {%(mūla)%} déraciner,
+;
+18584 new {#unmUlayAmi#}¦ {%unmūlayāmi%} <ab>dén.</ab> {%(mūla)%} déraciner,
+;---------------------------------------------------
+; <L>3209<pc>110,2<k1>upavIRayAmi<k2>upavIRayAmi
+19525 old {#upavIRayAmi#}¦ {%upavīṇayāmi%} <ab>den.</ab> {%(vīṇa)%} jouer de la
+;
+19525 new {#upavIRayAmi#}¦ {%upavīṇayāmi%} <ab>dén.</ab> {%(vīṇa)%} jouer de la
+;---------------------------------------------------
+; <L>3340<pc>115,1<k1>uras<k2>uras
+20347 old <P>{%urasyāmi%} <ab>den.</ab> avoir une forte poitrine; être robuste.
+;
+20347 new <P>{%urasyāmi%} <ab>dén.</ab> avoir une forte poitrine; être robuste.
+;---------------------------------------------------
+; <L>3401<pc>117,1<k1>uzas<k2>uzas
+20690 old <P>{%uṣasyāmi%} 4, <ab>den.</ab> poindre [en parlant de l'aurore].
+;
+20690 new <P>{%uṣasyāmi%} 4, <ab>dén.</ab> poindre [en parlant de l'aurore].
+;---------------------------------------------------
+; <L>3413<pc>117,2<k1>uzma<k2>uzma
+20794 old <P>{%uṣmāye%} 4, <ab>den.</ab> émettre de la chaleur.
+;
+20794 new <P>{%uṣmāye%} 4, <ab>dén.</ab> émettre de la chaleur.
+;---------------------------------------------------
+; <L>3627<pc>127,1<k1>elAyAmi<k2>elAyAmi
+22231 old {#elAyAmi#}¦ {%elāyāmi%} <ab>den.</ab> {%(elā)%} s'ébattre, être
+;
+22231 new {#elAyAmi#}¦ {%elāyāmi%} <ab>dén.</ab> {%(elā)%} s'ébattre, être
+;---------------------------------------------------
+; <L>3693<pc>129,2<k1>oj<k2>*oj
+22590 old Briller. [Ce verbe est peut-être le <ab>den.</ab> de {%oja, ojas%}].
+;
+22590 new Briller. [Ce verbe est peut-être le <ab>dén.</ab> de {%oja, ojas%}].
+;---------------------------------------------------
+; <L>3815<pc>134,2<k1>kawakawA<k2>kawakawA
+23365 old <P>{%kaṭakaṭāpayāmi%} <ab>den.</ab> battre; frotter; faire claquer [les
+;
+23365 new <P>{%kaṭakaṭāpayāmi%} <ab>dén.</ab> battre; frotter; faire claquer [les
+;---------------------------------------------------
+; <L>3909<pc>138,1<k1>kadarTa<k2>kadarTa
+24015 old <P>{%kadarthayāmi%} <ab>den.</ab> être infortuné; éprouver <lbinfo n="3"/> un malheur. 
+;
+24015 new <P>{%kadarthayāmi%} <ab>dén.</ab> être infortuné; éprouver <lbinfo n="3"/> un malheur. 
+;---------------------------------------------------
+; <L>3993<pc>141,1<k1>kamala<k2>kamala
+24571 old <P>{%kamalāhāsyāmi%} <ab>den.</ab> sourire comme le lotus épanoui.
+;
+24571 new <P>{%kamalāhāsyāmi%} <ab>dén.</ab> sourire comme le lotus épanoui.
+;---------------------------------------------------
+; <L>4015<pc>142,1<k1>karakAsAra<k2>karakAsAra
+24705 old <P>{%karakāsāryāmi%} <ab>den.</ab> tomber comme la grêle.
+;
+24705 new <P>{%karakāsāryāmi%} <ab>dén.</ab> tomber comme la grêle.
+;---------------------------------------------------
+; <L>10808<pc>400,1<k1>parR<k2>*parR
+70263 old feuilles. [Ce mot est le <ab>den.</ab> de {%parṇa%}].
+;
+70263 new feuilles. [Ce mot est le <ab>dén.</ab> de {%parṇa%}].
+;---------------------------------------------------
+; <L>12194<pc>451,1<k1>prARa<k2>prARa
+79867 old <P>{%prāṇayāmi%} (<ab>c.</ab> de {%an;%} ou <ab>den.</ab> de {%prāṇa)%} rendre la
+;
+79867 new <P>{%prāṇayāmi%} (<ab>c.</ab> de {%an;%} ou <ab>dén.</ab> de {%prāṇa)%} rendre la
+;---------------------------------------------------
+; <L>13402<pc>507,2<k1>mImAMse<k2>mImAMse
+90131 old <P>{%mīmāṃsiṣe%} (<ab>dés.</ab> du <ab>den.</ab> de {%man).%} Vouloir <lbinfo n="4"/> examiner,
+;
+90131 new <P>{%mīmāṃsiṣe%} (<ab>dés.</ab> du <ab>dén.</ab> de {%man).%} Vouloir <lbinfo n="4"/> examiner,
+;---------------------------------------------------
+; <L>16705<pc>643,1<k1>SAtayAmi<k2>SAtayAmi
+114394 old {#SAtayAmi#}¦ {%śātayāmi%} (<ab>c.</ab> de {%śad%} ou <ab>den.</ab> de {%śāta)%}
+;
+114394 new {#SAtayAmi#}¦ {%śātayāmi%} (<ab>c.</ab> de {%śad%} ou <ab>dén.</ab> de {%śāta)%}
+;---------------------------------------------------
+; <L>17363<pc>671,2<k1>saYcIvaraye<k2>saYcIvaraye
+119543 old {#saYcIvaraye#}¦ {%sañcīvaraye%} {%(sam;%} <ab>den.</ab> de {%civara)%}
+;
+119543 new {#saYcIvaraye#}¦ {%sañcīvaraye%} {%(sam;%} <ab>dén.</ab> de {%civara)%}
+;---------------------------------------------------

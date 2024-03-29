@@ -1,0 +1,1459 @@
+**************************************
+abslt.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>7451<pc>274,1<k1>jyAyas<k2>jyAyas
+jyAyas¦ jyāyas a. [ f. jyāyasī] plus vieux. || Au fig. plus
+respectable; meilleur; en lat. antiquior; || abslt.
+très-bon, excellent.
+; -------------------------------
+**************************************
+Absolt.  tip="NEW" ? (# instances = 5) 
+**************************************
+Case 1 of 5: <L>1099<pc>037,2<k1>aBinIta<k2>aBinIta
+aBinIta¦ abhinīta pp. d'abhinayāmi. || conduit à; propre à,
+capable de. || Absolt. terminé, fini, parfait.
+; -------------------------------
+Case 2 of 5: <L>3191<pc>110,1<k1>upalakzaye<k2>upalakzaye
+upalakzaye¦ upalakṣaye 10, (lakṣ) voir, regarder. ||
+Estimer, juger, tenir pour: satyam pour vrai. || Absolt. au
+ps. tan na upalakṣyale ce n'est pas vraisemblable.
+; -------------------------------
+Case 3 of 5: <L>9192<pc>338,2<k1>dviz<k2>*dviz
+pp. dviṣṭa. M§ 94. Haïr, ac. et d. || Se fâcher, s'irriter
+contre qqn. , d. et g. || Absolt. être irrité: na
+ābhinandati na dveṣṭi il ne se réjouit ni ne se fâche.
+; -------------------------------
+Case 4 of 5: <L>12105<pc>448,2<k1>prasU<k2>prasU
+monde un fils. || Passt. naître: niṣādāt d'un père niṣāda ,
+śūdrāyām d'une mère śūdrā . || Absolt. avoir des enfants.
+|| Pp. prasūta né, enfanté; qui a enfanté, qui a
+; -------------------------------
+Case 5 of 5: <L>16481<pc>631,1<k1>Sak<k2>*Sak
+na śakṣyanṭi jīvitum ils ne pourront vivre. || Qqf. être en
+possession de qqc. , g. ou ac. || Absolt. au ps. st'īyatām,
+yadi śakyate, qu'on se tienne debout, s'il est possible. ||
+Le ps.
+; -------------------------------
+**************************************
+absolt.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>6998<pc>258,2<k1>jan<k2>*jan
+|| Renaître: mṛto na jāyate un mort ne revient pas à la
+vie. || Naître, absolt. : na jāyate mṛyale vā kadācit
+; -------------------------------
+**************************************
+Abst.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>5268<pc>192,2<k1>kruD<k2>*kruD
+cukrodha; f2. krotsyāmi; a2. akrudham; pp. kruddha.
+S'irriter contre, d. ou g. || Abst. se mettre en colère.
+; -------------------------------
+Case 2 of 2: <L>14929<pc>572,2<k1>vah<k2>*vah
+manières]. || Apporter, amener; transporter, en gén. ||
+Emmener; épouser, kanyām une jeune fille. || Abst. avancer,
+aller, marcher: tasya candena vahaly udakam l'eau coule
+comme il veut;
+; -------------------------------
+**************************************
+abst.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>17532<pc>677,2<k1>sannahyAmi<k2>sannahyAmi
+sannahyAmi¦ sannahyāmi (nah) revêtir, kavacam une cuirasse.
+|| s'armer, carmeṇa d'un bouclier; || abst. revêtir son
+armure, Actt. attacher à, lier à, l.
+; -------------------------------
+**************************************
+adj.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>16528<pc>635,2<k1>Sata<k2>Sata
+śataguṇita adj. (guṇa) cent fois répété.
+; -------------------------------
+**************************************
+Adjectt.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>6167<pc>228,2<k1>grAma<k2>grAma
+grāmaṇī m. (nī) chef de village; en gén. chef,
+surintendant. || Adjectt. premier, supérieur; || qui ne
+pense qu'au plaisir. -- S. f. paysanne, villageoise. ||
+Fille de joie. ||
+; -------------------------------
+**************************************
+adjt.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>1263<pc>042,1<k1>aByucCrayAmi<k2>aByucCrayAmi
+karam la main. -- Pp. abhyucchrita, qui est allé vers le
+haut; qui s'est élevé; || adjt. élevé.
+; -------------------------------
+**************************************
+Adjt.  tip="NEW" ? (# instances = 6) 
+**************************************
+Case 1 of 6: <L>2512<pc>083,2<k1>ASrita<k2>ASrita
+ASrita¦ āśrita pp. (śri) les perceptions des six āśrayas ou
+sens, Bd. || Adjt. qui cherche un refuge, une protection:
+mām āśritas qui se réfugie en moi.
+; -------------------------------
+Case 2 of 6: <L>2517<pc>084,1<k1>ASvayuja<k2>ASvayuja
+ASvayuja¦ āśvayuja m. (yuj) le mois āśvina ,
+septembre-octobre. -- Adjt. qui se rapporte à ce mois. --
+S. f. āśvayujī le jour de la pleine lune du mois āśvina .
+; -------------------------------
+Case 3 of 6: <L>2564<pc>085,2<k1>Asya<k2>Asya
+Asya¦ āsya n. bouche, visage. || Lat. os. -- Adjt. relatif
+à la bouche ou au visage.
+; -------------------------------
+Case 4 of 6: <L>5922<pc>218,2<k1>guRa<k2>guRa
+guṇasāgara m. m à m. la mer des modes, c-à-d. Brahmā ou le
+Buddha . -- Adjt. doué de toutes les qualités. [Page219-1]
+; -------------------------------
+Case 5 of 6: <L>5922<pc>218,2<k1>guRa<k2>guRa
+guṇākara m. (ākara) la mine des qualités, c-à-d. le Buddha
+. -- Adjt. doué de toutes les qualités.
+; -------------------------------
+Case 6 of 6: <L>7646<pc>282,1<k1>tata<k2>tata
+tata¦ tata pp. ps. de tan. || Adjt. diffus, répandu,
+déployé; large. -- S. m. l'air, le vent. -- S. n.
+instrument de
+; -------------------------------
+**************************************
+afghan.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>5869<pc>216,2<k1>giri<k2>giri
+nuages. || Paume, balle à jouer. || Maladie des yeux. ||
+Zd. gairi; afghan. ghur.
+; -------------------------------
+**************************************
+anc. germ.  tip="NEW" ? (# instances = 3) 
+**************************************
+Case 1 of 3: <L>8950<pc>329,1<k1>dF<k2>*dF
+a1. adāriṣam. Fendre; déchirer; couper. || Gr. δέρω ; ang.
+tear; anc. germ. zar; germ. zehre.
+; -------------------------------
+Case 2 of 3: <L>9557<pc>353,2<k1>naBa<k2>naBa
+gris. || Oiseau. || Gr. νέφος ; lat. nebula, nubes; anc.
+germ. nibul.
+; -------------------------------
+Case 3 of 3: <L>10334<pc>380,2<k1>nO<k2>nO
+naukā f. ( sfx. ka) navire. || Angl. sax. naca; anc. germ.
+nacho.
+; -------------------------------
+**************************************
+ancien germ.  tip="NEW" ? (# instances = 5) 
+**************************************
+Case 1 of 5: <L>1989<pc>066,1<k1>aMSa<k2>aMSa
+virāt de la gāyatrī . || Epaule. Cf. aṃsa. Lat. axilla;
+ancien germ. ahsala.
+; -------------------------------
+Case 2 of 5: <L>3359<pc>116,1<k1>ulUka<k2>ulUka
+ulUka¦ ulūka m. hibou, chouette. || Surnom d' Indra . ||
+Lat. ulula; germ. eule; ancien germ. uwila, ûla; angl. owl;
+fr. hulotte.
+; -------------------------------
+Case 3 of 5: <L>3442<pc>119,1<k1>UrRA<k2>UrRA
+poil entre les deux sourcils. || Lith. wilna; russe vòlna;
+goth. vulla; ancien germ. wolla; lat. villus, vellus. Cf.
+gr. ἔρος, ἔριον , etc.
+; -------------------------------
+Case 4 of 5: <L>4546<pc>162,1<k1>kAs<k2>*kAs
+akāsiṣi; pp. kāsita. Tousser; rendre un son rauque et
+désagréable. Cf. kaś. || Lith. kôstu; ancien germ. huosto.
+; -------------------------------
+Case 5 of 5: <L>4984<pc>179,1<k1>kf<k2>*kf
+Lat. creare; gr. ϰραίνω, ϰράτος , etc. Κρόνος (?) ; ancien
+germ. karawam, préparer; irland. caraim, island. gerdh,
+action; osq. cerus.
+; -------------------------------
+**************************************
+Ancien germ.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>5779<pc>213,2<k1>garva<k2>garva
+garva¦ garva m. orgueil. || Ancien germ. gelf; lith. garbê.
+
+; -------------------------------
+**************************************
+ang.  tip="NEW" ? (# instances = 22) 
+**************************************
+Case 1 of 22: <L>3885<pc>137,1<k1>katara<k2>katara
+Gr. πότερος ; goth. hvathar; ang. whether; lat. (?) uter.
+; -------------------------------
+Case 2 of 22: <L>3963<pc>140,1<k1>kapi<k2>kapi
+Kṛṣṇa . -- Gr. ϰῆπος, ϰεῖπος ; germ. ancien affo; ang.
+ape.
+; -------------------------------
+Case 3 of 22: <L>7299<pc>269,2<k1>jIv<k2>*jIv
+jīvitum ne plus vivre, être mort, cesser de vivre, mourir.
+|| Vivre de, se nourrir de, avec l' i. || Lat. vivo; germ.
+leben (?) ; ang. live (?) .
+; -------------------------------
+Case 4 of 22: <L>8347<pc>307,1<k1>tvam<k2>tvam
+τύ, σύ ; dor. τύνη ; lat. tu; goth. thu; germ. du; ang.
+thou; etc. || M§ 61.
+; -------------------------------
+Case 5 of 22: <L>8438<pc>311,2<k1>dam<k2>*dam
+rākṣasān les mauvais génies. || Gr. δάμνημι ; lat. domare;
+ang. tame.
+; -------------------------------
+Case 6 of 22: <L>8439<pc>311,2<k1>dam<k2>dam
+|| Gr. δάμαρ ; ang. dam; fr. dame ( lat. domina).
+; -------------------------------
+Case 7 of 22: <L>8950<pc>329,1<k1>dF<k2>*dF
+a1. adāriṣam. Fendre; déchirer; couper. || Gr. δέρω ; ang.
+tear; anc. germ. zar; germ. zehre.
+; -------------------------------
+Case 8 of 22: <L>9150<pc>337,1<k1>dvi<k2>dvi
+dvi¦ dvi a. [ du. dvau, dve. M§ 51] deux. || Gr. δύο, δι ;
+lat. duo, bi; zd. bi; irl. do; ang. two; lith. du; goth.
+twai; etc.
+; -------------------------------
+Case 9 of 22: <L>9708<pc>360,1<k1>nAsA<k2>nAsA
+nAsA¦ nāsā f. (nas f. ) nez. || Linteau de porte. || Lat.
+nasus; lith. nosis; ang. nose; irl. neas.
+; -------------------------------
+Case 10 of 22: <L>10442<pc>387,1<k1>pad<k2>pad
+pad¦ pad m. pied. || Gr. ποῦς, ποδός ; lat. pes. pedis;
+ang. foot, etc.
+; -------------------------------
+Case 11 of 22: <L>10810<pc>400,1<k1>pard<k2>*pard
+Gr. πέρδω ; lat. pedo; lith. pirdis; ang. fart.
+; -------------------------------
+Case 12 of 22: <L>11079<pc>411,2<k1>pitf<k2>pitf
+Mânes. || Gr. πατήρ ; lat. pater; zd. patare; goth. fadar;
+germ. vater; ang. father; etc.
+; -------------------------------
+Case 13 of 22: <L>12327<pc>456,2<k1>plihan<k2>plihan
+plihan¦ plihan m. et plihā f. rate; || gr. σπλήν, σπλάγχνον
+; lat. lien; ang. spleen.
+; -------------------------------
+Case 14 of 22: <L>12873<pc>482,2<k1>BrAtf<k2>BrAtf
+du. le frère et la sœur. || Gr. φράτωρ ; lat. frater;
+germ. bruder; ang. brother; irl. brathair; etc.
+; -------------------------------
+Case 15 of 22: <L>14190<pc>543,2<k1>ruDira<k2>ruDira
+Safran. -- S. m. la planète de Mars. || Gr. ἐρυθρός ; lat.
+(?) ruber, rufus; lith. rauda; germ. roth: ang. red; fr.
+rouge.
+; -------------------------------
+Case 16 of 22: <L>14368<pc>550,1<k1>laq<k2>*laq
+les nourrices aux petits enfants, angl. loll]; || s'agiter
+avec rapidité [en parlant de la langue]. || Lat. lallo;
+ang. loll.
+; -------------------------------
+Case 17 of 22: <L>14497<pc>554,2<k1>liS<k2>*liS
+*liS¦ liś. liśye 4; p. liliśe; etc. Etre ou devenir petit;
+être amoindri, diminué; être mutilé. || Cf. ang. less.
+; -------------------------------
+Case 18 of 22: <L>14499<pc>554,2<k1>lih<k2>*lih
+[ 3p. alīḍha]; pp. līḍha. Lécher. Gr. λείχω ; lat. lingo;
+goth. laigô; fr. lécher; ang. lick; etc.
+; -------------------------------
+Case 19 of 22: <L>14867<pc>570,1<k1>valla<k2>valla
+clôture, haie, palissade, etc. || Vannage du grain. || Lat.
+vallum; ang. wall.
+; -------------------------------
+Case 20 of 22: <L>14930<pc>572,2<k1>vaha<k2>vaha
+βαῖγες ; gr. αἶγες, αἰγίς, Αἰγαιῶν , etc. ; germ. wogen;
+fr. vague; ang. wave, etc. || Gr. ὄχος ; lat. via [vehia].
+; -------------------------------
+Case 21 of 22: <L>15436<pc>591,1<k1>viDavA<k2>viDavA
+viDavA¦ vidhavā f. (dhava) veuve. || Lat. vidua; goth.
+viduvô; ang. vidow; irl. feadhb.
+; -------------------------------
+Case 22 of 22: <L>15961<pc>610,2<k1>viMSa<k2>viMSa
+gr. εἴϰατι, εἴϰοσι ; ang. twenty; germ. zwanzig; etc. M§
+51.
+; -------------------------------
+**************************************
+Ang.  tip="NEW" ? (# instances = 9) 
+**************************************
+Case 1 of 9: <L>6511<pc>242,2<k1>cAwa<k2>cAwa
+cAwa¦ cāṭa m. (cat; sfx. a) trompeur, celui qui dépense
+follement l'argent qu'on lui a confié. || Ang. cheat.
+; -------------------------------
+Case 2 of 9: <L>6848<pc>253,2<k1>Cad<k2>*Cad
+chādati vṛkṣas l'arbre ombrage la terre; || śaraiś channa
+couvert de traits, accablé de flèches. || Ang. shade,
+shadow; gr. σϰοτός ; irland. scath; got. skadu. || Cf. sku.
+; -------------------------------
+Case 3 of 9: <L>7486<pc>276,1<k1>Jampa<k2>Jampa
+Jampa¦ jhampa m. saut, bond, cahot; action de plonger ||
+Ang. jump.
+; -------------------------------
+Case 4 of 9: <L>8078<pc>297,2<k1>tusta<k2>tusta
+tusta¦ tusta n. poussière, poudre. || Ang. dust.
+; -------------------------------
+Case 5 of 9: <L>8122<pc>299,1<k1>tfzita<k2>tfzita
+tfzita¦ tṛṣita ( pp. de tṛṣ) altéré. -- S. n. soif. ||
+Désir. || Ang. thirst.
+; -------------------------------
+Case 6 of 9: <L>10809<pc>400,1<k1>parRa<k2>parRa
+parRa¦ parṇa n. feuille. || Feuille de bétel. -- M. butea
+frondosa, bot. -- F. parṇī pistia stratiotes, bot. -- Ang.
+fern.
+; -------------------------------
+Case 7 of 9: <L>13010<pc>490,2<k1>manu<k2>manu
+actuel, est regardé comme auteur du Mānavadharma ou Lois de
+Manu ]. || Ang. man; lat. hominis, femina; etc.
+; -------------------------------
+Case 8 of 9: <L>19514<pc>749,1<k1>hari<k2>hari
+|| Jasmin jaune. || Femelle d'antilope. || Sorte de metre
+poétique. || Ang. green.
+; -------------------------------
+Case 9 of 9: <L>19768<pc>759,2<k1>hlAd<k2>*hlAd
+*hlAd¦ hlād. hlāde 1; p. jahlāde; pp. hlanna. Se réjouir,
+s'égayer, s'amuser avec, 1. || Ang. glad.
+; -------------------------------
+**************************************
+Angl. sax.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>10334<pc>380,2<k1>nO<k2>nO
+naukā f. ( sfx. ka) navire. || Angl. sax. naca; anc. germ.
+nacho.
+; -------------------------------
+**************************************
+anglo sax.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>16524<pc>635,2<k1>SaRa<k2>SaRa
+SaRa¦ śaṇa n. chanvre; || crotolaria, bot. || Flèche. ||
+Gr. ϰάνναϐις ; lat. cannabis; lith. kanâpê; irl. canaib;
+anglo sax. hœnep; angl. hemp; germ. hanf.
+; -------------------------------
+**************************************
+Anglosaxon  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>2905<pc>099,1<k1>uda<k2>uda
+ud dans paludis, und dans arundo. Anglosaxon ydhu. Slav.
+voda. Germ. ancien , wanden; germ. wasser; angl. water.
+; -------------------------------
+**************************************
+arab.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>4403<pc>157,2<k1>kArava<k2>kArava
+kArava¦ kārava m. (kā; rava). corneille, corbeau. Gr. ϰόραξ
+: lat. corvus; angl. crow; germ. raben (pour kraben); arab.
+ghorāb.
+; -------------------------------
+**************************************
+arith.  tip="NEW" ? (# instances = 5) 
+**************************************
+Case 1 of 5: <L>16407<pc>628,1<k1>vyAvakalana<k2>vyAvakalana
+vyAvakalana¦ vyāvakalana n. (ava; kal; sfx. ana)
+soustraction, t. d' arith.
+; -------------------------------
+Case 2 of 5: <L>17271<pc>668,1<k1>saNkala<k2>saNkala
+saṅkalana n. addition, t. d' arith. || Collection,
+réunion; entassement; || tas; morceaux entassés.
+; -------------------------------
+Case 3 of 5: <L>19492<pc>748,1<k1>hata<k2>hata
+hata¦ hata ( pp. de han) frappé; tué. || Multiplié, t. d'
+arith. -- S. n. coup, meurtre. || Multiplication, t. d'
+arith.
+; -------------------------------
+Case 4 of 5: <L>19492<pc>748,1<k1>hata<k2>hata
+hata¦ hata ( pp. de han) frappé; tué. || Multiplié, t. d'
+arith. -- S. n. coup, meurtre. || Multiplication, t. d'
+arith.
+; -------------------------------
+Case 5 of 5: <L>19575<pc>752,2<k1>hAra<k2>hAra
+hāraka m. voleur, ravisseur, pillard; || joueur. || Prose.
+|| Science. || Diviseur, t. d' arith.
+; -------------------------------
+**************************************
+astron.  tip="NEW" ? (# instances = 4) 
+**************************************
+Case 1 of 4: <L>6154<pc>228,1<k1>graha<k2>graha
+accueil; patronage que l'on accorde à qqn. || Eclipse; Rāhu
+; nœud, en astron. || Planète, en gén. || Np. d'un mauvais
+génie qui emporte les petits enfants.
+; -------------------------------
+Case 2 of 4: <L>8154<pc>300,2<k1>tEtila<k2>tEtila
+tEtila¦ taitila n. (titila) un des 7 kāraṇas, astron. || M.
+Rhinocéros.
+; -------------------------------
+Case 3 of 4: <L>9476<pc>349,2<k1>Druva<k2>Druva
+dans la dissolution d'un sandhi, tg. || Refrain inséré dans
+des stances. || Distance entre deux positions, t. d'
+astron. || Le ciel. -- S. m. l'étoile polaire:
+dhruvapracalana n. le déplacement de
+; -------------------------------
+Case 4 of 4: <L>17117<pc>661,1<k1>SrI<k2>SrI
+rapport avec l'astrologie. || Roue du char d' Indra . ||
+Cercle terrestre [en astron. ].
+; -------------------------------
+**************************************
+auj.  tip="NEW" ? (# instances = 29) 
+**************************************
+Case 1 of 29: <L>1363<pc>046,1<k1>ayoDya<k2>ayoDya
+ayoDya¦ ayodhya a. (yudh) invincible, inexpugnable. -- S.
+f. ayodhyā np. de ville, auj. Aoude, Oude.
+; -------------------------------
+Case 2 of 29: <L>1902<pc>063,1<k1>asiknI<k2>asiknI
+asiknI¦ asiknī f. (sic filtrer) Vd. la libation du matin.
+|| Vd. l'Acésinès, affluent de l'Indus, auj. le Chenab. ||
+Servante de gynécée, appelée aussi asiknikā f.
+; -------------------------------
+Case 3 of 29: <L>2641<pc>088,2<k1>indu<k2>indu
+indujā f. (jā) np. de rivière, la narmadā, auj. Nerbudda.
+; -------------------------------
+Case 4 of 29: <L>2643<pc>088,2<k1>indra<k2>indra
+indraprastha m. np. de ville, auj. un des quartiers de
+Delhi.
+; -------------------------------
+Case 5 of 29: <L>4080<pc>144,2<k1>karRa<k2>karRa
+karṇapura n. (pura) np. de ville, auj. Bhagalpour.
+; -------------------------------
+Case 6 of 29: <L>4468<pc>159,2<k1>kAlaYjara<k2>kAlaYjara
+Assemblée de religieux mendiants. || Rocher célèbre dans le
+Bundelkhand, auj. Callinjer; || le pays environnant. --
+kālañjarā f. surnom de Durgā .
+; -------------------------------
+Case 7 of 29: <L>4835<pc>173,1<k1>kuru<k2>kuru
+kurukṣetra n. np. de la contrée où a lieu, dans le
+Mahābhārata , la grande bataille des Kuru s et des Pāṇḍu s:
+auj. le pays de Delhi.
+; -------------------------------
+Case 8 of 29: <L>5061<pc>184,2<k1>kedAra<k2>kedAra
+kedAra¦ kedāra m. (dṛ) champ; || montagne. || Bassin
+d'arrosage au pied d'un arbre. || Np. d'une partie de l'
+Himālaya , auj. le Cêdâr.
+; -------------------------------
+Case 9 of 29: <L>5272<pc>192,2<k1>krumu<k2>krumu
+krumu¦ krumu f. Vd. np. d'un des affluents de l'Indus, auj.
+le Kouroum.
+; -------------------------------
+Case 10 of 29: <L>5995<pc>221,2<k1>gfDra<k2>gfDra
+gṛdhrakūṭa m. le Pic-du-vautour, montagne célèbre auprès
+de Rājagṛha , auj. Giddore.
+; -------------------------------
+Case 11 of 29: <L>6437<pc>239,2<k1>campa<k2>campa
+campa¦ campa m. bauhinia variegata ou ébène de montagne. --
+F. campā np. d'une ville voisine de Bhagalpour [ auj.
+Champâpour ou Champenagar].
+; -------------------------------
+Case 12 of 29: <L>6637<pc>246,1<k1>citra<k2>citra
+citrakūṭa m. np. d'une montagne dans le Bundelkhand, auj.
+Compteh.
+; -------------------------------
+Case 13 of 29: <L>6817<pc>252,1<k1>cola<k2>cola
+cola¦ cola m. et coli f. (cul) sorte de tunique; cf. coḍa.
+|| Np. d'un pays, auj. Tanjore.
+; -------------------------------
+Case 14 of 29: <L>7722<pc>285,2<k1>tamAla<k2>tamAla
+tamālikā et tamālinī f. district du Bengale, auj. Tamlouk.
+; -------------------------------
+Case 15 of 29: <L>7991<pc>294,2<k1>tIra<k2>tIra
+tīrabhukti m. np. d'un pays entre la Gaṇḍakī et la Kauśikī
+, auj. Tirhut.
+; -------------------------------
+Case 16 of 29: <L>8260<pc>304,1<k1>tripura<k2>tripura
+tripura¦ tripura n. et tripurī f. np. de pays [ auj.
+Tipperah]. -- M. np. d'un Asura , roi de Tripura.
+; -------------------------------
+Case 17 of 29: <L>8594<pc>317,1<k1>dAmalipta<k2>dAmalipta
+dAmalipta¦ dāmalipta n. np. de pays ( auj. Tamlouk).
+; -------------------------------
+Case 18 of 29: <L>11236<pc>418,2<k1>puzkara<k2>puzkara
+Nala . -- N. air, atmosphère; eau; || célèbre tīrtha à 4
+milles d'Ajmir [ auj. Pokar]; || lotus costus; speciosus;
+|| un des 7 dvipa s ou continents. || Peau de tambour, la
+partie où on le bat; ||
+; -------------------------------
+Case 19 of 29: <L>11349<pc>424,2<k1>pota<k2>pota
+potaraka m. (?) ancienne capitale du Tibet, auj. Potala.
+; -------------------------------
+Case 20 of 29: <L>13452<pc>510,1<k1>mudga<k2>mudga
+mudgagiri m. np. de ville, auj. Monghir.
+; -------------------------------
+Case 21 of 29: <L>13733<pc>523,1<k1>yamunA<k2>yamunA
+yamunA¦ yamunā f. (yama) la Yamunā [ auj. Jumna], affluent
+qui se jette dans le Gange au prayāga d'Allahâbad [elle est
+; -------------------------------
+Case 22 of 29: <L>14827<pc>568,1<k1>varDayAmi<k2>varDayAmi
+de pot. || Diagramme mystique; || sorte d'énigme ou de
+charade. || Ricin, plante. || Viṣṇu . || Np. d'une ville et
+d'un district [ auj. Bardwan].
+; -------------------------------
+Case 23 of 29: <L>15544<pc>595,1<k1>vipASA<k2>vipASA
+vipASA¦ vipāśā et vipāś f. np. d'une rivière, l'Hyphase des
+Grecs, auj. Bêyâh.
+; -------------------------------
+Case 24 of 29: <L>16005<pc>613,1<k1>vfji<k2>vfji
+vfji¦ vṛji f. np. d'un pays à l'ouest de Delhi, auj. Bruj.
+; -------------------------------
+Case 25 of 29: <L>16087<pc>617,1<k1>vetra<k2>vetra
+vetravatī f. ( sfx. vat) np. d'un affluent de la Yamunā ,
+dans le Malwa, auj. Bêtwah.
+; -------------------------------
+Case 26 of 29: <L>16528<pc>635,2<k1>Sata<k2>Sata
+śatadru f. (dru) la Śatadru , auj. Setlej, gr. Ζάδαδρος ;
+Cf. śutudrī.
+; -------------------------------
+Case 27 of 29: <L>16900<pc>652,2<k1>SutudrI<k2>SutudrI
+gr. Ζάδαδρος ; auj. Setlej. Cf. śatadru.
+; -------------------------------
+Case 28 of 29: <L>18150<pc>698,1<k1>sarayu<k2>sarayu
+sarayu¦ sarayu m. (sṛ; sfx. yu) vent. -- F. [u et ū] la
+Sarayu , rivière, auj. Sarjou.
+; -------------------------------
+Case 29 of 29: <L>18153<pc>698,1<k1>saras<k2>saras
+fleuve. || La mer. || Buffle. -- F. la Sarasvatī , np. de
+rivière, Vd. , auj. la Sarsûti, qui se perd dans les sables
+à l' E. de Delhi; || en gén. rivière. || Sarasvatī , une
+des déités du Sacrifice
+; -------------------------------
+**************************************
+bret.  tip="NEW" ? (# instances = 3) 
+**************************************
+Case 1 of 3: <L>8503<pc>314,1<k1>daSan<k2>daSan
+daSan¦ daśan a. [ M§ 51] dix. Gr. δἐϰα ; lat. decem; lith.
+deszim; irland. deagh; bret. dek; etc.
+; -------------------------------
+Case 2 of 3: <L>10388<pc>384,1<k1>paYcan<k2>paYcan
+paYcan¦ pañcan a. cinq. || Lith. penki; gr. πέντε ; bret.
+pemp; goth. fimf; lat. quinque; irl. cuig; etc. || M§ 51,
+5°.
+; -------------------------------
+Case 3 of 3: <L>11167<pc>415,2<k1>putra<k2>putra
+putra¦ putra et puttra m. fils; || au du. : le fils et la
+fille. -- F. putrī fille. || Cf. bret. paotr; lat. puer.
+; -------------------------------
+**************************************
+Breton  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>6547<pc>244,1<k1>cAru<k2>cAru
+cAru¦ cāru a. (car; sfx. u) [ f. cārvī] beau, élégant,
+gracieux. || S. m. surn. de Bṛhaspati . || Breton : kaer.
+; -------------------------------
+**************************************
+breton.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>1968<pc>065,1<k1>aham<k2>aham
+aham¦ aham je, moi. M§ 59. || Lat. ego; gr. ἐγὼν, ἐγώ ;
+germ. ich; breton. am.
+; -------------------------------
+**************************************
+comm.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>9675<pc>358,2<k1>nAnA<k2>nAnA
+nAnA¦ nānā indéc. [au comm. des composés] non unique,
+nombreux, varié.
+; -------------------------------
+**************************************
+conjug.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>6931<pc>256,2<k1>jakzimi<k2>jakzimi
+jakzimi¦ jakṣimi 2. [même conjug. ] ( red. de has). Rire.
+; -------------------------------
+**************************************
+Crét.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>14930<pc>572,2<k1>vaha<k2>vaha
+Mesure de 4 droṇas. -- F. vahā cours d'eau, rivière. ||
+Crét. βαῖγες ; gr.
+; -------------------------------
+**************************************
+dan.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>6022<pc>223,1<k1>go<k2>go
+cardinal. || Gr. βοῦς ; lat. bos; angl. cow; dan. kœ; suéd.
+ko; germ. kuh.
+; -------------------------------
+**************************************
+den.  tip="NEW" ? (# instances = 25) 
+**************************************
+Case 1 of 25: <L>1503<pc>051,1<k1>alIka<k2>alIka
+alīkāye den. être trompé, être dupé.
+; -------------------------------
+Case 2 of 25: <L>2664<pc>090,1<k1>irajyAmi<k2>irajyAmi
+irajyAmi¦ irajyāmi den. (rāj?) dominer, g. || Servir,
+donner son ministère.
+; -------------------------------
+Case 3 of 25: <L>2667<pc>090,1<k1>irasyAmi<k2>irasyAmi
+irasyAmi¦ irasyāmi den. (irā) détracter; calomnier; envier.
+; -------------------------------
+Case 4 of 25: <L>2672<pc>090,1<k1>iryAmi<k2>iryAmi
+iryAmi¦ iryāmi den. (irā) détracter, calomnier; envier. Cf.
+irasyāmi.
+; -------------------------------
+Case 5 of 25: <L>2694<pc>091,1<k1>izu<k2>izu
+iṣudhyāmi den. être archer; viser; || au fig. rechercher,
+demander.
+; -------------------------------
+Case 6 of 25: <L>2731<pc>092,2<k1>IryAmi<k2>IryAmi
+IryAmi¦ īryāmi den. de īr, porter envie. || Exciter,
+exhorter.
+; -------------------------------
+Case 7 of 25: <L>2900<pc>099,1<k1>utsuka<k2>utsuka
+utsukāye den. concevoir un désir, un regret.
+; -------------------------------
+Case 8 of 25: <L>2921<pc>099,2<k1>udanya<k2>udanya
+udanyāmi den. avoir soif.
+; -------------------------------
+Case 9 of 25: <L>3056<pc>104,2<k1>unmanas<k2>unmanas
+unmanāye den. être hors de soi-même.
+; -------------------------------
+Case 10 of 25: <L>3066<pc>105,1<k1>unmUlayAmi<k2>unmUlayAmi
+unmUlayAmi¦ unmūlayāmi den. (mūla) déraciner, arracher:
+vṛkṣam un arbre. -- Pp. unmūlita.
+; -------------------------------
+Case 11 of 25: <L>3209<pc>110,2<k1>upavIRayAmi<k2>upavIRayAmi
+upavIRayAmi¦ upavīṇayāmi den. (vīṇa) jouer de la vīṇa;
+célébrer sur la vīṇa.
+; -------------------------------
+Case 12 of 25: <L>3340<pc>115,1<k1>uras<k2>uras
+urasyāmi den. avoir une forte poitrine; être robuste.
+; -------------------------------
+Case 13 of 25: <L>3401<pc>117,1<k1>uzas<k2>uzas
+uṣasyāmi 4, den. poindre [en parlant de l'aurore].
+; -------------------------------
+Case 14 of 25: <L>3413<pc>117,2<k1>uzma<k2>uzma
+uṣmāye 4, den. émettre de la chaleur.
+; -------------------------------
+Case 15 of 25: <L>3627<pc>127,1<k1>elAyAmi<k2>elAyAmi
+elAyAmi¦ elāyāmi den. (elā) s'ébattre, être en joie.
+; -------------------------------
+Case 16 of 25: <L>3693<pc>129,2<k1>oj<k2>*oj
+*oj¦ oj. ojayāmi 10. Etre fort; || vivre. || Briller. [Ce
+verbe est peut-être le den. de oja, ojas].
+; -------------------------------
+Case 17 of 25: <L>3815<pc>134,2<k1>kawakawA<k2>kawakawA
+kaṭakaṭāpayāmi den. battre; frotter; faire claquer [les
+dents].
+; -------------------------------
+Case 18 of 25: <L>3909<pc>138,1<k1>kadarTa<k2>kadarTa
+kadarthayāmi den. être infortuné; éprouver un malheur. --
+Pp. kadarthita.
+; -------------------------------
+Case 19 of 25: <L>3993<pc>141,1<k1>kamala<k2>kamala
+kamalāhāsyāmi den. sourire comme le lotus épanoui.
+; -------------------------------
+Case 20 of 25: <L>4015<pc>142,1<k1>karakAsAra<k2>karakAsAra
+karakāsāryāmi den. tomber comme la grêle.
+; -------------------------------
+Case 21 of 25: <L>10808<pc>400,1<k1>parR<k2>*parR
+*parR¦ parṇ. parṇayāmi. Verdir, avoir des feuilles. [Ce mot
+est le den. de parṇa].
+; -------------------------------
+Case 22 of 25: <L>12194<pc>451,1<k1>prARa<k2>prARa
+prāṇayāmi ( c. de an; ou den. de prāṇa) rendre la vie,
+ressusciter.
+; -------------------------------
+Case 23 of 25: <L>13402<pc>507,2<k1>mImAMse<k2>mImAMse
+mīmāṃsiṣe ( dés. du den. de man). Vouloir examiner,
+vouloir s'informer.
+; -------------------------------
+Case 24 of 25: <L>16705<pc>643,1<k1>SAtayAmi<k2>SAtayAmi
+SAtayAmi¦ śātayāmi ( c. de śad ou den. de śāta) faire
+tomber ou couper, śiras la tête, jaṅghe les deux
+; -------------------------------
+Case 25 of 25: <L>17363<pc>671,2<k1>saYcIvaraye<k2>saYcIvaraye
+saYcIvaraye¦ sañcīvaraye (sam; den. de civara) se vêtir de
+haillons; || ramasser des haillons, des chiffons.
+; -------------------------------
+**************************************
+distr.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>14685<pc>562,1<k1>vatsa<k2>vatsa
+vatsapattana n. np. d'une ville dans le nord de l'Inde [
+distr. de Gorakpour].
+; -------------------------------
+**************************************
+dor.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>8347<pc>307,1<k1>tvam<k2>tvam
+toi, tu. || Gr. τύ, σύ ; dor. τύνη ; lat. tu; goth. thu;
+germ. du; ang. thou; etc. || M§ 61.
+; -------------------------------
+**************************************
+dénomin.  tip="NEW" ? (# instances = 8) 
+**************************************
+Case 1 of 8: <L>1765<pc>059,1<k1>aSana<k2>aSana
+aśanāyāmi dénomin. avoir faim. -- Pp. aśanāyita affamé.
+; -------------------------------
+Case 2 of 8: <L>1795<pc>059,2<k1>aSnItapibatIyAmi<k2>aSnItapibatIyAmi
+aSnItapibatIyAmi¦ aśnītapibatīyāmi dénomin. (aś-pā) je dis:
+mangez, buvez.
+; -------------------------------
+Case 3 of 8: <L>1836<pc>061,1<k1>aSvasyAmi<k2>aSvasyAmi
+aSvasyAmi¦ aśvasyāmi dénomin. (aśva) désirer le cheval,
+l'étalon.
+; -------------------------------
+Case 4 of 8: <L>1837<pc>061,1<k1>aSvAyAmi<k2>aSvAyAmi
+aSvAyAmi¦ aśvāyāmi dénomin. (aśva) désirer des chevaux.
+; -------------------------------
+Case 5 of 8: <L>1953<pc>064,2<k1>asrAye<k2>asrAye
+asrAye¦ asrāye dénomin. (asra) pleurer.
+; -------------------------------
+Case 6 of 8: <L>4386<pc>156,2<k1>kAmyA<k2>kAmyA
+kāmyāmi ( dénomin. ) Désirer; cf. kam.
+; -------------------------------
+Case 7 of 8: <L>4713<pc>168,2<k1>kuwumb<k2>*kuwumb
+famille; avoir sa famille à sa charge. [Ce verbe semble
+être le dénomin. du mot suivant.]
+; -------------------------------
+Case 8 of 8: <L>6105<pc>226,1<k1>gozW<k2>*gozW
+jugoṣṭhe; etc. Rassembler; amasser. [Ce verbe est sans
+doute le dénomin. de goṣṭha.]
+; -------------------------------
+**************************************
+dériv.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>8972<pc>329,2<k1>deva<k2>deva
+devasāyuja a. ( dériv. du précéd.) qui tient de la nature
+divine.
+; -------------------------------
+**************************************
+E.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>18153<pc>698,1<k1>saras<k2>saras
+fleuve. || La mer. || Buffle. -- F. la Sarasvatī , np. de
+rivière, Vd. , auj. la Sarsûti, qui se perd dans les sables
+à l' E. de Delhi; || en gén. rivière. || Sarasvatī , une
+des déités du Sacrifice
+; -------------------------------
+Case 2 of 2: <L>19442<pc>746,1<k1>svasti<k2>svasti
+|| ail; || sorte de gâteau; || temple ayant un portique au
+N. , au S. et à l' O. , avec l'entrée à l' E. || Diagramme
+mystique de bon augure 卐 || Libertin.
+; -------------------------------
+**************************************
+franç.  tip="NEW" ? (# instances = 4) 
+**************************************
+Case 1 of 4: <L>1851<pc>061,2<k1>azwan<k2>azwan
+ὀϰτώ ; lat. octo; goth. ohtau; lith. asztuni; germ. acht;
+angl. eight; franç. huit.
+; -------------------------------
+Case 2 of 4: <L>2139<pc>071,2<k1>Atman<k2>Atman
+ātmīya a. mien, tien, sien; propre, personnel. M§ 63, 64;
+|| proche parent, comme en franç. les miens, les tiens, les
+siens, etc.
+; -------------------------------
+Case 3 of 4: <L>4707<pc>168,1<k1>kuwi<k2>kuwi
+kuṭī f. maison, chaumière, hutte; cf. kuṭa. || Germ. hütte;
+franç. hutte.
+; -------------------------------
+Case 4 of 4: <L>6153<pc>228,1<k1>grah<k2>*grah
+paroles. || Lat. prehendo; germ. greifen; gr. γριπίζω ;
+franç. griffe. Cf. grabh.
+; -------------------------------
+**************************************
+gaël.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>3446<pc>119,1<k1>UrdDa<k2>UrdDa
+ūrddhvam en haut; ensuite. || Lat. arduus; g. ὀρθός ; gaël.
+ard.
+; -------------------------------
+**************************************
+ger.  tip="NEW" ? (# instances = 5) 
+**************************************
+Case 1 of 5: <L>4915<pc>176,1<k1>kuz<k2>*kuz
+[Page176-2] ger. koṣitvā; pp. kuṣita. Extraire: ikṣusāram
+le suc de la canne à sucre; || arracher, ôter:
+; -------------------------------
+Case 2 of 5: <L>8023<pc>295,2<k1>tud<k2>*tud
+tutude; f2. totsyāmi, totsye; a1. atautsam, atutsi; ger.
+tuttvā; pp. tunna. Battre, frapper: ayas le fer, aśvam un
+cheval, arim un ennemi. || Lat. tundo.
+; -------------------------------
+Case 3 of 5: <L>13394<pc>507,2<k1>mI<k2>*mI
+mame; f2. māsyāmi, māsye; a1. amāsam, amāsi; o. mīyāsam,
+māsīya; pp. mīta; ger. mītvā [en compos. māya]. Renverser,
+détruire: dasyor māyām la
+; -------------------------------
+Case 4 of 5: <L>14898<pc>571,1<k1>vas<k2>*vas
+ūṣus]; f2. vatsyāmi; a1. avātsam; inf. vastum; ger. uṣitvā
+et uṣṭvā; pp. uṣita; ppf. ūṣivas. {@ Ps. @} uṣye. Habiter,
+demeurer, 1. pure dans la ville,
+; -------------------------------
+Case 5 of 5: <L>16066<pc>616,2<k1>ve<k2>ve
+ūye; pp. uta. Tisser, coudre; || lier. attacher par un
+nœud, Vd. || Couvrir, cf. vye. || Lat. vieo; angl. weave;
+ger. weben.
+; -------------------------------
+**************************************
+Germ. anc.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>9125<pc>336,1<k1>druh<k2>*druh
+Haïr, vouloir nuire, avec le d. , l' ac. , ou le l. ||
+Essayer de nuire, tenter un acte malfaisant. || Germ. anc.
+trug; lat. trux, atrox.
+; -------------------------------
+Case 2 of 2: <L>19254<pc>738,2<k1>snuzA<k2>snuzA
+snuzA¦ snuṣā f. (sūnu; sfx. sā) belle-fille, bru. ||
+Euphorbe. || Germ. anc. snura; slav. anc. snocha; lat.
+nurus; gr.
+; -------------------------------
+**************************************
+germ. anc.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>9552<pc>353,2<k1>napAt<k2>napAt
+napAt¦ napāt m. vd. fils. || Lat. nepos; germ. anc. nefo;
+fr. neveu; perse, napa.
+; -------------------------------
+**************************************
+Germ. ancien  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>2905<pc>099,1<k1>uda<k2>uda
+ud dans paludis, und dans arundo. Anglosaxon ydhu. Slav.
+voda. Germ. ancien , wanden; germ. wasser; angl. water.
+; -------------------------------
+**************************************
+germ. ancien  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>3963<pc>140,1<k1>kapi<k2>kapi
+Kṛṣṇa . -- Gr. ϰῆπος, ϰεῖπος ; germ. ancien affo; ang.
+ape.
+; -------------------------------
+Case 2 of 2: <L>5242<pc>191,2<k1>kravya<k2>kravya
+kravya¦ kravya n. chair; chair crue. || Gr. ϰρέας lat. caro
+(? cruor); germ. ancien , hrêo; lith. kraujas, sang; irl.
+cru.
+; -------------------------------
+**************************************
+gram.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>16722<pc>643,2<k1>SAbda<k2>SAbda
+SAbda¦ śābda a. (śabda) sonore. || Nominal, casuel, t. de
+gram. || Qui possède la science brâhmanique. -- S. f.
+śābdī, Sarasvatī .
+; -------------------------------
+Case 2 of 2: <L>16722<pc>643,2<k1>SAbda<k2>SAbda
+śābdika a. ( sfx. ika) relatif aux mots, nominal, t. de
+gram. -- S. m. homme versé dans la connaissance des mots.
+; -------------------------------
+**************************************
+géom.  tip="NEW" ? (# instances = 3) 
+**************************************
+Case 1 of 3: <L>16107<pc>618,1<k1>veDa<k2>veDa
+veDa¦ vedha m. (vyadh) trou, percée; || blessure, lésion.
+|| Hauteur ou profondeur, t. de géom. || Mesure du temps
+égale à 1/3 du lava ou à 100 truṭis [0”, 0266].
+; -------------------------------
+Case 2 of 3: <L>16107<pc>618,1<k1>veDa<k2>veDa
+vedhana n. action de trouer, de percer; || blessure. ||
+Profondeur, t. de géom. -- F. vedhanī vrille, mèche, tout
+instrument perçant, en gén.
+; -------------------------------
+Case 3 of 3: <L>18139<pc>697,2<k1>sara<k2>sara
+saraka a. ( sfx. ka) qui va; qui marche. -- S. m. n.
+chemin; directrice du mouvement, t. de géom. || Liqueur
+spiritueuse; rhum; || l'action d'en boire; || vase à boire,
+en gén. -- N. lac, étang. ||
+; -------------------------------
+**************************************
+i  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>12650<pc>471,2<k1>Baya<k2>Baya
+bhayayāmi ( c. de bhī) faire peur à qqn. [ ac. ] de qqc. [
+i ].
+; -------------------------------
+Case 2 of 2: <L>15752<pc>602,1<k1>vivadAmi<k2>vivadAmi
+vivadAmi¦ vivadāmi, vivade, (vad) disputer qqc. [ l. ou ac.
+] à qqn. [ i ].
+; -------------------------------
+**************************************
+interrog.  tip="NEW" ? (# instances = 6) 
+**************************************
+Case 1 of 6: <L>4227<pc>150,2<k1>kavara<k2>kavara
+kavara¦ kavara a. (ka interrog. vṛ choisir) mêlé, confus,
+embrouillé.
+; -------------------------------
+Case 2 of 6: <L>4243<pc>150,2<k1>kavozRa<k2>kavozRa
+kavozRa¦ kavoṣṇa a. (ku interrog. ; uṣṇa) tiède. -- S. n.
+tiédeur.
+; -------------------------------
+Case 3 of 6: <L>4283<pc>152,1<k1>kA<k2>kA
+kA¦ kā forme de l' a. interrog. kas, employée au
+commencement des composés dans le même sens que kal, ku,
+etc. ,
+; -------------------------------
+Case 4 of 6: <L>4656<pc>166,1<k1>ku<k2>ku
+ku¦ ku, au commencement des mots composés, est une forme
+irrégulière tirée de l' interrog. kas, kā, kim; il indique
+mépris, amoindrissement, mauvaise qualité; cf. ka, kā et
+; -------------------------------
+Case 5 of 6: <L>4979<pc>179,1<k1>kUvara<k2>kUvara
+kUvara¦ kūvara a. (kū interrog. vṛ choisir) agréable, beau.
+; -------------------------------
+Case 6 of 6: <L>10269<pc>378,2<k1>nu<k2>nu
+nu¦ nu adv. [ M§ 102] partic. interrog. qui se place après
+kim et na. || Lat. num.
+; -------------------------------
+**************************************
+Interrog.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>9682<pc>359,1<k1>nAma<k2>nAma
+nAma¦ nāma indéc. du nom, nommé: rājā nalo nāma un roi
+nommé Nala . || Interrog. : ko nāma qui? nanu nāma est-ce
+que..ne?
+; -------------------------------
+**************************************
+irrég.  tip="NEW" ? (# instances = 3) 
+**************************************
+Case 1 of 3: <L>12475<pc>463,2<k1>baMhizWa<k2>baMhizWa
+baMhizWa¦ baṃhiṣṭha sup. irrég. de bahu ou bahula.
+; -------------------------------
+Case 2 of 3: <L>15294<pc>586,1<k1>viC<k2>*viC
+*viC¦ vich. vicchāyāmi 6 [ irrég. ]; p. viviccha; etc.
+Aller; s'approcher.
+; -------------------------------
+Case 3 of 3: <L>15804<pc>603,2<k1>vivyAsa<k2>vivyAsa
+vivyAsa¦ vivyāsa p. irrég. de vyasyāmi.
+; -------------------------------
+**************************************
+isl.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>19469<pc>747,1<k1>svid<k2>*svid
+svetsyāmi; a2. asvidam; pp. svinna. Suer. || Gr. ἱδρώς ;
+lat. sudare; germ. schwizzen; angl. sweat; isl. sviti; etc.
+
+; -------------------------------
+**************************************
+island.  tip="NEW" ? (# instances = 3) 
+**************************************
+Case 1 of 3: <L>4984<pc>179,1<k1>kf<k2>*kf
+ϰραίνω, ϰράτος , etc. Κρόνος (?) ; ancien germ. karawam,
+préparer; irland. caraim, island. gerdh, action; osq.
+cerus.
+; -------------------------------
+Case 2 of 3: <L>6000<pc>222,1<k1>gfha<k2>gfha
+gfha¦ gṛha m. n. maison, habitation. || Au pl. m. épouse.
+|| Germ. (?) kirche; island. kyrkia; angl. church.
+; -------------------------------
+Case 3 of 3: <L>6758<pc>250,2<k1>cUz<k2>*cUz
+Sucer: lehyañ coṣyañ ca peyañca ce qu'on peut lécher, sucer
+et boire. || Lat. sugere, succus; germ. saugen; island.
+siuga.
+; -------------------------------
+**************************************
+jurisp.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>16354<pc>626,1<k1>vyasyAmi<k2>vyasyAmi
+vyastapada n. accusation ou défense sans précision, t. de
+jurisp.
+; -------------------------------
+**************************************
+jurispr.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>12786<pc>478,1<k1>BUta<k2>BUta
+vivant; || élément [les éléments sont: la terre, l'eau,
+l'air, le feu et l'éther ou ākāśa ]. || Le fait, t. de
+jurispr. || Gr. φυτόν .
+; -------------------------------
+**************************************
+kilog.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>12651<pc>471,2<k1>Bara<k2>Bara
+-- S. n. poids, fardeau. -- S. m. poids de 2000 pala s
+[environ 150 kilog. ]. Gr. βάρος .
+; -------------------------------
+**************************************
+mold.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>15845<pc>605,1<k1>viSpati<k2>viSpati
+viSpati¦ viśpati m. (pati) Vd. seigneur du peuple, prince;
+|| ép. d' Agni . || Lith. wiesz-patis; mold. hospodar, etc.
+; gr. δεσπότης (?) .
+; -------------------------------
+**************************************
+moy  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>9665<pc>358,1<k1>nAT<k2>*nAT
+*nAT¦ nāth nāthāmi 1; p. nanātha; etc. Prier, supplier qqn.
+|| Demander qqc. [au moy ]. || Etre le maître. || Qqf. être
+malade, Vd. ; || vexer; || consumer.
+; -------------------------------
+**************************************
+méd.  tip="NEW" ? (# instances = 18) 
+**************************************
+Case 1 of 18: <L>261<pc>013,1<k1>aRqa<k2>aRqa
+aRqa¦ aṇḍa n. œuf. || testis, scrotum, sperma, t. de méd.
+|| le sac du musc.
+; -------------------------------
+Case 2 of 18: <L>261<pc>013,1<k1>aRqa<k2>aRqa
+aṇḍaka m. testis, t. de méd.
+; -------------------------------
+Case 3 of 18: <L>310<pc>014,2<k1>atiroga<k2>atiroga
+atiroga¦ atiroga m. consomption, phthisie, t. de méd.
+; -------------------------------
+Case 4 of 18: <L>2033<pc>068,1<k1>AkzipAmi<k2>AkzipAmi
+ākṣepaka m. accusateur, calomniateur. || Prostration;
+maladie. || Flatuosité, vents, t. de méd.
+; -------------------------------
+Case 5 of 18: <L>2924<pc>100,1<k1>udara<k2>udara
+udarī f. enflure du ventre, t. de méd.
+; -------------------------------
+Case 6 of 18: <L>2924<pc>100,1<k1>udara<k2>udara
+udaragranthi m. (granthi) affection chronique de
+l'abdomen, le spleen des Anglais, t. de méd.
+; -------------------------------
+Case 7 of 18: <L>3945<pc>139,1<k1>kandasaYjYa<k2>kandasaYjYa
+kandasaYjYa¦ kandasañjña n. ménorrhagie ou prolapsus, t. de
+méd.
+; -------------------------------
+Case 8 of 18: <L>4365<pc>156,1<k1>kAmAri<k2>kAmAri
+kAmAri¦ kāmāri m. (ari ennemi) drogue antiaphrodisiaque, t.
+de méd.
+; -------------------------------
+Case 9 of 18: <L>4827<pc>173,1<k1>kuraRqa<k2>kuraRqa
+kuraRqa¦ kuraṇḍa m. hydrocèle, hernie inguinale, et
+généralt. toute tumeur dans cette partie du corps, t. de
+méd.
+; -------------------------------
+Case 10 of 18: <L>4970<pc>178,2<k1>kUrca<k2>kUrca
+kūrcaśīrṣa m. le jīvaka , un des 8 principaux médicaments,
+t. de méd.
+; -------------------------------
+Case 11 of 18: <L>9805<pc>363,1<k1>nidrA<k2>nidrA
+nidrāsañjanana n. (sam; jan au c. ) phlegme, humeur
+somnolente, t. de méd.
+; -------------------------------
+Case 12 of 18: <L>10387<pc>383,2<k1>paYca<k2>paYca
+pañcamūla n. les cinq racines, t. de méd.
+; -------------------------------
+Case 13 of 18: <L>10648<pc>395,1<k1>pariBAze<k2>pariBAze
+paribāṣā f. accord, engagement. || Règle sommaire, tg. ||
+Pronostic, t. de méd.
+; -------------------------------
+Case 14 of 18: <L>11240<pc>418,2<k1>puzpa<k2>puzpa
+puṣpapatha m. (pathin) canal des menstrues, t. de méd.
+; -------------------------------
+Case 15 of 18: <L>11262<pc>420,2<k1>pUrayAmi<k2>pUrayAmi
+Sorte de gâteau. -- S. f. pūraṇī la trame. || Cotonnier
+[bombax]. -- S. m. pont, chaussée. || Fomentation, t. de
+méd.
+; -------------------------------
+Case 16 of 18: <L>11831<pc>439,2<k1>pradara<k2>pradara
+pradara¦ pradara m. (dṝ) déchirure, fracture; ||
+ménorrhagie, t. de méd. || Flèche, cf. pradala.
+; -------------------------------
+Case 17 of 18: <L>15048<pc>577,2<k1>vAyu<k2>vAyu
+vāyuvāhinī f. vaisseau aérien [artère] t. de méd.
+; -------------------------------
+Case 18 of 18: <L>16884<pc>651,2<k1>Sukra<k2>Sukra
+jyeṣṭha. -- N. la semence virile. || Maladie de l'iris, t.
+de méd. || Une des 21 virāṭs de la gāyatrī .
+; -------------------------------
+**************************************
+N. E.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>11841<pc>439,2<k1>pradiS<k2>pradiS
+pradiS¦ pradiś f. (diś f. ) point intermédiaire [entre les
+diśas ou points cardinaux]. Au pl. les 4 points du N. O. ,
+N. E. , S. O. , S. E.
+; -------------------------------
+**************************************
+N. O.  tip="NEW" ? (# instances = 6) 
+**************************************
+Case 1 of 6: <L>11841<pc>439,2<k1>pradiS<k2>pradiS
+pradiS¦ pradiś f. (diś f. ) point intermédiaire [entre les
+diśas ou points cardinaux]. Au pl. les 4 points du N. O. ,
+N. E. , S. O. , S. E.
+; -------------------------------
+Case 2 of 6: <L>12600<pc>467,2<k1>brahma<k2>brahma
+brahmarṣideśa m. le pays des Brahmarṣi s, contrée au N. et
+au N. O. de Delhi.
+; -------------------------------
+Case 3 of 6: <L>12600<pc>467,2<k1>brahma<k2>brahma
+brahmāvartta n. (ā; vṛt) la Terre-Sainte [au N. O. de
+Delhi, entre la Sarasvatī et la Dṛṣadvatī ].
+; -------------------------------
+Case 4 of 6: <L>12992<pc>488,2<k1>madra<k2>madra
+madra¦ madra m. (mad; sfx. ra) joie. || Np. d'un pays dans
+le N. O. de l'Hindoustan; || np. d'un roi de ce pays. -- F.
+np. de rivière.
+; -------------------------------
+Case 5 of 6: <L>13744<pc>523,2<k1>yavana<k2>yavana
+yavana¦ yavana m. np. de pays au N. O. et à l' O. de
+l'Inde. || Un homme de ce pays (? un Ionien). -- F. yavanī
+femme d'un
+; -------------------------------
+Case 6 of 6: <L>16911<pc>653,1<k1>SuBra<k2>SuBra
+śubhradantī f. l'éléphant femelle du N. O.
+; -------------------------------
+**************************************
+N.-E.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>8940<pc>328,2<k1>dfSad<k2>dfSad
+dṛśadvatī f. ( sfx. vat) np. d'une rivière au N.-E. de
+Delhi, formant la limite orientale de l' Āryāvarta . ||
+Surn. de
+; -------------------------------
+Case 2 of 2: <L>18726<pc>719,2<k1>supratIka<k2>supratIka
+supratIka¦ supratīka a. beau, bien fait. -- S. m. Kāma ;
+Śiva ; l'éléphant du N.-E.
+; -------------------------------
+**************************************
+n.-o.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>7192<pc>266,2<k1>jAla<k2>jAla
+jālandhara m. (dhṛ) np. d'un pays au n.-o. de l'Inde.
+[Lahore, Cachemire, pays des tissus de laine].
+; -------------------------------
+Case 2 of 2: <L>18269<pc>703,2<k1>sahya<k2>sahya
+vigoureux. -- S. n. vigueur; santé. -- S. m. la chaîne de
+montagnes du n.-o. de l'Inde d'où descend la Godāvarī .
+; -------------------------------
+**************************************
+opp.  tip="NEW" ? (# instances = 3) 
+**************************************
+Case 1 of 3: <L>18948<pc>727,1<k1>sUrya<k2>sUrya
+sūryakāla m. le jour [ opp. à la nuit]. [Page727-2]
+; -------------------------------
+Case 2 of 3: <L>19413<pc>744,1<k1>svanusTita<k2>svanusTita
+svanusTita¦ svanusthita a. (su; anu; sthā) de bonne qualité
+[par opp. à viguṇa].
+; -------------------------------
+Case 3 of 3: <L>19621<pc>753,2<k1>hiRqIra<k2>hiRqIra
+hiRqIra¦ hiṇḍīra m. homme [ opp. à femme]; mâle. || Aliment
+stomachique ou tonique. || Os de sèche. || Melongène.
+; -------------------------------
+**************************************
+ordt.  tip="NEW" ? (# instances = 10) 
+**************************************
+Case 1 of 10: <L>7869<pc>290,1<k1>tAmra<k2>tAmra
+tAmra¦ tāmra a. [ f. ī] rougeâtre, de couleur de cuivre. --
+S. m. sorte de lèpre. -- S. f. clepsydre [ ordt. de
+cuivre]. -- S. n. cuivre rouge, rosette. || Couleur
+cuivrée. || Sorte de
+; -------------------------------
+Case 2 of 10: <L>8379<pc>309,2<k1>datta<k2>datta
+datta¦ datta pp. de dā et de de. [A la fin des np. , ce mot
+désigne ordt. des personnes de la 3ᵉ caste.]
+; -------------------------------
+Case 3 of 10: <L>10526<pc>391,1<k1>parikaTA<k2>parikaTA
+parikaTA¦ parikathā f. (kath) histoire ordt. fictive,
+récit, fable, légende.
+; -------------------------------
+Case 4 of 10: <L>11473<pc>428,2<k1>pracyavAmi<k2>pracyavAmi
+pracyavAmi¦ pracyavāmi, pracyave (cyu) tomber en avant; ||
+garbho pracucyuve l'enfant naquit [ ordt. par avortement].
+|| Se détacher, dharmāt de son devoir. || Déchoir,
+; -------------------------------
+Case 5 of 10: <L>11961<pc>443,2<k1>prayAga<k2>prayAga
+ext. le cheval du sacrifice, cf. aśvamedha; || qqf. Indra
+. || Un prayāga ou confluent sacré de deux rivières; ||
+ordt. le confluent du Gange et de la Yamunā , à Allahâbad.
+; -------------------------------
+Case 6 of 10: <L>15995<pc>612,2<k1>vf<k2>*vf
+I. Choisir [ ordt. 9], patim un mari; agniṃ dūtam vṛṇīmahe
+nous choisissons Agni pour messager; || avec l' inf.
+; -------------------------------
+Case 7 of 10: <L>16479<pc>631,1<k1>Sa<k2>Sa
+plusieurs cas. Sa śa répond au ϰ grec, au c et qqf. à l's
+des langues latines, au k, cz, sz lithuanien, et ordt. à
+l'h gothique et germanique.
+; -------------------------------
+Case 8 of 10: <L>16497<pc>632,1<k1>Saktu<k2>Saktu
+Saktu¦ śaktu m. n. [ ordt. au pl. ] Vd. orge; || farine
+d'orge grillée et moulue; || farine, en gén.
+; -------------------------------
+Case 9 of 10: <L>17999<pc>693,1<k1>samprahfzyAmi<k2>samprahfzyAmi
+samprahfzyAmi¦ samprahṛṣyāmi (hṛṣ) se réjouir. || Se
+hérisser [ ordt. de plaisir].
+; -------------------------------
+Case 10 of 10: <L>19680<pc>756,2<k1>hfz<k2>*hfz
+jaharṣa, jahṛṣe; f2. hariṣiṣyāmi, harṣiṣye; a2. ahṛṣam; pp.
+hṛṣita et hrṣṭa. Se hérisser [ ordt. de joie, qqf. de
+terreur, d'étonnement, d'horreur]; se dresser, se
+; -------------------------------
+**************************************
+osq.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>4984<pc>179,1<k1>kf<k2>*kf
+ϰραίνω, ϰράτος , etc. Κρόνος (?) ; ancien germ. karawam,
+préparer; irland. caraim, island. gerdh, action; osq.
+cerus.
+; -------------------------------
+**************************************
+Passivt.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>2158<pc>073,1<k1>Adfta<k2>Adfta
+Adfta¦ ādṛta pp. (dṛ) qui observe, par ex. une loi. --
+Passivt. observé, exécuté; respecté.
+; -------------------------------
+Case 2 of 2: <L>7861<pc>289,2<k1>tApin<k2>tApin
+tApin¦ tāpin a. (tap; sfx. in) brûlant, qui répand de la
+chaleur; || au fig. qui tourmente et consume. || Passivt.
+consumé par le tourment, par les austérités.
+; -------------------------------
+**************************************
+Passt.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>12105<pc>448,2<k1>prasU<k2>prasU
+brāhmaṇī ; || enfanter: sā prasūyate putram elle met au
+monde un fils. || Passt. naître: niṣādāt d'un père niṣāda ,
+śūdrāyām d'une mère śūdrā . || Absolt. avoir
+; -------------------------------
+**************************************
+pps.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>6974<pc>258,1<k1>jajYAnas<k2>jajYAnas
+jajYAnas¦ jajñānas ( pps. de jan 4) né.
+; -------------------------------
+**************************************
+prâkrit  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>4637<pc>165,2<k1>kIdfS<k2>kIdfS
+(kas a. et dṛś, M§ 133) quel? || Gr. πηλίϰος ; lat. qualis
+[ prâkrit kerisa]; goth. hwêleiks; germ. welcher; slav.
+kolik.
+; -------------------------------
+Case 2 of 2: <L>7659<pc>283,1<k1>tatsama<k2>tatsama
+tatsama¦ tatsama a. semblable à celui-ci; || analogue, en
+gén. -- S. n. nom d'un dialecte analogue au sanscrit et au
+prâkrit , tg.
+; -------------------------------
+**************************************
+prépos.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>15469<pc>592,2<k1>vinA<k2>vinA
+vinA¦ vinā ( prépos. ) sans, i. ou ac.
+; -------------------------------
+**************************************
+Qpf.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>15909<pc>608,2<k1>visarga<k2>visarga
+producteur des êtres. || Le visarga ou aspiration douce,
+tg. || La partie méridionale de l'orbite solaire. || Qpf.
+émission de lumière, éclat.
+; -------------------------------
+**************************************
+qqn  tip="NEW" ? (# instances = 11) 
+**************************************
+Case 1 of 11: <L>676<pc>025,1<k1>anuBAzAmi<k2>anuBAzAmi
+anuBAzAmi¦ anubhāṣāmi 1, (bhāṣ) dire après qqn ; être du
+même avis. || Confesser, avouer.
+; -------------------------------
+Case 2 of 11: <L>680<pc>025,1<k1>anumata<k2>anumata
+anumanye 4, (man) penser après ou d'après qqn ;
+s'accorder; || consentir, approuver; || excuser;
+anumanyasva mām
+; -------------------------------
+Case 3 of 11: <L>682<pc>025,1<k1>anumaraRa<k2>anumaraRa
+anumaraRa¦ anumaraṇa n. (mṛ) action de mourir après qqn ;
+la mort volontaire des veuves.
+; -------------------------------
+Case 4 of 11: <L>689<pc>025,2<k1>anurakta<k2>anurakta
+anurakta¦ anurakta pp. (rañj) attaché à qqn ; dévoué à;
+livré à; 1. ac. ou i.
+; -------------------------------
+Case 5 of 11: <L>690<pc>025,2<k1>anurajyAmi<k2>anurajyAmi
+anurañjayāmi c. s'attacher qqn ; se le rendre dévoué.
+; -------------------------------
+Case 6 of 11: <L>705<pc>026,1<k1>anuvadAmi<k2>anuvadAmi
+anuvadAmi¦ anuvadāmi 1, (vad) dire d'après qqn ; répéter en
+imitant; || contrefaire.
+; -------------------------------
+Case 7 of 11: <L>705<pc>026,1<k1>anuvadAmi<k2>anuvadAmi
+anuvāda m. répétition ou exécution des paroles de qqn ; ||
+contrefaçon injurieuse.
+; -------------------------------
+Case 8 of 11: <L>3109<pc>107,1<k1>upatizWAmi<k2>upatizWAmi
+upatizWAmi¦ upatiṣṭhāmi et upatiṣṭhe 1, (sthā) se tenir
+auprès, ac. || Aborder qqn ; l'entourer, lui faire cortège.
+|| Approcher une femme. || Au fig. assister, aider de
+; -------------------------------
+Case 9 of 11: <L>5385<pc>197,1<k1>kziti<k2>kziti
+kṣitivardhana m. (vṛdh) corps. -- N. action de jeter qqn à
+terre: tvāṃ karomi kṣitivardhanam je te fais mordre la
+; -------------------------------
+Case 10 of 11: <L>5781<pc>213,2<k1>garh<k2>*garh
+pouvoir souffrir: duṣkṛtam une méchante action. ||
+Mépriser, dédaigner qqn ou qqc. || Cf. galh.
+; -------------------------------
+Case 11 of 11: <L>10066<pc>371,2<k1>nivartAmi<k2>nivartAmi
+nivartayāmi ( c. de vṛt). Faire revenir, exciter à
+revenir. || Ramener. || Faire que qqn s'abstienne, renonce
+ou refuse; || empêcher, retenir: cikīrṣum qqn. qui désire
+faire; ||
+; -------------------------------
+**************************************
+qqs  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>5895<pc>217,2<k1>gIta<k2>gIta
+gIta¦ gīta ( pp. de gai), chanté. -- S. n. chant, hymne,
+poëme. -- S. f. gītā nom de qqs chants particuliers,
+surtout de la Bhagavad-gītā .
+; -------------------------------
+**************************************
+qqs.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>5693<pc>209,1<k1>gaRqa<k2>gaRqa
+frontal de l'éléphant; cf. kaṭa. || rhinocéros; || héros [à
+la fin de qqs. composés]; || personnages inférieurs de
+certaines représentations scéniques. -- Marque, tache; ||
+clou, furoncle; cf.
+; -------------------------------
+**************************************
+rac.  tip="NEW" ? (# instances = 9) 
+**************************************
+Case 1 of 9: <L>5943<pc>219,2<k1>gup<k2>*gup
+*gup¦ gup. [ rac. douteuse; cf. gopa]. gopāyāmi 10; p.
+jugopa; f1. goptāsmi,
+; -------------------------------
+Case 2 of 9: <L>5986<pc>221,2<k1>gf<k2>*gf
+*gf¦ gṛ. rac. de jāgṛ veiller.
+; -------------------------------
+Case 3 of 9: <L>6279<pc>233,1<k1>GfRR<k2>*GfRR
+*GfRR¦ ghṛṇṇ. ghṛṇṇe 1; etc. Prendre, saisir; cf. ghuṇṇ,
+ghṇṇ. [Cette rac. paraît être une altération de gṛh].
+; -------------------------------
+Case 4 of 9: <L>6656<pc>247,2<k1>ciri<k2>*ciri
+*ciri¦ ciri. ciriṇomi 5. Frapper, blesser, tuer. [Cette
+rac. paraît être un développement d'une rac. monosyl. en ṛ
+ou en i] cf. jiri.
+; -------------------------------
+Case 5 of 9: <L>6656<pc>247,2<k1>ciri<k2>*ciri
+*ciri¦ ciri. ciriṇomi 5. Frapper, blesser, tuer. [Cette
+rac. paraît être un développement d'une rac. monosyl. en ṛ
+ou en i] cf. jiri.
+; -------------------------------
+Case 6 of 9: <L>8317<pc>306,1<k1>trE<k2>*trE
+père de l'enfer; || sauver, préserver: bhayāt de la
+terreur. [Cette rac. paraît venir de tṝ.]
+; -------------------------------
+Case 7 of 9: <L>8362<pc>308,2<k1>TuD<k2>*TuD
+*TuD¦ thudh. thudhyāmi 4 [cette rac. paraît être une
+mauvaise orthog. de SuD śudh.]
+; -------------------------------
+Case 8 of 9: <L>9541<pc>353,1<k1>naD<k2>naD
+naD¦ nadh autre forme de la rac. nah.
+; -------------------------------
+Case 9 of 9: <L>18911<pc>725,2<k1>sUc<k2>*sUc
+*sUc¦ sūc. sūcayāmi 10. Révéler, indiquer, dévoiler, faire
+savoir. [Cette rac. est composée de su, vac; cf. sūkta].
+; -------------------------------
+**************************************
+rhétor.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>12136<pc>449,2<k1>prahasAmi<k2>prahasAmi
+prahasana n. éclat de rire; || gaîté. || moquerie; ||
+ironie, t. de rhétor.
+; -------------------------------
+Case 2 of 2: <L>16293<pc>624,1<k1>vyatireka<k2>vyatireka
+vyatireka¦ vyatireka m. (vi; ati; ric) différence,
+distinction. || L'analogie incomplète [figure de rhétor. ].
+; -------------------------------
+**************************************
+S. E.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>11841<pc>439,2<k1>pradiS<k2>pradiS
+diśas ou points cardinaux]. Au pl. les 4 points du N. O. ,
+N. E. , S. O. , S. E.
+; -------------------------------
+**************************************
+S. O.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>11841<pc>439,2<k1>pradiS<k2>pradiS
+diśas ou points cardinaux]. Au pl. les 4 points du N. O. ,
+N. E. , S. O. , S. E.
+; -------------------------------
+Case 2 of 2: <L>15390<pc>589,2<k1>vidarBa<k2>vidarBa
+vidarBa¦ vidarbha m. [et f. ā] ville et district au S. O.
+du Bengale, répondant à peu près au Bérar. -- M. sol aride,
+; -------------------------------
+**************************************
+scandin.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>1457<pc>049,2<k1>arya<k2>arya
+Ἀριάδνη , etc. ; goth. êra; germ. ehre, Ehrmann
+[Arminius]; angl. Ireland; scandin. les Ases; etc. -- F.
+aryā et aryī.
+; -------------------------------
+**************************************
+sf.  tip="NEW" ? (# instances = 5) 
+**************************************
+Case 1 of 5: <L>152<pc>010,1<k1>aNgAra<k2>aNgAra
+aṅgārikā f. ( sf. ikā) bourgeon ou bouton du kiṃśuka. --
+Aṅgārita n. mms.
+; -------------------------------
+Case 2 of 5: <L>3059<pc>105,1<k1>unmAdyAmi<k2>unmAdyAmi
+unmādavat a. ( sf. vat) qui est comme un fou; qui a l'air
+de déraisonner ou d'être ivre.
+; -------------------------------
+Case 3 of 5: <L>4559<pc>162,2<k1>kAhala<k2>kAhala
+kAhala¦ kāhala a. (kā; ah aller; sf. ala) qui s'étend au
+loin, large, très-grand.
+; -------------------------------
+Case 4 of 5: <L>5894<pc>217,2<k1>gizRa<k2>gizRa
+gizRa¦ giṣṇa m. (gai; sf. sna) chanteur. || Chantre du
+Sāmaveda .
+; -------------------------------
+Case 5 of 5: <L>5974<pc>221,1<k1>gUTa<k2>gUTa
+gUTa¦ gūtha m. ( sf. tha) excrément, ordure.
+; -------------------------------
+**************************************
+Sf.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>5284<pc>193,1<k1>kroDa<k2>kroDa
+krodhana a. ( sfx. ana) irascible, emporté. -- Sf. femme
+querelleuse, mégère.
+; -------------------------------
+**************************************
+Signif.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>1513<pc>051,2<k1>av<k2>*av
+āviṣam; 2p. imp. vd. aviddhi et ava. Défendre, protéger;
+conserver. || Aimer, désirer. Lat. aveo. -- Signif. rares:
+aller, aller vers; entrer. Demander; atteindre, acquérir;
+saisir,
+; -------------------------------
+**************************************
+slav. anc.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>19254<pc>738,2<k1>snuzA<k2>snuzA
+snuzA¦ snuṣā f. (sūnu; sfx. sā) belle-fille, bru. ||
+Euphorbe. || Germ. anc. snura; slav. anc. snocha; lat.
+nurus; gr.
+; -------------------------------
+**************************************
+Sur.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>7562<pc>279,1<k1>qa<k2>qa
+qa¦ ḍa m. son, bruit; || sorte de tambour. || Feu sous les
+eaux. || Peur. || Sur. de Śiva . -- F. ḍā mms. que ḍalaka.
+; -------------------------------
+**************************************
+suéd.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>5934<pc>219,1<k1>guD<k2>*guD
+gudhitvā; etc. Couvrir, voiler; || vêtir; revêtir. || Gr.
+ϰεύθω ; lat. cutis; germ. haut; angl. hide; suéd. hud.
+; -------------------------------
+Case 2 of 2: <L>6022<pc>223,1<k1>go<k2>go
+cardinal. || Gr. βοῦς ; lat. bos; angl. cow; dan. kœ; suéd.
+ko; germ. kuh.
+; -------------------------------
+**************************************
+synon.  tip="NEW" ? (# instances = 2) 
+**************************************
+Case 1 of 2: <L>5077<pc>185,2<k1>keSa<k2>keSa
+keSa¦ keśa m. (ka tête; śī?) chevelure. || Sorte de parfum.
+|| Surnom de Viṣṇu et de Varuṇa ; || np. synon. de keśin.
+; -------------------------------
+Case 2 of 2: <L>6999<pc>259,1<k1>jana<k2>jana
+tasmin jane à moi. || Au pl. et même au sg. les hommes, le
+monde. || Un pauvre homme, un malheureux. || Qqf. synon. de
+janaloka. || À la fin des compos. troupe, foule. -- F.
+; -------------------------------
+**************************************
+VÊD.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>9290<pc>343,1<k1>DA<k2>*DA
+{@ VÊD. @} Act. pr. dhāmi 1. {@ Imp. @} 2p. sg. dhā,
+daddhi et dhiṣva; 3p. dhātu; 2p. pl. dadhāta et
+; -------------------------------
+**************************************
+vêdiq.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>1079<pc>037,1<k1>aBidruhyAmi<k2>aBidruhyAmi
+aBidruhyAmi¦ abhidruhyāmi 4, (druh) nuire; blesser,
+heurter. -- A2. , vêdiq. abhidruham. -- Pp. abhidrugdha.
+; -------------------------------
+**************************************
+Z.  tip="NEW" ? (# instances = 1) 
+**************************************
+Case 1 of 1: <L>19422<pc>744,2<k1>svar<k2>svar
+|| Beauté, éclat. || svar fait partie de la formule
+mystique bhūr bhuvas svar. || Z. hware [le soleil]; lat.
+sol; gr. ? σέλας , ? οὐρανός
+; -------------------------------
