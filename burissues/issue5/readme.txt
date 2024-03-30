@@ -305,21 +305,12 @@ cp temp_bur_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt
 
 cp  burab_input_4.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bur/pywork/burab/burab_input.txt
 
------------------
-# check local installation of displays
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh bur  ../../bur
-sh xmlchk_xampp.sh bur
-# ok
 
 -----------------
 # sync csl-pywork to Github
 
 cd /c/xampp/htdocs/cologne/csl-pywork
 git add .
-git commit -m "Revise burab_input.txt.
-Ref: https://github.com/sanskrit-lexicon/BUR/issues/5"
-
 git commit -m "Revise burab_input.txt.
 Ref: https://github.com/sanskrit-lexicon/BUR/issues/5"
 
@@ -338,5 +329,218 @@ git push
 # update cologne server
 pull csl-pywork and csl-orig
 make bur displays in csl-pywork/v02
+
+====================================================================
+burab_input_4.txt was reviewed by Odile.  Apply her suggestions.
+We'll modify two versions, then reinstall.
+cp burab_input_4.txt burab_input_5.txt
+cp temp_bur_2.txt temp_bur_3.txt
+
+-----------------
+ "suédoise" which should be "suédois"
+ 
+-----------------
+germ. is not "langue allemande"  but "germanique". 
+  Wherever "langue allemande" appears (several times) just replace it
+  by "germanique".
+  7 changes
+  
+-----------------
+"langue anglaise " is incorrect, it should be changed in "anglais"
+2 changes
+(en French we dont normally use language to designate a language,
+ to designate English language we say "anglais"
+ and for an English person, we say,"Anglais";
+ we might use "langue anglaise" in certain rare cases,
+ when we want to emphase the "language" aspect,
+ or more generally to variate the way we speak of English language.)
+
+-----------------
+langue arabe > arabe
+1 change
+
+-----------------
+langue bretonne > breton
+3 change
+
+-----------------
+And for entries "Breton" and "breton.",
+--- they are not in fact abbreviations,
+--- the period in "breton." is in fact a coma,
+  in printing the ink did leak a bit so it seems there is a dot before the coma;
+  anyway you did take out the coma and kept the dot whereas you
+  should have done the opposite/the reverse way/vice versa.
+change temp_bur_3.txt
+- 1. <L>1968<pc>065,1<k1>aham<k2>aham
+OLD:
+<ab>germ.</ab> ich; <ab>breton.</ab> am.
+NEW:
+<ab>germ.</ab> ich; breton, am.
+
+- 2. <L>6547<pc>244,1<k1>cAru<k2>cAru
+OLD:
+<ab>Breton</ab>:<LB>kaer.
+NEW:
+Breton : kaer.<LB>
+Note: keeping a blank line, for generation of change_2_3.txt (see below)
+
+change to burab_input_5:  Remove these two lines:
+Breton	<id>Breton</id> <disp>breton</disp> <count>1</count>
+breton.	<id>breton.</id> <disp>breton</disp> <count>1</count>
+
+-----------------
+"langue de Crète" > "crétois, grec crétois"
+1 change 
+
+-----------------
+langue du Danemark > danois
+1 change
+
+-----------------
+langue dorienne > dorien
+1 change
+
+-----------------
+langue islandaise > islandais
+2 changes
+
+-----------------
+langue moldave > moldave
+1 change
+
+-----------------
+langue osque > osque
+1 change
+
+-----------------
+"langue prakrit" > "prâkrit, prakrit"
+1 change
+
+-----------------
+langue scandinave > langues scandinaves
+1 change
+
+-----------------
+langue afghane > "pachtoun; dialectes afghans"
+1 change
+
+====================================================================
+I am also sending a file in rtf: burab_input_4_corr.rtf
+  i suppose rtf keeps the color highlighted characters)
+
+-----------------
+highlight in green a line which is missing in your file
+
+--- temp_bur_3.txt
+<L>1447<pc>049,1<k1>arDendu<k2>arDendu
+OLD:
+ quartier de lune, et les
+autres signif. de {%ardhacandra.%}
+NEW:
+ quartier de lune, et les
+autres <ab>signif.</ab> de {%ardhacandra.%}
+
+--- add line to burab_input_5.txt
+odile wrote:
+signif.  <id>signif.</id> <disp>signification</disp> <count>1</count>
+Jim changed to plural:
+signif.  <id>signif.</id> <disp>significations</disp> <count>1</count>
+-----------------
+
+And in red the characters which should be put in small
+  (and not in capital letter; in some cases it doesn't really matter,
+  but still it is better and congruent with the rest of the dictionary,
+  and in certain cases it is compulsory)
+
+23 matches for "<disp>[A-Z]" in buffer: burab_input_5.txt
+
+--- TODO lower-case of first letter in <disp> Here are cases to change
+Ab.	<id>Ab.</id> <disp>Ablatif</disp> <count>1</count>
+Cf.	<id>Cf.</id> <disp>Comparez; Confer</disp> <count>766</count>
+     Here, odile marks only Confer for lower case.
+     Jim changes also Comparez to lower case
+E.	<id>E.</id> <disp>Est</disp> <count>2</count>
+F.	<id>F.</id> <disp>Féminin</disp> <count>947</count>
+Gr.	<id>Gr.</id> <disp>Grec</disp> <count>369</count>
+Irland.	<id>Irland.</id> <disp>Irlandais</disp> <count>7</count>
+M.	<id>M.</id> <disp>Masculin</disp> <count>315</count>
+Mms.	<id>Mms.</id> <disp>même signification</disp> <count>8</count>
+Moy.	<id>Moy.</id> <disp>Moyen</disp> <count>19</count>
+N.	<id>N.</id> <disp>Neutre</disp> <count>386</count>
+Pp.	<id>Pp.</id> <disp>Participe passé</disp> <count>282</count>
+Pr.	<id>Pr.</id> <disp>Présent</disp> <count>9</count>
+Signif.	<id>Signif.</id> <disp>significations</disp>
+  NOTE: Here mentions <id>Signif.</id>,  but this 'S' should remain.
+Sur.	<id>Sur.</id> <disp>Surnom</disp> <count>1</count>
+Surn.	<id>Surn.</id> <disp>Surnom</disp> <count>92</count>
+Z.	<id>Z.</id> <disp>Zend</disp> <count>1</count>
+
+--------------------
+after these changes, there remain 10 tips starting with Capital letter.
+10 matches for "<disp>[A-Z]" in buffer: burab_input_5.txt
+A.	<id>A.</id> <disp>Adjectif</disp> <count>37</count>
+Ab.	<id>Ab.</id> <disp>Ablatif</disp> <count>1</count>
+Ac.	<id>Ac.</id> <disp>Accusatif</disp> <count>25</count>
+Ancien germ.	<id>Ancien germ.</id> <disp>Ancien germanique</disp> <count>1</count>
+Esp.	<id>Esp.</id> <disp>Espèce</disp> <count>232</count>
+G.	<id>G.</id> <disp>Génitif</disp> <count>3</count>
+Mms.	<id>Mms.</id> <disp>Même signification</disp> <count>8</count>
+Np.	<id>Np.</id> <disp>Nom propre</disp> <count>351</count>
+P.	<id>P.</id> <disp>Parfait</disp> <count>6</count>
+Vd.	<id>Vd.</id> <disp>Véda, védique</disp> <count>1129</count>
+
+Jim lower-cased the <disp> tooltip in these 10 cases in burab_input_5.txt
+
+----------------------------------
+Changes made. Finish up with installations of the two revised files
+# Generate change_bur_2_3.txt
+python diff_to_changes_dict.py temp_bur_2.txt temp_bur_3.txt change_bur_2_3.txt
+4 changes written to change_bur_2_3.txt
+
+Installation of burab_input_5.txt and temp_bur_3.txt
+
+cp temp_bur_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/bur/bur.txt 
+cp burab_input_5.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bur/pywork/burab/burab_input.txt
+
+-----------------
+# check local installation of displays
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bur  ../../bur
+sh xmlchk_xampp.sh bur
+# ok
+
+-----------------
+# sync csl-pywork to Github
+
+cd /c/xampp/htdocs/cologne/csl-pywork
+git add .
+git commit -m "More revision of burab_input.txt.
+Ref: https://github.com/sanskrit-lexicon/BUR/issues/5"
+
+git push
+
+-----------------
+# sync csl-orig to Github
+
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "more bur update related to <ab> markup;
+Ref: https://github.com/sanskrit-lexicon/BUR/issues/5"
+
+git push
+
+-----------------
+# update cologne server
+pull csl-pywork and csl-orig
+make bur displays in csl-pywork/v02
+
+-----------------
+sync this repo to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/burissues/issue5
+git add .
+git commit -m "Further revision of burab and bur.txt #5"
+git push
+
 ====================================================================
 THE END
+

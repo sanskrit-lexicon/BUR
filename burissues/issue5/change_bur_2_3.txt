@@ -1,0 +1,20 @@
+; <L>1447<pc>049,1<k1>arDendu<k2>arDendu
+8393 old autres signif. de {%ardhacandra.%}
+;
+8393 new autres <ab>signif.</ab> de {%ardhacandra.%}
+;---------------------------------------------------
+; <L>1968<pc>065,1<k1>aham<k2>aham
+11395 old <lang n="greek">ἐγὼν, ἐγώ</lang>; <ab>germ.</ab> ich; <ab>breton.</ab> am.
+;
+11395 new <lang n="greek">ἐγὼν, ἐγώ</lang>; <ab>germ.</ab> ich; breton, am.
+;---------------------------------------------------
+; <L>6547<pc>244,1<k1>cAru<k2>cAru
+42319 old beau, élégant, gracieux. || <ab>S.</ab> <ab>m.</ab> <ab>surn.</ab> de <s1 slp1="bfhaspati">Bṛhaspati</s1>. || <ab>Breton</ab>:
+;
+42319 new beau, élégant, gracieux. || <ab>S.</ab> <ab>m.</ab> <ab>surn.</ab> de <s1 slp1="bfhaspati">Bṛhaspati</s1>. || Breton : kaer.
+;---------------------------------------------------
+; <L>6547<pc>244,1<k1>cAru<k2>cAru
+42320 old kaer.
+;
+42320 new 
+;---------------------------------------------------
