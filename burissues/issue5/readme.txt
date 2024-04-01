@@ -542,5 +542,65 @@ git commit -m "Further revision of burab and bur.txt #5"
 git push
 
 ====================================================================
+04-01-2024 A couple of additional changes per Odile
+
+cp burab_input_5.txt burab_input_6.txt
+
+-----------------
+Odile:
+old:
+Vd.      <id>Vd.</id> <disp>véda, védique</disp> <count>1129</count>
+correct
+Vd.      <id>Vd.</id> <disp>Véda, védique</disp> <count>1129</count>
+
+(when we speak of Veda texts (textes védiques), we write Véda (like we would write "la Bible" -the Bible)
+Jim: Make this change in burab_input_6.txt
+
+-----------------
+Odile:
+O.        <id>O.</id> <disp>optatif</disp> <count>4</count>
+which in fact should be
+O.        <id>O.</id> <disp>ouest</disp> <count>4</count>
+(I checked the 4 occurences)
+
+Jim: Confirmed.  Make this change in burab_input_6.txt
+
+-----------------
+That's all the changes for now.
+Finish up with installations of burab_input_6.txt
+
+cp burab_input_6.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/bur/pywork/burab/burab_input.txt
+
+-----------------
+# check local installation of displays
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh bur  ../../bur
+sh xmlchk_xampp.sh bur
+# ok
+
+-----------------
+# sync csl-pywork to Github
+
+cd /c/xampp/htdocs/cologne/csl-pywork
+git add .
+git commit -m "Minot revision of burab_input.txt.
+Ref: https://github.com/sanskrit-lexicon/BUR/issues/5"
+
+git push
+
+-----------------
+# update cologne server
+pull csl-pywork 
+make bur displays in csl-pywork/v02
+
+-----------------
+# sync this repo to Github
+cd /c/xampp/htdocs/sanskrit-lexicon/bur/burissues/issue5
+git add .
+git commit -m "Further revision of burab and bur.txt #5"
+git push
+
+
+====================================================================
 THE END
 
