@@ -1,0 +1,55 @@
+### Location
+
+Counterpart of https://github.com/sanskrit-lexicon/PWG/issues/175 (PWG) and https://github.com/sanskrit-lexicon/PWK/issues/113 (PWK) for `bur.txt`.
+
+I ran the same two-job recipe over `csl-orig/v02/bur/bur.txt`: auto-fix the few things with a single safe resolution; audit everything else with line refs. Added `08_markup_fix.py` plus outputs to a new `burissues/markup_fix/` folder on the branch `markup-fix-audit`.
+
+@funderburkjim @Andhrabharati — please review the findings listed below.
+
+## Markup fixer + audit for `bur.txt`
+
+### What it auto-fixes
+
+| Pattern | Result |
+|---|---|
+| `<ab><ab>X</ab> Y</ab>` | `<ab>X Y</ab>` |
+| `<ab> word </ab>` | `<ab>word</ab>` |
+| `<s1> word </s1>` | `<s1>word</s1>` |
+| `<lang> word </lang>` | `<lang>word</lang>` |
+
+Whitespace trimming applies to all 3 paired tag(s) in `bur.txt`: `<ab>`, `<s1>`, `<lang>`. The original file is never modified — output goes to `bur_fixed.txt`, with the full diff in `markup_fix_changes.txt` (updateByLine format). 1 line(s) changed.
+
+### Closing-tag inventory in current `bur.txt`
+
+| Tag | Count |
+|---|---:|
+| `</ab>` | 65 |
+| `</461)>` | ? |
+| `</s1>` | 5 |
+| `</596)>` | ? |
+| `</lang>` | 670 |
+
+### What it found in current `bur.txt`
+
+- 1 whitespace trim applied: leading space in one `<lang>` tag.
+- 6,464 within-line adjacent `</ab> <ab>` pairs for verification.
+- 22 within-line `<ab n="…">` non-standard expansion matches — French descriptive words ("personne" ×4, "ordinairement" ×4, "gramme" ×4, etc.). Likely intentional; decide whether to standardise.
+- 0 correction records.
+
+### Usage
+
+```
+cd burissues/markup_fix
+python 08_markup_fix.py                        # uses csl-orig/v02/bur/bur.txt by default
+python 08_markup_fix.py IN.txt OUT.txt         # custom paths
+```
+
+Outputs: `bur_fixed.txt`, `markup_fix_changes.txt`, `markup_audit.txt`.
+
+### Summary
+
+French dictionary; <ab n> uses French descriptive words.
+
+### Severity
+
+`minor`
