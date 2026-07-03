@@ -1,0 +1,7 @@
+; markup_fix log for bur.txt
+; nested: 0
+; whitespace: 1
+; changed: 1
+;
+68267 old <lang n="greek"> ὄθομαι</lang>.
+68267 new <lang n="greek">ὄθομαι</lang>.
