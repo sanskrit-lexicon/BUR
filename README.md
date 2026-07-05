@@ -1,5 +1,7 @@
 # BUR — Burnouf *Dictionnaire classique sanscrit-français*
 
+_Created: 09-04-2020 · Last updated: 05-07-2026_
+
 Development and correction repository for **Émile Burnouf's *Dictionnaire classique sanscrit-français* (1866)**, a Sanskrit→French dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bur/bur.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bur/bur.txt) (19,776 entries); this repository holds the development, correction, and enrichment work (Greek-text insertion, verb identification, per-issue corrections).
 
 ## Documentation
@@ -17,6 +19,28 @@ Development and correction repository for **Émile Burnouf's *Dictionnaire class
 | `burissues/` | Per-issue working files (issue3, issue4, issue5) |
 | `CITATION.cff` | Machine-readable citation metadata |
 | `DATA_DICTIONARY.md` | Markup tag reference |
+
+## Usage example
+
+A real entry from [`csl-orig/v02/bur/bur.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bur/bur.txt) — line 60, the "akarRa" entry:
+
+```
+60:{#akarRa#}¦ {%akarṇa%} <ab>a.</ab> sourd, <ab>m à m.</ab> sans oreille.
+```
+
+To correct the French gloss (e.g. `sourd` → `sourde`, an agreement fix), write a paired-line change file and apply it with `updateByLine.py`:
+
+```
+; issueNNN: fix adjective agreement in "akarRa" gloss
+60 old {#akarRa#}¦ {%akarṇa%} <ab>a.</ab> sourd, <ab>m à m.</ab> sans oreille.
+60 new {#akarRa#}¦ {%akarṇa%} <ab>a.</ab> sourde, <ab>m à m.</ab> sans oreille.
+```
+
+```sh
+python updateByLine.py bur.txt change_60.txt bur_corrected.txt
+```
+
+(Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious agreement fix is invented to demonstrate the change-file mechanics.)
 
 ## Timeline
 
@@ -136,3 +160,5 @@ flowchart LR
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
