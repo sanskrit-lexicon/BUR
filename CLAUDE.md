@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **BUR** is the development and correction repository for **Émile Burnouf's *Dictionnaire classique sanscrit-français* (1866)**, a Sanskrit→French dictionary, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/bur/bur.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bur/bur.txt) (19,776 entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/bur/bur.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bur/bur.txt) (19,776 entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: Greek-text insertion, verb identification, and per-issue working files.
 
 ## Architecture
