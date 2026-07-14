@@ -1,24 +1,24 @@
 # BUR — Burnouf *Dictionnaire classique sanscrit-français*
 
-_Created: 09-04-2020 · Last updated: 05-07-2026_
+_Created: 09-04-2020 · Last updated: 11-07-2026_
 
 Development and correction repository for **Émile Burnouf's *Dictionnaire classique sanscrit-français* (1866)**, a Sanskrit→French dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bur/bur.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bur/bur.txt) (19,776 entries); this repository holds the development, correction, and enrichment work (Greek-text insertion, verb identification, per-issue corrections).
 
 ## Documentation
 
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/BUR/blob/master/CLAUDE.md) — repository guide and data-format reference.
+- [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/BUR/blob/master/DATA_DICTIONARY.md) — markup tag reference.
+- [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/BUR/blob/master/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/BUR/blob/master/CODE_OF_CONDUCT.md)
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `greek/` | Greek-text insertion pipeline (`prep1.py`, `digentry.py`, `proof.py`, `updateByLine.py`, proofing data) |
-| `verbs01/` | Verb-identification: maps Burnouf verb entries to roots, with Devanāgarī renderings |
-| `burissues/` | Per-issue working files (issue3, issue4, issue5) |
-| `CITATION.cff` | Machine-readable citation metadata |
-| `DATA_DICTIONARY.md` | Markup tag reference |
+| [`greek/`](https://github.com/sanskrit-lexicon/BUR/tree/master/greek) | Greek-text insertion pipeline (`prep1.py`, `digentry.py`, `proof.py`, `updateByLine.py`, proofing data) |
+| [`verbs01/`](https://github.com/sanskrit-lexicon/BUR/tree/master/verbs01) | Verb-identification: maps Burnouf verb entries to roots, with Devanāgarī renderings |
+| [`burissues/`](https://github.com/sanskrit-lexicon/BUR/tree/master/burissues) | Per-issue working files (issue3, issue4, issue5) |
+| [`CITATION.cff`](https://github.com/sanskrit-lexicon/BUR/blob/master/CITATION.cff) | Machine-readable citation metadata |
+| [`DATA_DICTIONARY.md`](https://github.com/sanskrit-lexicon/BUR/blob/master/DATA_DICTIONARY.md) | Markup tag reference |
 
 ## Usage example
 
@@ -40,7 +40,7 @@ To correct the French gloss (e.g. `sourd` → `sourde`, an agreement fix), write
 python updateByLine.py bur.txt change_60.txt bur_corrected.txt
 ```
 
-(Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious agreement fix is invented to demonstrate the change-file mechanics.)
+(Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious agreement fix is invented to demonstrate the change-file mechanics.) For the full paired-line change-file format, `updateByLine.py` invocation, and every gotcha (BOM, `<LEND>`, CRLF, line-count mismatch), see the canonical [correction-workflow doc](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
 ## Timeline
 
@@ -123,7 +123,7 @@ pie showData
 | Contributor | Commits |
 |---|---|
 | funderburkjim | 19 |
-| Mārcis Gasūns | 8 |
+| Mārcis Gasūns | 13 |
 | AnnaRybakovaT | 3 |
 
 ## Source
@@ -135,7 +135,7 @@ pie showData
 - **Language pair**: Sanskrit → French
 - **Entries (digital edition)**: 19,776
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/BUR/blob/master/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 
