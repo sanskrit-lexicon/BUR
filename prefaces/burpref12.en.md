@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_776_Image_0001.png
 source_page: Suffixes Sanscrits, 4
@@ -104,3 +106,5 @@ translation_of: burpref12.md
 **mra**, **mya**, pour *mara*, *maya* : *dhûmra*, *dhûmyâ*.
 
 य **ya** sfx. of the passive participle expressing obligation, necessity or mere possibility : *kârya* to be done, feasible (*kṛ*). || Sfx. d'a. *vanya* (*vana*) of the woods, *gavya* (*gó*) of an ox. || S. m. *âmnâya* (*â*; *mnâ*) thing that must be remembered. || S. n. abstract quality; *asurya* n. quality of an *asura*.
+
+_Dr. Mārcis Gasūns_

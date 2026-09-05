@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_792_Image_0001.png
 source_page: Racines Sanscrites, 14
@@ -74,3 +76,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **लिह्** *lih* lécher.
 
 **लुह्** *luh* désirer, cf. *lubh rabh*.
+
+_Dr. Mārcis Gasūns_

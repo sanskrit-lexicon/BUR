@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_783_Image_0001.png
 source_page: Racines Sanscrites, 5
@@ -78,3 +80,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 वृत् **vṛt** choisir (*vṛ*).
 
 स्वित् **swit*, *çwid*, être blanc.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_773_Image_0001.png
 source_page: Suffixes Sanscrits, 1
@@ -58,3 +60,5 @@ The other simple suffixes, formed of a consonant and a vowel, are distinguished 
 **akâlu** (*aka*, *âlu*) m. *ćampakâlu* tree for …
 
 *(continued p. 10)*
+
+_Dr. Mārcis Gasūns_

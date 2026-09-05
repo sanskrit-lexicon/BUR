@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: burpref27.md
@@ -76,3 +78,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **लिह्** *lih* лизать.
 
 **लुह्** *luh* желать, ср. *lubh rabh*.
+
+_Dr. Mārcis Gasūns_

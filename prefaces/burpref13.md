@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_777_Image_0001.png
 source_page: Suffixes Sanscrits, 5
@@ -72,3 +74,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 Il faut ajouter à cette liste une classe particulière de suffixes qui font partie des flexions grammaticales et dont l'étude est l'objet propre des grammaires analytiques.
+
+_Dr. Mārcis Gasūns_

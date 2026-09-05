@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_016_Image_0001.png
 source_page: Préface, 4
@@ -18,3 +20,5 @@ Mais le lecteur ne doit pas ignorer que la publication de ce Dictionnaire eût �
 Nancy, 1 mai 1865.
 
 Em. Burnouf.
+
+_Dr. Mārcis Gasūns_

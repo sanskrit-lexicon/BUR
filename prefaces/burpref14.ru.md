@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_779_Image_0001.png
 source_page: Racines Sanscrites, 1
@@ -89,3 +91,5 @@ translation_of: burpref14.md
 ह्री **hrî** (*hrić*) стыдиться.
 
 उ कु **u**, *ku*, *kû*, звучать, кричать; || *knu*, *knú*, звучать, кричать; *xu* чихать; || *ku* звучать; *kyâ*, *hwé* звать; || *gu*, *gú* звучать; *gâ*, *gæ*, *gṛ* петь; *kæ* каркать; || *ru* кричать, *ræ* лаять; || *swṛ* звучать. || *nu*, *nû*, *stu*, хвалить [иногда греметь]; *styæ*, *śîyæ*, кричать.
+
+_Dr. Mārcis Gasūns_

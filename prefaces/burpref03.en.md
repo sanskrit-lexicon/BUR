@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_014_Image_0001.png
 source_page: Préface, 2
@@ -18,3 +20,5 @@ Alphabetical order is followed in this work. There are in fact two kinds of Dict
 In each article one may present the meanings according to their order of chronological succession, and thus make a historical dictionary of the language. In the present state of Oriental studies, we believe that a work of this kind is almost impossible for Sanskrit. But as most Sanskrit words have their root in the language itself, one can almost always, starting from the etymology, classify the various senses of a word in their order of logical derivation. This is what we have tried to do whenever it has proved possible.
 
 We give the *theme* of declinable words, and we assume that the reader knows the declensions. As for the feminine
+
+_Dr. Mārcis Gasūns_

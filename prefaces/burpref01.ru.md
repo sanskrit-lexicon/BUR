@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_011_Image_0001.png
 source_page: Title
@@ -31,3 +33,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 ПАРИЖ
 [неразборчиво — строка издателя и год смыты / обрезаны на этом скане]
+
+_Dr. Mārcis Gasūns_

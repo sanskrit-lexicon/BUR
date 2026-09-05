@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_790_Image_0001.png
 source_page: Racines Sanscrites, 12
@@ -92,3 +94,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **तक्ष्** *tax twax jaṣ ṛṣ ūṣ* prendre, couvrir.
 
 **तुष्** *tuṣ tūṣ* se réjouir.
+
+_Dr. Mārcis Gasūns_

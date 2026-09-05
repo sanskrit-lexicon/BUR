@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_789_Image_0001.png
 source_page: Racines Sanscrites, 11
@@ -90,3 +92,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **बिल्** *bil bhil [bhid]* fendre.
 
 **बुल्** *bul* plonger, submerger.
+
+_Dr. Mārcis Gasūns_

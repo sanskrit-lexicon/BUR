@@ -1,6 +1,8 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — русский
 
-Per-page files: `burprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `burprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BUR/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -2085,3 +2087,5 @@ One must add to this list a special cwearys of suffixes that form part of gramma
 КОНЕЦ.
 
 ॐ
+
+_Dr. Mārcis Gasūns_

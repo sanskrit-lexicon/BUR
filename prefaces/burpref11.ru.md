@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_775_Image_0001.png
 source_page: Suffixes Sanscrits, 3
@@ -136,3 +138,5 @@ translation_of: burpref11.md
 **tavya** (*tu*, *ya*) a. *paṇitavya* (*paṇ*) dirtyable, *bhavitavya* (*bhû*) будущий.
 
 **tavyatâ** (*tavya*, *tâ*) f. abstract du précé-
+
+_Dr. Mārcis Gasūns_

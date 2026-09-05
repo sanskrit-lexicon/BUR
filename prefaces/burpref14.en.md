@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_779_Image_0001.png
 source_page: Racines Sanscrites, 1
@@ -89,3 +91,5 @@ AND THEIR PRINCIPAL ANALOGIES.
 ह्री **hrî** (*hrić*) to be ashamed.
 
 उ कु **u**, *ku*, *kû*, to resound, to cry; || *knu*, *knú*, to resound, to cry; *xu* to sneeze; || *ku* to resound; *kyâ*, *hwé* to call; || *gu*, *gú* to resound; *gâ*, *gæ*, *gṛ* to sing; *kæ* to croak; || *ru* to cry, *ræ* to bark; || *swṛ* to resound. || *nu*, *nû*, *stu*, to praise [sometimes to thunder]; *styæ*, *śîyæ*, to cry.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_785_Image_0001.png
 source_page: Racines Sanscrites, 7
@@ -104,3 +106,5 @@ translation_of: burpref20.md
 हट् **haṭ** to shine.
 
 कण्ठ् **kaṇṭh** to regret, cf. *kâyx*.
+
+_Dr. Mārcis Gasūns_

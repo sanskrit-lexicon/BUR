@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_779_Image_0001.png
 source_page: Racines Sanscrites, 1
@@ -87,3 +89,5 @@ ET LEURS PRINCIPALES ANALOGIES.
 ह्री **hrî** (*hrić*) avoir honte.
 
 उ कु **u**, *ku*, *kû*, résonner, crier; || *knu*, *knú*, résonner, crier; *xu* éternuer; || *ku* résonner; *kyâ*, *hwé* appeler; || *gu*, *gú* résonner; *gâ*, *gæ*, *gṛ* chanter; *kæ* croasser; || *ru* crier, *ræ* aboyer; || *swṛ* résonner. || *nu*, *nû*, *stu*, louer [qqf. tonner]; *styæ*, *śîyæ*, crier.
+
+_Dr. Mārcis Gasūns_

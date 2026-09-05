@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 language: en
 translation_of: burpref22.md
@@ -91,3 +93,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **उभ्** *ubh umbh* to fill.
 
 **गल्भ्** *galbh karv kharv garv xibh xiv ćibh bibh çibh* to be drunk (with pride).
+
+_Dr. Mārcis Gasūns_

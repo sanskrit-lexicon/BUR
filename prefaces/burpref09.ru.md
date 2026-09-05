@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_773_Image_0001.png
 source_page: Suffixes Sanscrits, 1
@@ -58,3 +60,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **akâlu** (*aka*, *âlu*) m. *ćampakâlu* дерево для …
 
 *(продолжение на с. 10)*
+
+_Dr. Mārcis Gasūns_

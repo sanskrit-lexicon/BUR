@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_017_Image_0001.png
 source_page: Tableau de Transcription, 1
@@ -44,3 +46,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 *(правый столбец — лигатуры с k, kh, g, gh, ṅ, …)*
 
 Полный перечень конъюнктов по системе Бюрнуфа/Нанси (*ktva, kna, knya, kma, kya, kra* и серии для *ḱ, g, ǵ, ṅ, ć, j, ñ, ṭ, ṭ́, ḍ* …) — см. французский оригинал. Транскрипция и деванагари оставлены как в печати.
+
+_Dr. Mārcis Gasūns_

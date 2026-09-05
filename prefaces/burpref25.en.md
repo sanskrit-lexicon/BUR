@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 language: en
 translation_of: burpref25.md
@@ -94,3 +96,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **तक्ष्** *tax twax jaṣ ṛṣ ūṣ* to take, to cover.
 
 **तुष्** *tuṣ tūṣ* to rejoice.
+
+_Dr. Mārcis Gasūns_

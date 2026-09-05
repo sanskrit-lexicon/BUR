@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_014_Image_0001.png
 source_page: Préface, 2
@@ -16,3 +18,5 @@ L'ordre alphabétique est suivi dans cet ouvrage. Il y a en effet deux sortes de
 Dans chaque article on peut présenter les significations selon leur ordre de succession chronologique, et faire de la sorte un dictionnaire historique de la langue. Dans l'état présent des études orientales, nous croyons qu'un travail de ce genre est à peu près impossible pour le sanscrit. Mais comme la plupart des mots sanscrits ont leur racine dans la langue même, on peut presque toujours, en partant de l'étymologie, classer les divers sens d'un mot dans leur ordre de dérivation logique. C'est ce que nous avons essayé de faire chaque fois que cela s'est trouvé possible.
 
 Nous donnons le *thème* des mots déclinables, et nous supposons que le lecteur connaît les déclinaisons. Quant au féminin
+
+_Dr. Mārcis Gasūns_

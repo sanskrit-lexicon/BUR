@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_786_Image_0001.png
 source_page: Racines Sanscrites, 8
@@ -98,3 +100,5 @@ translation_of: burpref21.md
 **वेण्** *veṇ (vén)* to go (*vi, i*) [know, desire, praise, etc.
 
 **व्रण्** *vraṇ* to wound.
+
+_Dr. Mārcis Gasūns_

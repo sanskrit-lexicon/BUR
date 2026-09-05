@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_786_Image_0001.png
 source_page: Racines Sanscrites, 8
@@ -96,3 +98,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **वेण्** *veṇ (vén)* aller (*vi, i*) [connaître, désirer, louer, etc.
 
 **व्रण्** *vraṇ* blesser.
+
+_Dr. Mārcis Gasūns_

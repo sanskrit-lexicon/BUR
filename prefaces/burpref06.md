@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_017_Image_0001.png
 source_page: Tableau de Transcription, 1
@@ -67,3 +69,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ठ *ṭ́*  ; ठ्म ठ्य — *ṭ́ma ṭ́ya*
 
 ड *ḍ*  … *(suite p. 07)*
+
+_Dr. Mārcis Gasūns_

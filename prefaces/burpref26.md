@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_791_Image_0001.png
 source_page: Racines Sanscrites, 13
@@ -110,3 +112,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **वास्** *vās* colorer, rendre odorant.
 
 98
+
+_Dr. Mārcis Gasūns_

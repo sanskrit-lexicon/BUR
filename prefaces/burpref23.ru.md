@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 language: ru
 translation_of: burpref23.md
@@ -94,3 +96,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **अह्र्** *ahr* идти, блуждать; || *vahr bahr mahr* идти; || *swahr* идти (ломать, быть жалким).
 
 **कत्र्** *katr gātr khart kartr* ослаблять, развязывать.
+
+_Dr. Mārcis Gasūns_

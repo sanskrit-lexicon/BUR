@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 language: en
 translation_of: burpref24.md
@@ -92,3 +94,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **बिल्** *bil bhil [bhid]* to split.
 
 **बुल्** *bul* to dive, to submerge.
+
+_Dr. Mārcis Gasūns_

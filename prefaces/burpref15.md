@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_780_Image_0001.png
 source_page: Racines Sanscrites, 2
@@ -100,3 +102,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ध्रै **dhræ** être rassasié.
 
 ज्यो **jyó** (*jyav*) arranger; offrir comme vœu.
+
+_Dr. Mārcis Gasūns_

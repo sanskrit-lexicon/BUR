@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_785_Image_0001.png
 source_page: Racines Sanscrites, 7
@@ -102,3 +104,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 हट् **haṭ** briller.
 
 कण्ठ् **kaṇṭh** regretter, cf. *kâyx*.
+
+_Dr. Mārcis Gasūns_

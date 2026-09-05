@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_782_Image_0001.png
 source_page: Racines Sanscrites, 4
@@ -78,3 +80,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 अर्ज् **arj* *sarj* faire.
 
 उब्ज् **ubj** rendre droit.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_019_Image_0001.png
 source_page: Signes et Abbreviations
@@ -57,3 +59,5 @@ La double barre verticale ‖ sépare les sens d'un même mot.
 Après un mot principal écrit en dêvanâgari, nous rangeons ceux de ses dérivés et de ses composés qui se trouveraient placés immédiatement après lui dans l'ordre alphabétique. Les autres dérivés ou composés, que cet ordre écarterait du voisinage immédiat du mot principal, sont rangés à leur place naturelle. De sorte que l'ordre alphabétique est partout suivi.
 
 **Nota.** Dans les mots sanscrits imprimés en italique, nous n'employons jamais de majuscules, même pour les noms propres, parce que l'écriture indienne n'en admet pas.
+
+_Dr. Mārcis Gasūns_

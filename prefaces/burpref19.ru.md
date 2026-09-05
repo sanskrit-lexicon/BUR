@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_784_Image_0001.png
 source_page: Racines Sanscrites, 6
@@ -108,3 +110,5 @@ translation_of: burpref19.md
 क्षुध् **xudh** голодать.
 
 गाध् **gâdh** упорствовать.
+
+_Dr. Mārcis Gasūns_

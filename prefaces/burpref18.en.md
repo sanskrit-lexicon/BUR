@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_783_Image_0001.png
 source_page: Racines Sanscrites, 5
@@ -80,3 +82,5 @@ translation_of: burpref18.md
 वृत् **vṛt** to choose (*vṛ*).
 
 स्वित् **swit*, *çwid*, to be white.
+
+_Dr. Mārcis Gasūns_

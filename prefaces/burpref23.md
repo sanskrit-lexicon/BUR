@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_788_Image_0001.png
 source_page: Racines Sanscrites, 10
@@ -92,3 +94,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **अह्र्** *ahr* aller, errer; || *vahr bahr mahr* aller; || *swahr* aller (briser, être misérable).
 
 **कत्र्** *katr gātr khart kartr* relâcher, délier.
+
+_Dr. Mārcis Gasūns_

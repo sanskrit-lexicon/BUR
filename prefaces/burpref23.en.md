@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 language: en
 translation_of: burpref23.md
@@ -94,3 +96,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **अह्र्** *ahr* to go, to wander; || *vahr bahr mahr* to go; || *swahr* to go (to break, to be miserable).
 
 **कत्र्** *katr gātr khart kartr* to loosen, to untie.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_019_Image_0001.png
 source_page: Signes et Abbreviations
@@ -57,3 +59,5 @@ The double vertical bar ‖ separates the senses of the same word.
 After a principal word written in Devanāgarī, we place those of its derivatives and compounds that would stand immediately after it in alphabetical order. Other derivatives or compounds, which that order would remove from the immediate neighbourhood of the principal word, are placed in their natural position. So that alphabetical order is followed throughout.
 
 **Note.** In Sanskrit words printed in italic, we never employ capitals, even for proper names, because Indian writing does not admit them.
+
+_Dr. Mārcis Gasūns_

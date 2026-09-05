@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_018_Image_0001.png
 source_page: Tableau de Transcription, 2
@@ -30,3 +32,5 @@ Dependent vowels (mātrās):
 | १ | २ | ३ | ४ | ५ | ६ | ७ | ८ | ९ | ० |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
+
+_Dr. Mārcis Gasūns_

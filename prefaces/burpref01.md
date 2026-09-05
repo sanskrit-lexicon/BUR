@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_011_Image_0001.png
 source_page: Title
@@ -29,3 +31,5 @@ MEMBRE DE L'ACADÉMIE DE STANISLAS
 
 PARIS
 [illegible — publisher line and year washed out / cut on this scan]
+
+_Dr. Mārcis Gasūns_

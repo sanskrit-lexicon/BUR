@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_017_Image_0001.png
 source_page: Tableau de Transcription, 1
@@ -44,3 +46,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 *(right column — ligatures with k, kh, g, gh, ṅ, …)*
 
 See the French source for the full Burnouf/Nancy inventory of conjuncts (*ktva, kna, knya, kma, kya, kra, krya, kla, kva, kṣa*, and the series for *ḱ, g, ǵ, ṅ, ć, j, ñ, ṭ, ṭ́, ḍ*, …). Transcription and Devanāgarī are left verbatim as printed.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_016_Image_0001.png
 source_page: Préface, 4
@@ -20,3 +22,5 @@ But the reader must not be unaware that the publication of this Dictionary would
 Nancy, 1 May 1865.
 
 Em. Burnouf.
+
+_Dr. Mārcis Gasūns_

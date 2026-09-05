@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_782_Image_0001.png
 source_page: Racines Sanscrites, 4
@@ -80,3 +82,5 @@ translation_of: burpref17.md
 अर्ज् **arj* *sarj* to do/make.
 
 उब्ज् **ubj** to make straight.
+
+_Dr. Mārcis Gasūns_

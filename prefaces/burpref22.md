@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_787_Image_0001.png
 source_page: Racines Sanscrites, 9
@@ -89,3 +91,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **उभ्** *ubh umbh* emplir.
 
 **गल्भ्** *galbh karv kharv garv xibh xiv ćibh bibh çibh* être ivre (d'orgueil).
+
+_Dr. Mārcis Gasūns_

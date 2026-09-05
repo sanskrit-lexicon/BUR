@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_015_Image_0001.png
 source_page: Préface, 3
@@ -18,3 +20,5 @@ Compound verbs stand at their alphabetical place, as in all ordinary dictionarie
 In every philological study it is necessary to be able to recognize the elements of words; they never rise to more than five: the prefix, the root, the suffix, the grammatical flexion and the euphonic or linking letters. Thus in *prākṛtena* one finds the two prefixes *pra* and *ā* contracted, the root *kṛ*, the suffix *ta* and the flexion *eṇa* where the *n* is modified by the influence of *ṛ*. Now the prefixes and the roots are given in their alphabetical order; grammar treats of the flexions and of euphony. There remain the suffixes: a complete list of them will be found at the end of this volume.
 
 It is followed by a list of the roots classified according to their final letter and their principal analogies. The groups they form make it possible to follow them in their various transformations. This work can be pushed further than we have wished to do; it would greatly reduce the number of primordial roots to which one would arrive by studying them in the other Aryan languages.
+
+_Dr. Mārcis Gasūns_

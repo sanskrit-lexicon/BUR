@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_015_Image_0001.png
 source_page: Préface, 3
@@ -16,3 +18,5 @@ Les verbes composés sont à leur rang alphabétique, comme dans tous les dictio
 Dans toute étude philologique, il est nécessaire de pouvoir reconnaître les éléments des mots; ils ne s'élèvent jamais à plus de cinq : le préfixe, la racine, le suffixe, la flexion grammaticale et les lettres euphoniques ou de liaison. Ainsi dans *prâkṛtêṇa* on trouve les deux préfixes *pra* et *â* contractés, la racine *kṛ*, le suffixe *ta* et la flexion *êṇa* où l'*n* est modifiée par l'influence de *ṛ*. Or les préfixes et les racines sont donnés à leur ordre alphabétique; la grammaire traite des flexions et de l'euphonie. Restent les suffixes : on en trouvera à la fin de ce volume une liste complète.
 
 Elle est suivie d'une liste des racines classées d'après leur lettre finale et leurs principales analogies. Les groupes qu'elles composent permettent de les suivre dans leurs diverses transformations. Ce travail peut être poussé plus loin que nous n'avons voulu le faire; il réduirait de beaucoup le nombre des racines primordiales auxquelles on aboutirait en les étudiant dans les autres langues âryennes.
+
+_Dr. Mārcis Gasūns_

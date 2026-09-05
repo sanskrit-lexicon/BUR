@@ -1,6 +1,8 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 # Front matter — French (source)
 
-Per-page files: `burprefNN.md`. Index: [README.md](README.md).
+Per-page files: `burprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BUR/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -2144,3 +2146,5 @@ ET LEURS PRINCIPALES ANALOGIES.
 FIN.
 
 ॐ
+
+_Dr. Mārcis Gasūns_

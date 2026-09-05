@@ -1,3 +1,5 @@
+_Created: 18-08-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bur_Page_776_Image_0001.png
 source_page: Suffixes Sanscrits, 4
@@ -102,3 +104,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **mra**, **mya**, pour *mara*, *maya* : *dhûmra*, *dhûmyâ*.
 
 य **ya** sfx. du pf. ps. exprimant obligation, nécessité ou simple possibilité : *kârya* à faire, faisable (*kṛ*). || Sfx. d'a. *vanya* (*vana*) des bois, *gavya* (*gó*) de bœuf. || S. m. *âmnâya* (*â*; *mnâ*) chose dont il faut se souvenir. || S. n. qualité abstraite; *asurya* n. qualité d'*asura*.
+
+_Dr. Mārcis Gasūns_
