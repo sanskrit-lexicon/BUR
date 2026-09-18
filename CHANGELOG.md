@@ -5,6 +5,12 @@ _Created: 30-05-2026 · Last updated: 05-09-2026_
 All notable changes to the BUR repository's metadata and documentation are recorded here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 The dictionary source text itself is maintained canonically in `csl-orig`.
 
+## [Unreleased]
+
+### Added
+
+- Added a root `AGENTS.md` agent-entrypoint stub (H4634): names itself the agent entrypoint, links [CLAUDE.md](CLAUDE.md), points at the [Uprava org standard](https://github.com/gasyoun/Uprava/blob/main/AGENTS.md).
+
 ## [1.0.0] - 2026-06-13
 
 ### Changed
