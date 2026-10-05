@@ -1,5 +1,7 @@
 # BUR — Burnouf *Dictionnaire classique sanscrit-français*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151309.svg)](https://doi.org/10.5281/zenodo.23151309)
+
 _Created: 09-04-2020 · Last updated: 11-07-2026_
 
 Development and correction repository for **Émile Burnouf's *Dictionnaire classique sanscrit-français* (1866)**, a Sanskrit→French dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bur/bur.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/bur/bur.txt) (19,776 entries); this repository holds the development, correction, and enrichment work (Greek-text insertion, verb identification, per-issue corrections).
